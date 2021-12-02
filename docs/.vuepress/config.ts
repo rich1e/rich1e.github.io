@@ -1,14 +1,15 @@
 /*
  * @Author: gongyuqi
  * @Date: 2021-11-19 15:47:15
- * @LastEditTime: 2021-11-19 16:35:56
+ * @LastEditTime: 2021-12-02 10:18:55
  * @LastEditors: gongyuqi
  * @Descripttion:
- * @FilePath: \vuepress\docs\.vuepress\config.ts
+ * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
 import type { ViteBundlerOptions } from "@vuepress/bundler-vite";
+import path from "path";
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   lang: "en-US",
@@ -17,6 +18,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 
   port: 3388,
   open: true,
+
+  alias: {
+    "@images": path.resolve(__dirname, "./public/images"),
+  },
 
   // 在使用 vuepress-vite 包的时候，你可以忽略这个字段，因为 Vite 是默认打包工具
   bundler: "@vuepress/bundler-vite",
