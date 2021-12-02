@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="145.361 209.711 202 99.197" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="145.361 209.711 202 70.831" xmlns="http://www.w3.org/2000/svg">
   <rect x="0" y="0" width="4" height="100" transform="matrix(1, 0, 0, 0.708309, 145.360821, 209.710751)"/>
   <rect x="6" y="0" width="2" height="100" transform="matrix(1, 0, 0, 0.708309, 145.360821, 209.710751)"/>
   <rect x="12" y="0" width="2" height="100" transform="matrix(1, 0, 0, 0.708309, 145.360821, 209.710751)"/>
@@ -28,5 +28,4 @@
   <rect x="186" y="0" width="6" height="100" transform="matrix(1, 0, 0, 0.708309, 145.360821, 209.710751)"/>
   <rect x="194" y="0" width="2" height="100" transform="matrix(1, 0, 0, 0.708309, 145.360821, 209.710751)"/>
   <rect x="198" y="0" width="4" height="100" transform="matrix(1, 0, 0, 0.708309, 145.360821, 209.710751)"/>
-  <text style="font: 20px monospace;" text-anchor="middle" x="101" y="122" transform="matrix(1, 0, 0, 1.091754, 145.360821, 170.084158)">rich1e</text>
 </svg>
