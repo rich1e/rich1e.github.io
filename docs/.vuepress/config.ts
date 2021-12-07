@@ -1,9 +1,8 @@
 /*
  * @Author: gongyuqi
- * @Date: 2021-11-19 15:47:15
- * @LastEditTime: 2021-12-02 10:57:20
+ * @Date: 2021-11-30 12:23:38
  * @LastEditors: gongyuqi
- * @Descripttion:
+ * @LastEditTime: 2021-12-07 23:27:29
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -31,7 +30,11 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   },
 
   themeConfig: {
-    logo: "/images/logo/rich1e.svg",
+    // logo: "/images/logo/rich1e.svg",
+    logo: false,
+    sidebar: false,
+    lastUpdated: false,
+    contributors: false,
     /**
      * @see https://v2.vuepress.vuejs.org/zh/reference/default-theme/config.html#navbar
      */
@@ -53,6 +56,5 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
         link: "/traveling/",
       },
     ],
-    sidebar: false,
   },
 });
