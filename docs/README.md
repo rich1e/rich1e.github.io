@@ -1,7 +1,11 @@
 ---
+home: true
+heroText: null
+tagline: null
 title: Rich1e Kung
 date: 2021-11-30
 permalinkPattern: :year/:month/:day/:slug.html
+footer: "MIT Licensed | Copyright © 2021 Rich1e Kung"
 ---
 
 # Rich1e Kung
