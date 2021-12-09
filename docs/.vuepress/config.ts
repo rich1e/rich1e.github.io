@@ -2,13 +2,15 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: gongyuqi
- * @LastEditTime: 2021-12-09 09:09:34
+ * @LastEditTime: 2021-12-09 11:33:03
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
 import type { ViteBundlerOptions } from "@vuepress/bundler-vite";
 import path from "path";
+
+import markdownFootnote from "markdown-it-footnote";
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   lang: "en-US",
@@ -29,9 +31,13 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     // somethings
   },
 
+  extendsMarkdown: (md) => {
+    md.use(markdownFootnote);
+  },
+
   themeConfig: {
     // logo: "/images/logo/rich1e.svg",
-    logo: false,
+    logo: null,
     sidebar: false,
     // lastUpdated: false,
     contributors: false,

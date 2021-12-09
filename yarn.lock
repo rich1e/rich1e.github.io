@@ -2435,6 +2435,11 @@ markdown-it-emoji@^2.0.0:
   resolved "https://registry.npm.taobao.org/markdown-it-emoji/download/markdown-it-emoji-2.0.0.tgz#3164ad4c009efd946e98274f7562ad611089a231"
   integrity sha1-MWStTACe/ZRumCdPdWKtYRCJojE=
 
+markdown-it-footnote@^3.0.3:
+  version "3.0.3"
+  resolved "https://rg.cnpmjs.org/markdown-it-footnote/download/markdown-it-footnote-3.0.3.tgz#e0e4c0d67390a4c5f0c75f73be605c7c190ca4d8"
+  integrity sha1-4OTA1nOQpMXwx19zvmBcfBkMpNg=
+
 markdown-it@^12.2.0:
   version "12.2.0"
   resolved "https://registry.nlark.com/markdown-it/download/markdown-it-12.2.0.tgz?cache=0&sync_timestamp=1627929816808&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fmarkdown-it%2Fdownload%2Fmarkdown-it-12.2.0.tgz#091f720fd5db206f80de7a8d1f1a7035fd0d38db"
