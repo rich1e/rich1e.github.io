@@ -2,7 +2,7 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: gongyuqi
- * @LastEditTime: 2021-12-07 23:27:29
+ * @LastEditTime: 2021-12-09 09:09:34
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -33,7 +33,7 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     // logo: "/images/logo/rich1e.svg",
     logo: false,
     sidebar: false,
-    lastUpdated: false,
+    // lastUpdated: false,
     contributors: false,
     /**
      * @see https://v2.vuepress.vuejs.org/zh/reference/default-theme/config.html#navbar
