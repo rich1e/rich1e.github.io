@@ -11,7 +11,7 @@ permalinkPattern: :year/:month/:day/:slug.html
 ## 创建 Blog
 
 使用 VuePress [^4] 创建 Blog 程序，然后将源码推送到 github。
-使用 GitHub Action 部署 [^3]，Blog 默认地址为：[https://rich1e.github.io](https://rich1e.github.io)
+使用 GitHub Action 部署 [^3] [^7]，Blog 默认地址为：[https://rich1e.github.io](https://rich1e.github.io)
 
 ## 购买域名
 
@@ -77,3 +77,4 @@ Cloudflare 支持简体中文，只要按照操作指引一步步点击，即可
 - [^4]: [VuePress 2.0](https://v2.vuepress.vuejs.org/zh/)
 - [^5]: [cloudflare 使用入门教程，国外最好免费 CDN](https://zhuanlan.zhihu.com/p/82909515)
 - [^6]: [godaddy+cloudflare 实现自定义域名访问+https](https://codingwjl.github.io/2018/03/10/cloudflare-https/)
+- [^7]: [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
