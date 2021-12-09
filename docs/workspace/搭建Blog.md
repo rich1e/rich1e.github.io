@@ -69,12 +69,10 @@ Cloudflare 支持简体中文，只要按照操作指引一步步点击，即可
 
 ![image-20211209004319110](@images/workspace/image-20211209004319110.png)
 
-## 参考
-
-- [^1]: [GitHub Pages 绑定个人域名，免 Cloudflare 支持 HTTPS](https://io-oi.me/tech/custom-domains-on-github-pages/)
-- [^2]: [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
-- [^3]: [VuePress 部署 GitHub Pages](https://v2.vuepress.vuejs.org/zh/guide/deployment.html#github-pages)
-- [^4]: [VuePress 2.0](https://v2.vuepress.vuejs.org/zh/)
-- [^5]: [cloudflare 使用入门教程，国外最好免费 CDN](https://zhuanlan.zhihu.com/p/82909515)
-- [^6]: [godaddy+cloudflare 实现自定义域名访问+https](https://codingwjl.github.io/2018/03/10/cloudflare-https/)
-- [^7]: [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+[^1]: [GitHub Pages 绑定个人域名，免 Cloudflare 支持 HTTPS](https://io-oi.me/tech/custom-domains-on-github-pages/)
+[^2]: [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+[^3]: [VuePress 部署 GitHub Pages](https://v2.vuepress.vuejs.org/zh/guide/deployment.html#github-pages)
+[^4]: [VuePress 2.0](https://v2.vuepress.vuejs.org/zh/)
+[^5]: [cloudflare 使用入门教程，国外最好免费 CDN](https://zhuanlan.zhihu.com/p/82909515)
+[^6]: [godaddy+cloudflare 实现自定义域名访问+https](https://codingwjl.github.io/2018/03/10/cloudflare-https/)
+[^7]: [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
