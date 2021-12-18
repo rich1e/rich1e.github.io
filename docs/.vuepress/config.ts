@@ -35,6 +35,8 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     md.use(markdownFootnote);
   },
 
+  plugins: [],
+
   themeConfig: {
     // logo: "/images/logo/rich1e.svg",
     logo: null,
