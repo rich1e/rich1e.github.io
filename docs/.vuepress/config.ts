@@ -10,7 +10,12 @@ import type { DefaultThemeOptions } from "vuepress";
 import type { ViteBundlerOptions } from "@vuepress/bundler-vite";
 import path from "path";
 
+// markdownPlus
 import markdownFootnote from "markdown-it-footnote";
+
+// Plugins
+
+import VuepressPluginPermalinkPinyin from './plugins/@permalink-pinyin'
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   lang: "en-US",
@@ -35,7 +40,17 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     md.use(markdownFootnote);
   },
 
-  plugins: [],
+  plugins: [
+    [
+      'vuepress-plugin-typescript',
+      {
+        tsLoaderOptions: {
+          // ts-loader 的所有配置项
+        },
+      }
+    ],
+    VuepressPluginPermalinkPinyin 
+  ],
 
   themeConfig: {
     // logo: "/images/logo/rich1e.svg",
