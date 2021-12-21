@@ -53,3 +53,24 @@ rich1e.me.		162	IN	A	3.33.152.147
 ```
 
 ![image-20211208231306790](/Users/yuqigong/OneDrive/mk/workspace.assets/image-20211208231306790.png)
+
+```
+https://github.com/vitejs/vite/tree/main/packages/create-vite
+https://www.pnpm.cn/cli/add
+https://cdmana.com/2021/09/20210911221512902L.html
+https://juejin.cn/post/6979534282649763847#heading-5
+https://juejin.cn/post/6922086052027072520
+https://github.com/umijs/babel-plugin-import/issues/465
+https://www.cnblogs.com/givingwu/p/15223160.html
+https://juejin.cn/post/7012946831877341191
+https://2x.antdv.com/components/layout-cn#components-layout-demo-side
+https://github.com/vueComponent/ant-design-vue/releases/tag/2.2.8
+https://github.com/vuejs/jsx-next/blob/dev/packages/babel-plugin-jsx/README-zh_CN.md
+https://element-plus.gitee.io/zh-CN/guide/quickstart.html#%E7%94%A8%E6%B3%95
+https://github.com/element-plus/element-plus
+https://github.com/antfu/unplugin-vue-components
+https://v3.cn.vuejs.org/api/sfc-script-setup.html#%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6
+https://www.kuxiaoxin.com/archives/71#2%E5%AE%89%E8%A3%85visualizer
+https://juejin.cn/post/7029565332729626631
+https://segmentfault.com/a/1190000040788422
+```
