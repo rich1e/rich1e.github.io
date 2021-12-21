@@ -422,10 +422,10 @@ $env:https_proxy="socks5://127.0.0.1:10808"
 
 [^1]: [Windows Terminal Themes](https://windowsterminalthemes.dev/)
 
-[^2]: [ FiraCode](https://github.com/tonsky/FiraCode)
+[^2]: [FiraCode](https://github.com/tonsky/FiraCode)
 [^3]: [Windows Terminal 主题美化](https://juejin.cn/post/6933384126363877384)
 [^4]: [Oh My Posh](https://ohmyposh.dev/)
-[^5]:[什么是 Windows 终端？](https://docs.microsoft.com/zh-cn/windows/terminal/)
+[^5]: [什么是 Windows 终端？](https://docs.microsoft.com/zh-cn/windows/terminal/)
 [^6]: [新生代 Windows 终端：Windows Terminal 的全面自定义](https://sspai.com/post/59380)
 
 

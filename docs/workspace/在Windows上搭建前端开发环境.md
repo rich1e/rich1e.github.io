@@ -101,13 +101,19 @@ scoop install git
 scoop install -g listary honeyview snipaste everything ditto quicklook carnac
 ```
 
-### git
+### git [^28]
 
 ```shell
 scoop install git
 
+# 设置 name
 git config --global user.name your-name
+# 设置 email
 git config --global user.email your-email
+# 设置初始化时默认分支名称
+git config --global init.defaultBranch main
+# 多平台协作开发，window：false/mac: input
+git config --global core.autocrlf false
 ```
 
 ### nvm
@@ -385,3 +391,4 @@ git config --global core.quotepath false
 [^25]: [将 Powershell 的操作模式设置为Vi/Vim模式](https://www.jianshu.com/p/58a4e5af7cbf)
 [^26]: [Example 6: Use ViModeChangeHandler to display Vi mode changes](https://docs.microsoft.com/en-us/powershell/module/psreadline/set-psreadlineoption?view=powershell-7.2)
 [^27]: [An ability to handle ViModeIndicator](https://github.com/JanDeDobbeleer/oh-my-posh/issues/335)
+[^28]: [跨平台开发时换行符（LF 和 CRLF）带来的问题和解决方案](https://juejin.cn/post/6844904085779382280)
