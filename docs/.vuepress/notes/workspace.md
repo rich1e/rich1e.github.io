@@ -106,3 +106,49 @@ https://juejin.cn/post/7041848992283492382
 https://element-plus.gitee.io/zh-CN/component/menu.html#%E4%BE%A7%E6%A0%8F
 https://github.com/anncwb/anncwb
 ```
+
+```
+$ git remote show origin
+* remote origin
+  Fetch URL: git@github.com:rich1e/vite-antdv-scaffold.git
+  Push  URL: git@github.com:rich1e/vite-antdv-scaffold.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (up to date)
+
+$ git remote show origin
+* remote origin
+  Fetch URL: git@github.com:rich1e/vite-scaffold.git
+  Push  URL: git@github.com:rich1e/vite-scaffold.git
+  HEAD branch: main
+  Remote branch:
+    main new (next fetch will store in remotes/origin)
+  Local ref configured for 'git push':
+    main pushes to main (up to date)
+```
+
+- Gitmoji Commit Workflow 完全指南
+- standard-version
+- gitmoji-changelog
+
+```release
+https://github.com/arvinxx/gitmoji-commit-workflow
+https://github.com/arvinxx/gitmoji-commit-workflow-template
+https://www.yuque.com/arvinxx-fe/workflow/gitmoji-commit-workflow
+https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli
+https://docs.npmjs.com/cli/v8/commands/npm-version
+https://github.com/arvinxx/gitmoji-commit-workflow/tree/064698636f8316532a9d5dbc7b4cbfe6df48ef81/packages/changelog
+https://cnodejs.org/topic/5c0bcaeff3d48d2397c0f446
+https://github.com/conventional-changelog/standard-version
+https://github.com/conventional-changelog/conventional-changelog-config-spec/blob/master/versions/2.1.0/README.md
+https://juejin.cn/post/6844903664994222093
+https://yvonnickfrin.dev/gitmoji-changelog-v2
+https://github.com/frinyvonnick/gitmoji-changelog
+https://docs.gitmoji-changelog.dev/#/?id=workflow
+https://github.com/conventional-changelog/standard-version
+https://github.com/arvinxx/gitmoji-commit-workflow/tree/master/packages/commitlint-plugin#fetch-error
+```
