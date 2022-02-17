@@ -183,3 +183,54 @@ https://juejin.cn/search?query=vue3%20render&utm_source=gold_browser_extension&u
 https://juejin.cn/post/7040031938270199822#heading-9
 https://v3.cn.vuejs.org/guide/class-and-style.html#%E5%AF%B9%E8%B1%A1%E8%AF%AD%E6%B3%95
 ```
+
+```
+https://blog.csdn.net/u011923621/article/details/106671789
+https://github.com/jaywcjlove/git-tips
+https://liuyib.github.io/2020/09/19/add-commits-to-others-pr/
+https://d.cosx.org/d/420363-pr
+https://blog.51cto.com/u_3664660/3215035
+https://blog.csdn.net/vim_wj/article/details/78300239
+https://www.jianshu.com/p/21ce90f2a5b7
+https://juejin.cn/post/7059002064378003469
+https://support.huaweicloud.com/intl/zh-cn/usermanual-codehub/devcloud_hlp_00073.html
+https://blog.sbw.so/u/use-git-credentials-auth-system.html
+http://var.blog.jp/archives/81784650.html
+https://blog.csdn.net/qq_28929579/article/details/105516511
+https://www.cnblogs.com/maycpou/p/11430666.html
+https://joyran.github.io/yi-blog/blog/scrollbar.html
+```
+
+```
+nginx
+
+To use the correct configuration run 'nginx -p "$env:NGINX_HOME"' or 'nginx -p "%NGINX_HOME%"'
+
+tasklist /fi  "imagename eq nginx.exe"
+taskkill /f /pid 11904
+
+
+configure arguments: --with-cc=cl --builddir=objs.msvc8 --with-debug --prefix= --conf-path=conf/nginx.conf --pid-path=logs/nginx.pid --http-log-path=logs/access.log --error-log-path=logs/error.log --sbin-path=nginx.exe --http-client-body-temp-path=temp/client_body_temp --http-proxy-temp-path=temp/proxy_temp --http-fastcgi-temp-path=temp/fastcgi_temp --http-scgi-temp-path=temp/scgi_temp --http-uwsgi-temp-path=temp/uwsgi_temp --with-cc-opt=-DFD_SETSIZE=1024 --with-pcre=objs.msvc8/lib/pcre2-10.39 --with-zlib=objs.msvc8/lib/zlib-1.2.11 --with-http_v2_module --with-http_realip_module --with-http_addition_module --with-http_sub_module --with-http_dav_module --with-http_stub_status_module --with-http_flv_module --with-http_mp4_module --with-http_gunzip_module --with-http_gzip_static_module --with-http_auth_request_module --with-http_random_index_module --with-http_secure_link_module --with-http_slice_module --with-mail --with-stream --with-openssl=objs.msvc8/lib/openssl-1.1.1m --with-openssl-opt='no-asm no-tests -D_WIN32_WINNT=0x0501' --with-http_ssl_module --with-mail_ssl_module --with-stream_ssl_module
+
+wacs
+
+nginx https证书生成 windows
+
+- https://www.jianshu.com/p/d8a8e64be1f5
+- https://segmentfault.com/a/1190000039135687
+- https://blog.51cto.com/u_15127623/3311467
+- https://blog.51cto.com/u_15329153/3370901
+
+
+server {
+        listen          80;
+        server_name     0.0.0.0:80 course.zm-class.com;
+        root            /opt/tars/apps/13901/current;
+        access_log      /opt/nginx_log/13901/course-sass.net_access.log jsonlog;
+        location /sass-ops-h5 {
+          try_files $uri $uri/ /index.html;
+          index  index.html;
+        }
+}
+
+```
