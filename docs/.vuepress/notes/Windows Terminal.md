@@ -95,6 +95,12 @@ $env:http_proxy="socks5://127.0.0.1:10808"
 $env:https_proxy="socks5://127.0.0.1:10808"
 ```
 
+> V2rayN的情况下，右键开启http代理时，http代理的端口是socks+1。比如V2ray的配置文件socks代理是1080，那么默认http代理就是1081。有些软件只能用http代理不能用socks代理，这时就要用到1081这个。否则指向1080端口的话，v2ray就会不停的报错“v2ray.com/core/proxy/socks: unknown Socks version xx”
+
+https://lynxux.github.io/posts/2021-07-01-windows-terminal-proxy/
+https://github.com/v2ray/v2ray-core/issues/382
+https://github.com/2dust/v2rayN/issues/1735
+
 ## SSH
 
 > https://docs.microsoft.com/en-us/windows/terminal/tutorials/ssh

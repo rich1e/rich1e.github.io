@@ -22,3 +22,9 @@ netsh winhttp show proxy
 > https://techdocs.broadcom.com/us/en/symantec-security-software/endpoint-security-and-management/endpoint-security/sescloud/Troubleshooting/configuring-proxy-server-by-using-netsh-command-v129854258-d4155e10265.html
 > https://www.v2ex.com/t/766084
 > https://blog.yowko.com/npm-yarn-proxy/
+
+```
+
+husky - commit-msg hook exited with code 1 (error)
+```
+

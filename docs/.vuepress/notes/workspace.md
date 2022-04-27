@@ -25,31 +25,71 @@ Some of your tasks use `git add` command. Please remove it from the config since
 ```
 
 ```
-# 代码 format
+# äťŁç  format
 ./node_modules/.bin/prettier --config .prettierrc --write ./src/views/workbench/index.vue
 ```
 
 ```
-UI 交互
-输入校验
-错误异常处理
-测试环境部署
-字数限制
-表情字符校验
-https://www.cnblogs.com/front-boy/p/9288907.html
-9*8=72
+fatal: Need to specify how to reconcile divergent branches.
 
 工作、生活、思考、旅游
+https://blog.csdn.net/wq6ylg08/article/details/114106272
+```
+
+```
+[Windows] node.js Error: listen EACCES: permission denied
+
+https://juejin.cn/post/7012177280944472095
+https://bitbox.pixnet.net/blog/post/228899129-%5Bwindows%5D-node.js-error%3A-listen-eacces%3A-permission-denied
+```
+
+```
+Command failed with exit code 1: git commit -m ":sparkles: feat(components(çťäťśç¸ĺł)): ćˇťĺ  GITMOJI_PATH=gitmojis.json" -m "undefined"
+[33m[33mâź[33m Some of your tasks use `git add` command. Please remove it from the config since all modifications made by tasks will be automatically added to the git commit index.
+[39m
+[34mâ[39m No staged files match any configured task.
+error: cannot spawn .husky/commit-msg: No such file or directory
+```
+
+```
+https://element-plus.org/zh-CN/component/button.html#button-%E5%B1%9E%E6%80%A7
+https://juejin.cn/post/7088327754004987940#heading-6
+https://maomincoding.github.io/strvejs-doc/zh/other/#ide-%E6%94%AF%E6%8C%81
+https://juejin.cn/post/7062617190981173278
+https://juejin.cn/post/7056431876688314399
+https://juejin.cn/post/6934911685220106253
+https://tauri.studio/docs/getting-started/setting-up-windows
+https://juejin.cn/post/7089405420909019144
+https://juejin.cn/post/7074062428249522207
+https://juejin.cn/pin/7089232548865245197?utm_source=gold_browser_extension
+https://juejin.cn/post/7063699409703272485#heading-4
 ```
 
 ```shell
-➜  rich1e.me git:(main) dig rich1e.me +nostats +nocomments +nocmd
+###
+ # @Author: rich1e
+ # @Date: 2022-04-11 15:19:11
+ # @LastEditors: rich1e
+ # @LastEditTime: 2022-04-11 16:07:52
+ # @see https://github.com/commitizen/cz-cli/issues/801
+###
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
 
-; <<>> DiG 9.10.6 <<>> rich1e.me +nostats +nocomments +nocmd
-;; global options: +cmd
-;rich1e.me.			IN	A
-rich1e.me.		162	IN	A	15.197.142.173
-rich1e.me.		162	IN	A	3.33.152.147
+exec < /dev/tty && git cz --hook || true
+
+```
+
+```bash
+# https://github.com/sass/node-sass
+# https://juejin.cn/post/7048561284182179870
+# https://stackoverflow.com/questions/61718927/cant-install-node-sass-on-ubuntu-20
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+
+sudo apt update && apt install build-essential
+
+sudo apt install python
 ```
 
 ![image-20211208231306790](/Users/yuqigong/OneDrive/mk/workspace.assets/image-20211208231306790.png)
