@@ -1,6 +1,5 @@
 [TOC]
 
-
 ## Git 修改已提交的邮箱和用户信息
 
 > https://segmentfault.com/q/1010000006999861
@@ -59,8 +58,11 @@ git log --left-right func...master # 左右模式详细显示两个分支提交�
 ## SUPPRESS_HANDLE_INHERITANCE_WARNING
 
 > https://github.com/desktop/desktop/issues/9719
+>
 > https://tieba.baidu.com/p/5598810599
+>
 > https://stackoverflow.com/questions/50093771/git-clone-warning-failed-to-restrict-file-handles
+>
 > https://stackoom.com/question/3dttO
 
 ```
@@ -134,17 +136,19 @@ Windows Registry Editor Version 5.00
 ## Git Rebase
 
 > https://juejin.cn/post/6993233111127425038
+>
 > https://www.zhihu.com/question/61283395/answer/186725319
 
 ## Git Pull --unshallow
 
 > https://cloud.tencent.com/developer/article/1841319?from=15425
 
-[[Git] 使用unshallow來解除grafted狀態，來解決使用depth的問題](https://noiseyou99.medium.com/git-%E4%BD%BF%E7%94%A8unshallow%E4%BE%86%E8%A7%A3%E9%99%A4grafted%E7%8B%80%E6%85%8B-%E4%BE%86%E8%A7%A3%E6%B1%BA%E4%BD%BF%E7%94%A8depth%E7%9A%84%E5%95%8F%E9%A1%8C-6bb9dfbb554c)
+[[Git] 使用 unshallow 來解除 grafted 狀態，來解決使用 depth 的問題](https://noiseyou99.medium.com/git-%E4%BD%BF%E7%94%A8unshallow%E4%BE%86%E8%A7%A3%E9%99%A4grafted%E7%8B%80%E6%85%8B-%E4%BE%86%E8%A7%A3%E6%B1%BA%E4%BD%BF%E7%94%A8depth%E7%9A%84%E5%95%8F%E9%A1%8C-6bb9dfbb554c)
 
 ## Configure Git to use a proxy
 
 > https://gist.github.com/evantoli/f8c23a37eb3558ab8765
+>
 > https://segmentfault.com/a/1190000023674497
 
 ## Git 中文乱码
@@ -156,3 +160,30 @@ Windows Registry Editor Version 5.00
 ```
 git config --global core.autocrlf false
 ```
+
+## git 对比两个分支差异
+
+> https://www.jianshu.com/p/bb97fabb475e
+
+1. 显示出 branch1 和 branch2 中差异的部分
+   git diff branch1 branch2 --stat
+
+1. 显示指定文件的详细差异
+   git diff branch1 branch2 具体文件路径
+
+1. 显示出所有有差异的文件的详细差异
+   git diff branch1 branch2
+
+1. 查看 branch1 分支有，而 branch2 中没有的 log
+   git log branch1 ^branch2
+
+1. 查看 branch2 中比 branch1 中多提交了哪些内容
+   git log branch1..branch2
+   注意，列出来的是两个点后边（此处即 dev）多提交的内容。
+
+1. 不知道谁提交的多谁提交的少，单纯想知道有什么不一样
+   git log branch1...branch2
+
+1. 在上述情况下，在显示出每个提交是在哪个分支上
+   git log -lefg-right branch1...branch2
+   注意 commit 后面的箭头，根据我们在 –left-right branch1…branch2 的顺序，左箭头 < 表示是 branch1 的，右箭头 > 表示是 branch2 的。

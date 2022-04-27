@@ -7,3 +7,7 @@ nvm ls # 列出所有安装的版本
 ## yrm
 
 ## yarn
+
+Nvm use exit status 1 windows
+
+> https://israynotarray.com/other/20220127/999847254/
