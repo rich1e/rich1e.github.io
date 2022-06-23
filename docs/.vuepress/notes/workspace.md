@@ -145,7 +145,7 @@ https://github.com/anncwb/anncwb
 
 ```
 
-- Gitmoji Commit Workflow 
+- Gitmoji Commit Workflow
 - standard-version
 - gitmoji-changelog
 
@@ -228,7 +228,7 @@ configure arguments: --with-cc=cl --builddir=objs.msvc8 --with-debug --prefix= -
 
 wacs
 
-nginx 
+nginx
 
 - https://www.jianshu.com/p/d8a8e64be1f5
 - https://segmentfault.com/a/1190000039135687
@@ -249,7 +249,6 @@ server {
 
 ```
 
-<<<<<<< HEAD
 ```
 基于等比缩放的大屏自适应方案
 https://juejin.cn/post/6966103143402700837
@@ -286,7 +285,6 @@ https://www.forece.net/post/5434.htm
 https://bbs.pediy.com/thread-270534.htm
 https://juejin.cn/post/7052160828069380133
 ```
-=======
 ```powershell
 React
 Vue
@@ -332,4 +330,3 @@ http://confluence.zmops.cc/pages/viewpage.action?pageId=331645002
 
 ```
 
->>>>>>> efb6547 (modify windows by 20220623)
