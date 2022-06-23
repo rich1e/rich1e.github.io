@@ -1,4 +1,4 @@
-# Windows 10下使用 VS Code 远程开发
+# Windows 10下使用 VS Code 远程开发12
 
 [TOC]
 
@@ -43,6 +43,29 @@ localhostForwarding=<bool>
 # `<size>` 必须在后面加上单位，例如 8 GB 或 512 MB
 ```
 
+**文件读写权限配置**
+
+wsl.conf
+
+```shell
+[automount]
+enabled = true
+root = /mnt/
+options = "metadata,umask=22,fmask=111"
+mountFsTab = false
+
+# @see https://segmentfault.com/a/1190000016677670
+
+# 这个文件里还可以添加其他配置项，有兴趣的可以看看上面的链接
+```
+
+参考
+
+https://devblogs.microsoft.com/commandline/chmod-chown-wsl-improvements/
+https://docs.microsoft.com/zh-CN/windows/wsl/wsl-config#per-distribution-configuration-options-with-wslconf
+http://zuyunfei.com/2018/06/15/file-system-configuration-in-wsl/
+https://ridicurious.com/2019/07/25/setup-wsl-launch-configuration-wsl-conf/
+
 **WSL 2 支持 USB**[^5]
 
 - 安装 USBIPD-WIN 项目
@@ -67,11 +90,25 @@ options = "metadata,umask=22,fmask=111"
 mountFsTab = true
 ```
 
-WSL 固定`ip`
+**WSL 固定`ip`**
 
 > https://blog.csdn.net/manbu_cy/article/details/108476859
 > https://www.v2ex.com/t/744955
 > https://blog.csdn.net/u012809062/article/details/118424682
+
+**WSL 重启**
+
+```powershell
+#停止LxssManager服务
+net stop LxssManager  
+ 
+#启动LxssManager服务
+net start LxssManager  
+```
+
+**WSL 安装到其他驱动器**
+
+> https://www.myfreax.com/installing-wsl-manually-on-non-system-drive/
 
 ## Docker
 
@@ -176,6 +213,66 @@ ssh proxycommand配置
 
 v2rayn 配置
 
+```
+plugins=(git docker docker-compose zsh-completions zsh-autosuggestions autojump zsh-syntax-highlighting)
+
+WINDOWS_IP=$(ip route | grep default | awk '{print $3}')
+PROXY_HTTP="http://${WINDOWS_IP}:1083"
+PROXY_SOCKS5="${WINDOWS_IP}:1082"
+
+# Git & SSH for Git proxy
+proxy_git () {
+  git config --global http.https://github.com.proxy ${PROXY_HTTP}
+  if ! grep -qF "Host github.com" ~/.ssh/config ; then
+    echo "Host github.com" >> ~/.ssh/config
+    echo "  User git" >> ~/.ssh/config
+    echo "  ProxyCommand nc -X 5 -x ${PROXY_SOCKS5} %h %p" >> ~/.ssh/config
+  else
+    lino=$(($(awk '/Host github.com/{print NR}'  ~/.ssh/config)+2))
+    sed -i "${lino}c\  ProxyCommand nc -X 5 -x ${PROXY_SOCKS5} %h %p" ~/.ssh/config
+  fi
+}
+
+# NPM for proxy
+proxy_npm () {
+  npm config set proxy ${PROXY_HTTP}
+  npm config set https-proxy ${PROXY_HTTP}
+}
+
+# Set proxy
+set_proxy () {
+  export http_proxy="${PROXY_HTTP}"
+  export https_proxy="${PROXY_HTTP}"
+  proxy_git
+  proxy_npm
+}
+
+# Unset proxy
+unset_proxy () {
+  unset http_proxy
+  unset https_proxy
+  git config --global --unset http.https://github.com.proxy
+}
+
+# Set alias
+alias zshconfig="mate ~/.zshrc"
+alias ohmyzsh="mate ~/.oh-my-zsh"
+alias proxy=set_proxy
+alias unproxy=unset_proxy
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+. /usr/share/autojump/autojump.sh
+
+fpath=(~/.zsh/completion $fpath)
+autoload -U compinit && compinit -i
+
+export PNPM_HOME="/root/.local/share/pnpm"
+export PATH="$PNPM_HOME:$PATH"
+```
+
 
 
 参考：
@@ -233,11 +330,49 @@ nvm install --lts
 [1]: https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl	"Install Node.js on Windows Subsystem for Linux (WSL2)"
 [2]: https://github.com/pyenv/pyenv/issues/1725	"/usr/bin/env: ‘bash\r’"
 
+```
+- 安装wsl2
+- 安装Ubuntu & 更新
+- 安装WT & VSCode & Remote-WSL
+- 配置wsl2（设置默认wsl版本、设置默认Linux版本）
+- 配置Ubuntu（Git、zsh & oh-my-zsh、nvm、pyenv）
+
+
+
+
+
+# WSL2 磁盘问题
+
+https://loesspie.com/2021/01/27/wsl2-compact-disk-win10/
+https://docs.microsoft.com/zh-cn/windows/wsl/case-sensitivity
+https://xie.infoq.cn/article/be33f9e6a3dde85c88cbb24dc
+https://naoketeng.online/?p=104
+https://docs.microsoft.com/zh-cn/windows/wsl/wsl2-mount-disk
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGL1BuLIEfqL4Lu0w52mdN0YO3NLvb3TwAdDLdYK5Nrf yuqigong@outlook.com
+
+
+
+
+chrome://newtab/
+
+```
+
 
 
 ## Remote Dev
 
 > https://code.visualstudio.com/docs/remote/remote-overview
+
+
+
+> https://zhuanlan.zhihu.com/p/375161288
+> https://liberobk.com/2021/02/03/%E6%B8%85%E7%90%86wsl2%E7%9A%84%E7%A3%81%E7%9B%98%E5%8D%A0%E7%94%A8/
+> https://www.cnblogs.com/enrio/p/14222648.html
+> https://nesscurie.github.io/2021/08/10/wsl2%E7%9A%84%E4%BD%BF%E7%94%A8/
+> https://blog.csdn.net/magefreehome/article/details/107885573
+> https://donnadie.top/build-light-linux-env-on-windows/
+> https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands
 
 
 

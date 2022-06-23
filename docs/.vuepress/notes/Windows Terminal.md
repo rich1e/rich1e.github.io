@@ -1,5 +1,9 @@
 # Windows Terminal
 
+[TOC]
+
+
+
 ## 安装 Scoop
 
 ```powershell
@@ -53,6 +57,69 @@ Start-Process powershell -Verb runAs
 > https://blog.csdn.net/qq_30262407/article/details/114921714
 > https://blog.csdn.net/weixin_39858881/article/details/107026065
 
+**官方支持**
+
+官方发布的预览版本支持配置 `elevate`
+
+```json
+{
+    "commandline": "powershell.exe",
+    "font": {
+        "face": "Fira Code"
+    },
+    "guid": "{bc495145-c096-45bc-bc74-701816a94d6d}",
+    "hidden": false,
+    "name": "Windows PowerShell Elevated",
+    "elevate": true
+}
+```
+
+参考
+
+> https://www.cnblogs.com/talentzemin/p/15930400.html
+> https://stackoverflow.com/questions/7690994/running-a-command-as-administrator-using-powershell
+> https://docs.microsoft.com/en-us/windows/terminal/customize-settings/profile-general#automatically-run-as-administrator-preview
+
+**Gsudo**
+
+1. 安装Gsudo
+2. 打开Windows Terminal，配置 `setting.json`
+
+```powershell
+PowerShell -Command "Set-ExecutionPolicy RemoteSigned -scope Process; iwr -useb https://raw.githubusercontent.com/gerardog/gsudo/master/installgsudo.ps1 | iex"
+```
+
+```json
+{
+    "commandline": "gsudo.exe powershell.exe",
+    "font": {
+        "face": "Fira Code"
+    },
+    "guid": "{bc495145-c096-45bc-bc74-701816a94d6d}",
+    "hidden": false,
+    "name": "Windows PowerShell Elevated",
+    "elevate": true
+}
+```
+
+参考
+
+> https://blog.csdn.net/qq_30262407/article/details/114921714
+
+**sudo**
+
+```powershell
+scoop install sudo
+```
+
+遇到需要管理员权限的时候。加上`sudo`
+
+```powershell
+sudo  nvm use 16.13.0
+```
+
+
+
 ## 安装 Oh My Posh
 
 FQA
@@ -67,6 +134,16 @@ Set-Theme : 无法将“Set-Theme”项识别为 cmdlet、函数、脚本文件�
 ```
 
 ![image-20211014183639451](C:\Users\gongyuqi-jk\AppData\Roaming\Typora\typora-user-images\image-20211014183639451.png)
+
+## 安装 posh-docker
+
+> https://blog.ixk.me/post/say-goodbye-to-the-ugly-and-hard-to-use-windows-terminal-and-build-a-good-powershell
+
+```shell
+Install-Module posh-docker -Scope CurrentUser
+```
+
+https://github.com/PowerShell/PSReadLine/blob/master/PSReadLine/SamplePSReadLineProfile.ps1
 
 ## VSCode
 
@@ -90,9 +167,16 @@ Problems loading reference 'https://json.schemastore.org/package': Unable to loa
 > https://docs.microsoft.com/zh-cn/microsoft-365/security/defender-endpoint/configure-proxy-internet?view=o365-worldwide
 > https://stackoverflow.com/questions/26992886/set-proxy-through-windows-command-line-including-login-parameters
 
-```shell
+```powershell
 $env:http_proxy="socks5://127.0.0.1:10808"
 $env:https_proxy="socks5://127.0.0.1:10808"
+
+# 设置代理
+netsh winhttp set proxy 127.0.0.1:1080
+# 取消代理
+netsh winhttp reset proxy
+# 查看代理
+netsh winhttp show proxy
 ```
 
 > V2rayN的情况下，右键开启http代理时，http代理的端口是socks+1。比如V2ray的配置文件socks代理是1080，那么默认http代理就是1081。有些软件只能用http代理不能用socks代理，这时就要用到1081这个。否则指向1080端口的话，v2ray就会不停的报错“v2ray.com/core/proxy/socks: unknown Socks version xx”
@@ -422,7 +506,17 @@ https://github.com/2dust/v2rayN/issues/1735
 }
 ```
 
+## 以管理员身份运行
 
+同时按住 `Ctrl +Shift` 键，点击打开 Windows Terminal。
+
+或者将 Windows Terminal 锁定在任务栏第一个位置，使用快捷键 `Ctrl + Shift + Win + 1` 打开。
+
+## 常用命令
+
+https://www.jianshu.com/p/6fd04680f2b2
+https://zhuanlan.zhihu.com/p/205241378
+https://thiscute.world/posts/common-commands-for-various-operating-systems/
 
 ## 引用
 
@@ -434,7 +528,9 @@ https://github.com/2dust/v2rayN/issues/1735
 [^5]: [什么是 Windows 终端？](https://docs.microsoft.com/zh-cn/windows/terminal/)
 [^6]: [新生代 Windows 终端：Windows Terminal 的全面自定义](https://sspai.com/post/59380)
 
+## 配置
 
+https://mirror.xyz/0x8cC3CbCdd700508fc7b2456e7eC189D79429Aad1/MDOZed3h5J1H-c-N9VWImsaM_ExwUAJ4g8YW6OK-DvQ
 
 ## 参考
 

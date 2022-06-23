@@ -2,7 +2,41 @@
 
 [TOC]
 
+```
+https://os.51cto.com/article/698844.html
+https://os.51cto.com/article/704857.html
+https://blog.csdn.net/u014792301/article/details/106888202
+http://www.philpy.top/articles/116#5_WSL_2__31
+https://www.jianshu.com/p/ce012bd5a237
+https://docs.microsoft.com/zh-cn/windows/wsl/tutorials/gui-apps
+https://segmentfault.com/a/1190000022865557
+https://blog.davy.tw/posts/running-ubuntu-desktop-in-wsl2/
+http://martincl2.me/archives/970
+https://mond.top/wsl2/wsl2-ubuntu-pei-zhi-gui-ji-gnome-zhuo-mian/
+https://hackmd.io/@Luote/luotenote/%2F%40Luote%2Fwsl-gui
+https://www.most-useful.com/ubuntu-20-04-desktop-gui-on-wsl-2-on-surface-pro-4.html
+https://webcache.googleusercontent.com/search?q=cache:ktk18BP3HQEJ:https://www.cxymm.net/article/FSKEps/118493578+&cd=20&hl=zh-CN&ct=clnk&gl=us
+https://blog.csdn.net/liyunxin_c_language/article/details/114107994
+https://blog.csdn.net/weixin_42580217/article/details/105490265
+https://autoize.com/xfce4-desktop-environment-and-x-server-for-ubuntu-on-wsl-2/
+https://blog.csdn.net/qq_43878324/article/details/113621364
+https://blog.csdn.net/qq_35515661/article/details/116262671?utm_medium=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~Rate-7-116262671-blog-null.pc_404_mixedpudn&depth_1-utm_source=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~Rate-7-116262671-blog-null.pc_404_mixedpud
+https://blog.csdn.net/w851685279/article/details/108825893
+https://github.com/DamionGans/ubuntu-wsl2-systemd-script
+https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary/
+https://wiki.ubuntu.org.cn/Kubuntu%E7%BE%8E%E5%8C%96
+https://www.eet-china.com/mp/a10976.html
+https://zhuanlan.zhihu.com/p/96153960
+https://www.zzjtnb.com/blog/details/ubuntu20cshpz
+https://www.saveutime.net/sharefile-unc.html
+https://mapan1984.github.io/tool/2018/04/19/wsl%E4%B8%8Ewindows%E4%BA%A4%E4%BA%92/
+```
 
+
+
+## Ubuntu Wiki
+
+> https://wiki.ubuntu.org.cn/
 
 ## Ubuntu Command
 

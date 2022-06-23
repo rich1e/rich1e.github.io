@@ -25,14 +25,11 @@ Some of your tasks use `git add` command. Please remove it from the config since
 ```
 
 ```
-# äťŁç  format
-./node_modules/.bin/prettier --config .prettierrc --write ./src/views/workbench/index.vue
+
 ```
 
 ```
-fatal: Need to specify how to reconcile divergent branches.
 
-工作、生活、思考、旅游
 https://blog.csdn.net/wq6ylg08/article/details/114106272
 ```
 
@@ -44,10 +41,7 @@ https://bitbox.pixnet.net/blog/post/228899129-%5Bwindows%5D-node.js-error%3A-lis
 ```
 
 ```
-Command failed with exit code 1: git commit -m ":sparkles: feat(components(çťäťśç¸ĺł)): ćˇťĺ  GITMOJI_PATH=gitmojis.json" -m "undefined"
-[33m[33mâź[33m Some of your tasks use `git add` command. Please remove it from the config since all modifications made by tasks will be automatically added to the git commit index.
-[39m
-[34mâ[39m No staged files match any configured task.
+No staged files match any configured task.
 error: cannot spawn .husky/commit-msg: No such file or directory
 ```
 
@@ -148,30 +142,10 @@ https://github.com/anncwb/anncwb
 ```
 
 ```
-$ git remote show origin
-* remote origin
-  Fetch URL: git@github.com:rich1e/vite-antdv-scaffold.git
-  Push  URL: git@github.com:rich1e/vite-antdv-scaffold.git
-  HEAD branch: main
-  Remote branch:
-    main tracked
-  Local branch configured for 'git pull':
-    main merges with remote main
-  Local ref configured for 'git push':
-    main pushes to main (up to date)
 
-$ git remote show origin
-* remote origin
-  Fetch URL: git@github.com:rich1e/vite-scaffold.git
-  Push  URL: git@github.com:rich1e/vite-scaffold.git
-  HEAD branch: main
-  Remote branch:
-    main new (next fetch will store in remotes/origin)
-  Local ref configured for 'git push':
-    main pushes to main (up to date)
 ```
 
-- Gitmoji Commit Workflow 完全指南
+- Gitmoji Commit Workflow 
 - standard-version
 - gitmoji-changelog
 
@@ -254,7 +228,7 @@ configure arguments: --with-cc=cl --builddir=objs.msvc8 --with-debug --prefix= -
 
 wacs
 
-nginx https证书生成 windows
+nginx 
 
 - https://www.jianshu.com/p/d8a8e64be1f5
 - https://segmentfault.com/a/1190000039135687
@@ -275,6 +249,7 @@ server {
 
 ```
 
+<<<<<<< HEAD
 ```
 基于等比缩放的大屏自适应方案
 https://juejin.cn/post/6966103143402700837
@@ -311,3 +286,50 @@ https://www.forece.net/post/5434.htm
 https://bbs.pediy.com/thread-270534.htm
 https://juejin.cn/post/7052160828069380133
 ```
+=======
+```powershell
+React
+Vue
+Typescript
+Webpack
+Vite
+three.js webGL
+Electron
+
+
+
+http://confluence.zmops.cc/pages/viewpage.action?pageId=329613428
+https://www.google.com/search?q=docker+proxy%E9%85%8D%E7%BD%AE+node+%E9%95%9C%E5%83%8F&newwindow=1&sxsrf=ALiCzsb0tqLHcOhvYMlpH2eNPQsKEfys4Q:1651744823023&ei=N6BzYqR-0q2TBamBqcgH&start=10&sa=N&ved=2ahUKEwjk9b37jMj3AhXS1qQKHalACnkQ8NMDegQIARBQ&biw=1718&bih=1287&dpr=1
+https://segmentfault.com/a/1190000022873951
+https://www.bbwho.com/dockerrong-qi-hua-nginx-node-js-and-redis/
+https://code.visualstudio.com/docs/remote/containers-tutorial
+https://juejin.cn/post/6844904021216460808#heading-9
+https://code.visualstudio.com/docs/remote/troubleshooting#_questions-and-feedback
+https://blog.csdn.net/weixin_45905650/article/details/121904924
+http://zuyunfei.com/2018/06/15/file-system-configuration-in-wsl/
+
+https://segmentfault.com/a/1190000022873951
+https://www.bbwho.com/dockerrong-qi-hua-nginx-node-js-and-redis/
+https://code.visualstudio.com/docs/remote/containers-tutorial
+https://juejin.cn/post/6844904021216460808#heading-9
+https://blog.csdn.net/weixin_45905650/article/details/121904924
+```
+
+```shell
+# kids
+http://jira.zmops.cc/browse/IOMS-397
+https://www.airclasskids.com/
+http://kids.air-class.com/
+
+# UI
+https://lanhuapp.com/url/UI1H0-AvCs68
+
+# Dev
+https://nodejs.org/zh-cn/download/releases/
+https://gitlab.zmaxis.com/airclass/air-operation-web/ac-zm-web-peiyou
+http://confluence.zmops.cc/pages/viewpage.action?pageId=331645002
+
+
+```
+
+>>>>>>> efb6547 (modify windows by 20220623)
