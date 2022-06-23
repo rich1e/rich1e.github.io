@@ -274,3 +274,40 @@ server {
 }
 
 ```
+
+```
+基于等比缩放的大屏自适应方案
+https://juejin.cn/post/6966103143402700837
+
+移动端适配大法
+https://cloud.tencent.com/developer/article/1547856
+
+https://www.jianshu.com/p/d25b68119e8d
+https://cloud.tencent.com/developer/article/1793052
+https://github.com/baristna/use-animate-number#readme
+https://juejin.cn/post/6844903845965856782
+https://github.com/glennreyes/react-countup
+https://codesandbox.io/s/github/glennreyes/react-countup/tree/master/demo?fontsize=14&hidenavigation=1&theme=dark&view=preview
+https://github.com/inferusvv/react-odometerjs/blob/master/src/index.js
+https://github.hubspot.com/odometer/
+https://cn.bing.com/search?q=react+%E5%AE%9E%E6%97%B6%E7%9B%91%E5%90%AC%E6%95%B0%E6%8D%AE&qs=n&form=QBRE&sp=-1&pq=react+%E5%AE%9E%E6%97%B6jiant%E6%95%B0%E6%8D%AE&sc=0-15&sk=&cvid=A9302890182F4BCD8DA0E743448A713B
+https://blog.csdn.net/weixin_44659458/article/details/123361548
+
+# 钉钉应用分享引导&H5登录页
+https://lanhuapp.com/web/#/item/project/stage?pid=c6924355-cdbc-42c7-841d-04bbf00ea37f&type=share_mark&teamId=9a2a4941-10de-4179-bcf1-2d975b9385df
+
+# 课表中心-移动端v2
+https://lanhuapp.com/web/#/item/project/stage?pid=bd80ef05-60a2-408b-8011-3a6a74804c0d&image_id=3d6d81a9-df64-419b-a22f-3e902ab58a9f
+
+# Typora 破解
+https://www.jianshu.com/p/d8baf921c9f4
+https://www.jianshu.com/p/1d957ff0dedf
+https://jckling.github.io/2021/12/24/Other/Typora%20%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B/
+https://github.com/lwd-temp/typoraCracker-1/blob/master/README_CN.md
+https://www.cnblogs.com/LiuDanK/articles/15638323.html
+https://zhuanlan.zhihu.com/p/493559718
+https://gitee.com/suyin-long/typora-cracker
+https://www.forece.net/post/5434.htm
+https://bbs.pediy.com/thread-270534.htm
+https://juejin.cn/post/7052160828069380133
+```
