@@ -284,6 +284,7 @@ https://gitee.com/suyin-long/typora-cracker
 https://www.forece.net/post/5434.htm
 https://bbs.pediy.com/thread-270534.htm
 https://juejin.cn/post/7052160828069380133
+https://www.nite07.com/typora/
 ```
 ```powershell
 React
