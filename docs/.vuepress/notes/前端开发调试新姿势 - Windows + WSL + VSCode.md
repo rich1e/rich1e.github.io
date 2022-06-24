@@ -12,7 +12,7 @@ scoop install vscode
 
 如果需要安装程序，可直接去 [Visual Studio Code 官网](https://code.visualstudio.com/) 下载。
 
-安装 Remote-WSL 插件。
+> 安装 Remote-WSL 插件。使用 VS Code 远程开发调试，必须安装此插件，后面章节会详细说明。
 
 ## 安装 WSL & Ubuntu
 
@@ -42,8 +42,6 @@ wsl --install
 - 下载并安装 Ubuntu Linux 发行版（可能需要重新启动）
 
 在此安装过程中，你将需要重启计算机。
-
-
 
 ### 旧版 Windows[^旧版 WSL 的手动安装步骤]
 
@@ -177,13 +175,11 @@ apt 也有一些自己的命令。[^apt 和 apt-get 的区别]
 sudo apt-get update
 # 更新所有已安装的包
 sudo apt-get -y dist-upgrade
-# 
+# 清除缓存
 sudo apt-get clean
-# 
+# 卸载已不需要的包依赖
 sudo apt-get autoremove
 ```
-
-
 
 ## 开发环境配置
 
@@ -262,8 +258,6 @@ Agent pid 1881
 ➜  ~ ssh -T git@github.com
 Hi rich1e! You've successfully authenticated, but GitHub does not provide shell access.
 ```
-
-
 
 ### Zsh & Oh-My-Zsh
 
@@ -371,7 +365,6 @@ plugins=( [plugins...] incr)
     plugins=( [plugins...] zsh-autosuggestions)
     ```
 
-
 #### autojump
 
 1. 安装插件
@@ -385,8 +378,6 @@ plugins=( [plugins...] incr)
     ```shell
     ➜  ~ vi /usr/share/doc/autojump/README.Debian
     ```
-
-
 
 ![image-20220519225735792](.\images\image-20220519225735792.png)
 
@@ -483,8 +474,6 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 ➜  ~ nvm alias default <node版本号>
 ```
 
-
-
 ### pyenv
 
 pyenv 有自动安装脚本。[^Automatic installer]
@@ -515,8 +504,6 @@ pyenv 有自动安装脚本。[^Automatic installer]
    eval "$(pyenv init --path)"
    ```
 
-   
-
 #### pyenv 常用命令[^Ubuntu 中使用 pyenv 控制 Python 版本] [^Ubuntu 安裝使用 pyenv + pyenv-virtualenv]
 
 ```shell
@@ -536,11 +523,7 @@ pyenv versions
 pyenv version
 ```
 
-
-
 ## VS Code 远程开发调试[^VS Code Remote Development]
-
-
 
 ![image-20220520152510402](.\images\image-20220520152510402.png)
 
@@ -566,9 +549,9 @@ pyenv version
 > https://www.mimante.net/soft/fortunes-spam/
 > http://aspamaday.blogspot.com/
 >
-> # WSL
->
-> https://project.zhps.tp.edu.tw/ethan/2019/03/ubuntu-%E6%9B%B4%E6%96%B0%E8%88%87%E5%8D%87%E7%B4%9A/
+
+## WSL
+>https://project.zhps.tp.edu.tw/ethan/2019/03/ubuntu-%E6%9B%B4%E6%96%B0%E8%88%87%E5%8D%87%E7%B4%9A/
 > https://zhuanlan.zhihu.com/p/150555651
 > https://github.com/oldj/SwitchHosts
 > https://docs.microsoft.com/zh-cn/windows/wsl/tutorials/wsl-vscode
@@ -578,10 +561,6 @@ pyenv version
 > https://cloud.tencent.com/developer/section/1138630
 > https://juejin.cn/post/6844904062987550733
 > https://sspai.com/post/59666
-
-
-
-
 
 ## Ref
 
