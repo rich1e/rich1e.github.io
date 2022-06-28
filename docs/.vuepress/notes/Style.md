@@ -34,3 +34,9 @@
 ## CSS 全局滚动条样式兼容写法
 
 > https://juejin.cn/post/7012425496168251405
+
+## 如何编写属于自己的 PostCSS 8 插件
+
+> https://www.infoq.cn/article/psof2ousywabaqpyp1sh
+> https://juejin.cn/post/7084926646033055752
+> https://evilmartians.com/chronicles/postcss-8-plugin-migration

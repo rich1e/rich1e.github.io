@@ -25,10 +25,21 @@ Some of your tasks use `git add` command. Please remove it from the config since
 ```
 
 ```
-
+# 代码 format
+./node_modules/.bin/prettier --config .prettierrc --write ./src/views/workbench/index.vue
 ```
 
 ```
+UI 交互
+输入校验
+错误异常处理
+测试环境部署
+字数限制
+表情字符校验
+https://www.cnblogs.com/front-boy/p/9288907.html
+9*8=72
+
+工作、生活、思考、旅游
 
 https://blog.csdn.net/wq6ylg08/article/details/114106272
 ```
@@ -330,4 +341,17 @@ http://confluence.zmops.cc/pages/viewpage.action?pageId=331645002
 
 
 ```
+```shell
+➜  rich1e.me git:(main) dig rich1e.me +nostats +nocomments +nocmd
 
+; <<>> DiG 9.10.6 <<>> rich1e.me +nostats +nocomments +nocmd
+;; global options: +cmd
+;rich1e.me.			IN	A
+rich1e.me.		162	IN	A	15.197.142.173
+rich1e.me.		162	IN	A	3.33.152.147
+
+
+```
+![image-20211208231306790](/Users/yuqigong/OneDrive/mk/workspace.assets/image-20211208231306790.png)
+
+[Git 修改已提交的 commit 信息，包括作者、邮箱](https://www.silinchen.com/post/git-amend-commit-info-author-email)

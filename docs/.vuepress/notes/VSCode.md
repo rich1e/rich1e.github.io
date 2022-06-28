@@ -61,6 +61,17 @@ Windows Registry Editor Version 5.00
 [-HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\Open with &Code\command]
 ```
 
+## Plugin - CodeTour
+
+> https://segmentfault.com/a/1190000040798972
+> https://mp.weixin.qq.com/s/55snlZvRuxD4xS_KZPVZYA
+> https://juejin.cn/post/6939576820492664845
+> https://github.com/microsoft/codetour
+
+## VSCode debug
+
+> https://juejin.cn/post/7080135520902184997
+
 ## VSCode 远程开发调试
 
 ```
@@ -81,3 +92,12 @@ https://segmentfault.com/a/1190000023095631#comment-area
 https://abxy.fun/post/vscode-remote-container/
 https://www.qikqiak.com/post/use-vscode-remote-dev-debug/
 ```
+
+## koro1FileHeader
+
+> https://github.com/OBKoro1/koro1FileHeader/
+> https://blog.csdn.net/jagger_guo/article/details/104733434
+
+## 参考
+
+https://zhuanlan.zhihu.com/p/54164612

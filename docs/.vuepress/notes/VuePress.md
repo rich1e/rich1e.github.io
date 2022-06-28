@@ -13,7 +13,7 @@ https://juejin.cn/post/7000572105154625567#heading-5
 https://juejin.cn/post/6997198873806536717
 https://juejin.cn/post/6980134339434512421
 
-[Github+Hexo绑定到Godaddy域名](https://tomorrow505.xyz/Github-Hexo%E7%BB%91%E5%AE%9A%E5%88%B0Godaddy%E5%9F%9F%E5%90%8D/)
+[Github+Hexo 绑定到 Godaddy 域名](https://tomorrow505.xyz/Github-Hexo%E7%BB%91%E5%AE%9A%E5%88%B0Godaddy%E5%9F%9F%E5%90%8D/)
 
 https://segmentfault.com/a/1190000022777990
 https://vuepress-theme-hope.github.io/md-enhance/zh/
@@ -37,3 +37,43 @@ https://markdown-it.docschina.org/architecture.html#%E6%B8%B2%E6%9F%93%E5%99%A8-
 http://www.4k8k.xyz/article/my___dream/90343999
 https://github.com/markdown-it/markdown-it-footnote#readme
 https://juejin.cn/post/6844904023724654600#heading-4
+
+## 使用 Vuepress 搭建基于 Vue 3.2 的组件库（保姆级教程）
+
+> https://juejin.cn/post/7089313579169480711
+
+## 使用捆绑器、主题和插件的方式已经完全改变
+
+- 以获得更好的类型提示。旧的基于字符串的方式很难提供良好的类型支持。
+- 更明确地说。现在我们应该明确地导入和使用主题/插件，而不是简单地在那里放一个字符串。
+- 要更加规范。使用旧的基于字符串的方式，我们必须 require.resolve 在核心包内建立依赖关系，这无法与 pnpm 等一些严格的包管理器一起使用。
+
+```
+- module.exports = {
+-   plugins: [
+-     [
+-       '@vuepress/plugin-google-analytics',
+-       {
+-         id: 'G-XXXXXXXXXX',
+-       },
+-     ],
+-   ],
+- }
+
++ const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
++ module.exports = {
++   plugins: [
++     googleAnalyticsPlugin({
++         id: 'G-XXXXXXXXXX',
++     }),
++   ],
++ }
+```
+
+> https://github.com/vuepress/vuepress-next/blob/main/CHANGELOG.md#200-beta40-2022-04-25
+
+## VuePress 标签
+
+[vuepress 主题改造-标签云的改造(2)](https://juejin.cn/post/6844903864219467784)
+
+[关于文档分类、归档的问题](https://github.com/vuejs/vuepress/issues/495)

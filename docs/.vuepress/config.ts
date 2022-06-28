@@ -1,8 +1,8 @@
 /*
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
- * @LastEditors: gongyuqi
- * @LastEditTime: 2021-12-09 11:33:03
+ * @LastEditors: rich1e
+ * @LastEditTime: 2022-06-25 09:44:13
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -14,8 +14,7 @@ import path from "path";
 import markdownFootnote from "markdown-it-footnote";
 
 // Plugins
-
-import VuepressPluginPermalinkPinyin from './plugins/@permalink-pinyin'
+import VuepressPluginPermalinkPinyin from "./plugins/@permalink-pinyin";
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   lang: "en-US",
@@ -42,14 +41,14 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 
   plugins: [
     [
-      'vuepress-plugin-typescript',
+      "vuepress-plugin-typescript",
       {
         tsLoaderOptions: {
           // ts-loader 的所有配置项
         },
-      }
+      },
     ],
-    VuepressPluginPermalinkPinyin 
+    VuepressPluginPermalinkPinyin,
   ],
 
   themeConfig: {
