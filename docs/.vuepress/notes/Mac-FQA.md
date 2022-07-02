@@ -28,7 +28,7 @@ https://www.jianshu.com/p/dc365f2fa84b
 
 ## No space left on device
 
-![Image for post](./images/Mac-FQA/1*qzt2IZDosWjat9fqwp71hg.png)
+![Image for post](./images/Mac-FQA/Wjat9fqwp71hg.png)
 
 https://www.v2ex.com/t/654775
 https://medium.com/@eduardo.pinheiro.pt/your-mac-doesnt-restart-due-to-no-space-left-on-device-27adf777619d
