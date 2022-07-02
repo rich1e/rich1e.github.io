@@ -358,3 +358,14 @@ rich1e.me.		162	IN	A	3.33.152.147
 ![image-20211208231306790](./images/workspace/image-20211208231306790.png)
 
 [Git 修改已提交的 commit 信息，包括作者、邮箱](https://www.silinchen.com/post/git-amend-commit-info-author-email)
+
+![image-20220702143226023](.\images\workspace\image-20220702143226023.png)
+
+```markdown
+# windows 下文件命名不能出现特殊字符
+
+Ref:
+http://i.lckiss.com/?p=7384
+https://mlog.club/article/2695001
+```
+
