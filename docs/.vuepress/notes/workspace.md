@@ -297,6 +297,7 @@ https://bbs.pediy.com/thread-270534.htm
 https://juejin.cn/post/7052160828069380133
 https://www.nite07.com/typora/
 ```
+
 ```powershell
 React
 Vue
@@ -341,6 +342,7 @@ http://confluence.zmops.cc/pages/viewpage.action?pageId=331645002
 
 
 ```
+
 ```shell
 ➜  rich1e.me git:(main) dig rich1e.me +nostats +nocomments +nocmd
 
@@ -352,6 +354,7 @@ rich1e.me.		162	IN	A	3.33.152.147
 
 
 ```
-![image-20211208231306790](/Users/yuqigong/OneDrive/mk/workspace.assets/image-20211208231306790.png)
+
+![image-20211208231306790](./images/workspace/image-20211208231306790.png)
 
 [Git 修改已提交的 commit 信息，包括作者、邮箱](https://www.silinchen.com/post/git-amend-commit-info-author-email)

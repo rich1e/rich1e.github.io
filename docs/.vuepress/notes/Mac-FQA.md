@@ -1,18 +1,12 @@
 > gyp: No Xcode or CLT version detected!
 
-
-
 ```bash
 xcode-select --install
 ```
 
-
-
 ```bash
 xcode-select: error: command line tools are already installed, use "Software Update" to install updates
 ```
-
-
 
 ```shell
 $ xcode-select --print-path
@@ -26,21 +20,15 @@ rm -rf $(xcode-select --print-path)
 xcode-select --install
 ```
 
-
-
 ## 参考
 
 https://zhuanlan.zhihu.com/p/105526835
 
 https://www.jianshu.com/p/dc365f2fa84b
 
-
-
 ## No space left on device
 
-![Image for post](/Users/yuqigong/Dropbox/Apps/Editorial/md/Mac-FQA.assets/1*qzt2IZDosWjat9fqwp71hg.png)
-
-
+![Image for post](./images/Mac-FQA/1*qzt2IZDosWjat9fqwp71hg.png)
 
 https://www.v2ex.com/t/654775
 https://medium.com/@eduardo.pinheiro.pt/your-mac-doesnt-restart-due-to-no-space-left-on-device-27adf777619d
