@@ -2,7 +2,7 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: rich1e
- * @LastEditTime: 2022-06-25 09:44:13
+ * @LastEditTime: 2022-07-10 14:20:16
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -64,6 +64,16 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
       {
         text: "工作",
         link: "/workspace/",
+        children: [
+          {
+            text: "笔记",
+            link: "/workspace/",
+          },
+          {
+            text: "LeetCode",
+            link: "/leetcode/",
+          },
+        ],
       },
       {
         text: "生活",
