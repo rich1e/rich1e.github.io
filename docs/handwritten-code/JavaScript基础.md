@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-07-11 10:51:00
  * @LastEditors: rich1e
- * @LastEditTime: 2022-07-12 21:34:26
+ * @LastEditTime: 2022-07-22 14:04:30
 -->
 
 [[toc]]
@@ -134,13 +134,11 @@ Function.prototype.bind = function (thisArg) {
 const _new = function (fn, ...args) {
   // 创建一个空对象
   const obj = {};
-  // 将空对象的原型 prototype 指向构造函数的原型
+  // 将空对象的原型对象 __proto__，指向构造函数的 prototype 属性
   obj.__proto__ = fn.prototype; // Object.setPrototypeOf(obj, fn.prototype);
   // 改变构造函数的上下文（this）,并将剩余的参数传入
   const res = fn.apply(obj, args);
-  // 如果构造函数没有显式返回，就返回新创建的对象 obj
-  // 如果构造函数返回的不是一个对象，仍然返回新创建的对象 obj
-  // 如果构造函数显式返回了一个对象，比如{}、function() {}，那么就不是返回新创建的对象obj了，而是显式返回这个对象
+  // 如果构造函数返回非空对象，则返回 res；否则，返回刚创建的新对象 obj
   return res instanceof Object ? res : obj;
 };
 ```
@@ -273,48 +271,6 @@ Object.prototype.__proto__ == null;
 // prototype (显示原型 explicit prototype property)
 // 任何对象的隐式原型，指向创建这个对象的构造函数的 prototype 属性
 ```
-
-## JS 继承
-
-### 原型链继承
-
-```js
-function World() {
-  this.member = [];
-}
-
-World.prototype.size = function () {
-  console.log(this.member.length);
-};
-
-function Family() {}
-
-Family.prototype = new World();
-Family.prototype.constructor = Family;
-
-const mine = new Family();
-mine.member.push("wife");
-mine.member.push("daughter");
-console.log(mine.member);
-console.log(mine.size);
-
-const your = new Family();
-your.member.push("boy");
-console.log(your.member);
-console.log(your.size);
-```
-
-优点
-
-- 共享了父类的构造函数
-- 继承了父类公共属性和方法
-
-缺点
-
-- 每个实例对引用类型属性的修改，都会被其他的实例共享
-- 在创建实例的时候，无法向父级传参，子级没法自定义自己的属性
-
-### 构造函数继承
 
 ## Promise
 

@@ -74,6 +74,9 @@ const contentValue = computed({
 
 > https://juejin.cn/post/7023343999909888037
 
+## 为什么 React 的 Diff 算法不采用 Vue 的双端对比算法？
+
+> https://juejin.cn/post/7116141318853623839
 
 # Vue
 
