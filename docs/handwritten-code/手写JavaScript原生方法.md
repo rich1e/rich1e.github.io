@@ -1,10 +1,10 @@
-# JavaScript 基础
+# 手写 JavaScript 原生方法
 
 <!--
  * @Author: rich1e
  * @Date: 2022-07-11 10:51:00
  * @LastEditors: rich1e
- * @LastEditTime: 2022-07-22 14:04:30
+ * @LastEditTime: 2022-07-29 10:54:56
 -->
 
 [[toc]]
@@ -22,14 +22,15 @@ call 函数的实现步骤：
 
 ```js
 /**
- * @param thisArg 代理对象
+ * @param thisArg 代理对象，必须是一个函数
+ * @param args 参数
  * @see https://github.com/mqyqingfeng/Blog/issues/11
  * @see https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/call
  */
 Function.prototype.call = function (thisArg, ...args) {
   // this 指向 call 函数的调用对象，如果不是 function，则提示错误
   if (typeof this !== "function") {
-    throw new TypeError("not a function");
+    throw new Error("not a function");
   }
 
   // 注意：非严格模式下,
@@ -65,22 +66,27 @@ apply 函数的实现步骤与 call 一样，仅传参不一样
  * @see https://github.com/mqyqingfeng/Blog/issues/11
  * @see https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
  */
-Function.prototype.apply = function (context, arr) {
-  var context = Object(context) || window;
-  context.fn = this;
-
-  var result;
-  if (!arr) {
-    result = context.fn();
-  } else {
-    var args = [];
-    for (var i = 0, len = arr.length; i < len; i++) {
-      args.push("arr[" + i + "]");
-    }
-    result = eval("context.fn(" + args + ")");
+Function.prototype.apply = function (thisArg, args) {
+  // this 指向 call 函数的调用对象，如果不是 function，则提示错误
+  if (typeof this !== "function") {
+    throw new Error("not a function");
   }
 
-  delete context.fn;
+  thisArg = thisArg ? Object(thisArg) : window;
+  thisArg.fn = this;
+
+  let result;
+  if (!args) {
+    result = thisArg.fn();
+  } else {
+    const _args = [];
+    for (let i = 0, len = args.length; i < len; i++) {
+      _args.push("args[" + i + "]");
+    }
+    result = eval("thisArg.fn(" + _args + ")");
+  }
+
+  delete thisArg.fn;
   return result;
 };
 ```
@@ -122,11 +128,6 @@ Function.prototype.bind = function (thisArg) {
 
 ```js
 /**
- * new
- * 让实例对象可以访问到私有属性
- * 让实例对象可以访问构造函数原型 (fn.prototype) 所在原型链上的属性
- * 考虑构造函数有返回值的情况
- *
  * @see https://segmentfault.com/a/1190000040870632
  * @param {*} fn 构造函数
  * @param  {...any} args 函数参数
@@ -208,12 +209,13 @@ Object.create = function (proto, propertiesObject) {
  */
 function _instanceof(left, right) {
   if (typeof left !== "object" || left === null) return false; // 基础类型一律为 false
-  let proto = Object.getPrototypeOf(left); // 获取对象的原型
+  let proto = Object.getPrototypeOf(left); // 获得实例对象的原型，也就是 left.__proto__
+  let prototype = right.prototype; // 获得构造函数的原型
 
   while (true) {
     if (proto === null) return false;
-    if (proto === right.prototype) return true;
-    proto = Object.getPrototypeOf(proto);
+    if (proto === prototype) return true;
+    proto = Object.getPrototypeOf(proto); // 没找到就把上一层拿过来，继续循环，再向上一层找
   }
 }
 ```
