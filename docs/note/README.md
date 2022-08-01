@@ -1,12 +1,13 @@
+# note
+
 <!--
- * @Author: gongyuqi
- * @Date: 2021-11-19 17:49:20
- * @LastEditTime: 2022-08-01 16:20:03
+ * @Author: rich1e
+ * @Date: 2022-08-01 16:19:42
  * @LastEditors: rich1e
- * @Descripttion:
- * @FilePath: /rich1e.me/docs/note/README.md
+ * @LastEditTime: 2022-08-01 17:36:42
 -->
 
-# note
+- [Mac](/note/mac.md)
+- [uPic](/note/uPic.md)
 
 想法随处可见。。。
