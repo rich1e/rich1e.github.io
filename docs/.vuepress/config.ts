@@ -2,7 +2,7 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: rich1e
- * @LastEditTime: 2022-07-12 11:18:34
+ * @LastEditTime: 2022-08-01 16:37:48
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -63,11 +63,14 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     navbar: [
       {
         text: "工作",
-        link: "/workspace/",
         children: [
           {
-            text: "笔记",
-            link: "/workspace/",
+            text: "便签",
+            link: "/note/",
+          },
+          {
+            text: "javascript 笔记",
+            link: "/javascript-note/",
           },
           {
             text: "手写代码",
@@ -77,6 +80,7 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
             text: "LeetCode",
             link: "/leetcode/",
           },
+          "/workspace/README.md",
         ],
       },
       {
