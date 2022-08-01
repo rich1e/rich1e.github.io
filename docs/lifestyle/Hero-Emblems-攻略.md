@@ -9,7 +9,7 @@ date: 2017-12-9 00:55
  * @Author: rich1e
  * @Date: 2022-08-01 22:50:54
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-01 23:21:55
+ * @LastEditTime: 2022-08-01 23:39:33
 -->
 
 [[toc]]
@@ -74,6 +74,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 翠丝特是一个小财迷，捡起皇冠，欢喜不已。
 霍华德一行人营救去营救公主。
 
@@ -104,6 +105,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 遭遇村长被魔物追袭，霍华德一行人将其救下，并淮备消灭村里的魔物。
 
 > note：与村长有对话，随便选吧，总之要打魔物。
@@ -143,6 +145,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **BOSS**
 
 技能：无
@@ -182,6 +185,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **BOSS**
 
 技能：无
@@ -203,6 +207,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **关卡：**
 
 1 --> 2 --> 3 --> 4 --> 5 --> 6 茶箱(8)
@@ -228,6 +233,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **关卡：**
 
 1 --> 2 --> 3 --> 4 --> 5 --> 6 茶箱(8)
@@ -269,6 +275,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **关卡：**
 
 碉堡 1F 1 --> 2 --> 3 茶箱(8)茶箱(8) --> 4 --> 5 小矮人(1) 2F
@@ -294,6 +301,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **BOSS**
 
 技能：连续攻击 2 次(血量较少时)
@@ -387,6 +395,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **关卡：**
 
 湖畔 1 --> 2 --> 3 A | B
@@ -430,6 +439,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **物品：**
 
 **BOSS**
@@ -460,6 +470,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **关卡：**
 
 迴廊 1 --> 2 --> 3A --> B4 --> 5 --> 6 BOSS
@@ -473,6 +484,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **物品：**
 
 1/2 茶箱：道具/$$
@@ -488,6 +500,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **BOSS**
 
 技能：锁链串 (纵向一整排)
@@ -535,6 +548,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **关卡：**
 
 高塔 1F 1 --> 2 --> 3 --> 4 --> 5 A | B
@@ -558,6 +572,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **BOSS**
 
 技能：燃烧 2x2
@@ -662,11 +677,13 @@ date: 2017-12-9 00:55
 
 <!-- ![](@images\lifestyle\hero-emblems\figure_2017-02-12T171416.jpg) -->
 
-<img
+<!-- <img
   src="@images\lifestyle\hero-emblems\figure_2017-02-12T171416.jpg"
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+ -->
+
 **纹章** _R3_
 
 | 蛮刀之纹章 | 钢铁之纹章 | 大魔导之纹章 | 辟邪之纹章 |
@@ -744,6 +761,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **关卡：**
 
 坟墓区 1 --> 2 --> 3 --> 4 蓝箱(6) --> 5 --> 6 BOSS
@@ -755,6 +773,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **物品：**
 
 蓝箱：技能 (奥斯顿-粉碎一击)
@@ -766,6 +785,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **BOSS**
 
 技能：燃烧
@@ -853,6 +873,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **BOSS**
 技能：冰晶 (倒数完毕冻结周围)
 
@@ -881,6 +902,7 @@ date: 2017-12-9 00:55
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **关卡：**
 
 森林入口 1 --> 2 --> 3 --> 4 A | B
@@ -912,6 +934,7 @@ B 蓝箱：道具/$$
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **小 BOSS**
 
 技能：锁链串
@@ -923,6 +946,7 @@ B 蓝箱：道具/$$
   alt="1"
   style="width: 50%; margin: 0 auto;display: block;"
 />
+
 **BOSS**
 
 技能：炸弹 x2
