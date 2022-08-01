@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-07-11 10:51:00
  * @LastEditors: rich1e
- * @LastEditTime: 2022-07-22 14:19:02
+ * @LastEditTime: 2022-07-27 12:47:33
 -->
 
 [[toc]]
@@ -479,7 +479,7 @@ console.log(asian.say()); // 你好！
 
 ## ES6 Class extends
 
-> ES6 继承的结果和寄生组合继承相似，本质上，`ES6` 继承是一种语法糖。但是，寄生组合继承是先创建子类实例 `this` 对象，然后再对其增强；而 `ES6` 先将父类实例对象的属性和方法，加到 `this` 上面（所以必须先调用 `super` 方法），然后再用子类的构造函数修改 `this`。
+> ES6 继承的结果和寄生组合继承相似，本质上，`ES6` 继承是一种语法糖。但是，寄生组合继承是先创建子类实例 `this` 对象，然后再将父类的方法添加到 `this` 上，对其增强；而 `ES6` 先创建父类实例对象的属性和方法，加到 `this` 上面（所以必须先调用 `super` 方法），然后再用子类的构造函数修改 `this` 实现继承。
 
 ```js
 class A {}
@@ -543,3 +543,5 @@ ES6 继承与 ES5 继承的异同：
 [理解 JavaScript 中的继承](http://www.yaohaixiao.com/blog/understanding-inheritance-in-javascript/)
 
 [一篇文章理解 JS 继承——原型链/构造函数/组合/原型式/寄生式/寄生组合/Class extends](https://segmentfault.com/a/1190000015727237)
+
+[ES5 与 ES6 继承的区别](https://blog.csdn.net/qq_42908794/article/details/83863886)
