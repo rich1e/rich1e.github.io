@@ -2,7 +2,7 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-01 16:37:48
+ * @LastEditTime: 2022-08-02 13:39:08
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -46,6 +46,12 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
         tsLoaderOptions: {
           // ts-loader 的所有配置项
         },
+      },
+    ],
+    [
+      "@vuepress/plugin-google-analytics",
+      {
+        id: "G-9CRXHKNHQW",
       },
     ],
     VuepressPluginPermalinkPinyin,
