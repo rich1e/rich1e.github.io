@@ -1,0 +1,1 @@
+const e={key:"v-15847c78",path:"/handwritten-code/",title:"\u624B\u5199\u4EE3\u7801",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"handwritten-code/README.md",git:{updatedTime:1659344116e3}};export{e as data};
