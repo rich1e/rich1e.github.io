@@ -2,7 +2,7 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-01 16:37:48
+ * @LastEditTime: 2022-08-02 14:52:24
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -17,6 +17,33 @@ import markdownFootnote from "markdown-it-footnote";
 import VuepressPluginPermalinkPinyin from "./plugins/@permalink-pinyin";
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
+  head: [
+    /**
+     * vuepress配置谷歌统计
+     * @see https://www.sofineday.com/vuepress-google-analytics.html
+     */
+    /*************** start 添加谷歌统计 ***********/
+    [
+      "script",
+      {
+        src: "https://www.googletagmanager.com/gtag/js?id=G-LQXPNSFYVH",
+        async: true,
+      },
+    ],
+    [
+      "script",
+      {},
+      `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-LQXPNSFYVH');
+      `,
+    ],
+    /*************** end 添加谷歌统计 ***********/
+  ],
+
   lang: "en-US",
   title: "Personal Hobbies",
   description: "Just playing around",
