@@ -10,9 +10,12 @@
   "author": "rich1e",
   "license": "MIT",
   "devDependencies": {
+    "@vue/component-compiler-utils": "^3.3.0",
     "@vuepress/bundler-vite": "^2.0.0-beta.27",
     "@vuepress/plugin-container": "^2.0.0-beta.29",
+    "@vuepress/plugin-google-analytics": "^1.9.7",
     "@vuepress/plugin-toc": "^2.0.0-beta.27",
+    "@vuepress/shared-utils": "^1.9.7",
     "markdown-it-footnote": "^3.0.3",
     "transliteration": "^2.2.0",
     "typescript": "^4.5.4",
