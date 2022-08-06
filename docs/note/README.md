@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-08-01 16:19:42
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-01 21:42:39
+ * @LastEditTime: 2022-08-06 18:55:05
 -->
 
 [[toc]]
@@ -22,6 +22,7 @@
 
 - [Vue](/note/Vue.md)
 - [Vue 3 Migration Notes](/note/Vue3-Migration-Notes.md)
+- [VuePress](/note/VuePress.md)
 
 ## CSS
 
