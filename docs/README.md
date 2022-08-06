@@ -11,7 +11,7 @@ footer: "MIT Licensed | Copyright © 2022 Rich1e Kung"
  * @Author: rich1e
  * @Date: 2022-06-23 11:16:49
  * @LastEditors: rich1e
- * @LastEditTime: 2022-06-25 10:20:34
+ * @LastEditTime: 2022-08-06 19:30:15
 -->
 
 # Rich1e Kung
@@ -40,4 +40,4 @@ footer: "MIT Licensed | Copyright © 2022 Rich1e Kung"
 
 如果找我项目合作，可以通过 [GitHub](https://github.com/rich1e) 或者[邮件](yuqigong#outlook.com)联系。
 
-<!-- ![VuePress Logo](@images/logo/rich1e.svg) -->
+<!-- ![VuePress Logo](@images/logo/avatars.jpg) -->
