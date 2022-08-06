@@ -2,7 +2,7 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-06 19:31:09
+ * @LastEditTime: 2022-08-06 21:18:53
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -18,6 +18,15 @@ import VuepressPluginPermalinkPinyin from "./plugins/@permalink-pinyin";
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   head: [
+    /**
+     * @see https://github.com/vuejs/vuepress/issues/1653
+     */
+    // ["link", { rel: "apple-touch-icon", sizes: "180x180", href: "/images/favicon/apple-touch-icon.png" }],
+    ["link", { rel: "icon", type: "image/png", sizes: "32x32", href: "/images/favicon/32x32.png" }],
+    ["link", { rel: "icon", type: "image/png", sizes: "16x16", href: "/images/favicon/16x16.png" }],
+    // ["link", { rel: "manifest", href: "/images/favicon/site.webmanifest" }],
+    // ["link", { rel: "mask-icon", href: "/images/favicon/safari-pinned-tab.svg", color: "#3a0839" }],
+    ["link", { rel: "shortcut icon", href: "/images/favicon/favicon.ico" }],
     /**
      * vuepress配置谷歌统计
      * @see https://www.sofineday.com/vuepress-google-analytics.html
@@ -80,7 +89,6 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 
   themeConfig: {
     logo: "/images/logo/avatars.jpg",
-    // logo: null,
     sidebar: false,
     // lastUpdated: false,
     contributors: false,
