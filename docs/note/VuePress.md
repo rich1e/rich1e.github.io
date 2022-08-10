@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-08-06 18:50:51
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-06 19:50:03
+ * @LastEditTime: 2022-08-10 22:14:27
 -->
 
 [[toc]]
@@ -26,6 +26,10 @@ https://juejin.cn/post/7051509977273335821#heading-12
 https://blog.csdn.net/qq_42551789/article/details/114752792
 https://vuepress.vuejs.org/plugin/official/plugin-google-analytics.html#install
 ```
+
+Google Analytics 统计数据时，如果开启了 VPN，会导致 `net::ERR_CONNECTION_CLOSED`
+
+![image-20220810220903494](@images\note\image-20220810220903494.png)
 
 ## Other
 
