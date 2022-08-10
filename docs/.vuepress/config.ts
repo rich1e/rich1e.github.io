@@ -2,7 +2,7 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-06 21:18:53
+ * @LastEditTime: 2022-08-10 21:09:51
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -32,24 +32,24 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
      * @see https://www.sofineday.com/vuepress-google-analytics.html
      */
     /*************** start 添加谷歌统计 ***********/
-    [
-      "script",
-      {
-        src: "https://www.googletagmanager.com/gtag/js?id=G-LQXPNSFYVH",
-        async: true,
-      },
-    ],
-    [
-      "script",
-      {},
-      `
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+    // [
+    //   "script",
+    //   {
+    //     src: "https://www.googletagmanager.com/gtag/js?id=G-LQXPNSFYVH",
+    //     async: true,
+    //   },
+    // ],
+    // [
+    //   "script",
+    //   {},
+    //   `
+    //     window.dataLayer = window.dataLayer || [];
+    //     function gtag(){dataLayer.push(arguments);}
+    //     gtag('js', new Date());
 
-        gtag('config', 'G-LQXPNSFYVH');
-      `,
-    ],
+    //     gtag('config', 'G-LQXPNSFYVH');
+    //   `,
+    // ],
     /*************** end 添加谷歌统计 ***********/
   ],
 
@@ -82,6 +82,12 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
         tsLoaderOptions: {
           // ts-loader 的所有配置项
         },
+      },
+    ],
+    [
+      "@vuepress/plugin-google-analytics",
+      {
+        id: "G-LQXPNSFYVH",
       },
     ],
     VuepressPluginPermalinkPinyin,
