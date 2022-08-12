@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-08-01 16:19:42
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-06 18:55:05
+ * @LastEditTime: 2022-08-12 21:32:33
 -->
 
 [[toc]]
@@ -12,6 +12,7 @@
 ## App
 
 - [Mac](/note/mac.md)
+- [Alienware](/note/Alienware.md)
 - [uPic](/note/uPic.md)
 
 ## Language
