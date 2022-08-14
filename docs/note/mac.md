@@ -4,21 +4,22 @@
  * @Author: rich1e
  * @Date: 2022-08-01 17:35:10
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-12 21:57:00
+ * @LastEditTime: 2022-08-14 19:40:00
 -->
 
 [[toc]]
 
-## How to use NTFS drives on a Mac
+## Homebrew
 
-- https://www.techradar.com/how-to/how-to-use-ntfs-drives-on-a-mac
-- https://setapp.com/how-to/use-ntfs-for-mac
-- https://www.makeuseof.com/use-ntfs-on-mac/
-- https://www.remosoftware.com/info/cn/troubleshoot-external-hard-drive-not-showing-mac/
-- https://gist.github.com/takeit/9fa83840f3b2065e204dc9d52cef3693
-- https://www.cnblogs.com/gsmusician/p/5095744.html
-- https://www.jianshu.com/p/a770c66bdddf
+- https://runebook.dev/zh-CN/docs/homebrew/taps
+- https://zhuanlan.zhihu.com/p/107635134
+
+## Mac 移动硬盘相关问题
+
 - https://juejin.cn/post/7098005780908998692
+- https://ujjainyoga.com/post/419.html
+- https://blog.daliansky.net/Mac-frequently-used-to-the-command---continuous-update.html
+- https://www.jianshu.com/p/dbfa5f82178c
 
 ## Mac 软件推荐
 
