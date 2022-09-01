@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-08-01 17:35:10
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-14 19:40:00
+ * @LastEditTime: 2022-09-01 10:38:00
 -->
 
 [[toc]]
@@ -38,3 +38,22 @@
 - https://developer.apple.com/cn/support/xcode/
 - https://iboysoft.com/howto/install-monterey-on-unsupported-mac.html
 - https://sspai.com/post/73395
+
+## Zsh
+
+- https://github.com/withfig/config
+- https://einverne.github.io/post/2020/10/use-zinit-to-manage-zsh-plugins.html
+
+## Dotfiles
+
+- https://einverne.github.io/post/2020/08/use-dotbot-dotfiles-management.html
+
+## Proxy
+
+https://www.youtube.com/watch?v=4JVIfkRgfw4
+https://back2me.cn/skills/clash.html
+https://pawswrite.xyz/2022/05/25/%E8%87%AA%E5%BB%BA%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E5%B9%B3%E5%8F%B0/
+https://www.v2rayssr.com/sub-web.html
+https://github.com/CareyWang/sub-web
+https://github.com/tindy2013/subconverter
+https://github.com/nodesource/distributions
