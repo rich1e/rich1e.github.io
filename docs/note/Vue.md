@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-08-01 19:45:10
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-01 21:52:20
+ * @LastEditTime: 2022-09-04 08:57:12
 -->
 
 [[toc]]
@@ -358,6 +358,12 @@ https://next.router.vuejs.org/guide/advanced/navigation-failures.html
 ## Vue 3.0 经验总结
 
 - [Vue 3.0 经验总结](/note/Vue3经验总结.md)
+
+## Vue 优化
+
+> 移除 Option API
+
+https://github.com/vuejs/core/tree/main/packages/vue#bundler-build-feature-flags
 
 ## Others
 
