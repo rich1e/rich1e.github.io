@@ -2,13 +2,15 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-10 21:09:51
+ * @LastEditTime: 2022-09-27 15:14:18
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
 import type { ViteBundlerOptions } from "@vuepress/bundler-vite";
 import path from "path";
+
+import sidebarConf from "./sidebarConf";
 
 // markdownPlus
 import markdownFootnote from "markdown-it-footnote";
@@ -17,6 +19,7 @@ import markdownFootnote from "markdown-it-footnote";
 import VuepressPluginPermalinkPinyin from "./plugins/@permalink-pinyin";
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
+  // base: "/interview/",
   head: [
     /**
      * @see https://github.com/vuejs/vuepress/issues/1653
@@ -95,7 +98,8 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 
   themeConfig: {
     logo: "/images/logo/avatars.jpg",
-    sidebar: false,
+    sidebar: sidebarConf,
+    // sidebarDepth: 2,
     // lastUpdated: false,
     contributors: false,
     /**

@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-08-06 18:50:51
  * @LastEditors: rich1e
- * @LastEditTime: 2022-08-12 08:25:38
+ * @LastEditTime: 2022-09-27 16:07:38
 -->
 
 [[toc]]
@@ -37,10 +37,20 @@ Google Analytics 统计数据时，如果开启了 VPN，会导致 `net::ERR_CON
 - https://vuepress-theme-hope.github.io/v2/zh/
 - https://80shuo.com/post/2020/12/26/theme-learning-0.html
 
+## VuePress Plugins
+
+- [Vuepress Plugin Auto Sidebar](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar)
+  le-analytics.html#install
+
+## Blog example
+
+- https://github.com/shanyuhai123/documents
+- https://github.com/HcySunYang/vue-design
+
 ## Other
 
 - https://blog.csdn.net/weixin_43272781/article/details/121216762
 - https://www.cnblogs.com/wangdashi/p/16308107.html
 - https://www.plju.com/?id=18875
 - https://80shuo.com/post/2020/12/26/theme-learning-0.html
-- https://vuepress.vuejs.org/plugin/official/plugin-google-analytics.html#install
+- https://vuepress.vuejs.org/plugin/official/plugin-goog

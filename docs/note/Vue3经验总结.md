@@ -111,3 +111,7 @@ Vue2.0 中，随着功能的增加，组件变得越来越复杂，越来越难�
 ## Vue 3.0 & JSX/TSX
 
 - https://juejin.cn/post/7007731144418394149
+
+## Vue 高阶组件
+
+- http://caibaojian.com/vue-design/more/vue-hoc.html
