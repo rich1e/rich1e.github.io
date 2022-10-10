@@ -1,3 +1,9 @@
+-   visualizer 组件优化
+-   项目工程目录优化
+-   Angelfish 组件迁移
+-   补充 Typescript 类型定义
+-   补充代码注释
+
 ```
 https://juejin.cn/post/6924156555617271821#heading-10
 https://juejin.cn/post/6844903945500885005#heading-1
@@ -355,7 +361,7 @@ rich1e.me.		162	IN	A	3.33.152.147
 
 ```
 
-![image-20211208231306790](./images/workspace/image-20211208231306790.png)
+![image-20211208231306790](image-20211208231306790.png)
 
 [Git 修改已提交的 commit 信息，包括作者、邮箱](https://www.silinchen.com/post/git-amend-commit-info-author-email)
 

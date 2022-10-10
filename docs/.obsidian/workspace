@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "43eddddfe0c3e1ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "33db52b1faad7bd3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "workspace/前端开发调试新姿势-VS_Code_Remote_Development.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abc4afb01c4b33d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "69f1cf57e34b5df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c15a0174a5fc0c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b54bb6df5ce2207b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1ec0547001aeb94",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33e5076f7896c904",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0537bb764877783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f651de065030e11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "workspace/前端开发调试新姿势-VS_Code_Remote_Development.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf36c21e5af922f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "workspace/前端开发调试新姿势-VS_Code_Remote_Development.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07d8e838ca812ab1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cb1fae3a43ff2b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "workspace/前端开发调试新姿势-VS_Code_Remote_Development.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "33db52b1faad7bd3",
+  "lastOpenFiles": [
+    "@images/workspace/image-20211208233414103.png.md",
+    "workspace/搭建Blog.md",
+    "handwritten-code/function.prototype.apply().md"
+  ]
+}
