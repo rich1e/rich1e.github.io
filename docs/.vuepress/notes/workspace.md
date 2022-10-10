@@ -1,8 +1,20 @@
+整体优化方案
+
+-   项目工程结构优化
 -   visualizer 组件优化
--   项目工程目录优化
 -   Angelfish 组件迁移
+-   计算公式封装
 -   补充 Typescript 类型定义
 -   补充代码注释
+
+第一期改造点：
+
+1.  visualizer 组件优化：VTable.vue、VController.vue
+2. Angelfish 组件迁移：draw 和 modules 文件夹下的部分组件使用 Angelfish 重写
+
+> 主要是2方面的优化：1) Typescript 改造和补充类型定义; 2) template 逻辑优化；
+
+
 
 ```
 https://juejin.cn/post/6924156555617271821#heading-10
