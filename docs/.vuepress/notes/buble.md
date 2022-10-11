@@ -1,0 +1,40 @@
+## JavaScript Compiler
+
+- [bublé](https://buble.surge.sh/) - The blazing fast, batteries-included ES2015 compiler
+
+- [Babel](https://babel.dev/) - The compiler for writing next generation JavaScript.
+
+## JavaScript Parser
+- [Acorn](https://github.com/acornjs/acorn) - A tiny, fast JavaScript parser, written completely in JavaScript.
+- [Esprima](https://esprima.org/) - Esprima is a high performance, standard-compliant ECMAScript parser written in ECMAScript.
+- [Babylon](https://github.com/babel/babylon) - Babylon is a JavaScript parser used in Babel.
+	- [babylon/README.md at 6.x · babel/babylon · GitHub](https://github.com/babel/babylon/blob/6.x/README.md)
+
+## Web Fromwork
+
+[Vue](https://vuejs.org/)  - The Progressive JavaScript Framework
+[Svelte](https://svelte.dev/) - Cybernetically enhanced web apps
+
+这两个框架在很长一段时间是使用 `bublé` 构建编译。用于 `ES6+` 语法编译成 `ES2015` 。
+
+[GitHub - sveltejs/svelte at v2.16.1](https://github.com/sveltejs/svelte/tree/v2.16.1)
+[GitHub - vuejs/vue at v2.6.14](https://github.com/vuejs/vue/tree/v2.6.14)
+
+## Ref
+
+```
+https://www.jianshu.com/p/47d9b2a365c5
+https://codeantenna.com/a/HLPhQ1QLmN
+https://zhuanlan.zhihu.com/p/50890781
+https://tehub.com/a/9pRWwHvzmd
+https://www.infoq.cn/article/aqdcer7-okrhdovsf0sm
+https://vue-loader.vuejs.org/zh/options.html#transpileoptions
+https://zhuanlan.zhihu.com/p/21620242
+https://juejin.cn/post/6844903450287800327
+https://webcache.googleusercontent.com/search?q=cache:e5YgQv4HihoJ:https://www.joyk.com/dig/detail/1620543032506264&cd=4&hl=zh-CN&ct=clnk&gl=jp
+https://bobi.ink/2019/10/01/babel/
+http://www.alloyteam.com/2017/04/analysis-of-babel-babel-overview/
+http://ldllidonglin.github.io/blog/2019/12/08/2019-12-08-JavaScript%E4%B8%AD%E7%9A%84AST/
+https://www.zhihu.com/question/49382420
+https://www.zhihu.com/question/51435295
+```

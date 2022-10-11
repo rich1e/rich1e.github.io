@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "workspace.md",
+            "file": "buble.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspace.md",
+                "file": "buble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspace.md",
+                "file": "buble.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspace.md"
+                "file": "buble.md"
               }
             }
           },
@@ -138,12 +138,12 @@
   },
   "active": "15ee2a034e72037c",
   "lastOpenFiles": [
+    "workspace.md",
     "undone/Obsidian.md",
     "HomePage.md",
     "2022/2022 learn.md",
     "travel/岛国游.md",
     "images/brew/image-20210823105836540.png",
-    "workspace.md",
     "undone/Oh My Zsh.md",
     "undone/Git.md",
     "undone/VuePress.md",
