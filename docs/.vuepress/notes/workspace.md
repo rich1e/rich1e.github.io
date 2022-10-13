@@ -1,3 +1,41 @@
+## 20221013
+
+功能流程：
+
+
+```mermaid
+graph LR
+模型器件 --> 建模
+材料 --> 建模
+波形 --> 建模
+模式源 --> 建模
+监视器 --> 建模
+Port --> 建模
+PML/PEC边界设置 --> 建模
+建模 ==> 配置
+配置 ==> 计算
+计算 --> 网格剖分
+计算 --> 仿真结果
+计算 --> 参数扫描
+```
+
+```mermaid
+sequenceDiagram
+　　　participant Alice
+　　　participant Bob
+　　　Alice->John:Hello John, how are you?
+　　　loop Healthcheck
+　　　　　John->John:Fight against hypochondria
+　　　end
+　　　Note right of John:Rational thoughts <br/>prevail...
+　　　John-->Alice:Great!
+　　　John->Bob: How about you?
+　　　Bob-->John: Jolly good!
+```
+
+
+
+
 ## 20221012
  
 10 月工作任务：
@@ -28,20 +66,6 @@ Orca 功能模块：
 	- 参数扫描（Optimizations and Sweeps）
 	- 任务树（Task Tree）
 
-功能流程：
-
-1. 建模
-	1. 模型器件
-	2. 材料
-	3. 模式源
-	4. 监视器
-2. 仿真
-	1. 算法模拟
-	2. 网格剖分
-3. 计算
-	1. 仿真结果
-	2. 参数扫描
-	3. 任务检查
 
 ## 20221011
 整体优化方案

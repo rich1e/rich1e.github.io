@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "workspace.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspace.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspace.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspace.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -138,11 +138,11 @@
   },
   "active": "15ee2a034e72037c",
   "lastOpenFiles": [
+    "workspace.md",
+    "HomePage.md",
     "frontend/混合开发.md",
     "frontend/前端代码构建部署.md",
     "frontend/当下还有人知道 buble 吗？.md",
-    "workspace.md",
-    "HomePage.md",
     "undone/Obsidian.md",
     "2022/2022 learn.md",
     "travel/岛国游.md",
