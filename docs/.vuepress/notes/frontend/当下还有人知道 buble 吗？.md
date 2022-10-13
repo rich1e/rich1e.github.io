@@ -1,3 +1,6 @@
+“俱往矣，数风流人物，还看今朝。“，这句话很好的总结了前端领域的境况。
+jQuery、Backbone、Knockout 等框架基本被淘汰，当前均是 Vue、React 之流，亦或者 Svelte ，再者基于此的新一代框架 Solid、Astro、Next、Remix。
+
 ## JavaScript Compiler
 
 - [bublé](https://buble.surge.sh/) - The blazing fast, batteries-included ES2015 compiler
@@ -19,6 +22,12 @@
 
 [GitHub - sveltejs/svelte at v2.16.1](https://github.com/sveltejs/svelte/tree/v2.16.1)
 [GitHub - vuejs/vue at v2.6.14](https://github.com/vuejs/vue/tree/v2.6.14)
+
+## Javascript Bundler
+
+- [rollup.js](https://rollupjs.org/guide/en/) - Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the standardized ES module format for code, instead of previous idiosyncratic solutions such as CommonJS and AMD. ES modules let you freely and seamlessly combine the most useful individual functions from your favorite libraries. Rollup can optimize ES modules for faster native loading in modern browsers, or output a legacy module format allowing ES module workflows today.
+- [webpack](https://webpack.js.org/) - Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+- [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/) - TypeScript is JavaScript with syntax for types.
 
 ## Ref
 

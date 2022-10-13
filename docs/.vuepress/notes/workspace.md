@@ -1,3 +1,49 @@
+## 20221012
+ 
+10 月工作任务：
+- Orca 业务功能流程图和依赖接口时序图
+- visualizer 组件优化：VTable.vue、VController.vue
+- Orca 功能检查和优化建议
+
+Orca 功能模块：
+- CAD 建模
+	- 模型器件（Structures）
+	- 模式源（Source）
+	- 监视器（Monitor）
+	- 解算器（Port）
+	- 网格剖分（Remesh）
+	- 材料管理（Material）
+	- 波形（Waveforms）
+- 算法模拟器（Simulation）
+	- FDTD
+	- EME
+	- FDE
+- 栏目/视窗
+	- 菜单栏
+	- 快捷栏
+	- 工具栏
+	- 状态栏
+	- objects展示列表（Objects Tree）
+	- 仿真结果（Results View）
+	- 参数扫描（Optimizations and Sweeps）
+	- 任务树（Task Tree）
+
+功能流程：
+
+1. 建模
+	1. 模型器件
+	2. 材料
+	3. 模式源
+	4. 监视器
+2. 仿真
+	1. 算法模拟
+	2. 网格剖分
+3. 计算
+	1. 仿真结果
+	2. 参数扫描
+	3. 任务检查
+
+## 20221011
 整体优化方案
 
 -   项目工程结构优化
@@ -14,7 +60,23 @@
 
 > 主要是2方面的优化：1) Typescript 改造和补充类型定义; 2) template 逻辑优化；
 
+## 20221010
 
+- 代码追溯大会
+- 熟悉 orca 代码
+
+## 20221009
+
+- 电脑环境配置
+- 获取代码，并启动项目
+- 新人培训：光电芯片知识
+
+## 20221008
+
+- 公司入职
+- 新人入职材料
+- 门禁卡
+- 开通 IT 权限：电脑密码，代码仓库访问权限
 
 ```
 https://juejin.cn/post/6924156555617271821#heading-10
