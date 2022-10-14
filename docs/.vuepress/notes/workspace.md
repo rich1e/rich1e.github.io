@@ -1,3 +1,15 @@
+## 20221014
+
+Orca 插件化思考？
+- [大型 Web 应用插件化架构探索 - 掘金](https://juejin.cn/post/6916863150872592392)
+- [前端进阶：跟着开源项目学习插件化架构 - 掘金](https://juejin.cn/post/6844904196689379335)
+- [前端插件化架构的探索和实践（上篇） - 掘金](https://juejin.cn/post/6867718721348042765)
+- [前端插件化架构的思考 - 掘金](https://juejin.cn/post/6844904090275676168)
+- [实现前端插件化架构设计，将需求开发「交给别人」 - 掘金](https://juejin.cn/post/7118929960038842381)
+- [插件化设计模式在前端领域的应用](https://webfe.kujiale.com/cha-jian-hua-she-ji-mo-shi-zai-qian-duan-ling-yu-de-ying-yong/)
+
+[前端百万级数据导出 Excel 方案](https://www.jianshu.com/p/aa5fb13e92e5)
+
 ## 20221013
 
 功能流程：

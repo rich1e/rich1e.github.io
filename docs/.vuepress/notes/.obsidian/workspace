@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "workspace.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "workspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "workspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "workspace.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "15ee2a034e72037c",
   "lastOpenFiles": [
+    "Api.md",
     "workspace.md",
     "HomePage.md",
     "frontend/混合开发.md",
@@ -146,7 +147,6 @@
     "undone/Obsidian.md",
     "2022/2022 learn.md",
     "travel/岛国游.md",
-    "images/brew/image-20210823105836540.png",
-    "undone/Oh My Zsh.md"
+    "images/brew/image-20210823105836540.png"
   ]
 }
