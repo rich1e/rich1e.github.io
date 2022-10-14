@@ -8,7 +8,54 @@ Orca 插件化思考？
 - [实现前端插件化架构设计，将需求开发「交给别人」 - 掘金](https://juejin.cn/post/7118929960038842381)
 - [插件化设计模式在前端领域的应用](https://webfe.kujiale.com/cha-jian-hua-she-ji-mo-shi-zai-qian-duan-ling-yu-de-ying-yong/)
 
-[前端百万级数据导出 Excel 方案](https://www.jianshu.com/p/aa5fb13e92e5)
+
+
+
+```markdown
+https://juejin.cn/post/7088191101316071432
+https://zhuanlan.zhihu.com/p/451428555
+http://t.zoukankan.com/exmyth-p-9006498.html
+http://max-optics.gitee.io/aquaman/components/context-menu.html#props
+https://www.google.com/search?q=%E5%85%89%E7%94%B5%E8%8A%AF%E7%89%87+%E4%BB%BF%E7%9C%9F%E8%BD%AF%E4%BB%B6+%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1&newwindow=1&hl=zh-CN&biw=1920&bih=858&sxsrf=ALiCzsaJn97G78c2GYm_YfHTSoVlIWLwQA%3A1665566154908&ei=yoVGY_qGN4r8wQOLxJbABQ&ved=0ahUKEwj6k424rdr6AhUKfnAKHQuiBVg4ChDh1QMIDg&uact=5&oq=%E5%85%89%E7%94%B5%E8%8A%AF%E7%89%87+%E4%BB%BF%E7%9C%9F%E8%BD%AF%E4%BB%B6+%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEKIEMgUIABCiBDIHCAAQHhCiBDIFCAAQogQ6CAgAEKIEELADOgoIABAeEKIEELADOgUIIRCgAUoECEEYAUoECEYYAFC9NVjBTmDHUmgJcAB4AIABiAKIAagQkgEGMC4xMC4ymAEAoAEByAEEwAEB&sclient=gws-wiz
+https://www.cadence.com/zh_CN/home/solutions/photonics.html
+https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/solutions/photonics-brochure.pdf
+https://www.google.com/search?q=%E7%BF%BB%E8%AF%91&newwindow=1&sxsrf=ALiCzsZdG1DYdSVGixdOfZvLTz9R3zYaMQ%3A1665567112597&ei=iIlGY-GYJPPVkPIPqZ6VqAs&oq=fan&gs_lcp=Cgdnd3Mtd2l6EAMYATIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDILCC4QgAQQxwEQ0QMyBQgAEIAEMgUILhCABDIFCC4QgAQyBQguEIAEMgUIABCABDoKCAAQRxDWBBCwAzoNCAAQ5AIQ1gQQsAMYAToHCCMQ6gIQJzoECCMQJzoHCC4Q1AIQQzoECC4QQ0oECE0YAUoECEEYAEoECEYYAVDAIliqL2DLQmgDcAF4AIABogOIAawJkgEFMy0xLjKYAQCgAQGwAQrIAQ_AAQHaAQYIARABGAk&sclient=gws-wiz
+https://zhuanlan.zhihu.com/p/184982641
+https://cheogo.github.io/learn-javascript/201710/gc.html
+http://192.168.91.37/#/MyProject
+http://192.168.91.37/orca/#/
+https://www.google.com/search?q=Obsidian+mermaid+%E4%BD%BF%E7%94%A8&newwindow=1&biw=1920&bih=858&sxsrf=ALiCzsa7QwdQYraz-pMvlwOEVXit_V59pA%3A1665629752112&ei=OH5HY7PDBsvVkPIPuL25oAY&ved=0ahUKEwizv86tmtz6AhXLKkQIHbheDmQ4ChDh1QMIDg&uact=5&oq=Obsidian+mermaid+%E4%BD%BF%E7%94%A8&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEKABEAoyBwghEKABEAo6CggAEEcQ1gQQsAM6BAgjECc6CAgAEIAEEMsBOgUIIRCgAUoECEEYAEoECEYYAFDR_hBYs5wRYIieEWgDcAF4AIABrQKIAaERkgEFMi04LjGYAQCgAQHIAQrAAQE&sclient=gws-wiz
+https://publish.obsidian.md/chinesehelp/08+%E9%AB%98%E9%98%B6%E6%95%99%E7%A8%8B/%E5%A6%82%E4%BD%95%E4%B8%8Ezotero%E8%BF%9E%E7%94%A8
+https://publish.obsidian.md/csj-obsidian/0+-+Obsidian/Mermaid/Mermaid+%E6%B5%81%E5%9B%BE
+https://www.cnblogs.com/wuyida/p/6301240.html
+https://www.google.com/search?q=zotero+github+sync&lr=lang_zh-CN&newwindow=1&biw=1920&bih=862&tbs=lr%3Alang_1zh-CN&sxsrf=ALiCzsbq_nXhoJfiZW9Kkw8xvrrhsADjHQ%3A1665727331773&ei=Y_tIY_rwLundkPIPo_OKuA0&oq=zotero+github&gs_lcp=Cgdnd3Mtd2l6EAMYATIICAAQgAQQywEyBAgAEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQBRAeOgoIABBHENYEELADOgQIIxAnOgUIABCABDoECAAQQzoKCAAQgAQQChDLAToFCCEQoAFKBAhBGABKBAhGGABQgAZY2CJgiTJoAXABeACAAYUCiAGcEZIBBTAuMS45mAEAoAEByAEKwAEB&sclient=gws-wiz
+https://chempeng.github.io/post/2022/01/09/logseq-%E7%9A%84-zotero-%E9%85%8D%E7%BD%AE%E5%8F%8A-git-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%90%8C%E6%AD%A5/
+https://github.com/specter119/RefTools/blob/master/zotero/sync.md
+https://zhuanlan.zhihu.com/p/103024244
+https://tszv.vercel.app/pages/9c6596/#%E6%8F%92%E4%BB%B6
+https://sspai.com/post/72540?utm_source=wechat&utm_medium=social
+https://sspai.com/post/72951
+https://sspai.com/post/69503
+https://www.google.com/search?q=Zotero+%E6%8F%92%E4%BB%B6&newwindow=1&sxsrf=ALiCzsYv3f556f9pdGcNrho8lvIkbeNvKQ%3A1665728359528&ei=Z_9IY_T9H5DfkPIPzYyiyAg&ved=0ahUKEwi0zaXZid_6AhWQL0QIHU2GCIkQ4dUDCA4&uact=5&oq=Zotero+%E6%8F%92%E4%BB%B6&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6CggAEEcQ1gQQsAM6DQgAEOQCENYEELADGAE6BAgjECc6CAgAEIAEEMsBOgoIABCABBAKEMsBOgUIABCABEoECE0YAUoECEEYAEoECEYYAVCiB1iQJWCHJ2gDcAF4AIABkQKIAfcNkgEDMi04mAEAoAEByAERwAEB2gEGCAEQARgJ&sclient=gws-wiz
+https://www.zhihu.com/question/402589277
+https://github.com/windingwind/zotero-pdf-preview
+https://zhuanlan.zhihu.com/p/480911605
+https://www.google.com/search?q=mock+%E7%99%BE%E4%B8%87%E7%BA%A7+excel&newwindow=1&biw=1920&bih=862&sxsrf=ALiCzsY7qVSNa7VYuPucZ3rKV2CjIj1BnA%3A1665733350978&ei=5hJJY-ilO5vjkPIPkbqhkA8&ved=0ahUKEwjosLOlnN_6AhWbMUQIHRFdCPIQ4dUDCA4&uact=5&oq=mock+%E7%99%BE%E4%B8%87%E7%BA%A7+excel&gs_lcp=Cgdnd3Mtd2l6EAM6CAgAEKIEELADOgUIABCiBEoECEEYAUoECEYYAFCGC1ieL2CKMWgCcAB4AIAB-QGIAY4LkgEDMi02mAEAoAEByAECwAEB&sclient=gws-wiz
+https://www.jianshu.com/p/aa5fb13e92e5
+https://juejin.cn/post/7080471587249455135#heading-4
+https://demo.grapecity.com.cn/SpreadJS/WebDesigner/index.html
+https://juejin.cn/post/6991834017825832974#heading-9
+https://github.com/dream-num/Luckysheet
+https://dream-num.github.io/LuckyexcelDemo/
+https://gitee.com/mengshukeji/Luckysheet
+http://127.0.0.1:5173/
+https://translate.google.com/?langpair=auto%7Cauto&text=Currently%20only%20supports%20the%20import%20of%20xlsx%20files
+https://www.google.com/search?q=file-saver+excel&newwindow=1&sxsrf=ALiCzsaTrXKz0L86sVGD5_owENpJRj4FBg%3A1665744225525&ei=YT1JY4XgH5nbkPIP8eORwA8&oq=file-saver++excel&gs_lcp=Cgdnd3Mtd2l6EAMYADIICAAQgAQQywEyCAgAEAUQHhAKMgYIABAIEB4yCAgAEAUQHhAKMgYIABAFEB4yBggAEAgQHjoKCAAQRxDWBBCwAzoFCAAQgAQ6BwgAEIAEEAo6BAgAEB46BggAEB4QCkoECEEYAEoECEYYAFCBCFjpMmDDZmgBcAF4AIAB4AGIAc8LkgEDMi03mAEAoAEByAEKwAEB&sclient=gws-wiz
+https://github.com/eligrey/FileSaver.js/issues/275
+https://www.wix.com/velo/forum/tips-tutorials-examples/export-custom-excel-files-using-exceljs-and-file-saver-npm-packages
+https://stackoverflow.com/questions/33495979/save-excel-file-using-filesaver-js
+https://github.com/eligrey/FileSaver.js/
+```
 
 ## 20221013
 
