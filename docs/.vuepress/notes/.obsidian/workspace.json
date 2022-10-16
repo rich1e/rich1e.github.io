@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "6ba69e80e9ab15be",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bb605d9e08f9eb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ee2a034e72037c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e0fff3b9262e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ecb84c18b19b196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff79eed57216ec75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2ef5fe60b318861",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "obsi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c7a3fcdb591f263",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "064593a9d8021565",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce6debe408e99df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad3946728bac7730",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "workspace.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0298cee4185a062",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "workspace.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b41c86c4f8f7da6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47a0b26365126ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "workspace.md"
+              }
+            }
+          },
+          {
+            "id": "21d36ea2fedabd7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "15ee2a034e72037c",
+  "lastOpenFiles": [
+    "HomePage.md",
+    "workspace.md",
+    "Api.md",
+    "frontend/混合开发.md",
+    "frontend/前端代码构建部署.md",
+    "frontend/当下还有人知道 buble 吗？.md",
+    "undone/Obsidian.md",
+    "2022/2022 learn.md",
+    "travel/岛国游.md",
+    "images/brew/image-20210823105836540.png"
+  ]
+}
