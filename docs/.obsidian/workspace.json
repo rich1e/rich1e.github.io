@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6ba69e80e9ab15be",
+    "id": "43eddddfe0c3e1ca",
     "type": "split",
     "children": [
       {
-        "id": "8d457462083153df",
+        "id": "74e9cf23093ec756",
         "type": "tabs",
         "children": [
           {
-            "id": "9c1297e92c71d7a5",
+            "id": "33db52b1faad7bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary.md",
+                "file": "workspace/前端开发调试新姿势-VS_Code_Remote_Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c7e0fff3b9262e8b",
+    "id": "abc4afb01c4b33d3",
     "type": "split",
     "children": [
       {
-        "id": "7ecb84c18b19b196",
+        "id": "69f1cf57e34b5df1",
         "type": "tabs",
         "children": [
           {
-            "id": "ff79eed57216ec75",
+            "id": "3c15a0174a5fc0c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "c2ef5fe60b318861",
+            "id": "b54bb6df5ce2207b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "obsi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7c7a3fcdb591f263",
+            "id": "a1ec0547001aeb94",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 300
   },
   "right": {
-    "id": "064593a9d8021565",
+    "id": "33e5076f7896c904",
     "type": "split",
     "children": [
       {
-        "id": "0ce6debe408e99df",
+        "id": "d0537bb764877783",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3946728bac7730",
+            "id": "8f651de065030e11",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary.md",
+                "file": "workspace/前端开发调试新姿势-VS_Code_Remote_Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "e0298cee4185a062",
+            "id": "cf36c21e5af922f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary.md",
+                "file": "workspace/前端开发调试新姿势-VS_Code_Remote_Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8b41c86c4f8f7da6",
+            "id": "07d8e838ca812ab1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +120,13 @@
             }
           },
           {
-            "id": "47a0b26365126ab3",
+            "id": "3cb1fae3a43ff2b6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary.md"
+                "file": "workspace/前端开发调试新姿势-VS_Code_Remote_Development.md"
               }
-            }
-          },
-          {
-            "id": "21d36ea2fedabd7e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
@@ -142,22 +134,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9c1297e92c71d7a5",
+  "active": "33db52b1faad7bd3",
   "lastOpenFiles": [
-    "images/diary_20221017/Pasted image 20221017165120.png",
-    "Diary.md",
-    "HomePage.md",
-    "images/diary_20221017/Pasted image 20221017151640.png",
-    "images/diary_20221017/Pasted image 20221017150236.png",
-    "2022/Alienware.md",
-    "workspce/Api.md",
-    "images/Pasted image 20221016185201.png",
-    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
-    "frontend/前端数据请求方式.md"
+    "@images/workspace/image-20211208233414103.png.md",
+    "workspace/搭建Blog.md",
+    "handwritten-code/function.prototype.apply().md"
   ]
 }

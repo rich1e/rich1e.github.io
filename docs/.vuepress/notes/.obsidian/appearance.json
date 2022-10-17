@@ -1,5 +1,6 @@
 {
   "translucency": true,
-  "cssTheme": "Things",
-  "accentColor": ""
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "theme": "obsidian"
 }
