@@ -27,3 +27,17 @@ export default defineConfig({
 ## 基于vite2+react+typescript前端开发工程化（一）
 
 > https://zhuanlan.zhihu.com/p/486956624
+
+## 在vite项目实现vue函数和组件库的自动按需导入
+
+> [在vite项目实现vue函数和组件库的自动按需导入 - 掘金](https://juejin.cn/post/7025837638540066824)
+
+Ref
+```
+https://yyge.top/blog/2021/03/31/vue3-vite-ts%E9%87%87%E5%9D%91%E9%9B%86%E9%94%A6/
+https://dj49846917.github.io/2021/01/04/vue3/vue3/
+https://www.jianshu.com/p/b6298cbd1e8e
+https://ithelp.ithome.com.tw/articles/10278764?sc=iThelpR
+https://toutiao.io/posts/tsed4nm/preview
+https://www.codeleading.com/article/74935574169/
+```

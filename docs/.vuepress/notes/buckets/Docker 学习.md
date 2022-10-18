@@ -24,3 +24,4 @@
 
 [Docker部署node程序+PM2守护进程+mongodb数据库](https://blog.csdn.net/qq_42427109/article/details/98947520)
 
+[node.js - Docker - 入门（二），docker&nodeJs制作镜像与本地部署_个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000022873951)

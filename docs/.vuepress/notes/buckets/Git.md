@@ -229,3 +229,23 @@ IdentityFile ~/.ssh/id_max_optics_yuqigong
 https://gist.github.com/jexchan/2351996
 
 https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/
+
+##  Pulling without specifying how to reconcile divergent branches
+
+[Git问题解决方案:不建议在没有为偏离分支指定合并策略时执行pull操作(Pulling without specifying how to reconcile divergent branches)_快乐李同学(李俊德-大连理工大学)的博客-CSDN博客](https://blog.csdn.net/wq6ylg08/article/details/114106272)
+
+## Git 修改已提交的 commit 信息，包括作者、邮箱
+
+> https://www.silinchen.com/post/git-amend-commit-info-author-email
+
+[如何在github上进行Pull Request（PR）操作，参与到开源项目中_tinygodd的博客-CSDN博客_pr request](https://blog.csdn.net/u011923621/article/details/106671789)
+[jaywcjlove/git-tips: 这里是我的笔记，记录一些git常用和一些记不住的命令。](https://github.com/jaywcjlove/git-tips)
+[优雅地修改他人贡献的 Pull Request | Liuyib's Blog](https://liuyib.github.io/2020/09/19/add-commits-to-others-pr/)
+[[已解决]如何修改人家贡献的PR，不想先合并再修改 - COS论坛 | 统计之都 | 统计与数据科学论坛](https://d.cosx.org/d/420363-pr)
+[github提交PR（pull request）过程和问题_51CTO博客_github pull request](https://blog.51cto.com/u_3664660/3215035)
+[github----向开源框架提交pr的过程_vim_wj的博客-CSDN博客](https://blog.csdn.net/vim_wj/article/details/78300239)
+[github提交pr的流程 - 简书](https://www.jianshu.com/p/21ce90f2a5b7)
+[配置git-credentials完成git身份认证 - sbw Blog](https://blog.sbw.so/u/use-git-credentials-auth-system.html)
+[Windows で git の認証情報を保存させない](http://var.blog.jp/archives/81784650.html)
+[git push失败：Out of memory, malloc failed (tried to allocate 947912704 bytes)_wqdsb的博客-CSDN博客](https://blog.csdn.net/qq_28929579/article/details/105516511)
+[git push的时候报错： Out of memory, malloc failed (tried to allocate 82037333 bytes) - maycpou - 博客园](https://www.cnblogs.com/maycpou/p/11430666.html)

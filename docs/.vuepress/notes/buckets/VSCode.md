@@ -98,6 +98,13 @@ https://www.qikqiak.com/post/use-vscode-remote-dev-debug/
 > https://github.com/OBKoro1/koro1FileHeader/
 > https://blog.csdn.net/jagger_guo/article/details/104733434
 
+## 在vscode中配置LeetCode插件，从此愉快地刷题
+
+```
+https://juejin.cn/post/6844904105782018055
+```
+
+
 ## 参考
 
 https://zhuanlan.zhihu.com/p/54164612

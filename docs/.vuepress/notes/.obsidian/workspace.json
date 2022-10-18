@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c1297e92c71d7a5",
+            "id": "e86646d645ce7c19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary.md",
-                "mode": "source",
-                "source": false
+                "file": "HomePage.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -64,8 +64,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7906763b87e2c80c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary.md"
+                "file": "HomePage.md"
               }
             }
           },
@@ -147,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9c1297e92c71d7a5",
+  "active": "7906763b87e2c80c",
   "lastOpenFiles": [
-    "images/diary_20221017/Pasted image 20221017165120.png",
-    "Diary.md",
+    "workspce/Mobile Development.md",
+    "workspce/Front-end Technology.md",
+    "workspce/Daily Record.md",
+    "workspce/Buckets.md",
+    "workspce/Archives File.md",
     "HomePage.md",
-    "images/diary_20221017/Pasted image 20221017151640.png",
-    "images/diary_20221017/Pasted image 20221017150236.png",
-    "2022/Alienware.md",
-    "workspce/Api.md",
-    "images/Pasted image 20221016185201.png",
-    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
-    "frontend/前端数据请求方式.md"
+    "buckets/daily/2022-10-18_Tuesday.md",
+    "buckets/templates/Obsidian使用：日记模板.md",
+    "buckets/Max-Optics Api.md",
+    "buckets/Javascrip 装饰器.md"
   ]
 }

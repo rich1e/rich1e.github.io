@@ -1,0 +1,30 @@
+{
+  "recentFiles": [
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Mobile Development",
+      "path": "workspce/Mobile Development.md"
+    },
+    {
+      "basename": "Front-end Technology",
+      "path": "workspce/Front-end Technology.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Buckets",
+      "path": "workspce/Buckets.md"
+    },
+    {
+      "basename": "Archives File",
+      "path": "workspce/Archives File.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

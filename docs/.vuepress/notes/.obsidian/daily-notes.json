@@ -1,0 +1,5 @@
+{
+  "format": "YYYY-MM-DD_dddd",
+  "folder": "buckets/daily",
+  "template": "buckets/templates/Obsidian使用：日记模板"
+}

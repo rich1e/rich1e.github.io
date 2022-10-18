@@ -48,3 +48,8 @@ https://juejin.cn/post/6989461400535973896
 https://zhuanlan.zhihu.com/p/386521483
 https://segmentfault.com/a/1190000040592329
 https://juejin.cn/post/7002052568629116965
+
+[TypeScript - Enum to Array - DEV Community 👩‍💻👨‍💻](https://dev.to/joaozitopolo/typescript-enum-to-array-42jg)
+[模式匹配-让你 ts 类型体操水平暴增的套路 - 掘金](https://juejin.cn/post/7045536402112512007)
+
+[基于 VUE3+TS 开发的音乐播放器，界面模仿QQ音乐mac客户端。 - 掘金](https://juejin.cn/post/7074062428249522207)
