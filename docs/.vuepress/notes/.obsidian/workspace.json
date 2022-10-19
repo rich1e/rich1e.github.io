@@ -4,22 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "8d457462083153df",
-        "type": "tabs",
+        "id": "a0c000061f7a4f47",
+        "type": "split",
         "children": [
           {
-            "id": "e86646d645ce7c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomePage.md",
-                "mode": "preview",
-                "source": true
+            "id": "44ccd82035aa246e",
+            "type": "tabs",
+            "dimension": 56.00000000000001,
+            "children": [
+              {
+                "id": "8716702610da8bf6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "workspce/Kanban.md"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "13e8eda8a023b2f6",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "ce0237dc8f18a771",
+            "type": "split",
+            "dimension": 44,
+            "children": [
+              {
+                "id": "407f3574ed32ad7f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0e8ae64d066956a7",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "HomePage.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "216de080366811ae",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "workspce/Daily Record.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ],
+                "currentTab": 1,
+                "stacked": true
+              },
+              {
+                "id": "6e227f9ee0584db0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "daabbc0cd8e02983",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "workspce/Draft.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "8c87d5010e343a15",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "workspce/Mind Map.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -73,12 +167,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 200
   },
   "right": {
     "id": "064593a9d8021565",
@@ -94,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -145,9 +238,31 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7d2705af45226db7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "99022f2b9cdd4d81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993b8743a6a39edf",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,17 +271,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7906763b87e2c80c",
+  "active": "216de080366811ae",
   "lastOpenFiles": [
-    "workspce/Mobile Development.md",
-    "workspce/Front-end Technology.md",
-    "workspce/Daily Record.md",
-    "workspce/Buckets.md",
-    "workspce/Archives File.md",
     "HomePage.md",
-    "buckets/daily/2022-10-18_Tuesday.md",
-    "buckets/templates/Obsidian使用：日记模板.md",
-    "buckets/Max-Optics Api.md",
-    "buckets/Javascrip 装饰器.md"
+    "workspce/Daily Record.md",
+    "buckets/work/Reflect Metadata.md",
+    "workspce/Draft.md",
+    "buckets/work/RxJS.md",
+    "workspce/Kanban.md",
+    "workspce/Mind Map.md",
+    "Untitled 1.md",
+    "buckets/excalidraw/Drawing 2022-10-19 14.00.10.excalidraw.md",
+    "Day Planners/Day Planner-20221019.md"
   ]
 }

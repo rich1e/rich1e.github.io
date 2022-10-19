@@ -12,5 +12,11 @@
   "dataview",
   "obsidian-collapse-all-plugin",
   "obsidian-banners",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "calendar",
+  "periodic-notes",
+  "obsidian-day-planner",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "obsidian-mind-map"
 ]

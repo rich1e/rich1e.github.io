@@ -1,0 +1,261 @@
+{
+  "workspaces": {
+    "Workbench": {
+      "main": {
+        "id": "6ba69e80e9ab15be",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0c000061f7a4f47",
+            "type": "split",
+            "children": [
+              {
+                "id": "44ccd82035aa246e",
+                "type": "tabs",
+                "dimension": 48.205128205128204,
+                "children": [
+                  {
+                    "id": "238b57878074bfa0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "buckets/excalidraw/Drawing 2022-10-19 14.00.10.excalidraw.md"
+                      }
+                    }
+                  },
+                  {
+                    "id": "8716702610da8bf6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Kanban.md"
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "ce0237dc8f18a771",
+                "type": "split",
+                "dimension": 51.7948717948718,
+                "children": [
+                  {
+                    "id": "407f3574ed32ad7f",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "0e8ae64d066956a7",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "HomePage.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      },
+                      {
+                        "id": "216de080366811ae",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "workspce/Daily Record.md",
+                            "mode": "preview",
+                            "source": false
+                          }
+                        }
+                      }
+                    ],
+                    "currentTab": 1,
+                    "stacked": true
+                  },
+                  {
+                    "id": "6e227f9ee0584db0",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "daabbc0cd8e02983",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Draft.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c7e0fff3b9262e8b",
+        "type": "split",
+        "children": [
+          {
+            "id": "7ecb84c18b19b196",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ff79eed57216ec75",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c2ef5fe60b318861",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "obsi",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7c7a3fcdb591f263",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7906763b87e2c80c",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "064593a9d8021565",
+        "type": "split",
+        "children": [
+          {
+            "id": "0ce6debe408e99df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ad3946728bac7730",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Draft.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0298cee4185a062",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Draft.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8b41c86c4f8f7da6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "47a0b26365126ab3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Draft.md"
+                  }
+                }
+              },
+              {
+                "id": "21d36ea2fedabd7e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7d2705af45226db7",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "99022f2b9cdd4d81",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "993b8743a6a39edf",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 348.5
+      },
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "daabbc0cd8e02983"
+    }
+  },
+  "active": "Workbench"
+}
