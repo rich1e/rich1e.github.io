@@ -1,0 +1,68 @@
+{
+  "choices": [
+    {
+      "id": "c6d5b8fa-c43e-41b4-b4be-3c658466246a",
+      "name": "Create Day Planner",
+      "type": "Template",
+      "command": false,
+      "templatePath": "buckets/templates/Obsidian：Day Planner Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Day Planner-{{DATE:YYYYMMDD}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Day Planner"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "e63fd5f4-8e47-44aa-89c0-cca628371e36",
+      "name": "Create Daily Record",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "workspce/Daily Record.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "\\n## {{DATE: YYYYMMDD}} \\n\\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "> Just keep doing.",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "source"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

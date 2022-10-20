@@ -23,6 +23,10 @@ kanban-plugin: basic
 
 
 
+## Inbox
+
+
+
 
 
 %% kanban:settings

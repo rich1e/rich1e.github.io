@@ -5,20 +5,8 @@
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "Reflect Metadata",
-      "path": "buckets/work/Reflect Metadata.md"
-    },
-    {
       "basename": "Draft",
       "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "RxJS",
-      "path": "buckets/work/RxJS.md"
     },
     {
       "basename": "Kanban",
@@ -29,12 +17,36 @@
       "path": "workspce/Mind Map.md"
     },
     {
-      "basename": "Drawing 2022-10-19 14.00.10.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2022-10-19 14.00.10.excalidraw.md"
+      "basename": "Day Planner-20221020",
+      "path": "Day Planner/Day Planner-20221020.md"
+    },
+    {
+      "basename": "Obsidian：Day Planner Template",
+      "path": "buckets/templates/Obsidian：Day Planner Template.md"
     },
     {
       "basename": "Day Planner-20221019",
-      "path": "Day Planners/Day Planner-20221019.md"
+      "path": "Day Planner/Day Planner-20221019.md"
+    },
+    {
+      "basename": "Obsidian：日记模板",
+      "path": "buckets/templates/Obsidian：日记模板.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Reflect Metadata",
+      "path": "buckets/work/Reflect Metadata.md"
+    },
+    {
+      "basename": "RxJS",
+      "path": "buckets/work/RxJS.md"
+    },
+    {
+      "basename": "Drawing 2022-10-19 14.00.10.excalidraw",
+      "path": "buckets/excalidraw/Drawing 2022-10-19 14.00.10.excalidraw.md"
     },
     {
       "basename": "Drawing 2022-10-19 13.53.49.excalidraw",

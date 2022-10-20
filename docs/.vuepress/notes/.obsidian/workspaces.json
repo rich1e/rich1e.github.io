@@ -12,35 +12,34 @@
               {
                 "id": "44ccd82035aa246e",
                 "type": "tabs",
-                "dimension": 48.205128205128204,
+                "dimension": 56.00000000000001,
                 "children": [
-                  {
-                    "id": "238b57878074bfa0",
-                    "type": "leaf",
-                    "state": {
-                      "type": "excalidraw",
-                      "state": {
-                        "file": "buckets/excalidraw/Drawing 2022-10-19 14.00.10.excalidraw.md"
-                      }
-                    }
-                  },
                   {
                     "id": "8716702610da8bf6",
                     "type": "leaf",
+                    "pinned": true,
                     "state": {
                       "type": "kanban",
                       "state": {
-                        "file": "Kanban.md"
-                      }
+                        "file": "workspce/Kanban.md"
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "13e8eda8a023b2f6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "mindmap",
+                      "state": {}
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "ce0237dc8f18a771",
                 "type": "split",
-                "dimension": 51.7948717948718,
+                "dimension": 44,
                 "children": [
                   {
                     "id": "407f3574ed32ad7f",
@@ -49,25 +48,29 @@
                       {
                         "id": "0e8ae64d066956a7",
                         "type": "leaf",
+                        "pinned": true,
                         "state": {
                           "type": "markdown",
                           "state": {
                             "file": "HomePage.md",
-                            "mode": "source",
+                            "mode": "preview",
                             "source": false
-                          }
+                          },
+                          "pinned": true
                         }
                       },
                       {
                         "id": "216de080366811ae",
                         "type": "leaf",
+                        "pinned": true,
                         "state": {
                           "type": "markdown",
                           "state": {
                             "file": "workspce/Daily Record.md",
                             "mode": "preview",
                             "source": false
-                          }
+                          },
+                          "pinned": true
                         }
                       }
                     ],
@@ -81,13 +84,29 @@
                       {
                         "id": "daabbc0cd8e02983",
                         "type": "leaf",
+                        "pinned": true,
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "Draft.md",
+                            "file": "workspce/Draft.md",
                             "mode": "source",
                             "source": false
-                          }
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "8c87d5010e343a15",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "workspce/Mind Map.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "pinned": true
                         }
                       }
                     ]
@@ -170,7 +189,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Draft.md",
+                    "file": "workspce/Daily Record.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -187,7 +206,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Draft.md",
+                    "file": "workspce/Daily Record.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -210,7 +229,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Draft.md"
+                    "file": "workspce/Daily Record.md"
                   }
                 }
               },
@@ -254,7 +273,7 @@
       "ribbon": {
         "mostRecentAction": ""
       },
-      "active": "daabbc0cd8e02983"
+      "active": "216de080366811ae"
     }
   },
   "active": "Workbench"

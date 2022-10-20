@@ -8,5 +8,6 @@
 [如何在 Obsidian 中创建交互式图形 | ReadingHere](https://www.readinghere.com/blog/how-to-create-interactive-charts-in-obsidian/)
 
 
-
-
+[太强了！搞科研、写论文，如何随时随地记录idea、捕捉闪念？_QuickAdd_笔者_笔记](https://www.sohu.com/a/556514140_120714173)
+[Obsidian 插件之 QuickAdd - 知乎](https://zhuanlan.zhihu.com/p/386885976)
+[Obsidian最强插件：QuickAdd - 少数派](https://sspai.com/post/69375)

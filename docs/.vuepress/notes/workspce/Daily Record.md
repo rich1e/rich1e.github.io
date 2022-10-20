@@ -3,6 +3,12 @@ banner: "https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?ixlib=rb-1
 banner_y: 0.504
 ---
 
+> Just keep doing.
+
+##  20221020 
+
+创建 Vite + Vue 项目
+
 ## 20221019
 
 - [[RxJS]]
@@ -55,7 +61,7 @@ C[输入项目名称,点击确认] ==> BT(End)
 
 ![[Pasted image 20221017151356.png]]
 
-- [API Document - circle_summary](http://192.168.91.37/api/circle_summary/) 
+- [API Document - circle_summary](http://192.168.91.37/api/circle_summary/)
 
 ![[Pasted image 20221017151640.png]]
 
@@ -221,7 +227,7 @@ sequenceDiagram
 
 
 ## 20221012
- 
+
 10 月工作任务：
 - Orca 业务功能流程图和依赖接口时序图
 - visualizer 组件优化：VTable.vue、VController.vue

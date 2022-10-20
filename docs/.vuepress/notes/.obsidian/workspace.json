@@ -60,15 +60,13 @@
                   {
                     "id": "216de080366811ae",
                     "type": "leaf",
-                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": false
-                      },
-                      "pinned": true
+                      }
                     }
                   }
                 ],
@@ -171,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -273,15 +271,15 @@
   },
   "active": "216de080366811ae",
   "lastOpenFiles": [
-    "HomePage.md",
-    "workspce/Daily Record.md",
-    "buckets/work/Reflect Metadata.md",
     "workspce/Draft.md",
-    "buckets/work/RxJS.md",
     "workspce/Kanban.md",
+    "workspce/Daily Record.md",
     "workspce/Mind Map.md",
-    "Untitled 1.md",
-    "buckets/excalidraw/Drawing 2022-10-19 14.00.10.excalidraw.md",
-    "Day Planners/Day Planner-20221019.md"
+    "Day Planner/Day Planner-20221020.md",
+    "buckets/templates/Obsidian：Day Planner Template.md",
+    "Day Planner/Day Planner-20221019.md",
+    "Day Planner/Day Planner-2022-10-20.md",
+    "buckets/templates/Obsidian：日记模板.md",
+    "HomePage.md"
   ]
 }
