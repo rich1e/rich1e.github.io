@@ -16,7 +16,6 @@ kanban-plugin: basic
 
 ## Meditate
 
-- [ ] Obsidian 云端同步
 
 
 ## Practice
@@ -25,6 +24,7 @@ kanban-plugin: basic
 
 ## Inbox
 
+- [ ] Obsidian 云端同步
 
 
 

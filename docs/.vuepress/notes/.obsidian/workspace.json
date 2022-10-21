@@ -64,8 +64,8 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
-                        "source": false
+                        "mode": "preview",
+                        "source": true
                       }
                     }
                   }
@@ -85,7 +85,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Draft.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": false
                       },
                       "pinned": true
@@ -140,10 +140,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "workspce/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "workspce/Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "workspce/Draft.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -269,17 +269,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "216de080366811ae",
+  "active": "daabbc0cd8e02983",
   "lastOpenFiles": [
+    "workspce/Daily Record.md",
     "workspce/Draft.md",
     "workspce/Kanban.md",
-    "workspce/Daily Record.md",
+    "HomePage.md",
+    "buckets/excalidraw/Drawing 2022-10-21 14.46.44.excalidraw.md",
+    "buckets/excalidraw/Drawing 2022-10-21 14.45.36.excalidraw.md",
     "workspce/Mind Map.md",
-    "Day Planner/Day Planner-20221020.md",
-    "buckets/templates/Obsidian：Day Planner Template.md",
-    "Day Planner/Day Planner-20221019.md",
-    "Day Planner/Day Planner-2022-10-20.md",
-    "buckets/templates/Obsidian：日记模板.md",
-    "HomePage.md"
+    "buckets/Vue 3 Admin & Components.md",
+    "Day Planner/Day Planner-20221021.md",
+    "Day Planner/Day Planner-20221020.md"
   ]
 }

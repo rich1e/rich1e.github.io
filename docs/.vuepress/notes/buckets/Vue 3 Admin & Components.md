@@ -22,3 +22,8 @@ tags: ["undone","vue","vue3"]
 [vue3+vite2+elementPlus 的新一代的前端框架，It's easy and fast! - 掘金](https://juejin.cn/post/7016911278849409031)
 [真香定律！全局错误日志收集(基础篇) - 掘金](https://juejin.cn/post/7041848992283492382)
 [九. vue后台管理系统中权限控制 - 掘金](https://juejin.cn/post/7059002064378003469)
+
+
+## Open Souce
+
+[GitHub - buqiyuan/vite-vue3-admin: 基于vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面](https://github.com/buqiyuan/vite-vue3-admin)
