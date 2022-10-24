@@ -42,3 +42,14 @@
 [nrwl/nx: Smart, Fast and Extensible Build System](https://github.com/nrwl/nx/)
 [Lerna 5.1 — New website, new guides, new Lerna example repo, distributed caching support and speed! | by Juri Strumpflohner | Nx Devtools](https://blog.nrwl.io/lerna-5-1-new-website-new-guides-new-lerna-example-repo-distributed-caching-support-and-speed-64d66410bec7)
 [[译]用 PNPM Workspaces 替换 Lerna + Yarn - 掘金](https://juejin.cn/post/7071992448511279141#heading-15)
+
+## Mock
+
+[根据ts类型生成mock数据 - Google 搜索](https://www.google.com/search?newwindow=1&sxsrf=ALiCzsYyQi8j9pR8oQZGOPuF4As1DjiJgQ:1666591993979&q=%E6%A0%B9%E6%8D%AEts%E7%B1%BB%E5%9E%8B%E7%94%9F%E6%88%90mock%E6%95%B0%E6%8D%AE&sa=X&ved=2ahUKEwiMi6X-mvj6AhU_DEQIHQy5AQM4ChDVAnoECCIQAQ&biw=1920&bih=862&dpr=1)
+[前端有了这两样神器，再也不用追着后台要接口啦-云社区-华为云](https://bbs.huaweicloud.com/blogs/285679)
+[你还在手写TS类型代码吗 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2020137?cps_key=1d358d18a7a17b4a6df8d67a62fd3d3d)
+[Typescript随时生成Mock数据？ - 掘金](https://juejin.cn/post/6972521427819839501)
+[什么！？TypeScript还可以mock数据！ - 知乎](https://zhuanlan.zhihu.com/p/72412792)
+[json-schema-org/json-schema-spec: The JSON Schema I-D sources](https://github.com/json-schema-org/json-schema-spec)
+[Swagger3.0 自动生成接口 TypeScript 类型声明 - 掘金](https://juejin.cn/post/6954261528426217480)
+[快来了解一下EasyType：开源的基于TypeScript的动态类型反射系统 - CNode技术社区](https://cnodejs.org/topic/5eeef3ea472c7975b04b69e3)

@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Kanban",
       "path": "workspce/Kanban.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Mind Map",
+      "path": "workspce/Mind Map.md"
+    },
+    {
+      "basename": "Day Planner-20221024",
+      "path": "Day Planner/Day Planner-20221024.md"
     },
     {
       "basename": "Drawing 2022-10-21 14.46.44.excalidraw",
@@ -23,10 +31,6 @@
     {
       "basename": "Drawing 2022-10-21 14.45.36.excalidraw",
       "path": "buckets/excalidraw/Drawing 2022-10-21 14.45.36.excalidraw.md"
-    },
-    {
-      "basename": "Mind Map",
-      "path": "workspce/Mind Map.md"
     },
     {
       "basename": "Vue 3 Admin & Components",

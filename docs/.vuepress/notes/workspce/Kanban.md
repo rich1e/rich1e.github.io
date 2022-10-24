@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] orca 功能检查和优化建议
 - [ ] RxJS
 - [ ] Reflect Metadata
+- [ ] InversifyJS
 
 
 ## Meditate
