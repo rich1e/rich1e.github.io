@@ -22,3 +22,17 @@ curl -vv https://www.google.com
 [clash订阅转换搭建 - liuliのsite](https://back2me.cn/skills/clash.html)
 [tindy2013/subconverter: Utility to convert between various subscription format](https://github.com/tindy2013/subconverter)
 [CareyWang/sub-web](https://github.com/CareyWang/sub-web#Docker)
+
+## FQA
+
+![[a1675046c.png]]
+
+服务日志如下：
+
+1. 验证服务版本。`curl http://localhost:25500/version`
+2. 验证数据转化。`curl http://localhost:25500/sub\?target\=yourpath`
+3. 获取订阅节点信息。
+4. 返回节点信息：`The following link doesn't contain any valid node info` 以下链接不包含任何有效的节点信息
+
+通过日志可以了解，订阅节点获取失败，即转化 Clash 订阅信息失败。因此，如果订阅节点没有问题，那么问题就引刃而解。
+检查发现，Clash 作为系统代理，现在订阅节点出问题，导致代理连接失败。关闭 Clash 后，连接订阅节点是没问题的。然后，重试第2个步骤，发现 Clash 订阅信息转化成功，再打开 Clash，代理就成功了。

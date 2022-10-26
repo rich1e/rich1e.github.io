@@ -1,6 +1,6 @@
 ## Front-end Engineering & MVC
 
-
+[inversifyJS](https://darukjs.com/tutorial/decorator.html)
 
 ## Obsidian
 
@@ -36,9 +36,9 @@
 [【工具】Il2CppDumper for mac/linux_李华明Himi的技术博客_51CTO博客](https://blog.51cto.com/xiaominghimi/2524877)
 [.net core 多sdk 多版本 环境切换_Igor Sun的博客-CSDN博客_.net core 切换版本](https://blog.csdn.net/deflypig/article/details/121448903)
 [Ildasm.exe（IL 反汇编程序） - .NET Framework | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/framework/tools/ildasm-exe-il-disassembler)
+[Linux中记录终端输出到文本文件【重定向，管道】_YDQN的博客-CSDN博客_linux管道输出到文件](https://blog.csdn.net/LOVE1055259415/article/details/80060204)
 
-
-## Lerna Workspace by Monorepo
+## Monorepo Workspace by Lerna
 
 [淘系前端架构 - 周刊 - 210719 期 - 知乎](https://zhuanlan.zhihu.com/p/390985804)
 [lerna/lerna: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.](https://github.com/lerna/lerna)

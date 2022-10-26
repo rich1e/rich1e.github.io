@@ -10,7 +10,7 @@
           {
             "id": "44ccd82035aa246e",
             "type": "tabs",
-            "dimension": 56.00000000000001,
+            "dimension": 51.79119754350051,
             "children": [
               {
                 "id": "8716702610da8bf6",
@@ -37,7 +37,7 @@
           {
             "id": "ce0237dc8f18a771",
             "type": "split",
-            "dimension": 44,
+            "dimension": 48.20880245649949,
             "children": [
               {
                 "id": "407f3574ed32ad7f",
@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -180,6 +181,7 @@
       {
         "id": "0ce6debe408e99df",
         "type": "tabs",
+        "dimension": 51.79119754350051,
         "children": [
           {
             "id": "ad3946728bac7730",
@@ -253,6 +255,7 @@
       {
         "id": "99022f2b9cdd4d81",
         "type": "tabs",
+        "dimension": 48.20880245649949,
         "children": [
           {
             "id": "993b8743a6a39edf",
@@ -275,13 +278,13 @@
   "lastOpenFiles": [
     "workspce/Draft.md",
     "workspce/Daily Record.md",
+    "HomePage.md",
+    "Pasted image 20221026101503.png",
+    "images/clash/a1675046c.png",
     "workspce/Mind Map.md",
     "buckets/Clash.md",
-    "HomePage.md",
+    "Day Planner/Day Planner-20221026.md",
     "Day Planner/Day Planner-20221025.md",
-    "Day Planner/Day Planner-20221024.md",
-    "Day Planner/Day Planner-20221021.md",
-    "workspce/Kanban.md",
-    "buckets/excalidraw/Drawing 2022-10-21 14.46.44.excalidraw.md"
+    "Day Planner/Day Planner-20221024.md"
   ]
 }
