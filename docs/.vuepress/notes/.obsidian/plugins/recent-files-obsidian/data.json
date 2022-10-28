@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单关系图",
+      "path": "buckets/max-optics/mind - Attr 动态表单关系图.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Attr 动态表单优化",
+      "path": "buckets/max-optics/Attr 动态表单优化.md"
+    },
+    {
+      "basename": "Reflect Metadata",
+      "path": "buckets/max-optics/Reflect Metadata.md"
+    },
+    {
+      "basename": "Pasted image 20221028164224",
+      "path": "buckets/max-optics/assets/Pasted image 20221028164224.png"
+    },
+    {
+      "basename": "RxJS",
+      "path": "buckets/max-optics/RxJS.md"
+    },
+    {
       "basename": "Draft",
       "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Drawing 2022-10-28 13.50.23.excalidraw",
+      "path": "buckets/excalidraw/Drawing 2022-10-28 13.50.23.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-10-28 13.13.38.excalidraw",
+      "path": "buckets/excalidraw/Drawing 2022-10-28 13.13.38.excalidraw.md"
+    },
+    {
+      "basename": "Day Planner-20221027",
+      "path": "Day Planner/Day Planner-20221027.md"
+    },
+    {
+      "basename": "Day Planner-20221026",
+      "path": "Day Planner/Day Planner-20221026.md"
+    },
+    {
+      "basename": "Day Planner-20221028",
+      "path": "Day Planner/Day Planner-20221028.md"
+    },
+    {
+      "basename": "Day Planner-20221025",
+      "path": "Day Planner/Day Planner-20221025.md"
     },
     {
       "basename": "HomePage",
@@ -17,20 +65,8 @@
       "path": "images/clash/a1675046c.png"
     },
     {
-      "basename": "Mind Map",
-      "path": "workspce/Mind Map.md"
-    },
-    {
       "basename": "Clash",
       "path": "buckets/Clash.md"
-    },
-    {
-      "basename": "Day Planner-20221026",
-      "path": "Day Planner/Day Planner-20221026.md"
-    },
-    {
-      "basename": "Day Planner-20221025",
-      "path": "Day Planner/Day Planner-20221025.md"
     },
     {
       "basename": "Day Planner-20221024",
@@ -39,10 +75,6 @@
     {
       "basename": "Day Planner-20221021",
       "path": "Day Planner/Day Planner-20221021.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
     },
     {
       "basename": "Drawing 2022-10-21 14.46.44.excalidraw",
@@ -71,14 +103,6 @@
     {
       "basename": "Obsidian：日记模板",
       "path": "buckets/templates/Obsidian：日记模板.md"
-    },
-    {
-      "basename": "Reflect Metadata",
-      "path": "buckets/work/Reflect Metadata.md"
-    },
-    {
-      "basename": "RxJS",
-      "path": "buckets/work/RxJS.md"
     },
     {
       "basename": "Drawing 2022-10-19 14.00.10.excalidraw",

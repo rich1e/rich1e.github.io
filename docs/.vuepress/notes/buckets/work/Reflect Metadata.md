@@ -1,7 +1,0 @@
-[[译] RxJS Observable 与 Promises 和 Async-Await 交互 · rxjs-articles-translation rxjs优秀文章翻译](https://xiangwan.gitbooks.io/rxjs-articles-translation/content/articles/RxJS-Observable-Interop-With-Promises-And-Async-Await.html)
-[教程 | RxJS 中文文档](https://cn.rx.js.org/manual/tutorial.html#h26)
-[前言 · 学习 RxJS 操作符](https://rxjs-cn.github.io/learn-rxjs-operators/)
-[纯技巧向：React, Vue, Rxjs 和原生 JS 代码大乱斗 - 掘金](https://juejin.cn/post/6905952639100387335)
-[Rxjs vs Promise - 掘金](https://juejin.cn/post/6983665207360880653)
-[认识认识RxJS - OKKI前端团队](https://fe.okki.com/post/622d8d4b4749766fa46f3fab/)
-[vuejs/vue-rx: 👁️ RxJS integration for Vue.js.](https://github.com/vuejs/vue-rx)

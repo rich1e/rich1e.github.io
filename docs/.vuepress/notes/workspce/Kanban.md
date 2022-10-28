@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] RxJS
 - [ ] Reflect Metadata
 - [ ] InversifyJS
+- [ ] Attr 动态表单
 
 
 ## Meditate

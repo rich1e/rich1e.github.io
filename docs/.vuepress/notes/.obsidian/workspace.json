@@ -10,7 +10,7 @@
           {
             "id": "44ccd82035aa246e",
             "type": "tabs",
-            "dimension": 51.79119754350051,
+            "dimension": 54.350051177072665,
             "children": [
               {
                 "id": "8716702610da8bf6",
@@ -37,7 +37,7 @@
           {
             "id": "ce0237dc8f18a771",
             "type": "split",
-            "dimension": 48.20880245649949,
+            "dimension": 45.64994882292733,
             "children": [
               {
                 "id": "407f3574ed32ad7f",
@@ -60,15 +60,25 @@
                   {
                     "id": "216de080366811ae",
                     "type": "leaf",
-                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
                         "mode": "preview",
                         "source": true
-                      },
-                      "pinned": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "1f264b416b8b0cd5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "buckets/max-optics/Reflect Metadata.md",
+                        "mode": "source",
+                        "source": false
+                      }
                     }
                   }
                 ],
@@ -94,20 +104,19 @@
                     }
                   },
                   {
-                    "id": "8c87d5010e343a15",
+                    "id": "27933f55f30d4349",
                     "type": "leaf",
-                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "workspce/Mind Map.md",
-                        "mode": "source",
+                        "file": "buckets/max-optics/mind - Attr 动态表单关系图.md",
+                        "mode": "preview",
                         "source": false
-                      },
-                      "pinned": true
+                      }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -127,22 +136,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff79eed57216ec75",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "c2ef5fe60b318861",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "clash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -166,13 +165,23 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "d9995859cf1212a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -189,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "workspce/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "workspce/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "workspce/Kanban.md"
               }
             }
           },
@@ -274,17 +283,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "216de080366811ae",
+  "active": "8716702610da8bf6",
   "lastOpenFiles": [
-    "workspce/Draft.md",
+    "buckets/max-optics/mind - Attr 动态表单关系图.md",
     "workspce/Daily Record.md",
-    "HomePage.md",
-    "Pasted image 20221026101503.png",
-    "images/clash/a1675046c.png",
-    "workspce/Mind Map.md",
-    "buckets/Clash.md",
-    "Day Planner/Day Planner-20221026.md",
-    "Day Planner/Day Planner-20221025.md",
-    "Day Planner/Day Planner-20221024.md"
+    "buckets/max-optics/Attr 动态表单优化.md",
+    "workspce/Kanban.md",
+    "buckets/max-optics/Reflect Metadata.md",
+    "buckets/max-optics/assets/Pasted image 20221028164224.png",
+    "Untitled.md",
+    "buckets/max-optics/RxJS.md",
+    "workspce/Draft.md",
+    "buckets/excalidraw/Drawing 2022-10-28 13.50.23.excalidraw.md"
   ]
 }

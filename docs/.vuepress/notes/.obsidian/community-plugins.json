@@ -20,5 +20,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-mind-map",
   "quickadd",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-plantuml",
+  "drawio-obsidian",
+  "obsidian-charts"
 ]

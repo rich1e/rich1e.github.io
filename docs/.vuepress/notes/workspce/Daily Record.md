@@ -5,6 +5,61 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221028 
+
+[[Attr 动态表单优化]]
+
+##  20221027
+
+```ad-note
+title: axios 使用 IoC 方式重构
+
+1. 封装基础配置（baseURL，headers，withCredentials，timeout等）
+2. 重写拦截器（request，response）
+3. 重写错误处理逻辑（规范错误code，统一响应数据格式）
+4. 通过适配器扩展功能（cache，请求token，超时重试等）
+
+> 尽量保持 axios 原有的使用方式，即传参和返回格式保持一致，不会阉割原有功能。
+
+[真没必要再对 axios 进行过度的封装 - 掘金](https://juejin.cn/post/7103743662315536392)
+[vue3 axios全局配置封装 - 掘金](https://juejin.cn/post/7119334793854058532)
+
+[Site Unreachable](https://github.com/axios/axios/issues/164#issuecomment-327837467)
+
+```
+
+```ad-info
+title: axios 实现超时重试
+
+[77.9K Star 的 Axios 项目如何优雅实现请求重试 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1751882?cps_key=1d358d18a7a17b4a6df8d67a62fd3d3d)
+[axios完美解决自动重试 | Node.js | 张文兵博客](https://www.zhangwenbing.com/blog/nodejs/rka_kpVlX)
+```
+
+```ad-info
+title: axios & IoC 参考资料
+
+[Dependency injection: setting up InversifyJS IoC for Typescript Apps | by @tkssharma | @tkssharma | Medium](https://medium.com/tkssharma/dependency-injection-setting-up-inversifyjs-ioc-for-typescript-apps-da65edfb1ea8)
+[A simple introduction to IOC in Typescript with InversifyJS - Tech Imperialist](https://techimperialist.com/nodejs/a-simple-introduction-to-ioc-in-typescript-with-inversifyjs/)
+[theia中的inversifyJS(上)：inversifyJs详解 - 掘金](https://juejin.cn/post/7049717544109752350)
+[inversify/InversifyJS: A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.](https://github.com/inversify/InversifyJS)
+[InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](https://inversify.io/)
+[Theia - Cloud and Desktop IDE Platform](https://theia-ide.org/)
+[theia/packages/core at master · eclipse-theia/theia](https://github.com/eclipse-theia/theia/tree/master/packages/core)
+[应用前端的IoC框架——InversifyJS - 掘金](https://juejin.cn/post/6951269906629427236)
+[Introduction · GitBook](https://doc.inversify.cloud/zh_cn/)
+[真没必要再对 axios 进行过度的封装 - 掘金](https://juejin.cn/post/7103743662315536392#heading-4)
+[vue3 axios全局配置封装 - 掘金](https://juejin.cn/post/7119334793854058532#heading-7)
+[前端 - 使用 TypeScript 和依赖注入实现一个聊天机器人_个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000019315544)
+[Daruk](https://darukjs.com/)
+[daruk/inversify.config.ts at 977a6082966d92ef66048bca90ddcfd68f2e1d44 · darukjs/daruk](https://github.com/darukjs/daruk/blob/977a6082966d92ef66048bca90ddcfd68f2e1d44/src/core/inversify.config.ts)
+[带你学习inversify.js系列 - inversify基础知识学习 - 知乎](https://zhuanlan.zhihu.com/p/137542149)
+[了不起的 IoC 与 DI-51CTO.COM](https://www.51cto.com/article/623960.html)
+[DI 、 IOC 和 DIP 的理解 - 掘金](https://juejin.cn/post/7074050629072584741)
+[从前端角度彻底搞懂 DIP、IoC、DI、JS - 知乎](https://zhuanlan.zhihu.com/p/61018434)
+[如何利用AOP+IOC思想解构前端项目开发 - 知乎](https://zhuanlan.zhihu.com/p/269624976)
+[浅析前端开发中的 MVC/MVP/MVVM 模式 - 知乎](https://zhuanlan.zhihu.com/p/27302766)
+```
+
 ##  20221026 
 
 ```ad-note
