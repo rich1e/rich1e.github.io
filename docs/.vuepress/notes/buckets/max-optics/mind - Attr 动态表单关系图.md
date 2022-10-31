@@ -22,21 +22,21 @@ mindmap-plugin: basic
 
 #### CusInput（9）
 
-##### WidgScience（0）
+##### WidgScience（0）<font color="Crimson">&#9745;</font>
 
 ##### WidgTable（1）
 
 ###### CusInput（9）
 
-##### WidgSelect（0）
+##### WidgSelect（0）<font color="Crimson">&#9745;</font>
 
-##### WidgInput（0）
+##### WidgInput（0）<font color="Crimson">&#9745;</font>
 
-##### WidgSwitch（0）
+##### WidgSwitch（0）<font color="Crimson">&#9745;</font>
 
-##### WidgBtn（0）
+##### WidgBtn（0）<font color="Crimson">&#9745;</font>
 
-##### WidgGraph（0）
+##### WidgGraph（0）<font color="Crimson">&#9745;</font>
 
 ##### WaveTable（3）
 

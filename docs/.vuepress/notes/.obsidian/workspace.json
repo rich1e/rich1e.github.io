@@ -58,27 +58,17 @@
                     }
                   },
                   {
-                    "id": "216de080366811ae",
+                    "id": "7a4392b9d7250e54",
                     "type": "leaf",
+                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
                         "mode": "preview",
                         "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "1f264b416b8b0cd5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "buckets/max-optics/Reflect Metadata.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                      },
+                      "pinned": true
                     }
                   }
                 ],
@@ -110,13 +100,25 @@
                       "type": "markdown",
                       "state": {
                         "file": "buckets/max-optics/mind - Attr 动态表单关系图.md",
-                        "mode": "preview",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f779cf9eef7e2d66",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "buckets/max-optics/Orca - 功能流程图和时序图.md",
+                        "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -198,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Kanban.md",
+                "file": "buckets/max-optics/Orca - 功能流程图和时序图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Kanban.md",
+                "file": "buckets/max-optics/Orca - 功能流程图和时序图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Kanban.md"
+                "file": "buckets/max-optics/Orca - 功能流程图和时序图.md"
               }
             }
           },
@@ -283,17 +285,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8716702610da8bf6",
+  "active": "f779cf9eef7e2d66",
   "lastOpenFiles": [
+    "workspce/Kanban.md",
+    "buckets/max-optics/Orca - 功能流程图和时序图.md",
     "buckets/max-optics/mind - Attr 动态表单关系图.md",
     "workspce/Daily Record.md",
-    "buckets/max-optics/Attr 动态表单优化.md",
-    "workspce/Kanban.md",
-    "buckets/max-optics/Reflect Metadata.md",
-    "buckets/max-optics/assets/Pasted image 20221028164224.png",
-    "Untitled.md",
-    "buckets/max-optics/RxJS.md",
-    "workspce/Draft.md",
-    "buckets/excalidraw/Drawing 2022-10-28 13.50.23.excalidraw.md"
+    "images/diary_20221017/Pasted image 20221031145411.png",
+    "images/diary_20221017/Pasted image 20221031150806.png",
+    "images/diary_20221017/Pasted image 20221031134349.png",
+    "buckets/max-optics/assets/Pasted image 20221031144114.png",
+    "images/diary_20221017/Pasted image 20221031142201.png",
+    "Pasted image 20221031105025.png"
   ]
 }

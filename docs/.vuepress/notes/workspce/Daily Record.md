@@ -5,10 +5,38 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221031 
+
+[[Orca - 功能流程图和时序图]]
+
+> 更新
+
+![[Pasted image 20221031144114.png]]
+
+监视器的全局设置建议移出来
+
+```ad-note
+title: Markdown中输出对勾符号和表情包
+
+
+- &#9744; x &cross; 
+- &#9745; &#10004; &check; 
+
+| Unchecked | Unchecked | Checked | Checked |    
+| --------- | :-------: | ---------- | :------: |    
+| `&#9744;` | &#9744; | `&#9745;` | &#9745; |   
+| `x` | x   | `&#10004;` | &#10004; |  
+| `&cross;` | &cross; | `&check;` | &check; |
+
+Ref:
+
+[Markdown中输出对勾符号和表情包](http://wfeii.com/2021/10/14/markdown-code.html)
+```
+
 ##  20221028 
 
 [[Attr 动态表单优化]]
-
+[[mind - Attr 动态表单关系图]]
 ##  20221027
 
 ```ad-note
@@ -228,149 +256,7 @@ Ref:
 
 ## 20221017
 
-### 登录流程*
-
-```mermaid
-graph TB
-
-TB(Start) ==> A[登录dolphin]
-A[登录dolphin] ==> B[输入用户名和密码]
-B[输入用户名和密码] ==> C[跳转项目管理页面]
-C[跳转项目管理页面] ==> BT(End)
-```
-
-![[Pasted image 20221017150236.png]]
-
-- [API Document - login](http://192.168.91.37/api/login/)
-- [API Document - get_user](http://192.168.91.37/api/get_user/)
-- [API Document - search_projects_for_dolphin](http://192.168.91.37/api/search_projects_for_dolphin/)
-- [API Document - circle_summary](http://192.168.91.37/api/circle_summary/)
-- [API Document - circle_groups](http://192.168.91.37/api/circle_groups/)
-- [API Document - circle_groups](http://192.168.91.37/api/circle_groups/)
-
-> NOTE：circle_groups 接口重复调用
-
-### 建模配置
-
-```mermaid
-graph TB
-
-TB(Start) ==> A[新建设计稿]
-A[新建设计稿] ==> B[跳转CAD设计平台,弹出输入项目名称]
-B[跳转CAD设计平台,弹出输入项目名称] ==> C[输入项目名称,点击确认]
-C[输入项目名称,点击确认] ==> BT(End)
-```
-
-![[Pasted image 20221017151356.png]]
-
-- [API Document - circle_summary](http://192.168.91.37/api/circle_summary/)
-
-![[Pasted image 20221017151640.png]]
-
-- [API Document - check_token](http://192.168.91.37/api/check_token/)
-- [API Document - search_waveforms](http://192.168.91.37/api/search_waveforms/)
-- [192.168.91.37/socket.io/?EIO=4&transport=polling&t=OFaoeWG](http://192.168.91.37/socket.io/?EIO=4&transport=polling&t=OFaoeWG)
-- [API Document - get_view_configuration](http://192.168.91.37/api/get_view_configuration/)
-- [API Document - get_user](http://192.168.91.37/api/get_user/)
-- [192.168.91.37/socket.io/?EIO=4&transport=polling&t=OFaoeYO&sid=Y-GfNP269nzvOcaeALOp](http://192.168.91.37/socket.io/?EIO=4&transport=polling&t=OFaoeYO&sid=Y-GfNP269nzvOcaeALOp)
-- [192.168.91.37/socket.io/?EIO=4&transport=polling&t=OFaoeYP&sid=Y-GfNP269nzvOcaeALOp](http://192.168.91.37/socket.io/?EIO=4&transport=polling&t=OFaoeYP&sid=Y-GfNP269nzvOcaeALOp)
-- [API Document - set_view_configuration](http://192.168.91.37/api/set_view_configuration/)
-- [192.168.91.37/socket.io/?EIO=4&transport=polling&t=OFaq5zx&sid=f9RrhFyxLm8UV3NpALPZ](http://192.168.91.37/socket.io/?EIO=4&transport=polling&t=OFaq5zx&sid=f9RrhFyxLm8UV3NpALPZ)
-- [API Document - get_public_materials](http://192.168.91.37/api/get_public_materials/)
-- [API Document - search_materials](http://192.168.91.37/api/search_materials/)
-- [API Document - search_projects](http://192.168.91.37/api/search_projects/)
-- [API Document - search_projects](http://192.168.91.37/api/search_projects/)
-
-![[Pasted image 20221017152243.png]]
-
-- [API Document - search_projects](http://192.168.91.37/api/search_projects/)
-- [API Document - search_projects](http://192.168.91.37/api/search_projects/)
-- [API Document - create_project](http://192.168.91.37/api/create_project/)
-- [API Document - open_project](http://192.168.91.37/api/open_project/)
-- [API Document - save_project](http://192.168.91.37/api/save_project/)
-- [API Document - load_project](http://192.168.91.37/api/load_project/)
-- [API Document - autoSave_project](http://192.168.91.37/api/autoSave_project/)
-- [API Document - set_project_configuration](http://192.168.91.37/api/set_project_configuration/)
-- [API Document - set_project_configuration](http://192.168.91.37/api/set_project_configuration/)
-- [API Document - get_tasks](http://192.168.91.37/api/get_tasks/)
-
-#### 材料编辑
-
-```mermaid
-graph TB
-
-TB(Start) ==> A[打开材料]
-A[打开材料] ==> B[显示材料弹窗]
-B[显示材料弹窗] ==> C[直接关闭]
-C[直接关闭] ==> BT(End)
-B[显示材料弹窗] ==> D[编辑材料]
-D[编辑材料] ==> E[添加/删除材料]
-E[添加/删除材料] ==> F[关闭弹窗]
-F[关闭弹窗] ==> BT(End)
-```
-
-![[Pasted image 20221017154026.png]]
-
-- [API Document - get_public_materials](http://192.168.91.37/api/get_public_materials/)
-- [API Document - search_materials](http://192.168.91.37/api/search_materials/)
-
-![[Pasted image 20221017154110.png]]
-
-- [API Document - change_materials](http://192.168.91.37/api/change_materials/)
-
-![[Pasted image 20221017162600.png]]
-
-- [API Document - create_material](http://192.168.91.37/api/create_material/)
-- [API Document - delete_material](http://192.168.91.37/api/delete_material/)
-
-#### 波形编辑
-
-```mermaid
-graph TB
-
-TB(Start) ==> A[打开波形]
-A[打开波形] ==> B[显示波形弹窗]
-B[显示波形弹窗] ==> C[直接关闭]
-C[直接关闭] ==> BT(End)
-B[显示波形弹窗] ==> D[编辑波形]
-D[编辑波形] ==> E[添加/删除波形]
-E[添加/删除波形] ==> F[关闭弹窗]
-F[关闭弹窗] ==> BT(End)
-```
-
-![[Pasted image 20221017165120.png]]
-
-- [API Document - search_waveforms](http://192.168.91.37/api/search_waveforms/)
-- [API Document - change_waveforms](http://192.168.91.37/api/change_waveforms/)
-- [API Document - create_waveform](http://192.168.91.37/api/create_waveform/)
-- [API Document - delete_many_waveforms](http://192.168.91.37/api/delete_many_waveforms/)
-
-#### 模型器件编辑
-
-![[Pasted image 20221017171707.png]]
-#### 算法模拟
-
-![[Pasted image 20221017165941.png]]
-
-#### 模式源编辑
-
-#### 监视器编辑
-
-#### Port 编辑
-
-### 运行计算
-
-#### 仿真计算
-
-#### 网格剖分
-
-#### 参数扫描
-
-### 快捷操作
-
-#### Ctrl + s（保存）
-
-#### Ctrl + z（撤回）
+[[Orca - 功能流程图和时序图]]
 
 ## 20221014
 
