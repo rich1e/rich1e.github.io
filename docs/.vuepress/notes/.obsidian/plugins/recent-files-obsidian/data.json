@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "mind - Attr 动态表单关系图",
+      "path": "buckets/max-optics/mind - Attr 动态表单关系图.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Attr 动态表单优化",
+      "path": "buckets/max-optics/Attr 动态表单优化.md"
+    },
+    {
+      "basename": "git-useing",
+      "path": "buckets/git-useing.md"
+    },
+    {
+      "basename": "Buckets",
+      "path": "workspce/Buckets.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Archives File",
+      "path": "workspce/Archives File.md"
+    },
+    {
+      "basename": "orca 功能梳理和优化建议",
+      "path": "buckets/max-optics/orca 功能梳理和优化建议.md"
+    },
+    {
+      "basename": "Orca 模块化方案",
+      "path": "buckets/max-optics/Orca 模块化方案.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
       "basename": "Orca - 功能流程图和时序图",
       "path": "buckets/max-optics/Orca - 功能流程图和时序图.md"
     },
@@ -9,12 +49,20 @@
       "path": "workspce/Kanban.md"
     },
     {
-      "basename": "mind - Attr 动态表单关系图",
-      "path": "buckets/max-optics/mind - Attr 动态表单关系图.md"
+      "basename": "Reflect Metadata",
+      "path": "buckets/max-optics/Reflect Metadata.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "InversifyJS",
+      "path": "buckets/max-optics/InversifyJS.md"
+    },
+    {
+      "basename": "RxJS",
+      "path": "buckets/max-optics/RxJS.md"
+    },
+    {
+      "basename": "Day Planner-20221101",
+      "path": "Day Planner/Day Planner-20221101.md"
     },
     {
       "basename": "Pasted image 20221031145411",
@@ -45,28 +93,8 @@
       "path": "buckets/max-optics/assets/Pasted image 20221028164224.png"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "RxJS",
-      "path": "buckets/max-optics/RxJS.md"
-    },
-    {
-      "basename": "Attr 动态表单优化",
-      "path": "buckets/max-optics/Attr 动态表单优化.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Day Planner-20221031",
       "path": "Day Planner/Day Planner-20221031.md"
-    },
-    {
-      "basename": "Reflect Metadata",
-      "path": "buckets/max-optics/Reflect Metadata.md"
     },
     {
       "basename": "Drawing 2022-10-28 13.50.23.excalidraw",
@@ -163,14 +191,6 @@
     {
       "basename": "Front-end Technology",
       "path": "workspce/Front-end Technology.md"
-    },
-    {
-      "basename": "Buckets",
-      "path": "workspce/Buckets.md"
-    },
-    {
-      "basename": "Archives File",
-      "path": "workspce/Archives File.md"
     }
   ],
   "omittedPaths": [],

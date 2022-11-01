@@ -5,6 +5,22 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221101 
+
+- 工作任务调整
+- 动态表单优化
+
+[Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)
+[JavaScript Design Patterns – Explained with Examples](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
+
+-   Nicholas Zakas ([Human Who Codes - The official website of Nicholas C. Zakas](http://nczonline.net/), [@slicknet](http://twitter.com/slicknet))
+-   Andrée Hansson ([http://andreehansson.se](http://andreehansson.se/), [@peolanha](http://twitter.com/peolanha))
+-   Luke Smith ([http://lucassmith.name](http://lucassmith.name/), [@ls_n](http://twitter.com/ls_n))
+-   Eric Ferraiuolo ([http://ericf.me/](http://ericf.me/), [@ericf](https://twitter.com/ericf))
+-   Peter Michaux ([http://michaux.ca](http://michaux.ca/), [@petermichaux](http://twitter.com/petermichaux))
+-   Alex Sexton ([http://alexsexton.com](http://alexsexton.com/), [@slexaxton](http://twitter.com/slexaxton))
+- Stoyan Stefanov ([Stoyan's web dev blog: phpied.com](http://www.phpied.com/)
+
 ##  20221031 
 
 [[Orca - 功能流程图和时序图]]

@@ -10,7 +10,7 @@
           {
             "id": "44ccd82035aa246e",
             "type": "tabs",
-            "dimension": 54.350051177072665,
+            "dimension": 54.329896907216494,
             "children": [
               {
                 "id": "8716702610da8bf6",
@@ -32,12 +32,13 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "ce0237dc8f18a771",
             "type": "split",
-            "dimension": 45.64994882292733,
+            "dimension": 45.670103092783506,
             "children": [
               {
                 "id": "407f3574ed32ad7f",
@@ -94,24 +95,24 @@
                     }
                   },
                   {
-                    "id": "27933f55f30d4349",
+                    "id": "5f55948aae94a352",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/max-optics/mind - Attr 动态表单关系图.md",
+                        "file": "buckets/max-optics/Orca 模块化方案.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "f779cf9eef7e2d66",
+                    "id": "31eb49587d8c97bf",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/max-optics/Orca - 功能流程图和时序图.md",
+                        "file": "buckets/max-optics/mind - Attr 动态表单关系图.md",
                         "mode": "source",
                         "source": false
                       }
@@ -200,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/max-optics/Orca - 功能流程图和时序图.md",
+                "file": "buckets/max-optics/mind - Attr 动态表单关系图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/max-optics/Orca - 功能流程图和时序图.md",
+                "file": "buckets/max-optics/mind - Attr 动态表单关系图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/max-optics/Orca - 功能流程图和时序图.md"
+                "file": "buckets/max-optics/mind - Attr 动态表单关系图.md"
               }
             }
           },
@@ -285,17 +286,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f779cf9eef7e2d66",
+  "active": "31eb49587d8c97bf",
   "lastOpenFiles": [
-    "workspce/Kanban.md",
-    "buckets/max-optics/Orca - 功能流程图和时序图.md",
-    "buckets/max-optics/mind - Attr 动态表单关系图.md",
     "workspce/Daily Record.md",
-    "images/diary_20221017/Pasted image 20221031145411.png",
-    "images/diary_20221017/Pasted image 20221031150806.png",
-    "images/diary_20221017/Pasted image 20221031134349.png",
-    "buckets/max-optics/assets/Pasted image 20221031144114.png",
-    "images/diary_20221017/Pasted image 20221031142201.png",
-    "Pasted image 20221031105025.png"
+    "buckets/max-optics/mind - Attr 动态表单关系图.md",
+    "buckets/max-optics/Attr 动态表单优化.md",
+    "buckets/git-useing.md",
+    "workspce/Buckets.md",
+    "HomePage.md",
+    "workspce/Archives File.md",
+    "buckets/max-optics/orca 功能梳理和优化建议.md",
+    "buckets/max-optics/Orca 模块化方案.md",
+    "workspce/Draft.md"
   ]
 }

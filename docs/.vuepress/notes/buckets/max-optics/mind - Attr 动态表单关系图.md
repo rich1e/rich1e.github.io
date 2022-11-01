@@ -20,13 +20,13 @@ mindmap-plugin: basic
 
 ### DictRender（2）
 
-#### CusInput（9）
+#### CusInput（9）<font color="DarkOrchid">&#9745;</font>
 
 ##### WidgScience（0）<font color="Crimson">&#9745;</font>
 
-##### WidgTable（1）
+##### WidgTable（1）<font color="Chartreuse">&#9745;</font>
 
-###### CusInput（9）
+###### CusInput（9）<font color="DarkOrchid">&#9745;</font>
 
 ##### WidgSelect（0）<font color="Crimson">&#9745;</font>
 
@@ -38,7 +38,7 @@ mindmap-plugin: basic
 
 ##### WidgGraph（0）<font color="Crimson">&#9745;</font>
 
-##### WaveTable（3）
+##### WaveTable（3）<font color="Chartreuse">&#9745;</font>
 
 ###### AnFormItem
 
@@ -48,9 +48,9 @@ mindmap-plugin: basic
 
 ##### AnFormItem（@mg/angelfish）
 
-#### DictTable
+#### DictTable（0）<font color="Chartreuse">&#9745;</font>
 
-##### CusInput（9）
+##### CusInput（9）<font color="DarkOrchid">&#9745;</font>
 
 
 

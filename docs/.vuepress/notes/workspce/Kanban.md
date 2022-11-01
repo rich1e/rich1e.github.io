@@ -6,27 +6,23 @@ kanban-plugin: basic
 
 ## Work
 
-- [ ] Orca 模块化
-- [ ] 流程图
-- [ ] visualizer 组件优化：VTable.vue、VController.vue
-- [ ] orca 功能检查和优化建议
-- [ ] RxJS
-- [ ] Reflect Metadata
-- [ ] InversifyJS
-- [ ] Attr 动态表单
+- [ ] [[Orca 模块化方案]]
+- [ ] [[orca 功能梳理和优化建议]]
+- [ ] [[Attr 动态表单优化]] ^m4qu3m
 
 
 ## Meditate
 
-
-
-## Practice
-
+- [ ] visualizer 组件优化：VTable.vue、VController.vue
 
 
 ## Inbox
 
 - [ ] Obsidian 云端同步
+
+
+## Done
+
 
 
 

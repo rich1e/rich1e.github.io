@@ -7,6 +7,8 @@
 
 ## Obsidian
 
+[Obsidian Kanban](https://matthewmeye.rs/obsidian-kanban/)
+
 [Getting started | Obsidian Charts](https://charts.phibr0.de/)
 
 ```chart
