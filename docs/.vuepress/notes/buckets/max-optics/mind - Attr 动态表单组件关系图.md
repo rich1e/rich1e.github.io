@@ -4,11 +4,17 @@ mindmap-plugin: basic
 
 # Attr
 
+## 
+
+### id <font size="1em" color="Crimson">&cross;</font>
+### type
+### value
+### modalContent
+### hideKey <font size="1em" color="Crimson">&cross;</font>
+
 ## Dependence（5）
 
 ### [AttrDialog.vue](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/engine/dialogs/AttrDialog.vue)
-
-### [dialogs/index.ts](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/engine/dialogs/index.ts)
 
 ### [addModeExpansion.vue](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/modules/monitor/dialogs/addModeExpansion.vue)
 

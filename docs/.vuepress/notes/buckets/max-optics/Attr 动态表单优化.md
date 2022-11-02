@@ -20,4 +20,31 @@ Edit FDTD (FDTD)
 
 ## 动态表单依赖和被引用关系
 
-[[mind - Attr 动态表单关系图]]
+[[mind - Attr 动态表单组件关系图]]
+
+## 动态表单设计
+
+```js
+const form = {
+	scene: 'halver | trisector | group | tab | none',
+	field: [
+		{
+			type: 'input',
+			label: 'name',
+			bind: 'x',
+			default?: '-'
+		},
+		{
+			type: 'swich',
+			label: 'name',
+			bind: 'x',
+			disabled: true
+		},
+	],
+	options: {
+		onSubmit: () => void,
+		onCancel: () => void,
+		onApply: () => void
+	}
+}
+```

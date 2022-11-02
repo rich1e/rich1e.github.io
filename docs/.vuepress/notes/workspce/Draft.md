@@ -1,3 +1,21 @@
+[Mac 下有哪些能与 BeyondCompare 媲美的 diff 工具？ - 知乎](https://www.zhihu.com/question/20720399)
+[Beyond Compare 4 license for Windows, Mac, Linux · GitHub](https://gist.github.com/rise-worlds/5a5917780663aada8028f96b15057a67)
+
+for 4.2.4 or higher,4.2.5,4.2.6,4.3.7，it's works ， this is the way which makes Always in evaluation mode 。
+
+1.  open `Terminal`, go to the dir : `cd /Applications/Beyond Compare.app/Contents/MacOS`
+2.  change the name `BCompare` to `BCompare.bak`: `mv BCompare BCompare.bak`
+3.  touch a file name `BCompare` , and `chmod a+u BCompare` : `touch BCompare && chmod a+u BCompare`
+4.  open `BCompare` with text editor, insert the script :
+
+```
+#!/bin/bash
+rm "/Users/$(whoami)/Library/Application Support/Beyond Compare/registry.dat"
+"`dirname "$0"`"/BCompare.bak $@
+```
+
+5.  restart bc .
+
 2014年左右，淘宝的HR给我打电话，让我去杭州面试。我委婉的拒绝了，说“只考虑上海的机会”。接着，HR突然来句“我们是淘宝”，有点想笑，我当然知道你是淘宝啊，但是我现在已经有工作了，所以就回了句“我已经在鞋城工作了，不好意思”，然后挂了电话。  
 若干年后，有猎头将我的简历推了阿里系，过了一段时间告诉我，因为你有面试态度不好的记录，所以挂了。刚开始还挺诧异，后来也就释怀了。
 
@@ -49,6 +67,7 @@ Alice -> Bob: hello
 [太强了！搞科研、写论文，如何随时随地记录idea、捕捉闪念？_QuickAdd_笔者_笔记](https://www.sohu.com/a/556514140_120714173)
 [Obsidian 插件之 QuickAdd - 知乎](https://zhuanlan.zhihu.com/p/386885976)
 [Obsidian最强插件：QuickAdd - 少数派](https://sspai.com/post/69375)
+
 
 ## Fiddler
 [FiddlerEverywhere 3.4.1 的版本支持该方式吗？ · Issue #8 · msojocs/fiddler-everywhere-crack](https://github.com/msojocs/fiddler-everywhere-crack/issues/8)

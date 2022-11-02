@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "mind - Attr 动态表单关系图",
-      "path": "buckets/max-optics/mind - Attr 动态表单关系图.md"
+      "basename": "Attr 动态表单优化",
+      "path": "buckets/max-optics/Attr 动态表单优化.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单属性列表",
+      "path": "mind - Attr 动态表单属性列表.md"
+    },
+    {
+      "basename": "AttrDialog.vue",
+      "path": "Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/engine/dialogs/AttrDialog.vue.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "Attr 动态表单优化",
-      "path": "buckets/max-optics/Attr 动态表单优化.md"
+      "basename": "Day Planner-20221102",
+      "path": "Day Planner/Day Planner-20221102.md"
+    },
+    {
+      "basename": "Obsidian：Day Planner Template",
+      "path": "buckets/templates/Obsidian：Day Planner Template.md"
+    },
+    {
+      "basename": "Obsidian：日记模板",
+      "path": "buckets/templates/Obsidian：日记模板.md"
+    },
+    {
+      "basename": "Orca 模块化方案",
+      "path": "buckets/max-optics/Orca 模块化方案.md"
+    },
+    {
+      "basename": "Day Planner-20221101",
+      "path": "Day Planner/Day Planner-20221101.md"
     },
     {
       "basename": "git-useing",
@@ -33,20 +69,8 @@
       "path": "buckets/max-optics/orca 功能梳理和优化建议.md"
     },
     {
-      "basename": "Orca 模块化方案",
-      "path": "buckets/max-optics/Orca 模块化方案.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Orca - 功能流程图和时序图",
       "path": "buckets/max-optics/Orca - 功能流程图和时序图.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
     },
     {
       "basename": "Reflect Metadata",
@@ -59,10 +83,6 @@
     {
       "basename": "RxJS",
       "path": "buckets/max-optics/RxJS.md"
-    },
-    {
-      "basename": "Day Planner-20221101",
-      "path": "Day Planner/Day Planner-20221101.md"
     },
     {
       "basename": "Pasted image 20221031145411",
@@ -153,16 +173,8 @@
       "path": "Day Planner/Day Planner-20221020.md"
     },
     {
-      "basename": "Obsidian：Day Planner Template",
-      "path": "buckets/templates/Obsidian：Day Planner Template.md"
-    },
-    {
       "basename": "Day Planner-20221019",
       "path": "Day Planner/Day Planner-20221019.md"
-    },
-    {
-      "basename": "Obsidian：日记模板",
-      "path": "buckets/templates/Obsidian：日记模板.md"
     },
     {
       "basename": "Drawing 2022-10-19 14.00.10.excalidraw",
@@ -187,10 +199,6 @@
     {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
-    },
-    {
-      "basename": "Front-end Technology",
-      "path": "workspce/Front-end Technology.md"
     }
   ],
   "omittedPaths": [],
