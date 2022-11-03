@@ -4,7 +4,7 @@ mindmap-plugin: basic
 
 # Attr
 
-## 
+## Properties
 
 ### id <font size="1em" color="Crimson">&cross;</font>
 ### type
@@ -24,7 +24,7 @@ mindmap-plugin: basic
 
 ## References
 
-### DictRender（2）
+### DictRender（2）<font color="DarkOrange">&#9745;</font>
 
 #### CusInput（9）<font color="DarkOrchid">&#9745;</font>
 

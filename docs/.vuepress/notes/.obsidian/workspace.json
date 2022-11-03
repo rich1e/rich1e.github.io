@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       },
                       "pinned": true
@@ -101,14 +101,14 @@
                       "type": "markdown",
                       "state": {
                         "file": "buckets/max-optics/Attr 动态表单优化.md",
-                        "mode": "source",
-                        "source": false
+                        "mode": "preview",
+                        "source": true
                       },
                       "pinned": true
                     }
                   },
                   {
-                    "id": "5f55948aae94a352",
+                    "id": "56837fd54ba5582f",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -118,9 +118,20 @@
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "1acbae0f2a5dade9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "buckets/代码提交规范与版本控制.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical"
@@ -145,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fiddl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/max-optics/Attr 动态表单优化.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/max-optics/Attr 动态表单优化.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/max-optics/Attr 动态表单优化.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -287,17 +298,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a74e309c73b35736",
+  "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
+    "workspce/Kanban.md",
     "workspce/Draft.md",
     "buckets/max-optics/Attr 动态表单优化.md",
+    "buckets/代码提交规范与版本控制.md",
+    "frontend/前端工程自动化实践-文档篇.md",
     "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
-    "workspce/Kanban.md",
-    "mind - Attr 动态表单属性列表.md",
-    "Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/engine/dialogs/AttrDialog.vue.md",
     "workspce/Daily Record.md",
+    "Day Planner/Day Planner-20221103.md",
     "Day Planner/Day Planner-20221102.md",
-    "buckets/templates/Obsidian：Day Planner Template.md",
-    "buckets/templates/Obsidian：日记模板.md"
+    "Day Planner/Day Planner-20221101.md"
   ]
 }

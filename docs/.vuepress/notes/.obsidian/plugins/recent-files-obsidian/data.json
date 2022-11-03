@@ -1,36 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Attr 动态表单优化",
-      "path": "buckets/max-optics/Attr 动态表单优化.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "mind - Attr 动态表单组件关系图",
-      "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "Kanban",
       "path": "workspce/Kanban.md"
     },
     {
-      "basename": "mind - Attr 动态表单属性列表",
-      "path": "mind - Attr 动态表单属性列表.md"
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
     },
     {
-      "basename": "AttrDialog.vue",
-      "path": "Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/engine/dialogs/AttrDialog.vue.md"
+      "basename": "Attr 动态表单优化",
+      "path": "buckets/max-optics/Attr 动态表单优化.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "代码提交规范与版本控制",
+      "path": "buckets/代码提交规范与版本控制.md"
+    },
+    {
+      "basename": "前端工程自动化实践-文档篇",
+      "path": "frontend/前端工程自动化实践-文档篇.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
+    },
+    {
+      "basename": "Day Planner-20221103",
+      "path": "Day Planner/Day Planner-20221103.md"
     },
     {
       "basename": "Day Planner-20221102",
       "path": "Day Planner/Day Planner-20221102.md"
+    },
+    {
+      "basename": "Day Planner-20221101",
+      "path": "Day Planner/Day Planner-20221101.md"
+    },
+    {
+      "basename": "AttrDialog.vue",
+      "path": "Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/engine/dialogs/AttrDialog.vue.md"
     },
     {
       "basename": "Obsidian：Day Planner Template",
@@ -43,10 +55,6 @@
     {
       "basename": "Orca 模块化方案",
       "path": "buckets/max-optics/Orca 模块化方案.md"
-    },
-    {
-      "basename": "Day Planner-20221101",
-      "path": "Day Planner/Day Planner-20221101.md"
     },
     {
       "basename": "git-useing",
@@ -191,14 +199,6 @@
     {
       "basename": "当下还有人知道 buble 吗？",
       "path": "frontend/当下还有人知道 buble 吗？.md"
-    },
-    {
-      "basename": "2022-10-18_Tuesday",
-      "path": "buckets/daily/2022-10-18_Tuesday.md"
-    },
-    {
-      "basename": "Mobile Development",
-      "path": "workspce/Mobile Development.md"
     }
   ],
   "omittedPaths": [],

@@ -5,6 +5,17 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221103 
+
+动态表单Demo
+
+## 20221102
+
+- Attr.vue 代码分析
+- Orca 全链路代码分析
+  1. registerModule
+  2. runCommandAsync
+
 ##  20221101 
 
 - 工作任务调整
@@ -32,7 +43,7 @@ banner_y: 0.504
 监视器的全局设置建议移出来
 
 ```ad-note
-title: Markdown中输出对勾符号和表情包
+title: Markdown 符号 & 表情包 & 颜色 & 字体
 
 
 - &#9744; x &cross; 
@@ -47,6 +58,8 @@ title: Markdown中输出对勾符号和表情包
 Ref:
 
 [Markdown中输出对勾符号和表情包](http://wfeii.com/2021/10/14/markdown-code.html)
+
+[markdown编辑器语法——字体、字号与颜色](https://mbzx.github.io/2015/09/21/md-light/)
 ```
 
 ##  20221028 
