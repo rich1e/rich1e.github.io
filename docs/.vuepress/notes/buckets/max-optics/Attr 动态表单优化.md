@@ -1,3 +1,22 @@
+```ad-note
+title: 参考
+
+Ref:
+
+[Vue3 + Vite2 + ElementPlus + TS 项目常见问题](https://bbchin.com/archives/vite2vue3ts#9%E3%80%81%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8-vscode-%E5%92%8C-vue-%E5%AE%98%E6%96%B9%E6%8B%93%E5%B1%95-volar%EF%BC%8C%E5%AE%83%E4%B8%BA-vue-3-%E6%8F%90%E4%BE%9B%E4%BA%86%E5%85%A8%E9%9D%A2%E7%9A%84-ide-%E6%94%AF%E6%8C%81)
+[vue3中update:modelValue的使用与不生效问题解决_vue.js_脚本之家](https://www.jb51.net/article/242919.htm)
+[Element Form to Json，快速构建表单应用，支持表单分组 - 掘金](https://juejin.cn/post/6993907898371801118)
+[Vue3组件（九）Vue + element-Plus + json = 动态渲染的表单控件 单列多列 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1795996?cps_key=1d358d18a7a17b4a6df8d67a62fd3d3d)
+[Vue3+Vite+TypeScript基于Element plus 二次封装【表单】组件(含Vue3知识点) - 首席CTO笔记](https://www.shouxicto.com/article/3992.html)
+[GitHub - wd3322/el-form-model: vue element form to json](https://github.com/wd3322/el-form-model)
+[GitHub - dongls/xForm: 基于Vue@3.x的动态表单生成器。](https://github.com/dongls/xForm)
+[GitHub - xaboy/form-create: 强大的动态表单生成器|form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON.](https://github.com/xaboy/form-create)
+[GitHub - jjxliu306/ng-form-elementplus: 动态表单，VUE动态表单。基于vue+element-plus实现动态表单组件，通过拖拽组件到面板即可实现一个表单。支持各个组件的动态隐藏显示，动态表格弹窗式维护。致力打造开源最强vue动态表单组件，持续维护](https://github.com/jjxliu306/ng-form-elementplus)
+[ng-form-elementplus](https://jjxliu306.github.io/ng-form-elementplus/dist/)
+[element-plus表单验证使用 个人总结_ymzhaoUSTB的博客-CSDN博客_element plus 表单验证](https://blog.csdn.net/ymzhaobth/article/details/120820053)
+
+```
+
 ## 优化背景
 
 - Vue 2.0 语法，未支持 Typescript

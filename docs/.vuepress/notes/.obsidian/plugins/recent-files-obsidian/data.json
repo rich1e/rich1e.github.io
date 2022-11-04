@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "Attr 动态表单优化",
+      "path": "buckets/max-optics/Attr 动态表单优化.md"
     },
     {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
+      "basename": "Fiddler Everywhere Crack 尝试",
+      "path": "2022/Fiddler Everywhere Crack 尝试.md"
     },
     {
       "basename": "Draft",
       "path": "workspce/Draft.md"
     },
     {
-      "basename": "Attr 动态表单优化",
-      "path": "buckets/max-optics/Attr 动态表单优化.md"
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Pasted image 20221104172553",
+      "path": "images/Fiddler_Everywhere/Pasted image 20221104172553.png"
+    },
+    {
+      "basename": "Pasted image 20221104180204",
+      "path": "images/Fiddler_Everywhere/Pasted image 20221104180204.png"
+    },
+    {
+      "basename": "1bcbcb07-537c-4b08-a175-a0c309a824fd",
+      "path": "images/Fiddler_Everywhere/1bcbcb07-537c-4b08-a175-a0c309a824fd.png"
+    },
+    {
+      "basename": "55bbb162-f346-416f-bc16-4845bb080226",
+      "path": "images/Fiddler_Everywhere/55bbb162-f346-416f-bc16-4845bb080226.png"
+    },
+    {
+      "basename": "Day Planner-20221104",
+      "path": "Day Planner/Day Planner-20221104.md"
+    },
+    {
+      "basename": "Day Planner-20221103",
+      "path": "Day Planner/Day Planner-20221103.md"
     },
     {
       "basename": "代码提交规范与版本控制",
       "path": "buckets/代码提交规范与版本控制.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
     },
     {
       "basename": "前端工程自动化实践-文档篇",
@@ -29,20 +61,12 @@
       "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
     },
     {
-      "basename": "Day Planner-20221103",
-      "path": "Day Planner/Day Planner-20221103.md"
-    },
-    {
       "basename": "Day Planner-20221102",
       "path": "Day Planner/Day Planner-20221102.md"
     },
     {
       "basename": "Day Planner-20221101",
       "path": "Day Planner/Day Planner-20221101.md"
-    },
-    {
-      "basename": "AttrDialog.vue",
-      "path": "Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/engine/dialogs/AttrDialog.vue.md"
     },
     {
       "basename": "Obsidian：Day Planner Template",
@@ -63,10 +87,6 @@
     {
       "basename": "Buckets",
       "path": "workspce/Buckets.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Archives File",
@@ -175,30 +195,6 @@
     {
       "basename": "Vue 3 Admin & Components",
       "path": "buckets/Vue 3 Admin & Components.md"
-    },
-    {
-      "basename": "Day Planner-20221020",
-      "path": "Day Planner/Day Planner-20221020.md"
-    },
-    {
-      "basename": "Day Planner-20221019",
-      "path": "Day Planner/Day Planner-20221019.md"
-    },
-    {
-      "basename": "Drawing 2022-10-19 14.00.10.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2022-10-19 14.00.10.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-10-19 13.53.49.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2022-10-19 13.53.49.excalidraw.md"
-    },
-    {
-      "basename": "2022-10-19_Wednesday",
-      "path": "buckets/daily/2022-10-19_Wednesday.md"
-    },
-    {
-      "basename": "当下还有人知道 buble 吗？",
-      "path": "frontend/当下还有人知道 buble 吗？.md"
     }
   ],
   "omittedPaths": [],

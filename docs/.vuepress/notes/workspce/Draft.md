@@ -1,4 +1,5 @@
 
+
 [提交详情 - 前端组件库Aquaman - 上海曼光信息科技有限公司](https://e.gitee.com/max-optics/repos/max-optics/aquaman/commit/57d8590463feb0d0efe15e61ed9c710ff03b91dc)
 [Vue3 + Vite2 + ElementPlus + TS 项目常见问题](https://bbchin.com/archives/vite2vue3ts#9%E3%80%81%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8-vscode-%E5%92%8C-vue-%E5%AE%98%E6%96%B9%E6%8B%93%E5%B1%95-volar%EF%BC%8C%E5%AE%83%E4%B8%BA-vue-3-%E6%8F%90%E4%BE%9B%E4%BA%86%E5%85%A8%E9%9D%A2%E7%9A%84-ide-%E6%94%AF%E6%8C%81)
 [vue3中update:modelValue的使用与不生效问题解决_vue.js_脚本之家](https://www.jb51.net/article/242919.htm)
@@ -101,24 +102,8 @@ Alice -> Bob: hello
 [Obsidian最强插件：QuickAdd - 少数派](https://sspai.com/post/69375)
 
 ## Fiddler
-[FiddlerEverywhere 3.4.1 的版本支持该方式吗？ · Issue #8 · msojocs/fiddler-everywhere-crack](https://github.com/msojocs/fiddler-everywhere-crack/issues/8)
-[fiddler-everywhere-crack/DETAIL.MD at master · msojocs/fiddler-everywhere-crack](https://github.com/msojocs/fiddler-everywhere-crack/blob/master/DETAIL.MD)
-[ildasm命令行 - fredli2005 - 博客园](https://www.cnblogs.com/SeekerLee/archive/2008/09/06/1285616.html)
-[CIL之——ilasm.exe和ildasm.exe_changuncle的博客-CSDN博客](https://blog.csdn.net/xiaouncle/article/details/72808696)
-[dotnet publish 命令 - .NET CLI | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/core/tools/dotnet-publish)
-[应用程序发布 - .NET | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/core/deploying/#publish-self-contained)
-[Installing .NET 6 on your M1 Mac (manually) | by Maarten Merken | Medium](https://maartenmerken.medium.com/installing-net-6-alpha-on-your-m1-mac-23a35aa6f02c)
-[.NET 运行时标识符 (RID) 目录 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/core/rid-catalog#macos-rids)
-[IT 生涯，我的常用软件清单 - 掘金](https://juejin.cn/post/6844903471519383560)
-[操作步骤：用ildasm/ilasm修改IL代码 - dudu - 博客园](https://www.cnblogs.com/dudu/archive/2011/05/17/ildasm_ilasm_il.html)
-[如何使用ILAsm与ILDasm修改.Net exe(dll)文件 - TeckBesty分享技术网](https://www.teckbesty.com/post/5287o8k7ad.html)
-[dotnet/installer: .NET SDK Installer](https://github.com/dotnet/installer#installers-and-binaries)
-[Extensions Wishlist · Issue #7122 · dotnet/sdk](https://github.com/dotnet/sdk/issues/7122)
-[pjbgf/dotnet-ildasm: Light-weight cross platform IL disassembler tool built in C#.](https://github.com/pjbgf/dotnet-ildasm)
-[【工具】Il2CppDumper for mac/linux_李华明Himi的技术博客_51CTO博客](https://blog.51cto.com/xiaominghimi/2524877)
-[.net core 多sdk 多版本 环境切换_Igor Sun的博客-CSDN博客_.net core 切换版本](https://blog.csdn.net/deflypig/article/details/121448903)
-[Ildasm.exe（IL 反汇编程序） - .NET Framework | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/framework/tools/ildasm-exe-il-disassembler)
-[Linux中记录终端输出到文本文件【重定向，管道】_YDQN的博客-CSDN博客_linux管道输出到文件](https://blog.csdn.net/LOVE1055259415/article/details/80060204)
+
+[[Fiddler Everywhere Crack 尝试]]
 
 ## Monorepo Workspace by Lerna
 
