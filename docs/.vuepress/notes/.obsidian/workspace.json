@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
                       },
                       "pinned": true
@@ -87,7 +87,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Draft.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": false
                       },
                       "pinned": true
@@ -113,14 +113,14 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2022/Fiddler Everywhere Crack 尝试.md",
+                        "file": "buckets/max-optics/Orca - 功能梳理和优化建议.md",
                         "mode": "preview",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/max-optics/Attr 动态表单优化.md",
+                "file": "buckets/max-optics/Orca - 功能梳理和优化建议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/max-optics/Attr 动态表单优化.md",
+                "file": "buckets/max-optics/Orca - 功能梳理和优化建议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/max-optics/Attr 动态表单优化.md"
+                "file": "buckets/max-optics/Orca - 功能梳理和优化建议.md"
               }
             }
           },
@@ -287,17 +287,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a74e309c73b35736",
+  "active": "1d5a5798cec5134e",
   "lastOpenFiles": [
-    "2022/Fiddler Everywhere Crack 尝试.md",
+    "workspce/Daily Record.md",
+    "buckets/max-optics/Orca - 功能梳理和优化建议.md",
+    "buckets/max-optics/Orca 模块化方案.md",
+    "buckets/max-optics/Orca - 功能流程图和时序图.md",
+    "Day Planner/Day Planner-20221104.md",
     "workspce/Draft.md",
     "buckets/max-optics/Attr 动态表单优化.md",
-    "HomePage.md",
-    "images/Fiddler_Everywhere/Pasted image 20221104172553.png",
-    "images/Fiddler_Everywhere/Pasted image 20221104180204.png",
-    "images/Fiddler_Everywhere/1bcbcb07-537c-4b08-a175-a0c309a824fd.png",
-    "images/Fiddler_Everywhere/55bbb162-f346-416f-bc16-4845bb080226.png",
-    "Day Planner/Day Planner-20221104.md",
-    "Day Planner/Day Planner-20221103.md"
+    "Day Planner/Day Planner-20221107.md",
+    "2022/Fiddler Everywhere Crack 尝试.md",
+    "HomePage.md"
   ]
 }

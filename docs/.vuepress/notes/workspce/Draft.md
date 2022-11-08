@@ -1,4 +1,20 @@
+## Pnpm
 
+### Issues with peer dependencies found
+
+```ad-note
+title: 解决 & 参考
+
+这个问题可以暂时忽略。
+
+Ref：
+
+[eslint - pnpm peer dependencies auto-install - Stack Overflow](https://stackoverflow.com/questions/72468635/pnpm-peer-dependencies-auto-install)
+[PNPM 安装包时为什么会出现 missing peer xxx - 掘金](https://juejin.cn/post/7146112383641976845)
+[missing peer dependencies after installation of pnpm v6.24.4 · Issue #4183 · pnpm/pnpm · GitHub](https://github-com.translate.goog/pnpm/pnpm/issues/4183?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=sc)
+[执行pnpm add 警告 · Issue #3 · dishait/tov-template](https://github.com/dishait/tov-template/issues/3)
+[peers 是如何被处理的 | pnpm](https://pnpm.io/zh/how-peers-are-resolved)
+```
 
 [提交详情 - 前端组件库Aquaman - 上海曼光信息科技有限公司](https://e.gitee.com/max-optics/repos/max-optics/aquaman/commit/57d8590463feb0d0efe15e61ed9c710ff03b91dc)
 [Vue3 + Vite2 + ElementPlus + TS 项目常见问题](https://bbchin.com/archives/vite2vue3ts#9%E3%80%81%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8-vscode-%E5%92%8C-vue-%E5%AE%98%E6%96%B9%E6%8B%93%E5%B1%95-volar%EF%BC%8C%E5%AE%83%E4%B8%BA-vue-3-%E6%8F%90%E4%BE%9B%E4%BA%86%E5%85%A8%E9%9D%A2%E7%9A%84-ide-%E6%94%AF%E6%8C%81)

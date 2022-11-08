@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Work
 
 - [ ] [[Orca 模块化方案]]
-- [ ] [[orca 功能梳理和优化建议]]
+- [ ] [[Orca - 功能梳理和优化建议]]
 - [ ] [[Attr 动态表单优化]] ^m4qu3m
 
 
