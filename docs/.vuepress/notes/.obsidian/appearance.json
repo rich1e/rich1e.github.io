@@ -1,8 +1,8 @@
 {
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "theme-minimal-excalidraw"
   ]

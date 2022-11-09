@@ -20,10 +20,12 @@ Ref:
 ## 优化背景
 
 - Vue 2.0 语法，未支持 Typescript
-- 有大量的 `eslint-disable` 注释
+- 配置表单的 `json` 数据巨大，难以阅读
+- 有大量的 `eslint-disable` 注释，隐藏不确定性和风险
+- 废弃代码没有删除，造成功能冗余
 - store 和 inject 混用（ElLocaleInjection）
 - 调用时必传单位（单位全局联动）
-- 文件结构复杂，相互依赖，调试困难（CusInput存在循环依赖的风险）
+- 代码逻辑复杂，相互依赖，调试困难（CusInput存在循环依赖的风险）
 - 组件命名不规范，没有具体含义（有许多widgets）
 - element-plus （version: 1.1.0-beta.24）的版本是固定的，如果升级会有风险
 
@@ -38,6 +40,8 @@ Edit FDTD (FDTD)
 ![[Pasted image 20221028164706.png]]
 
 ## 动态表单依赖和被引用关系
+
+![[Pasted image 20221108111704.png]]
 
 [[mind - Attr 动态表单组件关系图]]
 
@@ -101,3 +105,71 @@ const form = {
 }
 ```
 ### 表单API
+
+#### config
+
+| 参数名称 | 参数类型 | 功能描述 | 备注 |
+| -------- | -------- | -------- | ---- |
+| scene    | String   | 表单类型 |      |
+| field    | Array    | 表单字段 |      |
+| rule     | Array    | 验证规则 |      |
+| options  | Object   | 表单操作 |      |
+| slots    | Function | 表单插槽 |      |
+
+#### field
+
+| 参数名称 | 参数类型 | 功能描述 | 备注 |
+| -------- | -------- | -------- | ---- |
+| type     | String   | 字段类型 |      |
+| label    | String   | 字段文案 |      |
+| prop     | String   | 校验字段 |      |
+| bind     | String   | 绑定字段 |      |
+| default  | String   | 默认值   |      |
+
+ #### options
+
+| 参数名称 | 参数类型 | 功能描述 | 备注 |
+| -------- | -------- | -------- | ---- |
+| onSubmit | Function | 表单提交 |      |
+| onCancel | Function | 取消表单 |      |
+| onApply  | Function | 功能应用 |      |
+
+代码示例：
+
+```html
+<script setup lang="ts">
+import DynamicForm from '/@/components/DynamicForm';
+
+const formConfig = {
+// scene: 'halver | trisector | group | tab | none',
+scene: 'biserial',
+field: [
+    {
+      type: 'input',
+      label: 'name',
+      prop: 'username',
+      bind: 'x',
+      default: '-',
+    },
+    {
+      type: 'swich',
+      label: 'name',
+      prop: 'married',
+      bind: 'x',
+      disabled: true,
+    },
+  ],
+  rule: {},
+  options: {
+    onSubmit: () => {},
+    onCancel: () => {},
+    onApply: () => {},
+  },
+  slots: () => {},
+};
+</script>
+
+<template>
+  <DynamicForm :config="formConfig" />
+</template>
+```

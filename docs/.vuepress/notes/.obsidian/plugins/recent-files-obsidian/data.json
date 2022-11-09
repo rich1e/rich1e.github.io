@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Orca - 功能梳理和优化建议",
-      "path": "buckets/max-optics/Orca - 功能梳理和优化建议.md"
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "Orca 模块化方案",
-      "path": "buckets/max-optics/Orca 模块化方案.md"
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "Day Planner-20221109",
+      "path": "Day Planner/Day Planner-20221109.md"
+    },
+    {
+      "basename": "Day Planner-20221108",
+      "path": "Day Planner/Day Planner-20221108.md"
+    },
+    {
+      "basename": "Day Planner-20221107",
+      "path": "Day Planner/Day Planner-20221107.md"
+    },
+    {
+      "basename": "Orca - 功能梳理和优化建议",
+      "path": "buckets/max-optics/Orca - 功能梳理和优化建议.md"
     },
     {
       "basename": "Orca - 功能流程图和时序图",
       "path": "buckets/max-optics/Orca - 功能流程图和时序图.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Orca 模块化方案",
+      "path": "buckets/max-optics/Orca 模块化方案.md"
     },
     {
       "basename": "Day Planner-20221104",
@@ -25,20 +53,8 @@
       "path": "workspce/Draft.md"
     },
     {
-      "basename": "Attr 动态表单优化",
-      "path": "buckets/max-optics/Attr 动态表单优化.md"
-    },
-    {
-      "basename": "Day Planner-20221107",
-      "path": "Day Planner/Day Planner-20221107.md"
-    },
-    {
       "basename": "Fiddler Everywhere Crack 尝试",
       "path": "2022/Fiddler Everywhere Crack 尝试.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Pasted image 20221104172553",
@@ -65,16 +81,8 @@
       "path": "buckets/代码提交规范与版本控制.md"
     },
     {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
-    },
-    {
       "basename": "前端工程自动化实践-文档篇",
       "path": "frontend/前端工程自动化实践-文档篇.md"
-    },
-    {
-      "basename": "mind - Attr 动态表单组件关系图",
-      "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
     },
     {
       "basename": "Day Planner-20221102",
@@ -191,14 +199,6 @@
     {
       "basename": "Drawing 2022-10-21 14.46.44.excalidraw",
       "path": "buckets/excalidraw/Drawing 2022-10-21 14.46.44.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-10-21 14.45.36.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2022-10-21 14.45.36.excalidraw.md"
-    },
-    {
-      "basename": "Vue 3 Admin & Components",
-      "path": "buckets/Vue 3 Admin & Components.md"
     }
   ],
   "omittedPaths": [],

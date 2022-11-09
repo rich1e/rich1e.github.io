@@ -10,7 +10,7 @@
           {
             "id": "44ccd82035aa246e",
             "type": "tabs",
-            "dimension": 41.23711340206185,
+            "dimension": 39.58762886597938,
             "children": [
               {
                 "id": "8716702610da8bf6",
@@ -37,7 +37,7 @@
           {
             "id": "ce0237dc8f18a771",
             "type": "split",
-            "dimension": 58.76288659793815,
+            "dimension": 60.41237113402062,
             "children": [
               {
                 "id": "407f3574ed32ad7f",
@@ -100,7 +100,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/max-optics/Attr 动态表单优化.md",
+                        "file": "buckets/max-optics/Attr - 动态表单优化.md",
                         "mode": "preview",
                         "source": true
                       },
@@ -108,13 +108,13 @@
                     }
                   },
                   {
-                    "id": "1d5a5798cec5134e",
+                    "id": "8f2364346e783777",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/max-optics/Orca - 功能梳理和优化建议.md",
-                        "mode": "preview",
+                        "file": "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
+                        "mode": "source",
                         "source": false
                       }
                     }
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 265.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/max-optics/Orca - 功能梳理和优化建议.md",
+                "file": "workspce/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/max-optics/Orca - 功能梳理和优化建议.md",
+                "file": "workspce/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/max-optics/Orca - 功能梳理和优化建议.md"
+                "file": "workspce/Kanban.md"
               }
             }
           },
@@ -284,20 +284,17 @@
     "direction": "horizontal",
     "width": 348.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "1d5a5798cec5134e",
+  "active": "8716702610da8bf6",
   "lastOpenFiles": [
+    "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
     "workspce/Daily Record.md",
-    "buckets/max-optics/Orca - 功能梳理和优化建议.md",
-    "buckets/max-optics/Orca 模块化方案.md",
-    "buckets/max-optics/Orca - 功能流程图和时序图.md",
-    "Day Planner/Day Planner-20221104.md",
-    "workspce/Draft.md",
-    "buckets/max-optics/Attr 动态表单优化.md",
+    "buckets/max-optics/Attr - 动态表单优化.md",
+    "Day Planner/Day Planner-20221109.md",
+    "Day Planner/Day Planner-20221108.md",
     "Day Planner/Day Planner-20221107.md",
-    "2022/Fiddler Everywhere Crack 尝试.md",
+    "workspce/Kanban.md",
+    "buckets/max-optics/Orca - 功能梳理和优化建议.md",
+    "buckets/max-optics/Orca - 功能流程图和时序图.md",
     "HomePage.md"
   ]
 }

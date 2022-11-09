@@ -8,7 +8,7 @@ kanban-plugin: basic
 
 - [ ] [[Orca 模块化方案]]
 - [ ] [[Orca - 功能梳理和优化建议]]
-- [ ] [[Attr 动态表单优化]] ^m4qu3m
+- [ ] [[Attr - 动态表单优化]] ^m4qu3m
 
 
 ## Meditate

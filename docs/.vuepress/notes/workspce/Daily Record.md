@@ -5,6 +5,28 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221109 
+
+动态表单Demo
+- 表单字段绑定逻辑与关系
+- 动态导入表单字段组件
+
+```ad-note
+title: 构建组件库
+
+[vue3 jsx接收组件事件绑定 - 简书](https://www.jianshu.com/p/0464d573fc84)
+[从零搭建基于 Vue 3.x + ElementPlus 的组件库 - c-137Summer - 博客园](https://www.cnblogs.com/leiting/p/15213831.html)
+[Vue3核心Typescript类解析 - 掘金](https://juejin.cn/post/7005802610997329933)
+[使用Vite和TypeScript带你从零打造一个属于自己的Vue3组件库 - 掘金](https://juejin.cn/post/7117886038126624805)
+[完整的Axios封装-单独API管理层、参数序列化、取消重复请求、Loading、状态码... - 掘金](https://juejin.cn/post/6968630178163458084)
+```
+
+##  20221108 
+
+动态表单Demo
+- 表单字段绑定逻辑与关系
+- 动态导入表单字段组件
+
 ##  20221107 
 
 10月考核：
@@ -80,7 +102,7 @@ Ref:
 
 ##  20221028 
 
-[[Attr 动态表单优化]]
+[[Attr - 动态表单优化]]
 [[mind - Attr 动态表单组件关系图]]
 ##  20221027
 
