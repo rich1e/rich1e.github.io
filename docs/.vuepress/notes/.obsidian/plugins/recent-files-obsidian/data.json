@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "git-useing",
+      "path": "buckets/git-useing.md"
+    },
+    {
+      "basename": "git-workflow",
+      "path": "buckets/git-workflow.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "2021年度规划-help",
+      "path": "2021/2021年度规划-help.md"
+    },
+    {
+      "basename": "2021-Vue&React",
+      "path": "2021/2021-Vue&React.md"
+    },
+    {
+      "basename": "Archives File",
+      "path": "workspce/Archives File.md"
+    },
+    {
+      "basename": "Git",
+      "path": "buckets/Git.md"
+    },
+    {
+      "basename": "Day Planner-20221111",
+      "path": "Day Planner/Day Planner-20221111.md"
+    },
+    {
+      "basename": "Day Planner-20221110",
+      "path": "Day Planner/Day Planner-20221110.md"
+    },
+    {
+      "basename": "Day Planner-20221109",
+      "path": "Day Planner/Day Planner-20221109.md"
+    },
+    {
+      "basename": "Day Planner-20221108",
+      "path": "Day Planner/Day Planner-20221108.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
       "basename": "Pasted image 20221031144114",
       "path": "buckets/max-optics/assets/diary/Pasted image 20221031144114.png"
     },
@@ -29,10 +85,6 @@
       "path": "buckets/max-optics/assets/attr/Pasted image 20221028164706.png"
     },
     {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/max-optics/Attr - 动态表单优化.md"
-    },
-    {
       "basename": "Draft",
       "path": "workspce/Draft.md"
     },
@@ -41,28 +93,8 @@
       "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
-    },
-    {
-      "basename": "Day Planner-20221109",
-      "path": "Day Planner/Day Planner-20221109.md"
-    },
-    {
-      "basename": "Day Planner-20221108",
-      "path": "Day Planner/Day Planner-20221108.md"
-    },
-    {
       "basename": "Day Planner-20221107",
       "path": "Day Planner/Day Planner-20221107.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Day Planner-20221104",
@@ -117,16 +149,8 @@
       "path": "buckets/templates/Obsidian：日记模板.md"
     },
     {
-      "basename": "git-useing",
-      "path": "buckets/git-useing.md"
-    },
-    {
       "basename": "Buckets",
       "path": "workspce/Buckets.md"
-    },
-    {
-      "basename": "Archives File",
-      "path": "workspce/Archives File.md"
     },
     {
       "basename": "Reflect Metadata",
@@ -175,30 +199,6 @@
     {
       "basename": "Day Planner-20221026",
       "path": "Day Planner/Day Planner-20221026.md"
-    },
-    {
-      "basename": "Day Planner-20221028",
-      "path": "Day Planner/Day Planner-20221028.md"
-    },
-    {
-      "basename": "Day Planner-20221025",
-      "path": "Day Planner/Day Planner-20221025.md"
-    },
-    {
-      "basename": "a1675046c",
-      "path": "images/clash/a1675046c.png"
-    },
-    {
-      "basename": "Clash",
-      "path": "buckets/Clash.md"
-    },
-    {
-      "basename": "Day Planner-20221024",
-      "path": "Day Planner/Day Planner-20221024.md"
-    },
-    {
-      "basename": "Day Planner-20221021",
-      "path": "Day Planner/Day Planner-20221021.md"
     }
   ],
   "omittedPaths": [],

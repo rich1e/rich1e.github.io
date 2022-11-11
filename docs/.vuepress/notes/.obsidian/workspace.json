@@ -106,9 +106,21 @@
                       },
                       "pinned": true
                     }
+                  },
+                  {
+                    "id": "2f11965849846e22",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "buckets/git-useing.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/max-optics/assets/diary/Pasted image 20221031144114.png",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/max-optics/assets/diary/Pasted image 20221031144114.png",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/max-optics/assets/diary/Pasted image 20221031144114.png"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -274,15 +286,15 @@
   },
   "active": "d9995859cf1212a3",
   "lastOpenFiles": [
-    "buckets/max-optics/Orca - 功能流程图和时序图.md",
-    "buckets/max-optics/Orca - 功能梳理和优化建议.md",
-    "buckets/max-optics/Orca 模块化方案.md",
-    "buckets/max-optics/assets/attr/Pasted image 20221108111704.png",
-    "buckets/max-optics/assets/attr/Pasted image 20221028164224.png",
-    "buckets/max-optics/assets/diary/Pasted image 20221031144114.png",
-    "buckets/max-optics/assets/attr/Pasted image 20221028164706.png",
+    "buckets/git-useing.md",
+    "buckets/git-workflow.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
-    "workspce/Draft.md",
-    "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
+    "2021/2021年度规划-help.md",
+    "2021/2021-Vue&React.md",
+    "workspce/Archives File.md",
+    "buckets/Git.md",
+    "workspce/Daily Record.md",
+    "Day Planner/Day Planner-20221111.md",
+    "Day Planner/Day Planner-20221110.md"
   ]
 }
