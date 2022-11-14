@@ -4,7 +4,7 @@
  * @Author: rich1e
  * @Date: 2022-06-23 11:16:49
  * @LastEditors: rich1e
- * @LastEditTime: 2022-09-27 11:34:22
+ * @LastEditTime: 2022-11-14 09:19:07
 -->
 
 - [搭建 Blog](/workspace/搭建Blog.md)
@@ -14,3 +14,4 @@
 - [Windows 10 中配置 WSL2 与 Ubuntu（进阶）](/workspace/Windows10中配置WSL2与Ubuntu（进阶）.md)
 - [macOS 支持 NTFS 文件系统的若干方案](/workspace/macOS_Catalina-支持NTFS文件系统的若干方案.md)
 - [再读 Vue3 文档 - 响应式基础](/workspace/再读Vue3文档-响应式基础.md)
+- [Terminal 配置](/workspace/Terminal配置.md)

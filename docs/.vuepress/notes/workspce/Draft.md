@@ -1,3 +1,21 @@
+## zsh & theme
+
+```ad-note
+title: Terminal 资料
+
+[Terminal改造：iterm2+Oh my ZSH+powerline 字体 - 简书](https://www.jianshu.com/p/6ff47e388d2d)
+[Starship](https://starship.rs/zh-CN/guide/#%F0%9F%9A%80-%E5%AE%89%E8%A3%85)
+[sindresorhus/pure: Pretty, minimal and fast ZSH prompt](https://github.com/sindresorhus/pure)
+[github.com](https://github.com/sindresorhus/iterm2-snazzy)
+[GitHub - spaceship-prompt/spaceship-prompt: Minimalistic, powerful and extremely customizable Zsh prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+[Getting Started - Spaceship](https://spaceship-prompt.sh/getting-started/)
+[powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts)
+[Broken fonts in latest iTerm2 version · Issue #44 · powerline/fonts · GitHub](https://github.com/powerline/fonts/issues/44)
+[fonts/50-enable-terminess-powerline.conf at master · powerline/fonts · GitHub](https://github.com/powerline/fonts/blob/master/fontconfig/50-enable-terminess-powerline.conf)
+[Themes · ohmyzsh/ohmyzsh Wiki · GitHub](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#refined)
+```
+
+
 ## Pnpm
 
 ### Issues with peer dependencies found
