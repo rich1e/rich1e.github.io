@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
       "basename": "git-useing",
       "path": "buckets/git-useing.md"
     },
     {
-      "basename": "git-workflow",
-      "path": "buckets/git-workflow.md"
-    },
-    {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "git-workflow",
+      "path": "buckets/git-workflow.md"
     },
     {
       "basename": "2021年度规划-help",
@@ -53,10 +61,6 @@
       "path": "HomePage.md"
     },
     {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
-    },
-    {
       "basename": "Pasted image 20221031144114",
       "path": "buckets/max-optics/assets/diary/Pasted image 20221031144114.png"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "Pasted image 20221028164706",
       "path": "buckets/max-optics/assets/attr/Pasted image 20221028164706.png"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
     },
     {
       "basename": "mind - Attr 动态表单组件关系图",

@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 234.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/git-useing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/git-useing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "buckets/git-useing.md"
               }
             }
           },
@@ -282,19 +282,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 264.5
   },
-  "active": "d9995859cf1212a3",
+  "active": "2f11965849846e22",
   "lastOpenFiles": [
+    "buckets/max-optics/Attr - 动态表单优化.md",
+    "workspce/Draft.md",
+    "workspce/Kanban.md",
     "buckets/git-useing.md",
     "buckets/git-workflow.md",
-    "buckets/max-optics/Attr - 动态表单优化.md",
     "2021/2021年度规划-help.md",
     "2021/2021-Vue&React.md",
     "workspce/Archives File.md",
     "buckets/Git.md",
-    "workspce/Daily Record.md",
-    "Day Planner/Day Planner-20221111.md",
-    "Day Planner/Day Planner-20221110.md"
+    "workspce/Daily Record.md"
   ]
 }
