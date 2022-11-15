@@ -87,7 +87,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Draft.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": false
                       },
                       "pinned": true
@@ -113,14 +113,26 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/git-useing.md",
+                        "file": "buckets/max-optics/Attr - 动态表单优化.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "b3b9aa66d379d0fe",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "buckets/max-optics/Attr - 动态表单设计.md",
                         "mode": "preview",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 3
               }
             ],
             "direction": "vertical"
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/git-useing.md",
+                "file": "buckets/max-optics/Attr - 动态表单设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/git-useing.md",
+                "file": "buckets/max-optics/Attr - 动态表单设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/git-useing.md"
+                "file": "buckets/max-optics/Attr - 动态表单设计.md"
               }
             }
           },
@@ -284,17 +296,17 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "2f11965849846e22",
+  "active": "b3b9aa66d379d0fe",
   "lastOpenFiles": [
     "buckets/max-optics/Attr - 动态表单优化.md",
+    "buckets/max-optics/Attr - 动态表单设计.md",
     "workspce/Draft.md",
-    "workspce/Kanban.md",
+    "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
     "buckets/git-useing.md",
+    "workspce/Kanban.md",
     "buckets/git-workflow.md",
     "2021/2021年度规划-help.md",
     "2021/2021-Vue&React.md",
-    "workspce/Archives File.md",
-    "buckets/Git.md",
-    "workspce/Daily Record.md"
+    "workspce/Archives File.md"
   ]
 }
