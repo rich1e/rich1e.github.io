@@ -1,3 +1,25 @@
+```markdown
+https://dev.to/budavariam/supercharge-your-command-line-2c9b
+https://revelry.co/insights/development/terminal-workflow-fzf/
+https://einverne.github.io/post/2019/08/fzf-usage.html
+https://oskernellab.com/2021/02/15/2021/0215-0001-Using_FZF_to_Improve_Productivity/
+https://github.com/wfxr/forgit
+https://segmentfault.com/a/1190000016186540
+https://www.v2ex.com/t/653576
+https://www.hikerpig.cn/2021-01-08-fzf-everything/
+https://www.aloxaf.com/2020/03/fzf-tab/
+https://github.com/Aloxaf/fzf-tab#oh-my-zsh
+https://github.com/VSCodeVim/Vim#vscodevim-settings
+https://asdf-vm.com/zh-hans/guide/introduction.html
+https://blog.51cto.com/u_14299052/5117535
+https://sdl.moe/post/zsh-conf/
+https://www.aloxaf.com/2019/11/zplugin_tutorial/#%E4%B8%80%E4%BB%BD%E7%A4%BA%E4%BE%8B%E9%85%8D%E7%BD%AE
+https://github.com/search?q=topic%3Azplugin+org%3Az-shell&type=Repositories
+https://www.v2ex.com/t/859660
+https://github.com/zdharma-continuum/zinit
+https://magiclala.github.io/Contents/DailyTrivia/zshOptimize.html#%E5%8D%B8%E8%BD%BD-omz-%E6%94%B9%E4%B8%BA-zinit-%E6%94%AF%E6%8C%81
+```
+
 ## Command
 
 ```ad-note
