@@ -5,12 +5,43 @@ banner_y: 0.504
 
 > Just keep doing.
 
+
+##  20221116
+
+动态表单Demo
+- tab 功能完善
+- bind 数据回显功能设计
+- 动态表单需求沟通
+
+需求沟通（小吴）：
+- 带单位的输入框
+- 分组带标题
+- 组件数据联动 - 波长&频率
+- 重置时，显示默认值或者上一次内容
+
+##  20221115
+
+动态表单Demo
+- 演示Demo
+- 演示文档
+- 功能参数优化
+- 模板逻辑封装
+
+需求沟通（李老师）：
+- AttrDialog.vue -> updateContent 逻辑梳理
+
+##  20221114
+
+居家办公 - 动态表单Demo
+- Group 模板功能优化
+- Biserial 模板功能优化
+
 ##  20221111 
 
 动态表单Demo
-- template 模板
-- template 参数
-- template 事件
+- template 模板数据
+- template 业务逻辑
+- template 事件绑定
 
 [javascript - 一个基于Vue3+element-plus 的 可编程动态表单_个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000042081228)
 

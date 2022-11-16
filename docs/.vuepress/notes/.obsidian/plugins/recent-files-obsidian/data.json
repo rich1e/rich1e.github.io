@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
       "basename": "Attr - 动态表单设计",
       "path": "buckets/max-optics/Attr - 动态表单设计.md"
     },
@@ -9,8 +13,88 @@
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
+      "basename": "Pasted image 20221116100939",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221116100939.png"
+    },
+    {
+      "basename": "Pasted image 20221116101750",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221116101750.png"
+    },
+    {
+      "basename": "Pasted image 20221116101038",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221116101038.png"
+    },
+    {
+      "basename": "2021-Vue&React",
+      "path": "2021/2021-Vue&React.md"
+    },
+    {
+      "basename": "Fiddler Everywhere Crack 尝试",
+      "path": "2022/Fiddler Everywhere Crack 尝试.md"
+    },
+    {
+      "basename": "Book Sync",
+      "path": "2022/Book Sync.md"
+    },
+    {
+      "basename": "Alienware",
+      "path": "2022/Alienware.md"
+    },
+    {
+      "basename": "2022 learn",
+      "path": "2022/2022 learn.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Pasted image 20221115133748",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221115133748.png"
+    },
+    {
+      "basename": "Pasted image 20221115134013",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221115134013.png"
+    },
+    {
+      "basename": "Pasted image 20221115133943",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221115133943.png"
+    },
+    {
+      "basename": "Pasted image 20221115133907",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221115133907.png"
+    },
+    {
+      "basename": "Pasted image 20221115133830",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221115133830.png"
+    },
+    {
+      "basename": "Pasted image 20221108111704",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221108111704.png"
+    },
+    {
+      "basename": "Pasted image 20221028164706",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221028164706.png"
+    },
+    {
+      "basename": "Pasted image 20221028164224",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221028164224.png"
+    },
+    {
+      "basename": "Day Planner-20221116",
+      "path": "Day Planner/Day Planner-20221116.md"
+    },
+    {
+      "basename": "Day Planner-20221114",
+      "path": "Day Planner/Day Planner-20221114.md"
+    },
+    {
+      "basename": "Day Planner-20221115",
+      "path": "Day Planner/Day Planner-20221115.md"
+    },
+    {
+      "basename": "Day Planner-20221111",
+      "path": "Day Planner/Day Planner-20221111.md"
     },
     {
       "basename": "mind - Attr 动态表单组件关系图",
@@ -25,10 +109,6 @@
       "path": "workspce/Kanban.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
       "basename": "git-workflow",
       "path": "buckets/git-workflow.md"
     },
@@ -37,20 +117,12 @@
       "path": "2021/2021年度规划-help.md"
     },
     {
-      "basename": "2021-Vue&React",
-      "path": "2021/2021-Vue&React.md"
-    },
-    {
       "basename": "Archives File",
       "path": "workspce/Archives File.md"
     },
     {
       "basename": "Git",
       "path": "buckets/Git.md"
-    },
-    {
-      "basename": "Day Planner-20221111",
-      "path": "Day Planner/Day Planner-20221111.md"
     },
     {
       "basename": "Day Planner-20221110",
@@ -85,28 +157,12 @@
       "path": "buckets/max-optics/Orca 模块化方案.md"
     },
     {
-      "basename": "Pasted image 20221108111704",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221108111704.png"
-    },
-    {
-      "basename": "Pasted image 20221028164224",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221028164224.png"
-    },
-    {
-      "basename": "Pasted image 20221028164706",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221028164706.png"
-    },
-    {
       "basename": "Day Planner-20221107",
       "path": "Day Planner/Day Planner-20221107.md"
     },
     {
       "basename": "Day Planner-20221104",
       "path": "Day Planner/Day Planner-20221104.md"
-    },
-    {
-      "basename": "Fiddler Everywhere Crack 尝试",
-      "path": "2022/Fiddler Everywhere Crack 尝试.md"
     },
     {
       "basename": "Pasted image 20221104172553",
@@ -143,62 +199,6 @@
     {
       "basename": "Day Planner-20221101",
       "path": "Day Planner/Day Planner-20221101.md"
-    },
-    {
-      "basename": "Obsidian：Day Planner Template",
-      "path": "buckets/templates/Obsidian：Day Planner Template.md"
-    },
-    {
-      "basename": "Obsidian：日记模板",
-      "path": "buckets/templates/Obsidian：日记模板.md"
-    },
-    {
-      "basename": "Buckets",
-      "path": "workspce/Buckets.md"
-    },
-    {
-      "basename": "Reflect Metadata",
-      "path": "buckets/max-optics/Reflect Metadata.md"
-    },
-    {
-      "basename": "InversifyJS",
-      "path": "buckets/max-optics/InversifyJS.md"
-    },
-    {
-      "basename": "RxJS",
-      "path": "buckets/max-optics/RxJS.md"
-    },
-    {
-      "basename": "Pasted image 20221031145411",
-      "path": "images/diary_20221017/Pasted image 20221031145411.png"
-    },
-    {
-      "basename": "Pasted image 20221031150806",
-      "path": "images/diary_20221017/Pasted image 20221031150806.png"
-    },
-    {
-      "basename": "Pasted image 20221031134349",
-      "path": "images/diary_20221017/Pasted image 20221031134349.png"
-    },
-    {
-      "basename": "Pasted image 20221031142201",
-      "path": "images/diary_20221017/Pasted image 20221031142201.png"
-    },
-    {
-      "basename": "Day Planner-20221031",
-      "path": "Day Planner/Day Planner-20221031.md"
-    },
-    {
-      "basename": "Drawing 2022-10-28 13.50.23.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2022-10-28 13.50.23.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-10-28 13.13.38.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2022-10-28 13.13.38.excalidraw.md"
-    },
-    {
-      "basename": "Day Planner-20221027",
-      "path": "Day Planner/Day Planner-20221027.md"
     }
   ],
   "omittedPaths": [],

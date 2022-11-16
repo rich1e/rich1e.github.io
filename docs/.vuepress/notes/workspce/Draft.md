@@ -1,3 +1,85 @@
+## Command
+
+```ad-note
+title: fd & ag & rg & fzf
+
+[命令行常用工具的替代品 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)
+[htop-dev/htop: htop - an interactive process viewer](https://github.com/htop-dev/htop)
+[dalance/procs: A modern replacement for ps written in Rust](https://github.com/dalance/procs)
+[chinanf-boy/fd-zh: 🇨🇳翻译: <fd> 一种简单,快速和用户友好的 >find< 替代方案 ❤️ 校对 ✅](https://github.com/chinanf-boy/fd-zh)
+[junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf#using-homebrew)
+[ggreer/the_silver_searcher: A code-searching tool similar to ack, but faster.](https://github.com/ggreer/the_silver_searcher)
+[ripgrep-zh/GUIDE.zh.md at master · chinanf-boy/ripgrep-zh](https://github.com/chinanf-boy/ripgrep-zh/blob/master/GUIDE.zh.md)
+[ohmyzsh/plugins at master · ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)
+```
+
+```ad-note
+title: cdf & osx & macos & zsh plugins
+
+[Howardism: zsh: OSX Module](http://www.howardism.org/Technical/WeeklyTips/zsh-osx-module.html)
+[zshzoo/macos: Zsh goodies for MacOS users](https://github.com/zshzoo/macos)
+[prezto/modules/osx at master · sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto/tree/master/modules/osx)
+[技术|在 Linux 中使用 pushd 和 popd 命令来进行高效的目录导航](https://linux.cn/article-8558-1.html)
+[Terminal-Finder Interaction on OS X](https://scottlab.ucsc.edu/xtal/terminal_finder_interactions.html)
+[Quick Tip: Jumping to the Finder location in Terminal - BrettTerpstra.com](https://brettterpstra.com/2013/02/09/quick-tip-jumping-to-the-finder-location-in-terminal/)
+
+```
+
+## brew
+
+```markdown
+rich1e.github.io on  main [✘!?] is 📦 v1.0.0 via  v16.17.1
+❯ brew doctor
+Please note that these warnings are just used to help the Homebrew maintainers
+with debugging if you file an issue. If everything you use Homebrew for is
+working fine: please don't worry or file an issue; just ignore this. Thanks!
+
+Warning: Suspicious https://github.com/Homebrew/brew git origin remote found.
+The current git origin is:
+  https://mirrors.ustc.edu.cn/brew.git
+
+With a non-standard origin, Homebrew won't update properly.
+You can solve this by setting the origin remote:
+  git -C "/opt/homebrew" remote set-url origin https://github.com/Homebrew/brew
+
+Warning: Suspicious https://github.com/Homebrew/homebrew-core git origin remote found.
+The current git origin is:
+  https://mirrors.ustc.edu.cn/homebrew-core.git
+
+With a non-standard origin, Homebrew won't update properly.
+You can solve this by setting the origin remote:
+  git -C "/opt/homebrew/Library/Taps/homebrew/homebrew-core" remote set-url origin https://github.com/Homebrew/homebrew-core
+
+
+
+```
+
+## Vue
+
+```ad-note
+title: GetCurrentInstance Error
+
+[(2条消息) getCurrentInstance_秃头小宝贝@的博客-CSDN博客](https://blog.csdn.net/weixin_45974259/article/details/123858407)
+[javascript - Access this.$root in Vue.js 3 setup() - Stack Overflow](https://stackoverflow.com/questions/64040286/access-this-root-in-vue-js-3-setup)
+[getCurrentInstance type not correct · Issue #12596 · vuejs/vue](https://github.com/vuejs/vue/issues/12596)
+```
+
+## Element Plus
+
+```ad-note
+title: ElForm unexpected width 0
+
+[(2条消息) ElForm unexpected width 0_小东灬灬的博客-CSDN博客](https://blog.csdn.net/huhbca/article/details/125944898)
+[[Component] [form, form-item] El-Form label-width设置为auto时的问题 · Issue #9870 · element-plus/element-plus](https://github.com/element-plus/element-plus/issues/9870)
+```
+
+```ad-note
+title: Element Plus & VuePress
+
+[手把手使用VuePress搭建Element的组件库文档官网 - 掘金](https://juejin.cn/post/6991460404278853668#heading-11)
+[Markdown 与 Vue SFC | VuePress](https://v2.vuepress.vuejs.org/zh/advanced/cookbook/markdown-and-vue-sfc.html)
+```
+
 ## zsh & theme
 
 ```ad-note
@@ -14,7 +96,6 @@ title: Terminal 资料
 [fonts/50-enable-terminess-powerline.conf at master · powerline/fonts · GitHub](https://github.com/powerline/fonts/blob/master/fontconfig/50-enable-terminess-powerline.conf)
 [Themes · ohmyzsh/ohmyzsh Wiki · GitHub](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#refined)
 ```
-
 
 ## Pnpm
 
