@@ -1,24 +1,10 @@
-```markdown
-https://dev.to/budavariam/supercharge-your-command-line-2c9b
-https://revelry.co/insights/development/terminal-workflow-fzf/
-https://einverne.github.io/post/2019/08/fzf-usage.html
-https://oskernellab.com/2021/02/15/2021/0215-0001-Using_FZF_to_Improve_Productivity/
-https://github.com/wfxr/forgit
-https://segmentfault.com/a/1190000016186540
-https://www.v2ex.com/t/653576
-https://www.hikerpig.cn/2021-01-08-fzf-everything/
-https://www.aloxaf.com/2020/03/fzf-tab/
-https://github.com/Aloxaf/fzf-tab#oh-my-zsh
-https://github.com/VSCodeVim/Vim#vscodevim-settings
-https://asdf-vm.com/zh-hans/guide/introduction.html
-https://blog.51cto.com/u_14299052/5117535
-https://sdl.moe/post/zsh-conf/
-https://www.aloxaf.com/2019/11/zplugin_tutorial/#%E4%B8%80%E4%BB%BD%E7%A4%BA%E4%BE%8B%E9%85%8D%E7%BD%AE
-https://github.com/search?q=topic%3Azplugin+org%3Az-shell&type=Repositories
-https://www.v2ex.com/t/859660
-https://github.com/zdharma-continuum/zinit
-https://magiclala.github.io/Contents/DailyTrivia/zshOptimize.html#%E5%8D%B8%E8%BD%BD-omz-%E6%94%B9%E4%B8%BA-zinit-%E6%94%AF%E6%8C%81
+
+```md
+[Fetching Title#yqse](https://www.v2ex.com/t/829156)
+[asdf | 管理多个运行环境版本的简单命令行工具](https://asdf-vm.com/zh-hans/)
+[How do I clear the screen in Termi… | Apple Developer Forums](https://developer.apple.com/forums/thread/658379)
 ```
+
 
 ## Command
 
@@ -47,32 +33,39 @@ title: cdf & osx & macos & zsh plugins
 
 ```
 
-## brew
+```ad-note
+title: Git Delta & Diff Tools
 
-```markdown
-rich1e.github.io on  main [✘!?] is 📦 v1.0.0 via  v16.17.1
-❯ brew doctor
-Please note that these warnings are just used to help the Homebrew maintainers
-with debugging if you file an issue. If everything you use Homebrew for is
-working fine: please don't worry or file an issue; just ignore this. Thanks!
+[Custom themes - delta](https://dandavison.github.io/delta/custom-themes.html)
+[dandavison/delta: A syntax-highlighting pager for git, diff, and grep output](https://github.com/dandavison/delta)
+[https://raw.githubusercontent.com/dandavison/delta/master/themes.gitconfig](https://raw.githubusercontent.com/dandavison/delta/master/themes.gitconfig)
+[Improved Terminal Experience with Oh My Zsh, iTerm2, PowerLevel10K - naschenweng.info](https://www.naschenweng.info/2021/01/05/improved-terminal-experience-with-oh-my-zsh-iterm2-powerlevel10k/)
 
-Warning: Suspicious https://github.com/Homebrew/brew git origin remote found.
-The current git origin is:
-  https://mirrors.ustc.edu.cn/brew.git
+```
 
-With a non-standard origin, Homebrew won't update properly.
-You can solve this by setting the origin remote:
-  git -C "/opt/homebrew" remote set-url origin https://github.com/Homebrew/brew
+```ad-note
+title: fzf & fzf-tab & # forgit
 
-Warning: Suspicious https://github.com/Homebrew/homebrew-core git origin remote found.
-The current git origin is:
-  https://mirrors.ustc.edu.cn/homebrew-core.git
-
-With a non-standard origin, Homebrew won't update properly.
-You can solve this by setting the origin remote:
-  git -C "/opt/homebrew/Library/Taps/homebrew/homebrew-core" remote set-url origin https://github.com/Homebrew/homebrew-core
-
-
+[Supercharge your command line - DEV Community 👩‍💻👨‍💻](https://dev.to/budavariam/supercharge-your-command-line-2c9b)
+[Improve Your Workflow In The Terminal With These 4 Fzf Tips](https://revelry.co/insights/development/terminal-workflow-fzf/)
+[每天学习一个命令：fzf 使用笔记 | Verne in GitHub](https://einverne.github.io/post/2019/08/fzf-usage.html)
+[使用模糊搜索神器 FZF 来提升办公效率 | OSKernelLAB](https://oskernellab.com/2021/02/15/2021/0215-0001-Using_FZF_to_Improve_Productivity/)
+[wfxr/forgit: A utility tool powered by fzf for using git interactively.](https://github.com/wfxr/forgit)
+[wfxr/emoji-cli](https://github.com/wfxr/emoji-cli)
+[fzf-tab - 使用 fzf 作为 zsh 的补全选择菜单 - V2EX](https://www.v2ex.com/t/653576)
+[kimci86/bkcrack: Crack legacy zip encryption with Biham and Kocher's known plaintext attack.](https://github.com/kimci86/bkcrack)
+[万物皆可 fzf :: HP goes FE](https://www.hikerpig.cn/2021-01-08-fzf-everything/)
+[Aloxaf/fzf-tab: Replace zsh's default completion selection menu with fzf!](https://github.com/Aloxaf/fzf-tab#oh-my-zsh)
+[fzf-tab - asciinema](https://asciinema.org/a/293849)
+[ZSH + ZI + PURE 配置教程](https://sdl.moe/post/zsh-conf/)
+[fzf-tab —— 使用 fzf 进行 zsh 补全 - Aloxaf's Blog](https://www.aloxaf.com/2020/03/fzf-tab/)
+[加速你的 zsh —— 最强 zsh 插件管理器 zplugin/zinit 教程 - Aloxaf's Blog](https://www.aloxaf.com/2019/11/zplugin_tutorial/#%E4%B8%80%E4%BB%BD%E7%A4%BA%E4%BE%8B%E9%85%8D%E7%BD%AE)
+[zi 感觉是 zinit 作者写的新的 - V2EX](https://www.v2ex.com/t/859660)
+[zdharma-continuum/zinit: 🌻 Flexible and fast ZSH plugin manager](https://github.com/zdharma-continuum/zinit)
+[Zsh 启动优化 | 人间熙攘，好久不见](https://magiclala.github.io/Contents/DailyTrivia/zshOptimize.html#%E5%88%86%E6%9E%90)
+[fzf模糊搜索神器的安装和使用 | Levon's Blog](https://www.liuvv.com/p/a0700771.html)
+[Examples · junegunn/fzf Wiki](https://github.com/junegunn/fzf/wiki/Examples#npm)
+[Meet Forgit: A Tool for Using Git More Interactively | by Amine Elhattami | Better Programming](https://betterprogramming.pub/how-to-make-your-git-command-line-interactions-seamless-769d5c148097)
 
 ```
 

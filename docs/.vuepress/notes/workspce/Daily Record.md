@@ -5,6 +5,18 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221117 
+
+![[Pasted image 20221117111311.png]]
+
+```md
+M3PW-TFPC-HNVD-QWFC-2MJ8-57JQ
+```
+
+动态表单Demo
+- 动态表单代码分析
+- AttrDialog.vue 代码优化
+- slot 功能设计
 
 ##  20221116
 
