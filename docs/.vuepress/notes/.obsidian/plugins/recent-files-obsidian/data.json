@@ -5,6 +5,10 @@
       "path": "workspce/Draft.md"
     },
     {
+      "basename": "git-useing",
+      "path": "buckets/git-useing.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "mind - Attr 动态表单组件关系图",
       "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
-    },
-    {
-      "basename": "git-useing",
-      "path": "buckets/git-useing.md"
     },
     {
       "basename": "Kanban",
