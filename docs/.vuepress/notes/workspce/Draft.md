@@ -1,26 +1,16 @@
+## VS Code
 
 ```ad-note
-title: getCurrentInstance
+title: vim
 
-[vue3 provide inject global - Google 搜索](https://www.google.com/search?q=vue3+provide+inject+global&newwindow=1&biw=1728&bih=765&sxsrf=ALiCzsY6K1e7Xr1hgQMF0T2MPB_8XGWSww%3A1668767214189&ei=7l13Y6OcC-XOkPIP2ZqNoAM&oq=vue3+provide+inject+g&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIIRCgATIFCCEQoAEyBQghEKABMgUIIRCgATIFCCEQoAE6CggAEEcQ1gQQsAM6BAgjECc6BQgAEIAEOgcIABCABBAKOgQIABBDOggIABCABBDLAToECAAQHkoECEEYAEoECEYYAFClCFjaamDTfmgBcAF4AIAB5wGIAdoVkgEGMC4xMy4ymAEAoAEByAEKwAEB&sclient=gws-wiz-serp)
-[Provide/Inject API With Vue 3 - This Dot Labs](https://www.thisdot.co/blog/provide-inject-api-with-vue-3)
-[(2条消息) Vue3中如何使用this_大白鑫的博客-CSDN博客](https://blog.csdn.net/happygirl0917/article/details/120161107)
-[Vue深入浅出之原理篇 | AirHua-byte](https://huabyte.com/docs/notes/Vue/2022021202.html#%E5%AF%B9mvvm%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
-[Vue Dependency Injection Using Provide and Inject - LearnVue](https://learnvue.co/tutorials/vue-3-plugins-provide-and-inject)
-[vue.js - How to get the this instance in vue 3? - Stack Overflow](https://stackoverflow.com/questions/66957578/how-to-get-the-this-instance-in-vue-3)
-[How to use $refs in Vue 3 with Composition API and Script Setup - Zelig880](https://zelig880.com/how-to-use-refs-in-vue-3-with-composition-api-and-script-setup)
-[javascript - How to get $refs using Composition API in Vue3? - Stack Overflow](https://stackoverflow.com/questions/71093658/how-to-get-refs-using-composition-api-in-vue3)
-[getCurrentInstance in Vue 3 - Special Feature - Program Easily](https://programeasily.com/2021/02/24/getcurrentinstance-in-vue-3/)
-[写给 VS Code 用户的 Vim 入坑指南 - Yuexun’s Blog](https://www.yuexun.me/blog/the-vim-guide-for-vs-code-users/)
-[vscode + vim : vscode 全键盘使用方案_vim_lmymirror_InfoQ写作社区](https://xie.infoq.cn/article/654e137365b09e217f57bc965)
-[在VSCode里面配置Vim的正确姿势（细节解析） - 知乎](https://zhuanlan.zhihu.com/p/188499395)
-[关于Vue3获取当前组件实例的 getCurrentInstance 方法的补充 - 掘金](https://juejin.cn/post/6901087576195760141#heading-3)
-[从 Composition API 源码分析 getCurrentInstance() 为何返回 null - 掘金](https://juejin.cn/post/6918365587248775175)
-[TS2769: No overload matches this call · Issue #374 · vuejs/vue-class-component](https://github.com/vuejs/vue-class-component/issues/374)
-[getCurrentInstance type not correct · Issue #12596 · vuejs/vue](https://github.com/vuejs/vue/issues/12596)
-[Why `getCurrentInstance` is descriped as anti pattern in application code? · Issue #1422 · vuejs/docs](https://github.com/vuejs/docs/issues/1422)
-[vue.js - Vue 3: Is getCurrentInstance() deprecated? - Stack Overflow](https://stackoverflow.com/questions/72209080/vue-3-is-getcurrentinstance-deprecated)
-[依赖注入 | Vue.js](https://cn.vuejs.org/guide/components/provide-inject.html#working-with-reactivity)
+[when clause contexts | Visual Studio Code Extension API](https://code.visualstudio.com/api/references/when-clause-contexts)
+[VS Code - Vim 插件自动切换输入法 - 掘金](https://juejin.cn/post/7104850924975161358)
+[VS Code VIM 插件高效使用|OhYee 博客](https://www.ohyee.cc/post/note_vim)
+[VSCode Vim 插件 输入法自动切换配置 - 知乎](https://zhuanlan.zhihu.com/p/397637955)
+[daipeihust/im-select: 📟 Switch your input method through terminal](https://github.com/daipeihust/im-select)
+[(6 封私信 / 82 条消息) 如何临时关闭vscode 的vim插件? - 知乎](https://www.zhihu.com/question/420445026)
+[vscode快速切换vim - 掘金](https://juejin.cn/post/6844903842362998791)
+[How to close vim mode ? · Issue #1055 · VSCodeVim/Vim](https://github.com/VSCodeVim/Vim/issues/1055)
 
 ```
 
@@ -32,7 +22,6 @@ title: getCurrentInstance
 [asdf | 管理多个运行环境版本的简单命令行工具](https://asdf-vm.com/zh-hans/)
 [How do I clear the screen in Termi… | Apple Developer Forums](https://developer.apple.com/forums/thread/658379)
 ```
-
 
 ## Command
 
@@ -118,6 +107,31 @@ title: GetCurrentInstance Error
 [getCurrentInstance type not correct · Issue #12596 · vuejs/vue](https://github.com/vuejs/vue/issues/12596)
 ```
 
+```ad-note
+title: getCurrentInstance
+
+[vue3 provide inject global - Google 搜索](https://www.google.com/search?q=vue3+provide+inject+global&newwindow=1&biw=1728&bih=765&sxsrf=ALiCzsY6K1e7Xr1hgQMF0T2MPB_8XGWSww%3A1668767214189&ei=7l13Y6OcC-XOkPIP2ZqNoAM&oq=vue3+provide+inject+g&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIIRCgATIFCCEQoAEyBQghEKABMgUIIRCgATIFCCEQoAE6CggAEEcQ1gQQsAM6BAgjECc6BQgAEIAEOgcIABCABBAKOgQIABBDOggIABCABBDLAToECAAQHkoECEEYAEoECEYYAFClCFjaamDTfmgBcAF4AIAB5wGIAdoVkgEGMC4xMy4ymAEAoAEByAEKwAEB&sclient=gws-wiz-serp)
+[Provide/Inject API With Vue 3 - This Dot Labs](https://www.thisdot.co/blog/provide-inject-api-with-vue-3)
+[(2条消息) Vue3中如何使用this_大白鑫的博客-CSDN博客](https://blog.csdn.net/happygirl0917/article/details/120161107)
+[Vue深入浅出之原理篇 | AirHua-byte](https://huabyte.com/docs/notes/Vue/2022021202.html#%E5%AF%B9mvvm%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3)
+[Vue Dependency Injection Using Provide and Inject - LearnVue](https://learnvue.co/tutorials/vue-3-plugins-provide-and-inject)
+[vue.js - How to get the this instance in vue 3? - Stack Overflow](https://stackoverflow.com/questions/66957578/how-to-get-the-this-instance-in-vue-3)
+[How to use $refs in Vue 3 with Composition API and Script Setup - Zelig880](https://zelig880.com/how-to-use-refs-in-vue-3-with-composition-api-and-script-setup)
+[javascript - How to get $refs using Composition API in Vue3? - Stack Overflow](https://stackoverflow.com/questions/71093658/how-to-get-refs-using-composition-api-in-vue3)
+[getCurrentInstance in Vue 3 - Special Feature - Program Easily](https://programeasily.com/2021/02/24/getcurrentinstance-in-vue-3/)
+[写给 VS Code 用户的 Vim 入坑指南 - Yuexun’s Blog](https://www.yuexun.me/blog/the-vim-guide-for-vs-code-users/)
+[vscode + vim : vscode 全键盘使用方案_vim_lmymirror_InfoQ写作社区](https://xie.infoq.cn/article/654e137365b09e217f57bc965)
+[在VSCode里面配置Vim的正确姿势（细节解析） - 知乎](https://zhuanlan.zhihu.com/p/188499395)
+[关于Vue3获取当前组件实例的 getCurrentInstance 方法的补充 - 掘金](https://juejin.cn/post/6901087576195760141#heading-3)
+[从 Composition API 源码分析 getCurrentInstance() 为何返回 null - 掘金](https://juejin.cn/post/6918365587248775175)
+[TS2769: No overload matches this call · Issue #374 · vuejs/vue-class-component](https://github.com/vuejs/vue-class-component/issues/374)
+[getCurrentInstance type not correct · Issue #12596 · vuejs/vue](https://github.com/vuejs/vue/issues/12596)
+[Why `getCurrentInstance` is descriped as anti pattern in application code? · Issue #1422 · vuejs/docs](https://github.com/vuejs/docs/issues/1422)
+[vue.js - Vue 3: Is getCurrentInstance() deprecated? - Stack Overflow](https://stackoverflow.com/questions/72209080/vue-3-is-getcurrentinstance-deprecated)
+[依赖注入 | Vue.js](https://cn.vuejs.org/guide/components/provide-inject.html#working-with-reactivity)
+
+```
+
 ## TypeScript
 
 ```ad-note
@@ -164,7 +178,7 @@ title: Terminal 资料
 
 ## Pnpm
 
-### Issues with peer dependencies found
+**Issues with peer dependencies found**
 
 ```ad-note
 title: 解决 & 参考

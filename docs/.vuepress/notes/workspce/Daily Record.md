@@ -5,6 +5,16 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221121 
+
+动态表单Demo
+- Typescript 完善（AttrDialog.vue）
+
+##  20221118
+
+动态表单Demo
+- getCurrentInstance 调研
+
 ##  20221117 
 
 ![[Pasted image 20221117111311.png]]
