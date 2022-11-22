@@ -87,7 +87,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Draft.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": false
                       },
                       "pinned": true
@@ -114,12 +114,13 @@
                       "type": "markdown",
                       "state": {
                         "file": "buckets/max-optics/Attr - 动态表单设计.md",
-                        "mode": "source",
-                        "source": false
+                        "mode": "preview",
+                        "source": true
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -201,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Draft.md",
+                "file": "buckets/max-optics/Attr - 动态表单设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Draft.md",
+                "file": "buckets/max-optics/Attr - 动态表单设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Draft.md"
+                "file": "buckets/max-optics/Attr - 动态表单设计.md"
               }
             }
           },
@@ -283,17 +284,17 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "daabbc0cd8e02983",
+  "active": "5567fb102516c2ef",
   "lastOpenFiles": [
+    "Day Planner/Day Planner-20221122.md",
+    "Day Planner/Day Planner-20221121.md",
     "workspce/Daily Record.md",
-    "HomePage.md",
-    "workspce/Draft.md",
     "buckets/max-optics/Attr - 动态表单设计.md",
+    "workspce/Draft.md",
+    "HomePage.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
     "buckets/max-optics/assets/diary/Pasted image 20221117111311.png",
-    "Day Planner/Day Planner-20221121.md",
     "Day Planner/Day Planner-20221118.md",
-    "Day Planner/Day Planner-20221117.md",
-    "Day Planner/Day Planner-20221116.md"
+    "Day Planner/Day Planner-20221117.md"
   ]
 }

@@ -3,11 +3,11 @@
 - 表单动态渲染
 - 多种布局样式（单列、双列、Group、Tab 选项卡）
 - 多种类型输入框
-    - 文本输入框
-    - Swich 开关
-    - Select 选择框
-    - Radio 单选框
-    - Checkbox 多选框
+    - [x] 文本输入框
+    - [x] Swich 开关
+    - [x] Select 选择框
+    - [x] Radio 单选框
+    - [x] Checkbox 多选框
 - 支持自定义验证规则
 - 支持自定义布局样式
 - 支持 `bind` 数据回显，维护前后端字段关系
