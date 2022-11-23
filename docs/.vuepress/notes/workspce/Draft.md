@@ -16,6 +16,11 @@ title: vim
 
 [# `Linux` && `Mac OS` 平台上用的各种配置文件](https://github.com/Jackson-soft/dotfiles)
 
+[加快git 命令下载速度的几种方法 - 知乎](https://zhuanlan.zhihu.com/p/410444258)
+[vue2升级vue3：this.$createElement is not a function—动态组件升级 - vue3学习笔记 - 周陆军的个人网站](https://www.zhoulujun.cn/html/webfront/ECMAScript/vue3/8850.html)
+[vue.$createElement的使用实例 - 掘金](https://juejin.cn/post/6969505687114088484)
+[vue2升级vue3: h、createVNode、render、createApp使用 - 知乎](https://zhuanlan.zhihu.com/p/546078014)
+
 ```md
 23111111
 
@@ -133,6 +138,8 @@ title: getCurrentInstance
 [依赖注入 | Vue.js](https://cn.vuejs.org/guide/components/provide-inject.html#working-with-reactivity)
 
 ```
+
+[第一篇 Vue3 reactivity 源码解读 - mdnice 墨滴](https://mdnice.com/writing/2539763935694042960feda3ace6ff67)
 
 ## TypeScript
 
