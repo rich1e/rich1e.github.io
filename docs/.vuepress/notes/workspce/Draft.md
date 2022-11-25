@@ -15,7 +15,6 @@ title: vim
 ```
 
 [# `Linux` && `Mac OS` 平台上用的各种配置文件](https://github.com/Jackson-soft/dotfiles)
-
 [加快git 命令下载速度的几种方法 - 知乎](https://zhuanlan.zhihu.com/p/410444258)
 [vue2升级vue3：this.$createElement is not a function—动态组件升级 - vue3学习笔记 - 周陆军的个人网站](https://www.zhoulujun.cn/html/webfront/ECMAScript/vue3/8850.html)
 [vue.$createElement的使用实例 - 掘金](https://juejin.cn/post/6969505687114088484)
@@ -105,6 +104,18 @@ title: fzf & fzf-tab & # forgit
 ```
 
 ## Vue
+
+```ad-note
+title: Jsx / Tsx & TypeScript
+
+[Problem typing optional props with exactOptionalPropertyTypes enabled in tsconfig · Issue #6532 · vuejs/core](https://github.com/vuejs/core/issues/6532)
+[@vue/cli typescript插件使用指南 - 豆奶特](https://www.dounaite.com/article/626d86ddfe58cfa7997bf63a.html)
+[jsx-vue2/packages/babel-preset-jsx at dev · vuejs/jsx-vue2](https://github.com/vuejs/jsx-vue2/tree/dev/packages/babel-preset-jsx)
+[composition-api/README.zh-CN.md at main · vuejs/composition-api](https://github.com/vuejs/composition-api/blob/main/README.zh-CN.md)
+[yejiajiehz/vue3.0-tsx - Giters](https://giters.com/yejiajiehz/vue3.0-tsx)
+[如何继承`element-plus`组件的`props`和`emits`类型? · Discussion #8394 · element-plus/element-plus](https://github.com/element-plus/element-plus/discussions/8394)
+
+```
 
 ```ad-note
 title: GetCurrentInstance Error
