@@ -22,7 +22,8 @@ title: vim
 
 ```md
 23111111
-
+[前端 - 基于 Element-plus Table 封装的易用, 一致, 友好的 Vue Table 组件_个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000041763589)
+[el-table-next/index.tsx at main · jackluson/el-table-next](https://github.com/jackluson/el-table-next/blob/main/packages/el-table-next/index.tsx)
 [Fetching Title#yqse](https://www.v2ex.com/t/829156)
 [Site Unreachable](https://github.com/alebcay/awesome-shell)
 [asdf | 管理多个运行环境版本的简单命令行工具](https://asdf-vm.com/zh-hans/)
@@ -105,6 +106,9 @@ title: fzf & fzf-tab & # forgit
 
 ## Vue
 
+[vite --template vue & typescript 搭建项目 TSX - 知乎](https://zhuanlan.zhihu.com/p/423860019)
+[Vue3+tsx开发语法详解 - 掘金](https://juejin.cn/post/7141674726434439176)
+
 ```ad-note
 title: Jsx / Tsx & TypeScript
 
@@ -114,6 +118,17 @@ title: Jsx / Tsx & TypeScript
 [composition-api/README.zh-CN.md at main · vuejs/composition-api](https://github.com/vuejs/composition-api/blob/main/README.zh-CN.md)
 [yejiajiehz/vue3.0-tsx - Giters](https://giters.com/yejiajiehz/vue3.0-tsx)
 [如何继承`element-plus`组件的`props`和`emits`类型? · Discussion #8394 · element-plus/element-plus](https://github.com/element-plus/element-plus/discussions/8394)
+[(2条消息) vue,vue3 新手可能忽略的问题，解构对象丢失响应式，如props，torefs, pinia响应式核心_GLM_的博客-CSDN博客](https://blog.csdn.net/g18204746769/article/details/127311252)
+[Vue2 JSX 语法几个实用的 babel 插件 - M.M.F 小屋](https://www.mmxiaowu.com/article/5a4c9579c1cae068a4cf61f9)
+[在 Vue3 中优雅的使用 Jsx/Tsx-51CTO.COM](https://www.51cto.com/article/721745.html)
+[在vue中如何使用jsx，并使用v-model等自定义指令 - 简书](https://www.jianshu.com/p/7fc3b382f7f9)
+[vue3封装一个自定义v-model的hooks - 掘金](https://juejin.cn/post/7124602963058196516)
+[关于vue3中v-model做了哪些升级 - 简书](https://www.jianshu.com/p/31108f577394)
+[Vue3学习踩坑 - 自定义v-model - 掘金](https://juejin.cn/post/7126912955819491341)
+[(2条消息) Vue3复习和总结(Component)组件v-model参数和动态组件和Attribute 继承_zyugat的博客-CSDN博客](https://blog.csdn.net/qq_31755699/article/details/121367411)
+[(2条消息) vue使用jsx写法如何实现动态组件功能？_淘人居士的博客-CSDN博客](https://blog.csdn.net/kw269937519/article/details/114080530)
+[vue3解构赋值失去响应式引发的思考！ - 掘金](https://juejin.cn/post/7114596904926740493)
+[使用Vue 3.0做JSX(TSX)风格的组件开发 - 知乎](https://zhuanlan.zhihu.com/p/102668383)
 
 ```
 
