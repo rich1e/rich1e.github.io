@@ -185,6 +185,14 @@ gitHead: '2c01c77fed76094592a8265f840fcaac80ca3e7c'
 version: '1.1.0-beta.24'
 ```
 
+```ad-note
+title: Element Plus & h()
+
+[vue3中怎么使用element的元素呢 - SegmentFault 思否](https://segmentfault.com/q/1010000042008695/a-1020000042009547)
+[(2条消息) vue3+ts：render极简demo -- 引入element ui el-input组件_snowball@li的博客-CSDN博客](https://blog.csdn.net/snowball_li/article/details/123971089)
+[[Bug Report] [Component] [All] 关于vue3中使用render函数 创建elementplus组件不生效问题 · Issue #6487 · element-plus/element-plus](https://github.com/element-plus/element-plus/issues/6487)
+
+```
 
 ```ad-note
 title: ElForm unexpected width 0

@@ -108,13 +108,13 @@
                     }
                   },
                   {
-                    "id": "ef67726ad61fd3fb",
+                    "id": "7b2b7149cc5b7126",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "buckets/max-optics/Attr - 动态表单设计.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": false
                       }
                     }
@@ -286,14 +286,14 @@
   "active": "daabbc0cd8e02983",
   "lastOpenFiles": [
     "buckets/max-optics/Attr - 动态表单优化.md",
+    "workspce/Daily Record.md",
     "buckets/max-optics/Attr - 动态表单设计.md",
+    "Day Planner/Day Planner-20221129.md",
+    "Day Planner/Day Planner-20221128.md",
     "workspce/Draft.md",
     "Day Planner/Day Planner-20221124.md",
-    "workspce/Daily Record.md",
+    "Day Planner/Day Planner-20221125.md",
     "Day Planner/Day Planner-20221123.md",
-    "Day Planner/Day Planner-20221122.md",
-    "Day Planner/Day Planner-20221121.md",
-    "HomePage.md",
-    "buckets/max-optics/assets/diary/Pasted image 20221117111311.png"
+    "Day Planner/Day Planner-20221122.md"
   ]
 }
