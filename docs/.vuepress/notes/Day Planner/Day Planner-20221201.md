@@ -4,7 +4,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 21:03:37
+    %% Current Time: 18:37:41
     section Tasks
     开始工作     :09-00, 30mm
     检查邮件和群信息     :09-30, 30mm
@@ -45,7 +45,8 @@ A section of the day dedicated to working:
 3. Push Code.
    
 - [x] 13:00 动态表单 Demo
-- [ ] 使用 h() 封装 slots
+  - [ ] slots 功能加强：支持多个自定义组件
+  - [ ] `Provide / Inject` 优化 dynamicModel，减少参数层层传递
 
 ### Afternoon Review
 
@@ -60,6 +61,6 @@ I use this time to review what I have done earlier in the day and complete any t
 
 Overtime hours are not fixed and are determined according to the situation.
 
-- [x] 19:00 Review 动态表单
-- [x] 20:00 Review 动态表单技术文档
+- [ ] 19:00 Review 动态表单
+- [ ] 20:00 Review 动态表单技术文档
 - [ ] 21:00 END

@@ -1,3 +1,26 @@
+## MacOS
+
+```ad-note
+title: 安装 xcode
+
+[How to download Xcode with aria2c | HackingGate](https://hackinggate.com/2015/10/01/how-to-download-xcode-with-aria2c.html)
+[Faster way to download and install Xcode - Igor Kulman](https://blog.kulman.sk/faster-way-to-download-and-install-xcode/)
+[XCode quick install / update](https://gist.github.com/SergLam/3adb64051a1c8ebd8330191aedcefe47)
+[More - Downloads - Apple Developer](https://developer.apple.com/download/all/?q=Xcode%2012.5)
+[rbenv/rbenv: Manage your app's Ruby environment](https://github.com/rbenv/rbenv#readme)
+[rbenv 使用指南 · Ruby China](https://ruby-china.org/wiki/rbenv-guide)
+[ohmyzsh/plugins/rbenv at master · ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/rbenv)
+[(2条消息) 安装Xcode的xip安装包的一些注意事项_skylin19840101的博客-CSDN博客_xip安装](https://blog.csdn.net/skylin19840101/article/details/102842156)
+[xcpretty/xcode-install: 🔽 Install and update your Xcodes](https://github.com/xcpretty/xcode-install)
+[RobotsAndPencils/xcodes: The best command-line tool to install and switch between multiple versions of Xcode.](https://github.com/RobotsAndPencils/xcodes)
+[Xcode 下载安装指南 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2121983?cps_key=1d358d18a7a17b4a6df8d67a62fd3d3d)
+[(2条消息) MAC 10.13.6安装Xcode 10.1_精神小小伙的博客-CSDN博客_mac10.13.6 xcode](https://blog.csdn.net/m0_38047544/article/details/119911667)
+[How to set up Xcode - DEV Community 👩‍💻👨‍💻](https://dev.to/ivavay/how-to-set-up-xcode-4l97)
+[如何在 Mac 上下载安装 Xcode——并为 iOS 开发更新它](https://www.freecodecamp.org/chinese/news/how-to-download-and-install-xcode/)
+[Installing the Xcode xip on end-user systems – james' ubiquitous blog](https://smithjw.me/2022/05/20/Installing-Xcode-xip/)
+
+```
+
 ## VS Code
 
 ```ad-note

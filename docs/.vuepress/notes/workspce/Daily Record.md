@@ -5,6 +5,16 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221201 
+
+动态表单 Demo
+- `Provide / Inject`  优化 dynamicModel，减少参数层层传递
+
+##  20221130 
+
+动态表单 Demo
+-   `slots` 支持多个自定义组件
+
 ##  20221129 
 
 动态表单Demo
