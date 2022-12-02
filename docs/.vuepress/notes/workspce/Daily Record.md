@@ -5,6 +5,12 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221202 
+
+动态表单 Demo
+- tab 支持多个自定义组件
+- 性能提升（wasm）
+
 ##  20221201 
 
 动态表单 Demo

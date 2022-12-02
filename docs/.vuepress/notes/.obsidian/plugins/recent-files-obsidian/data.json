@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Attr - 动态表单设计",
       "path": "buckets/max-optics/Attr - 动态表单设计.md"
     },
@@ -13,12 +9,24 @@
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "Day Planner-20221202",
+      "path": "Day Planner/Day Planner-20221202.md"
+    },
+    {
       "basename": "Day Planner-20221201",
       "path": "Day Planner/Day Planner-20221201.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
     },
     {
       "basename": "typescript 类型推断",
@@ -191,14 +199,6 @@
     {
       "basename": "mind - Attr 动态表单组件关系图",
       "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
-    },
-    {
-      "basename": "git-workflow",
-      "path": "buckets/git-workflow.md"
     }
   ],
   "omittedPaths": [],
