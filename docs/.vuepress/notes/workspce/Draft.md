@@ -207,6 +207,15 @@ title: 方法重载
 
 ```
 
+```ad-note
+title: tsup
+
+[tsup](https://tsup.egoist.dev/#what-can-it-bundle)
+[Monorepo 下的模块包设计实践](https://www.rustc.cloud/monorepo-pkg)
+[使用vite、tsup、github actions打造丝滑的npm package开发模版 - 知乎](https://zhuanlan.zhihu.com/p/545816127)
+
+```
+
 ## Element Plus
 
 ```

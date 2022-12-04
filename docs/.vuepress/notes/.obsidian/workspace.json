@@ -106,21 +106,8 @@
                       },
                       "pinned": true
                     }
-                  },
-                  {
-                    "id": "84ce95f46ac06b3a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "buckets/max-optics/Attr - 动态表单设计.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "vertical"
@@ -185,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -202,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/max-optics/Attr - 动态表单设计.md",
+                "file": "workspce/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/max-optics/Attr - 动态表单设计.md",
+                "file": "workspce/Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/max-optics/Attr - 动态表单设计.md"
+                "file": "workspce/Draft.md"
               }
             }
           },
@@ -284,17 +272,17 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "84ce95f46ac06b3a",
+  "active": "daabbc0cd8e02983",
   "lastOpenFiles": [
     "buckets/max-optics/Attr - 动态表单优化.md",
+    "Pasted image 20221202090925.png",
+    "buckets/max-optics/Attr - 动态表单设计.md",
     "workspce/Daily Record.md",
     "workspce/Kanban.md",
     "Day Planner/Day Planner-20221202.md",
     "Day Planner/Day Planner-20221201.md",
     "workspce/Draft.md",
-    "buckets/max-optics/Attr - 动态表单设计.md",
     "buckets/typescript 类型推断.md",
-    "Day Planner/202211/Day Planner-20221130.md",
-    "Day Planner/202211/Day Planner-20221101.md"
+    "Day Planner/202211/Day Planner-20221130.md"
   ]
 }

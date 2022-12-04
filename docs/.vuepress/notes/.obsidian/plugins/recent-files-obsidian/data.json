@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Attr - 动态表单设计",
-      "path": "buckets/max-optics/Attr - 动态表单设计.md"
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
     },
     {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "Pasted image 20221202090925",
+      "path": "Pasted image 20221202090925.png"
+    },
+    {
+      "basename": "Attr - 动态表单设计",
+      "path": "buckets/max-optics/Attr - 动态表单设计.md"
     },
     {
       "basename": "Daily Record",
@@ -23,10 +31,6 @@
     {
       "basename": "Day Planner-20221201",
       "path": "Day Planner/Day Planner-20221201.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
     },
     {
       "basename": "typescript 类型推断",
@@ -195,12 +199,9 @@
     {
       "basename": "Day Planner-20221111",
       "path": "Day Planner/202211/Day Planner-20221111.md"
-    },
-    {
-      "basename": "mind - Attr 动态表单组件关系图",
-      "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
