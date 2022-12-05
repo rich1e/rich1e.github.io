@@ -5,6 +5,33 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221205 
+
+动态表单 Demo
+- npm 发布
+- 打包调试
+
+![[Pasted image 20221205162327.png]]
+
+```shell
+# uname/pwd yuqigong/qwer 
+# email gongyuqi@max-optics.com
+# 注册
+npm adduser --registry http://192.168.91.62/
+# 登录
+npm login
+# 发布
+npm publish --registry http://192.168.91.62/
+
+# nrm ls
+# nrm add mg http://192.168.91.62/
+# nrm use mg
+```
+
+[verdaccio发布私有库 - 简书](https://www.jianshu.com/p/92f9c90d2d10)
+[【RN】verdaccio+ngrok发布npm私有仓库 - 简书](https://www.jianshu.com/p/9b5837800eee)
+
+
 ##  20221202 
 
 动态表单 Demo

@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
       "basename": "Draft",
       "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/max-optics/Attr - 动态表单优化.md"
-    },
-    {
-      "basename": "Pasted image 20221202090925",
-      "path": "Pasted image 20221202090925.png"
     },
     {
       "basename": "Attr - 动态表单设计",
       "path": "buckets/max-optics/Attr - 动态表单设计.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
+      "basename": "Day Planner-20221205",
+      "path": "Day Planner/Day Planner-20221205.md"
     },
     {
       "basename": "Day Planner-20221202",
       "path": "Day Planner/Day Planner-20221202.md"
+    },
+    {
+      "basename": "Pasted image 20221202090925",
+      "path": "buckets/max-optics/assets/diary/Pasted image 20221202090925.png"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
     },
     {
       "basename": "Day Planner-20221201",
@@ -99,10 +107,6 @@
     {
       "basename": "Day Planner-20221121",
       "path": "Day Planner/202211/Day Planner-20221121.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Pasted image 20221117111311",
@@ -195,10 +199,6 @@
     {
       "basename": "Day Planner-20221115",
       "path": "Day Planner/202211/Day Planner-20221115.md"
-    },
-    {
-      "basename": "Day Planner-20221111",
-      "path": "Day Planner/202211/Day Planner-20221111.md"
     }
   ],
   "omittedPaths": [],
