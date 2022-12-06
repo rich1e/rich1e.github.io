@@ -5,6 +5,20 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221206 
+
+npm 打包调试
+
+```sh
+pnpm pack
+pnpm add ./mg-dynamic-form-1.0.3.tgz
+pnpm remove @mg/dynamic-form
+```
+
+[npm 命令高级指南 | wangzengdi's Blog](https://adispring.github.io/2021/04/30/npm-cli-advance-guide/)
+
+- **vite-plugin-libcss**
+
 ##  20221205 
 
 动态表单 Demo
