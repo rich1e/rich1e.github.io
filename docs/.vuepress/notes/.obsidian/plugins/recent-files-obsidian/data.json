@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Git",
+      "path": "buckets/Git.md"
+    },
+    {
+      "basename": "Day Planner-20221207",
+      "path": "Day Planner/Day Planner-20221207.md"
+    },
+    {
+      "basename": "Day Planner-20221206",
+      "path": "Day Planner/Day Planner-20221206.md"
+    },
+    {
+      "basename": "Day Planner-20221205",
+      "path": "Day Planner/Day Planner-20221205.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
-    },
-    {
-      "basename": "Day Planner-20221205",
-      "path": "Day Planner/Day Planner-20221205.md"
     },
     {
       "basename": "Day Planner-20221202",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20221028164706",
       "path": "buckets/max-optics/assets/attr/Pasted image 20221028164706.png"
-    },
-    {
-      "basename": "Pasted image 20221028164224",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221028164224.png"
-    },
-    {
-      "basename": "Day Planner-20221114",
-      "path": "Day Planner/202211/Day Planner-20221114.md"
-    },
-    {
-      "basename": "Day Planner-20221115",
-      "path": "Day Planner/202211/Day Planner-20221115.md"
     }
   ],
   "omittedPaths": [],

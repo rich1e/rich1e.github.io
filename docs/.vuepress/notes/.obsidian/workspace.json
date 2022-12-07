@@ -113,13 +113,26 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/max-optics/Attr - 动态表单设计.md",
+                        "file": "Day Planner/Day Planner-20221206.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "3df6fb59cfbbc7a9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "buckets/Git.md",
                         "mode": "preview",
                         "source": true
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 3
               }
             ],
             "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Author",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,8 +192,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "buckets/Git.md"
               }
             }
           },
@@ -283,17 +295,17 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "7a4392b9d7250e54",
+  "active": "3df6fb59cfbbc7a9",
   "lastOpenFiles": [
-    "workspce/Draft.md",
+    "Day Planner/Day Planner-20221207.md",
+    "Day Planner/Day Planner-20221206.md",
+    "Day Planner/Day Planner-20221205.md",
     "workspce/Daily Record.md",
+    "workspce/Draft.md",
     "buckets/max-optics/Attr - 动态表单设计.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
-    "Day Planner/Day Planner-20221205.md",
     "Day Planner/Day Planner-20221202.md",
     "buckets/max-optics/assets/diary/Pasted image 20221202090925.png",
-    "HomePage.md",
-    "workspce/Kanban.md",
-    "Day Planner/Day Planner-20221201.md"
+    "HomePage.md"
   ]
 }

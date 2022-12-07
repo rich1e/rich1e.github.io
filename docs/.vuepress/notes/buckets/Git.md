@@ -12,7 +12,13 @@ git rebase -i commit-Id
 git commit --amend --author="your-name <your-email>" --no-edit
 
 git rebase --continue
+
+git rebase -i --root
 ```
+
+Ref
+
+[如何修改第一次commit的信息？](https://segmentfault.com/q/1010000017932368)
 
 ## Git 添加 SSH 方式
 
