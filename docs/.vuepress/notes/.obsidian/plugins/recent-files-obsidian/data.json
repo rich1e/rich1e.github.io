@@ -1,12 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "Git",
-      "path": "buckets/Git.md"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "Pasted image 20221206162854",
+      "path": "images/draft/Pasted image 20221206162854.png"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Pasted image 20221208154851",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221208154851.png"
+    },
+    {
+      "basename": "Pasted image 20221208162803",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221208162803.png"
+    },
+    {
+      "basename": "Pasted image 20221208163510",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221208163510.png"
+    },
+    {
+      "basename": "Pasted image 20221208163704",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221208163704.png"
+    },
+    {
+      "basename": "Pasted image 20221208164424",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221208164424.png"
+    },
+    {
+      "basename": "Pasted image 20221208155256",
+      "path": "buckets/max-optics/assets/attr/Pasted image 20221208155256.png"
+    },
+    {
+      "basename": "Pasted image 20221017171707",
+      "path": "buckets/max-optics/assets/diary_20221017/Pasted image 20221017171707.png"
+    },
+    {
+      "basename": "Pasted image 20221017165120",
+      "path": "buckets/max-optics/assets/diary_20221017/Pasted image 20221017165120.png"
+    },
+    {
+      "basename": "Pasted image 20221017162600",
+      "path": "buckets/max-optics/assets/diary_20221017/Pasted image 20221017162600.png"
+    },
+    {
+      "basename": "Pasted image 20221017154110",
+      "path": "buckets/max-optics/assets/diary_20221017/Pasted image 20221017154110.png"
+    },
+    {
+      "basename": "Pasted image 20221017151640",
+      "path": "buckets/max-optics/assets/diary_20221017/Pasted image 20221017151640.png"
+    },
+    {
+      "basename": "Pasted image 20221017150236",
+      "path": "buckets/max-optics/assets/diary_20221017/Pasted image 20221017150236.png"
+    },
+    {
+      "basename": "Pasted image 20221017151356",
+      "path": "buckets/max-optics/assets/diary_20221017/Pasted image 20221017151356.png"
+    },
+    {
+      "basename": "Pasted image 20221017165941",
+      "path": "images/diary_20221017/Pasted image 20221017165941.png"
+    },
+    {
+      "basename": "Pasted image 20221017162600",
+      "path": "images/diary_20221017/Pasted image 20221017162600.png"
+    },
+    {
+      "basename": "Pasted image 20221017154026",
+      "path": "images/diary_20221017/Pasted image 20221017154026.png"
+    },
+    {
+      "basename": "Pasted image 20221017150236",
+      "path": "images/diary_20221017/Pasted image 20221017150236.png"
+    },
+    {
+      "basename": "Pasted image 20221205162327",
+      "path": "buckets/max-optics/assets/diary/Pasted image 20221205162327.png"
+    },
+    {
+      "basename": "Pasted image 20221031144114",
+      "path": "buckets/max-optics/assets/diary/Pasted image 20221031144114.png"
+    },
+    {
+      "basename": "Attr - 动态表单Slots设计",
+      "path": "buckets/max-optics/Attr - 动态表单Slots设计.md"
+    },
+    {
+      "basename": "Attr - 动态表单设计",
+      "path": "buckets/max-optics/Attr - 动态表单设计.md"
+    },
+    {
+      "basename": "Day Planner-20221208",
+      "path": "Day Planner/Day Planner-20221208.md"
     },
     {
       "basename": "Day Planner-20221207",
       "path": "Day Planner/Day Planner-20221207.md"
+    },
+    {
+      "basename": "Git",
+      "path": "buckets/Git.md"
     },
     {
       "basename": "Day Planner-20221206",
@@ -17,32 +125,12 @@
       "path": "Day Planner/Day Planner-20221205.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "Attr - 动态表单设计",
-      "path": "buckets/max-optics/Attr - 动态表单设计.md"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/max-optics/Attr - 动态表单优化.md"
-    },
-    {
       "basename": "Day Planner-20221202",
       "path": "Day Planner/Day Planner-20221202.md"
     },
     {
       "basename": "Pasted image 20221202090925",
       "path": "buckets/max-optics/assets/diary/Pasted image 20221202090925.png"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Kanban",
@@ -111,94 +199,6 @@
     {
       "basename": "Day Planner-20221123",
       "path": "Day Planner/202211/Day Planner-20221123.md"
-    },
-    {
-      "basename": "Day Planner-20221122",
-      "path": "Day Planner/202211/Day Planner-20221122.md"
-    },
-    {
-      "basename": "Day Planner-20221121",
-      "path": "Day Planner/202211/Day Planner-20221121.md"
-    },
-    {
-      "basename": "Pasted image 20221117111311",
-      "path": "buckets/max-optics/assets/diary/Pasted image 20221117111311.png"
-    },
-    {
-      "basename": "Day Planner-20221118",
-      "path": "Day Planner/202211/Day Planner-20221118.md"
-    },
-    {
-      "basename": "Day Planner-20221117",
-      "path": "Day Planner/202211/Day Planner-20221117.md"
-    },
-    {
-      "basename": "Day Planner-20221116",
-      "path": "Day Planner/202211/Day Planner-20221116.md"
-    },
-    {
-      "basename": "git-useing",
-      "path": "buckets/git-useing.md"
-    },
-    {
-      "basename": "Pasted image 20221116100939",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221116100939.png"
-    },
-    {
-      "basename": "Pasted image 20221116101750",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221116101750.png"
-    },
-    {
-      "basename": "Pasted image 20221116101038",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221116101038.png"
-    },
-    {
-      "basename": "2021-Vue&React",
-      "path": "2021/2021-Vue&React.md"
-    },
-    {
-      "basename": "Fiddler Everywhere Crack 尝试",
-      "path": "2022/Fiddler Everywhere Crack 尝试.md"
-    },
-    {
-      "basename": "Book Sync",
-      "path": "2022/Book Sync.md"
-    },
-    {
-      "basename": "Alienware",
-      "path": "2022/Alienware.md"
-    },
-    {
-      "basename": "2022 learn",
-      "path": "2022/2022 learn.md"
-    },
-    {
-      "basename": "Pasted image 20221115133748",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221115133748.png"
-    },
-    {
-      "basename": "Pasted image 20221115134013",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221115134013.png"
-    },
-    {
-      "basename": "Pasted image 20221115133943",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221115133943.png"
-    },
-    {
-      "basename": "Pasted image 20221115133907",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221115133907.png"
-    },
-    {
-      "basename": "Pasted image 20221115133830",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221115133830.png"
-    },
-    {
-      "basename": "Pasted image 20221108111704",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221108111704.png"
-    },
-    {
-      "basename": "Pasted image 20221028164706",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221028164706.png"
     }
   ],
   "omittedPaths": [],
