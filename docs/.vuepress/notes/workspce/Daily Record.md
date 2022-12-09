@@ -5,7 +5,70 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221209 
+
+```ad-note
+title: pnpm
+
+https://pnpm.io/zh/using-changesets
+https://juejin.cn/post/7053340250210795557#heading-21
+https://zhuanlan.zhihu.com/p/419399115
+https://juejin.cn/post/7055281852789047304
+https://juejin.cn/post/6950082433647640612#heading-7
+https://kuizuo.cn/pnpm-monorepo-practice/#%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%AE
+https://juejin.cn/post/7143848867438526501
+https://github.com/qmhc/vite-plugin-dts/issues/155
+https://www.npmjs.com/settings/rich1e/packages
+https://www.51cto.com/article/715946.html
+https://juejin.cn/post/7091956084092436494
+https://developer.aliyun.com/article/998772?userCode=okjhlpr5#slide-3
+https://juejin.cn/search?query=pnpm%20changesets&type=0
+https://juejin.cn/post/7098609682519949325
+https://blog.csdn.net/it_xcr/article/details/114655778
+https://www.linsizao.site/%E5%B0%81%E8%A3%85vue3%E6%8F%92%E4%BB%B6install%E6%96%B9%E6%B3%95/
+https://juejin.cn/post/7021430391957372942
+https://gitee.com/WangQingGiteeA/w-plus/blob/master/packages/components/button/src/button.ts
+https://juejin.cn/post/7021430391957372942
+https://juejin.cn/post/7101117617233985566
+https://juejin.cn/post/7070379360162676749
+https://juejin.cn/post/7117886038126624805#heading-28
+https://juejin.cn/post/7121381989864701982#heading-5
+https://juejin.cn/post/7157634070615162893#heading-0
+https://donaldxdonald.xyz/blog/monorepopart2
+https://github.com/rich1e
+https://zhuanlan.zhihu.com/p/423860019
+
+```
+
+```md
+ariadne.ns.cloudflare.com
+hal.ns.cloudflare.com
+
+ns77.domaincontrol.com
+ns78.domaincontrol.com
+```
+
+![[Pasted image 20221209140322.png]]
+
+![[Pasted image 20221209141011.png]]
+
+```ad-note
+title: blog续费
+
+[GitHub Pages 绑定个人域名，免 Cloudflare 支持 HTTPS | reuixiy](https://io-oi.me/tech/custom-domains-on-github-pages/)
+[cloudflare使用入门教程，国外最好免费CDN - 知乎](https://zhuanlan.zhihu.com/p/82909515)
+[Managing a custom domain for your GitHub Pages site - GitHub Docs](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+[你要离开我了吗？~~~~(>_<)~~~~](https://www.wenvenn.com/20211211/wei-github-page-shang-de-ge-ren-bo-ke-bang-ding-godaddy-yu-ming/)
+[主页 | Flyfishtome@gmail.com's Account | Cloudflare](https://dash.cloudflare.com/6883b0fd17b23b42678e412b10869bb4)
+
+```
+
+[npm script 命令补全的实现 - 掘金](https://juejin.cn/post/6844903858695569415)
+
 ##  20221208 
+
+11月考核
+- slots 设计
 
 ##  20221207
 

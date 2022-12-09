@@ -272,6 +272,10 @@ title: Terminal 资料
 [Themes · ohmyzsh/ohmyzsh Wiki · GitHub](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#refined)
 ```
 
+[GitHub - jeffreytse/zsh-vi-mode: 💻 A better and friendly vi(vim) mode plugin for ZSH.](https://github.com/jeffreytse/zsh-vi-mode)
+
+[75 Zsh Commands, Plugins, Aliases and Tools](https://www.sitepoint.com/zsh-commands-plugins-aliases-tools/)
+
 ## Pnpm
 
 **Issues with peer dependencies found**

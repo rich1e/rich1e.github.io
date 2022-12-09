@@ -107,8 +107,7 @@
                       "pinned": true
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical"
@@ -274,15 +273,15 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
-    "HomePage.md",
+    "workspce/Draft.md",
     "workspce/Daily Record.md",
+    "Pasted image 20221209140924.png",
+    "HomePage.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
     "images/draft/Pasted image 20221206162854.png",
-    "workspce/Draft.md",
     "buckets/max-optics/assets/attr/Pasted image 20221208154851.png",
     "buckets/max-optics/assets/attr/Pasted image 20221208162803.png",
     "buckets/max-optics/assets/attr/Pasted image 20221208163510.png",
-    "buckets/max-optics/assets/attr/Pasted image 20221208163704.png",
-    "buckets/max-optics/assets/attr/Pasted image 20221208164424.png"
+    "buckets/max-optics/assets/attr/Pasted image 20221208163704.png"
   ]
 }
