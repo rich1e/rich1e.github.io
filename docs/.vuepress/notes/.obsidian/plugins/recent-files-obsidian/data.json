@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
     },
     {
       "basename": "Draft",
@@ -11,6 +11,18 @@
     {
       "basename": "HomePage",
       "path": "HomePage.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Pasted image 20221209141011",
+      "path": "Pasted image 20221209141011.png"
+    },
+    {
+      "basename": "Pasted image 20221209140322",
+      "path": "Pasted image 20221209140322.png"
     },
     {
       "basename": "Attr - 动态表单优化",
@@ -133,10 +145,6 @@
       "path": "buckets/max-optics/assets/diary/Pasted image 20221202090925.png"
     },
     {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
-    },
-    {
       "basename": "Day Planner-20221201",
       "path": "Day Planner/Day Planner-20221201.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Day Planner-20221124",
       "path": "Day Planner/202211/Day Planner-20221124.md"
-    },
-    {
-      "basename": "Day Planner-20221125",
-      "path": "Day Planner/202211/Day Planner-20221125.md"
     }
   ],
   "omittedPaths": [],

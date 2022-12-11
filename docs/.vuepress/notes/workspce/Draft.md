@@ -1,3 +1,33 @@
+## Error
+
+```md
+# yuqigong @ DESKTOP-FU1R874 in E:\Workspace [23:40:12]
+$ chkdsk f: /f
+The type of the file system is FAT32.
+Volume NIKON D7000 created 2017/12/12 11:35
+Volume Serial Number is 3E62-E740
+Windows is verifying files and folders...
+\System Volume Information\IndexerVolumeGuid  first allocation unit is not valid. The entry will be truncated.
+The size of the \DCIM\104D7000\DSC_5327.MOV entry is not valid.
+\DCIM\104D7000\DSC_5327.MOV is cross-linked on allocation unit 270960.
+Cross link resolved by copying.
+File and folder verification is complete.
+
+Windows has made corrections to the file system.
+No further action is required.
+   30,736,384 KB total disk space.
+           96 KB in 3 hidden files.
+           64 KB in 2 folders.
+    8,670,528 KB in 423 files.
+   22,065,664 KB are available.
+
+       32,768 bytes in each allocation unit.
+      960,512 total allocation units on disk.
+      689,552 allocation units available on disk.
+```
+
+![[Pasted image 20221211235212.png]]
+
 ## Git
 
 ![[Pasted image 20221202090925.png]]
