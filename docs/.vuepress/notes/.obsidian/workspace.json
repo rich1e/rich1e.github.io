@@ -65,13 +65,14 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       },
                       "pinned": true
                     }
                   }
                 ],
+                "currentTab": 1,
                 "stacked": true
               },
               {
@@ -188,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Kanban.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Kanban.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Kanban.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -270,17 +271,17 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "8716702610da8bf6",
+  "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
-    "workspce/Draft.md",
     "HomePage.md",
+    "Pasted image 20221212105532.png",
+    "Pasted image 20221212105601.png",
     "workspce/Daily Record.md",
+    "workspce/Draft.md",
+    "workspce/Kanban.md",
     "Pasted image 20221209141011.png",
     "Pasted image 20221209140322.png",
     "Pasted image 20221209140924.png",
-    "buckets/max-optics/Attr - 动态表单优化.md",
-    "images/draft/Pasted image 20221206162854.png",
-    "buckets/max-optics/assets/attr/Pasted image 20221208154851.png",
-    "buckets/max-optics/assets/attr/Pasted image 20221208162803.png"
+    "buckets/max-optics/Attr - 动态表单优化.md"
   ]
 }
