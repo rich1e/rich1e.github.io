@@ -5,6 +5,12 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221213 
+
+- object Tree 样式修改
+- project中的参数设定, 现有界面保持不变, 另在Message中加一个Tab页, 可进行参数的查看和操作
+- objectTree与Sweep做成两个Tab, 打开默认显示ObjectTree
+
 ##  20221212 
 
 单机版修改：

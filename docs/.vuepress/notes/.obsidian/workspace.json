@@ -32,7 +32,8 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "ce0237dc8f18a771",
@@ -106,8 +107,21 @@
                       },
                       "pinned": true
                     }
+                  },
+                  {
+                    "id": "0401bd1fe09063e7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -273,15 +287,15 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
+    "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
+    "buckets/max-optics/Attr - 动态表单优化.md",
+    "workspce/Daily Record.md",
     "HomePage.md",
     "Pasted image 20221212105532.png",
     "Pasted image 20221212105601.png",
-    "workspce/Daily Record.md",
     "workspce/Draft.md",
     "workspce/Kanban.md",
     "Pasted image 20221209141011.png",
-    "Pasted image 20221209140322.png",
-    "Pasted image 20221209140924.png",
-    "buckets/max-optics/Attr - 动态表单优化.md"
+    "Pasted image 20221209140322.png"
   ]
 }
