@@ -5,11 +5,57 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221214 
+
+table 分页
+
+```html
+<an-table
+  size="mini"
+  :data="viewTableData.slice((page.currentPage - 1) * page.pageSize, page.currentPage * page.pageSize)"
+  border
+  highlight-current-row
+  height="30vh"
+  :deep-ref="
+  (ref) => {
+    editTable = ref;
+  }
+  "
+  @selection-change="handleSelectionChange"
+  @row-click="handleCurrentChange"
+/>  
+
+<!-- 分页1 -->
+
+<div class="pagination">
+  <el-pagination
+    v-model:currentPage="page.currentPage"
+    v-model:page-size="page.pageSize"
+    background
+    layout="total, sizes, prev,pager, next"
+    :total="viewTableData.length"
+    class="mt-4"
+    :page-sizes="[100]"
+    @current-change="handlePageCurrentChange"
+    @page-size="handlePageSize"
+  />
+</div>
+
+```
+
 ##  20221213 
 
 - object Tree 样式修改
 - project中的参数设定, 现有界面保持不变, 另在Message中加一个Tab页, 可进行参数的查看和操作
 - objectTree与Sweep做成两个Tab, 打开默认显示ObjectTree
+
+[分享7 个VUE项目用得上的JavaScript库 - 掘金](https://juejin.cn/post/7175905647018377277)
+[等级用户专属活动上线啦丨写好文，瓜分6万元现金大奖 - 掘金](https://juejin.cn/post/7162096952883019783)
+[naver/egjs-infinitegrid: A module used to arrange card elements including content infinitely on a grid layout.](https://github.com/naver/egjs-infinitegrid)
+[x-extends/vxe-table: vxe-table vue 表格解决方案](https://github.com/x-extends/vxe-table)
+[xuliangzhan/vxe-table-demo: 💧 vxe-table 使用示例](https://github.com/xuliangzhan/vxe-table-demo)
+[TanStack/table: 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table](https://github.com/TanStack/table)
+
 
 ##  20221212 
 

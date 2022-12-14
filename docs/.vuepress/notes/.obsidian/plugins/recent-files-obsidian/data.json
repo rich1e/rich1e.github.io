@@ -5,6 +5,10 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
       "basename": "mind - Attr 动态表单组件关系图",
       "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Draft",
       "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
     },
     {
       "basename": "Pasted image 20221209141011",
