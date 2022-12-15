@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
                       },
                       "pinned": true
@@ -113,14 +113,13 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
-                        "mode": "source",
+                        "file": "buckets/max-optics/Attr - 动态表单设计.md",
+                        "mode": "preview",
                         "source": false
                       }
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "vertical"
@@ -286,15 +285,15 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
-    "workspce/Kanban.md",
-    "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
-    "workspce/Daily Record.md",
-    "buckets/max-optics/Attr - 动态表单优化.md",
-    "HomePage.md",
-    "Pasted image 20221212105532.png",
-    "Pasted image 20221212105601.png",
     "workspce/Draft.md",
-    "Pasted image 20221209141011.png",
-    "Pasted image 20221209140322.png"
+    "workspce/Daily Record.md",
+    "buckets/max-optics/Attr - 动态表单设计.md",
+    "buckets/max-optics/Attr - 动态表单优化.md",
+    "images/draft/Pasted image 20221209140322.png",
+    "images/draft/Pasted image 20221211235212.png",
+    "images/draft/Pasted image 20221209141011.png",
+    "buckets/max-optics/assets/diary/Pasted image 20221212105241.png",
+    "buckets/max-optics/assets/diary/Pasted image 20221212105601.png",
+    "buckets/max-optics/assets/diary/Pasted image 20221212105511.png"
   ]
 }

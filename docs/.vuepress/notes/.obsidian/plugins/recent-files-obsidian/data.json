@@ -5,36 +5,56 @@
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
     },
     {
-      "basename": "mind - Attr 动态表单组件关系图",
-      "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
+      "basename": "Attr - 动态表单设计",
+      "path": "buckets/max-optics/Attr - 动态表单设计.md"
     },
     {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
+      "basename": "Pasted image 20221209140322",
+      "path": "images/draft/Pasted image 20221209140322.png"
     },
     {
-      "basename": "Pasted image 20221212105601",
-      "path": "Pasted image 20221212105601.png"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
+      "basename": "Pasted image 20221211235212",
+      "path": "images/draft/Pasted image 20221211235212.png"
     },
     {
       "basename": "Pasted image 20221209141011",
-      "path": "Pasted image 20221209141011.png"
+      "path": "images/draft/Pasted image 20221209141011.png"
     },
     {
-      "basename": "Pasted image 20221209140322",
-      "path": "Pasted image 20221209140322.png"
+      "basename": "Pasted image 20221212105241",
+      "path": "buckets/max-optics/assets/diary/Pasted image 20221212105241.png"
+    },
+    {
+      "basename": "Pasted image 20221212105601",
+      "path": "buckets/max-optics/assets/diary/Pasted image 20221212105601.png"
+    },
+    {
+      "basename": "Pasted image 20221212105511",
+      "path": "buckets/max-optics/assets/diary/Pasted image 20221212105511.png"
+    },
+    {
+      "basename": "Pasted image 20221212105404",
+      "path": "buckets/max-optics/assets/diary/Pasted image 20221212105404.png"
+    },
+    {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Pasted image 20221206162854",
@@ -121,10 +141,6 @@
       "path": "buckets/max-optics/Attr - 动态表单Slots设计.md"
     },
     {
-      "basename": "Attr - 动态表单设计",
-      "path": "buckets/max-optics/Attr - 动态表单设计.md"
-    },
-    {
       "basename": "Day Planner-20221208",
       "path": "Day Planner/Day Planner-20221208.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Typescript",
       "path": "buckets/Typescript.md"
-    },
-    {
-      "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
-      "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
-    },
-    {
-      "basename": "ESlint 配置",
-      "path": "buckets/ESlint 配置.md"
-    },
-    {
-      "basename": "export & import",
-      "path": "buckets/export & import.md"
-    },
-    {
-      "basename": "Day Planner-20221129",
-      "path": "Day Planner/202211/Day Planner-20221129.md"
     }
   ],
   "omittedPaths": [],

@@ -5,6 +5,38 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221215 
+
+```ad-note
+title: 每日一读 20221215
+
+[盘点阿里巴巴 15 个顶级前端开源项目 - 掘金](https://juejin.cn/post/7135382523672002590)
+[案例+图解带你一文读懂Canvas🔥🔥（2W+字） - 掘金](https://juejin.cn/post/7119495608938790942)
+[老板让你做性能优化，第一步你应该做什么？🔥🔥 - 掘金](https://juejin.cn/post/7121323745980973070)
+[这样封装列表 hooks,一天可以开发 20 个页面 - 掘金](https://juejin.cn/post/7165467345648320520)
+[Hooks时代，如何写出高质量的react和vue组件？ - 掘金](https://juejin.cn/post/7123961170188304391)
+[花1块钱让你的网站支持 ChatGPT - 掘金](https://juejin.cn/post/7176539666210881592)
+[Using server-sent events - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#event_stream_format)
+
+```
+
+```ad-note
+title: WebGL & WebGPU & Shaders
+
+[淘系前端团队](https://fed.taobao.org/blog/taofed/do71ct/optimizing-page-performance-with-shader/)
+[【译】WebGL With Three.js: Shaders - 掘金](https://juejin.cn/post/7141402665669378062)
+[Diana Smith | UI Engineer / Web Developer / Frontend Specialist | cyanharlow @ GitHub](https://diana-adrianne.com/)
+[HTML5 Canvas,WebGL,CSS Shaders,GLSL的暧昧关系 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2011/10/html5-canvas-webgl-css-shaders-glsl%E7%9A%84%E6%9A%A7%E6%98%A7%E5%85%B3%E7%B3%BB/)
+[高冷的 WebGL - 掘金](https://juejin.cn/post/6844903478456745997)
+[用Three.js打造酷炫3D个人网站（含源码） - 掘金](https://juejin.cn/post/6985033373857579045)
+[0xFloyd/Portfolio_2020: 3D Interactive World, built using Three.js and Ammo.js](https://github.com/0xFloyd/Portfolio_2020)
+[不懂就问系列-Canvas和WebGL是啥关系？ · Cooper's Blog](https://cooperhu.com/2019/10/15/canvas/)
+[huguobo/One-Take: 一镜到底demo](https://github.com/huguobo/One-Take)
+[html5 - 从零到一：实现通用一镜到底H5 - 从零到一 - SegmentFault 思否](https://segmentfault.com/a/1190000017848401?utm_source=tag-newest)
+[一镜到底H5大合集：一口气看尽一个H5的套路 - 数英](https://www.digitaling.com/articles/40228.html)
+
+```
+
 ##  20221214 
 
 table 分页
@@ -113,29 +145,6 @@ https://juejin.cn/post/7157634070615162893#heading-0
 https://donaldxdonald.xyz/blog/monorepopart2
 https://github.com/rich1e
 https://zhuanlan.zhihu.com/p/423860019
-
-```
-
-```md
-ariadne.ns.cloudflare.com
-hal.ns.cloudflare.com
-
-ns77.domaincontrol.com
-ns78.domaincontrol.com
-```
-
-![[Pasted image 20221209140322.png]]
-
-![[Pasted image 20221209141011.png]]
-
-```ad-note
-title: blog续费
-
-[GitHub Pages 绑定个人域名，免 Cloudflare 支持 HTTPS | reuixiy](https://io-oi.me/tech/custom-domains-on-github-pages/)
-[cloudflare使用入门教程，国外最好免费CDN - 知乎](https://zhuanlan.zhihu.com/p/82909515)
-[Managing a custom domain for your GitHub Pages site - GitHub Docs](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
-[你要离开我了吗？~~~~(>_<)~~~~](https://www.wenvenn.com/20211211/wei-github-page-shang-de-ge-ren-bo-ke-bang-ding-godaddy-yu-ming/)
-[主页 | Flyfishtome@gmail.com's Account | Cloudflare](https://dash.cloudflare.com/6883b0fd17b23b42678e412b10869bb4)
 
 ```
 
