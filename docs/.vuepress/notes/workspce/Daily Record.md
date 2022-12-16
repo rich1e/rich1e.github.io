@@ -5,6 +5,14 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221216 
+
+- addModeExpansion.vue(Attr)
+- modals.ts(ModeExpansion)
+- 支持全局变量
+
+![[Pasted image 20221216180139.png]]
+
 ##  20221215 
 
 ```ad-note

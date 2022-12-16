@@ -10,7 +10,7 @@
           {
             "id": "44ccd82035aa246e",
             "type": "tabs",
-            "dimension": 39.58762886597938,
+            "dimension": 44.09044193216855,
             "children": [
               {
                 "id": "8716702610da8bf6",
@@ -32,12 +32,13 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "ce0237dc8f18a771",
             "type": "split",
-            "dimension": 60.41237113402062,
+            "dimension": 55.90955806783144,
             "children": [
               {
                 "id": "407f3574ed32ad7f",
@@ -113,9 +114,9 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/max-optics/Attr - 动态表单设计.md",
+                        "file": "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
                         "mode": "preview",
-                        "source": false
+                        "source": true
                       }
                     }
                   }
@@ -286,14 +287,14 @@
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
     "workspce/Draft.md",
+    "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
     "workspce/Daily Record.md",
-    "buckets/max-optics/Attr - 动态表单设计.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
+    "buckets/max-optics/Attr - 动态表单设计.md",
     "images/draft/Pasted image 20221209140322.png",
     "images/draft/Pasted image 20221211235212.png",
     "images/draft/Pasted image 20221209141011.png",
     "buckets/max-optics/assets/diary/Pasted image 20221212105241.png",
-    "buckets/max-optics/assets/diary/Pasted image 20221212105601.png",
-    "buckets/max-optics/assets/diary/Pasted image 20221212105511.png"
+    "buckets/max-optics/assets/diary/Pasted image 20221212105601.png"
   ]
 }
