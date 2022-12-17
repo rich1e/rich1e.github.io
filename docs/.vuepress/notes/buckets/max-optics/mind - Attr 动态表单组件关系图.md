@@ -16,11 +16,19 @@ mindmap-plugin: basic
 
 ### [AttrDialog.vue](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/engine/dialogs/AttrDialog.vue)
 
+#### Structures
+
+#### Simulation
+
+#### Monitor
+
+#### Port
+
 ### [addModeExpansion.vue](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/modules/monitor/dialogs/addModeExpansion.vue)
 
-### [GlobalMonitor.vue](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/modules/monitor/dialogs/GlobalMonitor.vue)
+### [GlobalMonitor.vue](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/modules/monitor/dialogs/GlobalMonitor.vue) <font size="1em" color="Crimson">&cross;</font>
 
-### [SelectModeResult.vue](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/modules/source/dialogs/SelectModeResult.vue)
+### [SelectModeResult.vue](/Users/gongyuqi/Desktop/Workspace/code/aquaman/applications/orca/src/modules/source/dialogs/SelectModeResult.vue) <font size="1em" color="Crimson">&cross;</font>
 
 ## References
 

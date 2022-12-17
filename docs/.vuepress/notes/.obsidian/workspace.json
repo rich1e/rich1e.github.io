@@ -10,7 +10,7 @@
           {
             "id": "44ccd82035aa246e",
             "type": "tabs",
-            "dimension": 44.09044193216855,
+            "dimension": 39.8974358974359,
             "children": [
               {
                 "id": "8716702610da8bf6",
@@ -38,7 +38,7 @@
           {
             "id": "ce0237dc8f18a771",
             "type": "split",
-            "dimension": 55.90955806783144,
+            "dimension": 60.1025641025641,
             "children": [
               {
                 "id": "407f3574ed32ad7f",
@@ -115,12 +115,13 @@
                       "type": "markdown",
                       "state": {
                         "file": "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
               }
             }
           },
@@ -284,12 +285,12 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "7a4392b9d7250e54",
+  "active": "0401bd1fe09063e7",
   "lastOpenFiles": [
-    "workspce/Draft.md",
-    "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
-    "workspce/Daily Record.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
+    "workspce/Daily Record.md",
+    "buckets/max-optics/mind - Attr 动态表单组件关系图.md",
+    "workspce/Draft.md",
     "buckets/max-optics/Attr - 动态表单设计.md",
     "images/draft/Pasted image 20221209140322.png",
     "images/draft/Pasted image 20221211235212.png",
