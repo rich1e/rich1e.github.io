@@ -10,7 +10,7 @@ B[输入用户名和密码] ==> C[跳转项目管理页面]
 C[跳转项目管理页面] ==> BT(End)
 ```
 
-![[Pasted image 20221017150236.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017150236.png]]
 
 - [API Document - login](http://192.168.91.37/api/login/)
 - [API Document - get_user](http://192.168.91.37/api/get_user/)
@@ -32,11 +32,11 @@ B[跳转CAD设计平台,弹出输入项目名称] ==> C[输入项目名称,点�
 C[输入项目名称,点击确认] ==> BT(End)
 ```
 
-![[Pasted image 20221017151356.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017151356.png]]
 
 - [API Document - circle_summary](http://192.168.91.37/api/circle_summary/)
 
-![[Pasted image 20221017151640.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017151640.png]]
 
 - [API Document - check_token](http://192.168.91.37/api/check_token/)
 - [API Document - search_waveforms](http://192.168.91.37/api/search_waveforms/)
@@ -52,7 +52,7 @@ C[输入项目名称,点击确认] ==> BT(End)
 - [API Document - search_projects](http://192.168.91.37/api/search_projects/)
 - [API Document - search_projects](http://192.168.91.37/api/search_projects/)
 
-![[Pasted image 20221017152243.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017152243.png]]
 
 - [API Document - search_projects](http://192.168.91.37/api/search_projects/)
 - [API Document - search_projects](http://192.168.91.37/api/search_projects/)
@@ -80,16 +80,16 @@ E[添加/删除材料] ==> F[关闭弹窗]
 F[关闭弹窗] ==> BT(End)
 ```
 
-![[Pasted image 20221017154026.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017154026.png]]
 
 - [API Document - get_public_materials](http://192.168.91.37/api/get_public_materials/)
 - [API Document - search_materials](http://192.168.91.37/api/search_materials/)
 
-![[Pasted image 20221017154110.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017154110.png]]
 
 - [API Document - change_materials](http://192.168.91.37/api/change_materials/)
 
-![[Pasted image 20221017162600.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017162600.png]]
 
 - [API Document - create_material](http://192.168.91.37/api/create_material/)
 - [API Document - delete_material](http://192.168.91.37/api/delete_material/)
@@ -109,7 +109,7 @@ E[添加/删除波形] ==> F[关闭弹窗]
 F[关闭弹窗] ==> BT(End)
 ```
 
-![[Pasted image 20221017165120.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017165120.png]]
 
 - [API Document - search_waveforms](http://192.168.91.37/api/search_waveforms/)
 - [API Document - change_waveforms](http://192.168.91.37/api/change_waveforms/)
@@ -133,7 +133,7 @@ B[CAD显示模型器件] ==> G[拖拽移动]
 G[拖拽移动] ==> BT(End)
 ```
 
-![[Pasted image 20221017171707.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017171707.png]]
 
 - [API Document - autoSave_project](http://192.168.91.37/api/autoSave_project/)
 
@@ -183,7 +183,7 @@ B[CAD显示模式源] ==> G[拖拽移动]
 G[拖拽移动] ==> BT(End)
 ```
 
-![[Pasted image 20221017171707.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017171707.png]]
 
 - [API Document - autoSave_project](http://192.168.91.37/api/autoSave_project/)
 
@@ -208,7 +208,7 @@ B[CAD显示监视器] ==> G[拖拽移动]
 G[拖拽移动] ==> BT(End)
 ```
 
-![[Pasted image 20221017171707.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017171707.png]]
 
 - [API Document - autoSave_project](http://192.168.91.37/api/autoSave_project/)
 
@@ -247,7 +247,7 @@ B[CAD显示Port] ==> G[拖拽移动]
 G[拖拽移动] ==> BT(End)
 ```
 
-![[Pasted image 20221017171707.png]]
+![[buckets/max-optics/assets/daily_20221017/Pasted image 20221017171707.png]]
 
 - [API Document - autoSave_project](http://192.168.91.37/api/autoSave_project/)
 
