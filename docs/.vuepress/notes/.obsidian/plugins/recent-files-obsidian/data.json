@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Kanban",
       "path": "workspce/Kanban.md"
     },
     {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/max-optics/Attr - 动态表单优化.md"
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "Pasted image 20221216180139",
@@ -31,10 +35,6 @@
     {
       "basename": "Pasted image 20221215110245",
       "path": "images/draft/Pasted image 20221215110245.png"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "mind - Attr 动态表单组件关系图",

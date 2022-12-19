@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -201,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Draft.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Draft.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Draft.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -283,17 +284,17 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "daabbc0cd8e02983",
+  "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
+    "HomePage.md",
+    "workspce/Daily Record.md",
     "workspce/Kanban.md",
     "workspce/Draft.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
-    "HomePage.md",
     "buckets/max-optics/assets/daily/Pasted image 20221216180139.png",
     "images/draft/Pasted image 20221215110059.png",
     "images/draft/Pasted image 20221215110534.png",
     "images/draft/Pasted image 20221215110245.png",
-    "workspce/Daily Record.md",
     "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
   ]
 }

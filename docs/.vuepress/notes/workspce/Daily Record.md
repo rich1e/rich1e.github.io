@@ -52,6 +52,16 @@ title: Vue3 & TS/TSX 最佳实践
 
 ```
 
+```ad-note
+title: windows Error: spawn esbuild.exe ENOENT
+
+[vite：npm run dev报错：spawn esbuild.exe ENOENT_吹口琴的喵的博客-CSDN博客_esbuild.exe enoent](https://blog.csdn.net/qq_36404808/article/details/118672341)
+[Error: spawn C:\..\node_modules\esbuild\esbuild.exe ENOENT · Issue #1361 · vitejs/vite](https://github.com/vitejs/vite/issues/1361)
+
+![[Pasted image 20221219223048.png]]
+```
+
+
 ##  20221217 
 
 - Structures
