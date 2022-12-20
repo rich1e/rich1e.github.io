@@ -5,6 +5,16 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221220 
+
+```ad-note
+title: ssh: connect to host github.com port 22: Operation timed out
+
+[[解决]git-ssh: connect to host github.com port 22: Connection timed out - 简书](https://www.jianshu.com/p/c3aac5024877)
+[Using SSH over the HTTPS port - GitHub Docs](https://docs.github.com/en/authentication/troubleshooting-ssh/using-ssh-over-the-https-port#enabling-ssh-connections-over-https)
+
+```
+
 ##  20221219 
 
 ```ad-note

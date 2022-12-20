@@ -111,15 +111,14 @@
                     "id": "0401bd1fe09063e7",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
+                      "type": "image",
                       "state": {
-                        "file": "HomePage.md",
-                        "mode": "source",
-                        "source": false
+                        "file": "Pasted image 20221219223048.png"
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -184,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -202,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/max-optics/Attr - 动态表单优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/max-optics/Attr - 动态表单优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "buckets/max-optics/Attr - 动态表单优化.md"
               }
             }
           },
@@ -284,17 +282,17 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "7a4392b9d7250e54",
+  "active": "a74e309c73b35736",
   "lastOpenFiles": [
-    "HomePage.md",
-    "workspce/Daily Record.md",
-    "workspce/Kanban.md",
+    "Pasted image 20221219223048.png",
     "workspce/Draft.md",
+    "workspce/Daily Record.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
+    "HomePage.md",
+    "workspce/Kanban.md",
     "buckets/max-optics/assets/daily/Pasted image 20221216180139.png",
     "images/draft/Pasted image 20221215110059.png",
     "images/draft/Pasted image 20221215110534.png",
-    "images/draft/Pasted image 20221215110245.png",
-    "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
+    "images/draft/Pasted image 20221215110245.png"
   ]
 }

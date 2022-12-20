@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "Workbench": {
+    "workspace": {
       "main": {
         "id": "6ba69e80e9ab15be",
         "type": "split",
@@ -12,7 +12,7 @@
               {
                 "id": "44ccd82035aa246e",
                 "type": "tabs",
-                "dimension": 56.00000000000001,
+                "dimension": 39.8974358974359,
                 "children": [
                   {
                     "id": "8716702610da8bf6",
@@ -39,7 +39,7 @@
               {
                 "id": "ce0237dc8f18a771",
                 "type": "split",
-                "dimension": 44,
+                "dimension": 60.1025641025641,
                 "children": [
                   {
                     "id": "407f3574ed32ad7f",
@@ -60,7 +60,7 @@
                         }
                       },
                       {
-                        "id": "216de080366811ae",
+                        "id": "7a4392b9d7250e54",
                         "type": "leaf",
                         "pinned": true,
                         "state": {
@@ -68,7 +68,7 @@
                           "state": {
                             "file": "workspce/Daily Record.md",
                             "mode": "preview",
-                            "source": false
+                            "source": true
                           },
                           "pinned": true
                         }
@@ -89,24 +89,36 @@
                           "type": "markdown",
                           "state": {
                             "file": "workspce/Draft.md",
-                            "mode": "source",
-                            "source": false
+                            "mode": "preview",
+                            "source": true
                           },
                           "pinned": true
                         }
                       },
                       {
-                        "id": "8c87d5010e343a15",
+                        "id": "a74e309c73b35736",
                         "type": "leaf",
                         "pinned": true,
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "workspce/Mind Map.md",
-                            "mode": "source",
-                            "source": false
+                            "file": "buckets/max-optics/Attr - 动态表单优化.md",
+                            "mode": "preview",
+                            "source": true
                           },
                           "pinned": true
+                        }
+                      },
+                      {
+                        "id": "0401bd1fe09063e7",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "HomePage.md",
+                            "mode": "source",
+                            "source": false
+                          }
                         }
                       }
                     ]
@@ -129,25 +141,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "ff79eed57216ec75",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
                 "id": "c2ef5fe60b318861",
                 "type": "leaf",
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "obsi",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": false,
-                    "collapseAll": false,
+                    "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical"
                   }
@@ -168,12 +170,23 @@
                   "type": "recent-files",
                   "state": {}
                 }
+              },
+              {
+                "id": "d9995859cf1212a3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal",
-        "width": 200
+        "width": 297.5
       },
       "right": {
         "id": "064593a9d8021565",
@@ -182,6 +195,7 @@
           {
             "id": "0ce6debe408e99df",
             "type": "tabs",
+            "dimension": 51.79119754350051,
             "children": [
               {
                 "id": "ad3946728bac7730",
@@ -189,7 +203,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "workspce/Daily Record.md",
+                    "file": "workspce/Draft.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -206,7 +220,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "workspce/Daily Record.md",
+                    "file": "workspce/Draft.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -229,7 +243,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "workspce/Daily Record.md"
+                    "file": "workspce/Draft.md"
                   }
                 }
               },
@@ -250,11 +264,12 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 3
           },
           {
             "id": "99022f2b9cdd4d81",
             "type": "tabs",
+            "dimension": 48.20880245649949,
             "children": [
               {
                 "id": "993b8743a6a39edf",
@@ -268,13 +283,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 348.5
+        "width": 264.5
       },
-      "ribbon": {
-        "mostRecentAction": ""
-      },
-      "active": "216de080366811ae"
+      "active": "daabbc0cd8e02983"
     }
   },
-  "active": "Workbench"
+  "active": "workspace"
 }
