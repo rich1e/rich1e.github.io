@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Draft",
       "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "HomePage",
