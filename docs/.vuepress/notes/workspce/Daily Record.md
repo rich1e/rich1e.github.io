@@ -5,6 +5,59 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20221228 
+
+[Table 表格 | Element Plus](https://element-plus.org/zh-CN/component/table.html#table-column-%E5%B1%9E%E6%80%A7)
+[A Pen by whimsy](https://codepen.io/whimsy/pen/LYRXoXo)
+[JavaScript DOM查询，原生js实现元素子节点的获取 - iszhangk - 博客园](https://www.cnblogs.com/iszhangk/p/10869009.html)
+[js 设置焦点到input-掘金](https://juejin.cn/s/js%20%E8%AE%BE%E7%BD%AE%E7%84%A6%E7%82%B9%E5%88%B0input)
+[JS获取子节点、父节点和兄弟节点的方法实例总结 - 掘金](https://juejin.cn/post/7025433995873615903)
+[(3条消息) JS获取子节点、父节点和兄弟节点的若干种方式_-老K-的博客-CSDN博客_js获取子元素](https://blog.csdn.net/laok_/article/details/75760572)
+[封装element Dialog实现全屏、最小、双击回复原状和拖拽功能 - 简书](https://www.jianshu.com/p/fa36f0ed9222)
+[基于vue3 ts element plus table表格二次封装详细步骤-码云笔记](https://www.mybj123.com/17272.html)
+[在 Vue3 + Element Plus 中生成动态表格，动态修改表格，多级表头，合并单元格 - 知乎](https://zhuanlan.zhihu.com/p/526129960)
+[vue3 + Element Plus动态生成表格，并实现内容可编辑_ymzhaoUSTB的博客-CSDN博客_vue3表格](https://blog.csdn.net/ymzhaobth/article/details/104716431)
+[Vite + Vue + TS](http://127.0.0.1:5173/table)
+[TypeScript 与组合式 API | Vue.js](https://cn.vuejs.org/guide/typescript/composition-api.html#typing-ref)
+[(3条消息) el-table 使用sort-method 自定义排序详解_无情无疫的博客-CSDN博客_sort-method](https://blog.csdn.net/su_zhen_hua/article/details/114692420)
+[(3条消息) element-ui table排序sortable三种状态，怎么去掉默认状态_qq_36437172的博客-CSDN博客_sort-orders](https://blog.csdn.net/qq_36437172/article/details/86166481)
+[(3条消息) 表格排序问题，element表格排序问题，element-plus表格排序问题_imkaifan的博客-CSDN博客](https://blog.csdn.net/weixin_43131046/article/details/122473037)
+[element ui中表格排序sortable请求后台接口 - 掘金](https://juejin.cn/post/6905990569500246030)
+[ElementPlus里的类型别名声明及使用 - 简书](https://www.jianshu.com/p/a9b72a44c92d)
+[[Enhancement] [table] el-table获取当前滚动条所在的位置 · Discussion #9679 · element-plus/element-plus](https://github.com/element-plus/element-plus/discussions/9679)
+
+
+##  20221226 
+
+[下载EasyConnect](https://mirrors.sdwu.edu.cn/easyconnect/)
+
+```ad-note
+title: chromedriver
+
+[chromedriver - npm](https://www.npmjs.com/package/chromedriver)
+[ChromeDriver - WebDriver for Chrome - Downloads](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
+
+```
+
+```ad-note
+title: home
+
+[Windows 错误 0x80070570 - 咕咚! - 博客园](https://www.cnblogs.com/linga/p/10215082.html)
+[win10删除文件提示错误0x80070570 - Microsoft Community](https://answers.microsoft.com/zh-hans/windows/forum/all/win10%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E6%8F%90/14d06ccb-ba23-444d-b7e6-a49dc2708bb0)
+[8 有保证的方法来修复硬盘上的 Windows 错误代码 0x80070570。](https://www.remosoftware.com/info/cn/fix-error-0x80070570-the-file-or-directory-is-corrupted-and-unreadable/)
+[错误 0x80070570： 文件或目录损坏且无法读取。_Mr_Fish_LEE的博客-CSDN博客_0x80070570](https://blog.csdn.net/weixin_44271578/article/details/107235263)
+[windows terminal 的自动代理怎么不见了？ - V2EX](https://www.v2ex.com/t/766084)
+[my-powershell-utils](https://gist.github.com/marcong95/3125920c58c06a099dc964057369dd81)
+[Set proxy through windows command line including login parameters - Stack Overflow](https://stackoverflow.com/questions/26992886/set-proxy-through-windows-command-line-including-login-parameters)
+[pnpm cannot process "https-proxy" and "proxy"-flags · Issue #3274 · pnpm/pnpm](https://github.com/pnpm/pnpm/issues/3274)
+[关于 Aliases - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_aliases?view=powershell-7.3)
+[Remove-Item (Microsoft.PowerShell.Management) - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.management/remove-item?view=powershell-7.3)
+[How to overwrite or remove PowerShell alias?](https://www.tutorialspoint.com/how-to-overwrite-or-remove-powershell-alias)
+[PowerShell for `rm -rf` – Jessitron](https://jessitron.com/2020/03/12/powershell-for-rm-rf/)
+[coreybutler/nvm-windows: A node.js version management utility for Windows. Ironically written in Go.](https://github.com/coreybutler/nvm-windows)
+
+```
+
 ##  20221221 
 
 ```ad-note
