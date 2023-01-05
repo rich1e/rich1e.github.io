@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
                       },
                       "pinned": true
@@ -282,6 +282,20 @@
     ],
     "direction": "horizontal",
     "width": 264.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:Create new canvas": false,
+      "periodic-notes:Open today": false
+    }
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
