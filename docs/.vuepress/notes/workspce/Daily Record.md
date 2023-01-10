@@ -5,6 +5,21 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230110 
+
+```ad-note
+title: vue 组件封装
+
+https://juejin.cn/post/6991423346294390792
+https://juejin.cn/post/7154656509715021837#heading-2
+https://blog.csdn.net/yy_1028/article/details/125093324
+https://juejin.cn/post/7103435854446034975#heading-2
+https://juejin.cn/post/7046282409767092237
+https://github.com/maicFir/lessonNote/blob/master/vue/05-keep-alive/src/components/form-modal/view/index.vue
+https://cn.vuejs.org/guide/essentials/template-syntax.html#using-javascript-expressions
+
+```
+
 ##  20230109 
 
 ```ad-note
