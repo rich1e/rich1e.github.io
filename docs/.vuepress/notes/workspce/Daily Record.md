@@ -5,6 +5,44 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230113 
+
+[JavaScript 正则之零宽断言详解](https://juejin.cn/post/6991423346294390792)
+
+```ad-note
+title: Vue 组件封装
+
+[一篇关于Vue业务组件的封装踩坑思考 - 掘金](https://juejin.cn/post/7178916232975319077)
+[vue如何二次封装一个高频可复用的组件 - 掘金](https://juejin.cn/post/7154656509715021837#heading-2)
+[封装组件的技巧和坑 - 掘金](https://juejin.cn/post/6986921261297303565)
+[vue3中vue.extend的替代方案 - 简书](https://www.jianshu.com/p/6fb680c387be)
+[Vue3+Vite+TypeScript基于Element plus 二次封装【表单】组件(含Vue3知识点) - 掘金](https://juejin.cn/post/7096347542090153997#heading-9)
+
+```
+
+```ad-note
+title: el-dialog 封装
+
+[Vue+Element实现服务调用el-dialog弹窗-梅竹生辉](https://www.dingsky.com/article/25.html)
+[el-dialog 关闭再打开后窗口内容不刷新问题 - 知乎](https://zhuanlan.zhihu.com/p/562462448)
+[更优雅的方式使用element的el-dialog - 掘金](https://juejin.cn/post/6980916501314289678#heading-7)
+[🚀vue3封装一个符合思维，简单实用的弹出层 - 知乎](https://zhuanlan.zhihu.com/p/520637115)
+[vue-element-dialog/index.js at main · edwdz/vue-element-dialog](https://github.com/edwdz/vue-element-dialog/blob/main/src/index.js)
+[基于vue3.0弹窗组件的封装 - 掘金](https://juejin.cn/post/7120889815662673957)
+[Vue3 项目中封装dialogManager，优雅的使用el-dialog - 掘金](https://juejin.cn/post/7186111161429917751)
+
+```
+
+##  20230112 
+
+```sh
+tr -d '\n' < ~/.ssh/id_ed25519.pub | pbcopy
+```
+
+[万字长文-落地微前端 qiankun 理论与实践指北 - 掘金](https://juejin.cn/post/7069566144750813197)
+
+[vue3.x+element-plus [Vue warn]信息 - 晚风轻踩云朵 - 博客园](https://www.cnblogs.com/99aying/p/14850351.html)
+
 ##  20230111 
 
 ```ad-note

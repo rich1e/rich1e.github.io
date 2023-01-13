@@ -106,20 +106,9 @@
                       },
                       "pinned": true
                     }
-                  },
-                  {
-                    "id": "0401bd1fe09063e7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "workspce/Front-end Technology.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -299,15 +288,15 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
-    "workspce/Draft.md",
-    "workspce/Daily Record.md",
     "workspce/Kanban.md",
+    "2021/2021dev-前端框架.md",
+    "2021/2021-Vue&React.md",
+    "buckets/360/360-Learn.md",
+    "buckets/360/360.md",
+    "2022/2022 learn.md",
+    "workspce/Daily Record.md",
+    "workspce/Draft.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
-    "workspce/Front-end Technology.md",
-    "workspce/Buckets.md",
-    "Pasted image 20221219223048.png",
-    "HomePage.md",
-    "buckets/max-optics/assets/daily/Pasted image 20221216180139.png",
-    "images/draft/Pasted image 20221215110059.png"
+    "workspce/Front-end Technology.md"
   ]
 }

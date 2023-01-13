@@ -5,12 +5,32 @@
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Kanban",
       "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "2021dev-前端框架",
+      "path": "2021/2021dev-前端框架.md"
+    },
+    {
+      "basename": "2021-Vue&React",
+      "path": "2021/2021-Vue&React.md"
+    },
+    {
+      "basename": "360-Learn",
+      "path": "buckets/360/360-Learn.md"
+    },
+    {
+      "basename": "360",
+      "path": "buckets/360/360.md"
+    },
+    {
+      "basename": "2022 learn",
+      "path": "2022/2022 learn.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
     },
     {
       "basename": "Attr - 动态表单优化",
@@ -179,26 +199,6 @@
     {
       "basename": "Git",
       "path": "buckets/Git.md"
-    },
-    {
-      "basename": "Day Planner-20221206",
-      "path": "Day Planner/Day Planner-20221206.md"
-    },
-    {
-      "basename": "Day Planner-20221205",
-      "path": "Day Planner/Day Planner-20221205.md"
-    },
-    {
-      "basename": "Day Planner-20221202",
-      "path": "Day Planner/Day Planner-20221202.md"
-    },
-    {
-      "basename": "Pasted image 20221202090925",
-      "path": "buckets/max-optics/assets/daily/Pasted image 20221202090925.png"
-    },
-    {
-      "basename": "Day Planner-20221201",
-      "path": "Day Planner/Day Planner-20221201.md"
     }
   ],
   "omittedPaths": [],
