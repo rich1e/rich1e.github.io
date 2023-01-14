@@ -5,6 +5,19 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230114 
+
+[长毛象（Mastodon）搭建 - 掘金](https://juejin.cn/post/7167963283176521741)
+[什么是Fediverse，它能使网络去中心化吗？ - 掘金](https://juejin.cn/post/7086744064342622245)
+[JavaScript 正则之零宽断言详解｜8月更文挑战 - 掘金](https://juejin.cn/post/6991423346294390792)
+[pnpm + workspace + changesets 构建你的 monorepo 工程 - 掘金](https://juejin.cn/post/7098609682519949325#heading-3)
+[在字节用 Monorepo，我们帮你踩了这些坑](https://mp.weixin.qq.com/s/KExxFGJASD-DczC5BCGNMQ)
+[现代 Monorepo 工程技术选型，聊聊我的思考 - 知乎](https://zhuanlan.zhihu.com/p/521060986)
+[Monorepo 的这些坑，我们帮你踩过了！ - 掘金](https://juejin.cn/post/6972139870231724045#heading-20)
+[前端工程化：如何使用monorepo进行多项目的高效管理 - 掘金](https://juejin.cn/post/7043990636751503390)
+[使用 Git | pnpm](https://pnpm.io/zh/git)
+
+
 ##  20230113 
 
 [JavaScript 正则之零宽断言详解](https://juejin.cn/post/6991423346294390792)

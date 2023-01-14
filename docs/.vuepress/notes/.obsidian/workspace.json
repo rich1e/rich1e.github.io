@@ -106,9 +106,21 @@
                       },
                       "pinned": true
                     }
+                  },
+                  {
+                    "id": "60b9f7cfea693885",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "buckets/max-optics/Attr - 动态表单设计.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -288,15 +300,15 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
+    "buckets/max-optics/Attr - 动态表单设计.md",
+    "buckets/max-optics/Attr - 动态表单优化.md",
+    "workspce/Draft.md",
+    "workspce/Daily Record.md",
     "workspce/Kanban.md",
     "2021/2021dev-前端框架.md",
     "2021/2021-Vue&React.md",
     "buckets/360/360-Learn.md",
     "buckets/360/360.md",
-    "2022/2022 learn.md",
-    "workspce/Daily Record.md",
-    "workspce/Draft.md",
-    "buckets/max-optics/Attr - 动态表单优化.md",
-    "workspce/Front-end Technology.md"
+    "2022/2022 learn.md"
   ]
 }

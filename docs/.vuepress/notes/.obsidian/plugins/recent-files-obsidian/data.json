@@ -5,6 +5,18 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Attr - 动态表单设计",
+      "path": "buckets/max-optics/Attr - 动态表单设计.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
       "basename": "Kanban",
       "path": "workspce/Kanban.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "2022 learn",
       "path": "2022/2022 learn.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "Front-end Technology",
@@ -71,10 +75,6 @@
     {
       "basename": "mind - Attr 动态表单组件关系图",
       "path": "buckets/max-optics/mind - Attr 动态表单组件关系图.md"
-    },
-    {
-      "basename": "Attr - 动态表单设计",
-      "path": "buckets/max-optics/Attr - 动态表单设计.md"
     },
     {
       "basename": "Pasted image 20221209140322",
