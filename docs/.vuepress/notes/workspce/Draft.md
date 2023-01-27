@@ -1,5 +1,15 @@
 ## Blog
 
+```ad-note
+title: GitHub & Actions
+
+[用 GitHub 貢獻圖製作貪食蛇動畫](https://blog.jyhsu.tw/p/%E7%94%A8-github-%E8%B2%A2%E7%8D%BB%E5%9C%96%E8%A3%BD%E4%BD%9C%E8%B2%AA%E9%A3%9F%E8%9B%87%E5%8B%95%E7%95%AB/)
+[GitHub Actions + Github Page | Azhubaby Blog](https://blog.azhubaby.com/2021/08/19/2021-08-19-GitHubActions+GitHubPage/)
+[GitHub自动化部署 - 掘金](https://juejin.cn/post/7173302202604191751)
+[用GitHub Action + VuePress自动化部署自己的文档网站 - 掘金](https://juejin.cn/post/6937532951223599141)
+
+```
+
 ```md
 ariadne.ns.cloudflare.com
 hal.ns.cloudflare.com

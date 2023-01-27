@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       },
                       "pinned": true
@@ -117,8 +117,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical"
@@ -183,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/max-optics/Attr - 动态表单优化.md",
+                "file": "workspce/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/max-optics/Attr - 动态表单优化.md",
+                "file": "workspce/Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/max-optics/Attr - 动态表单优化.md"
+                "file": "workspce/Draft.md"
               }
             }
           },
@@ -280,20 +280,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
-  "active": "a74e309c73b35736",
+  "active": "daabbc0cd8e02983",
   "lastOpenFiles": [
+    "workspce/Daily Record.md",
+    "workspce/Draft.md",
+    "buckets/max-optics/Attr - 动态表单优化.md",
+    "HomePage.md",
     "buckets/max-optics/assets/daily/Pasted image 20221219223048.png",
     "buckets/max-optics/assets/daily/Pasted image 20221221144235.png",
     "buckets/max-optics/assets/daily/Pasted image 20221221155359.png",
     "buckets/max-optics/assets/daily/Pasted image 20221221110226.png",
     "buckets/max-optics/assets/daily/Pasted image 20221221110253.png",
-    "workspce/Daily Record.md",
-    "HomePage.md",
-    "workspce/Draft.md",
-    "buckets/max-optics/Attr - 动态表单设计.md",
-    "buckets/max-optics/Attr - 动态表单优化.md"
+    "buckets/max-optics/Attr - 动态表单设计.md"
   ]
 }
