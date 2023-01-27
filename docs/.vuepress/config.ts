@@ -2,7 +2,7 @@
  * @Author: gongyuqi
  * @Date: 2021-11-30 12:23:38
  * @LastEditors: rich1e
- * @LastEditTime: 2022-09-27 15:14:18
+ * @LastEditTime: 2023-01-27 22:46:33
  * @FilePath: /rich1e.me/docs/.vuepress/config.ts
  */
 import { defineUserConfig } from "vuepress";
@@ -139,6 +139,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
       {
         text: "旅游",
         link: "/traveling/",
+      },
+      {
+        text: "GitHub",
+        link: "https://github.com/rich1e",
       },
     ],
   },
