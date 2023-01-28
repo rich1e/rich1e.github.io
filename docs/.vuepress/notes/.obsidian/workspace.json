@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
                       },
                       "pinned": true
@@ -106,18 +106,9 @@
                       },
                       "pinned": true
                     }
-                  },
-                  {
-                    "id": "60b9f7cfea693885",
-                    "type": "leaf",
-                    "state": {
-                      "type": "image",
-                      "state": {
-                        "file": "buckets/max-optics/assets/daily/Pasted image 20221219223048.png"
-                      }
-                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -182,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -200,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Draft.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Draft.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Draft.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -282,17 +272,31 @@
     "direction": "horizontal",
     "width": 264.5
   },
-  "active": "daabbc0cd8e02983",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d9995859cf1212a3",
   "lastOpenFiles": [
-    "workspce/Daily Record.md",
-    "workspce/Draft.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
+    "buckets/max-optics/assets/daily/Pasted image 20230128184312.png",
+    "workspce/Daily Record.md",
     "HomePage.md",
+    "workspce/Draft.md",
     "buckets/max-optics/assets/daily/Pasted image 20221219223048.png",
     "buckets/max-optics/assets/daily/Pasted image 20221221144235.png",
     "buckets/max-optics/assets/daily/Pasted image 20221221155359.png",
     "buckets/max-optics/assets/daily/Pasted image 20221221110226.png",
-    "buckets/max-optics/assets/daily/Pasted image 20221221110253.png",
-    "buckets/max-optics/Attr - 动态表单设计.md"
+    "buckets/max-optics/assets/daily/Pasted image 20221221110253.png"
   ]
 }

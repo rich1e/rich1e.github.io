@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
@@ -13,8 +9,16 @@
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
+      "basename": "Pasted image 20230128184312",
+      "path": "buckets/max-optics/assets/daily/Pasted image 20230128184312.png"
+    },
+    {
       "basename": "HomePage",
       "path": "HomePage.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
     },
     {
       "basename": "Pasted image 20221219223048",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20221205162327",
       "path": "buckets/max-optics/assets/daily/Pasted image 20221205162327.png"
-    },
-    {
-      "basename": "Pasted image 20221031144114",
-      "path": "buckets/max-optics/assets/daily/Pasted image 20221031144114.png"
     }
   ],
   "omittedPaths": [],
