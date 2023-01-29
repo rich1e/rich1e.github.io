@@ -106,9 +106,21 @@
                       },
                       "pinned": true
                     }
+                  },
+                  {
+                    "id": "9c8c53a81f1bcfea",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023/Vue3 组件库.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -286,17 +298,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d9995859cf1212a3",
+  "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
+    "2023/Vue3 组件库.md",
+    "workspce/Daily Record.md",
+    "workspce/Kanban.md",
     "buckets/max-optics/Attr - 动态表单优化.md",
     "buckets/max-optics/assets/daily/Pasted image 20230128184312.png",
-    "workspce/Daily Record.md",
     "HomePage.md",
     "workspce/Draft.md",
     "buckets/max-optics/assets/daily/Pasted image 20221219223048.png",
     "buckets/max-optics/assets/daily/Pasted image 20221221144235.png",
-    "buckets/max-optics/assets/daily/Pasted image 20221221155359.png",
-    "buckets/max-optics/assets/daily/Pasted image 20221221110226.png",
-    "buckets/max-optics/assets/daily/Pasted image 20221221110253.png"
+    "buckets/max-optics/assets/daily/Pasted image 20221221155359.png"
   ]
 }

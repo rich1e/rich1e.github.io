@@ -5,6 +5,14 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Attr - 动态表单设计",
       "path": "buckets/max-optics/Attr - 动态表单设计.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
     },
     {
       "basename": "2021dev-前端框架",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20221017150236",
       "path": "images/diary_20221017/Pasted image 20221017150236.png"
-    },
-    {
-      "basename": "Pasted image 20221205162327",
-      "path": "buckets/max-optics/assets/daily/Pasted image 20221205162327.png"
     }
   ],
   "omittedPaths": [],
