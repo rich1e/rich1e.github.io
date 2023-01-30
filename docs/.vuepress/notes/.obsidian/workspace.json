@@ -87,7 +87,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Draft.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       },
                       "pinned": true
@@ -129,8 +129,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 3
+                ]
               }
             ],
             "direction": "vertical"
@@ -195,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "workspce/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "workspce/Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "workspce/Draft.md"
               }
             }
           },
@@ -308,17 +308,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7a4392b9d7250e54",
+  "active": "daabbc0cd8e02983",
   "lastOpenFiles": [
-    "work-records/git-remote-host-identification-has-changed.md",
     "workspce/Daily Record.md",
+    "HomePage.md",
+    "work-records/git-remote-host-identification-has-changed.md",
     "Pasted image 20230130094121.png",
     "workspce/Archives File.md",
     "workspce/Buckets.md",
     "workspce/Front-end Technology.md",
     "workspce/Mobile Development.md",
     "2023/Vue3 组件库.md",
-    "workspce/Kanban.md",
-    "buckets/max-optics/Attr - 动态表单优化.md"
+    "workspce/Kanban.md"
   ]
 }

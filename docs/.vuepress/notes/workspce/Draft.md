@@ -1,3 +1,16 @@
+[web前端动态表单实现方案汇总 - 掘金](https://juejin.cn/post/6971391174846201870)
+[Element Plus 源码分析 · Discussion #6715 · element-plus/element-plus](https://github.com/element-plus/element-plus/discussions/6715)
+[序言](https://www.yuque.com/chaojie-vjiel/vbwzgu/twp49o)
+[动态表单方案form-generator调研 - 掘金](https://juejin.cn/post/6971351044412407822#heading-7)
+[(3条消息) 【TS】Error: Element implicitly has an ‘any‘ type because expression of type ‘string‘ can‘t be used to_想上天的小鱼的博客-CSDN博客](https://blog.csdn.net/weixin_38629529/article/details/127131932)
+[TypeScript解决不能使用映射类型TS7053: Element implicitly has an 'any' type because expression of type 'string' can't be used to index type 'Object'的问题 · Issue #34 · urain39/stuff](https://github.com/urain39/stuff/issues/34)
+[jlegewie/zotfile: Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.](https://github.com/jlegewie/zotfile)
+[Scrollend：超实用的全新JavaScript事件 - 掘金](https://juejin.cn/post/7193879407608463416)
+[想写出复用性强的组件？快来试试 Storybook 吧！ - 掘金](https://juejin.cn/post/7153906556143157256)
+[🌄 JavaScript 的三座大山 - 掘金](https://juejin.cn/post/7182571660003213370)
+
+
+
 ## Blog
 
 ```ad-note

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "git-remote-host-identification-has-changed",
@@ -43,14 +51,6 @@
     {
       "basename": "Pasted image 20230128184312",
       "path": "buckets/max-optics/assets/daily/Pasted image 20230128184312.png"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
     },
     {
       "basename": "Pasted image 20221219223048",
