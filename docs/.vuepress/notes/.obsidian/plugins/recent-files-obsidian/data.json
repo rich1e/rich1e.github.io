@@ -5,6 +5,30 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "git-remote-host-identification-has-changed",
+      "path": "work-records/git-remote-host-identification-has-changed.md"
+    },
+    {
+      "basename": "Pasted image 20230130094121",
+      "path": "Pasted image 20230130094121.png"
+    },
+    {
+      "basename": "Archives File",
+      "path": "workspce/Archives File.md"
+    },
+    {
+      "basename": "Buckets",
+      "path": "workspce/Buckets.md"
+    },
+    {
+      "basename": "Front-end Technology",
+      "path": "workspce/Front-end Technology.md"
+    },
+    {
+      "basename": "Mobile Development",
+      "path": "workspce/Mobile Development.md"
+    },
+    {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
     },
@@ -71,14 +95,6 @@
     {
       "basename": "2022 learn",
       "path": "2022/2022 learn.md"
-    },
-    {
-      "basename": "Front-end Technology",
-      "path": "workspce/Front-end Technology.md"
-    },
-    {
-      "basename": "Buckets",
-      "path": "workspce/Buckets.md"
     },
     {
       "basename": "Pasted image 20221216180139",
@@ -183,22 +199,6 @@
     {
       "basename": "Pasted image 20221017151356",
       "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017151356.png"
-    },
-    {
-      "basename": "Pasted image 20221017165941",
-      "path": "images/diary_20221017/Pasted image 20221017165941.png"
-    },
-    {
-      "basename": "Pasted image 20221017162600",
-      "path": "images/diary_20221017/Pasted image 20221017162600.png"
-    },
-    {
-      "basename": "Pasted image 20221017154026",
-      "path": "images/diary_20221017/Pasted image 20221017154026.png"
-    },
-    {
-      "basename": "Pasted image 20221017150236",
-      "path": "images/diary_20221017/Pasted image 20221017150236.png"
     }
   ],
   "omittedPaths": [],

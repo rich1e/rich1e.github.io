@@ -5,6 +5,36 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230130 
+
+[[git-remote-host-identification-has-changed]]
+
+```ad-note
+title: 每日一跃
+
+[actions/checkout: Action for checking out a repo](https://github.com/actions/checkout)
+[changesets/action](https://github.com/changesets/action)
+[Why and how to adopt actions/checkout@v3 in your GitHub Action workflow](https://blog.eidinger.info/why-and-how-to-adopt-actionscheckoutv3-in-your-github-action-workflow)
+
+关键词： #github #action
+
+[字节前端架构组工程化代码片段 - 掘金](https://juejin.cn/post/7176935575302668346#heading-1)
+[JS 原生的深拷贝来啦——structuredClone - 掘金](https://juejin.cn/post/7193997944171790396)
+[相学长的2022年度总结 - 掘金](https://juejin.cn/post/7184382077477847095)
+[我对不同阶段前端工程师的额外要求 - 掘金](https://juejin.cn/post/7188025237747793980)
+[JavaScript 函数式编程到底是个啥 - 掘金](https://juejin.cn/post/6844903482265190413)
+[structuredClone() - Web 开发技术 | MDN](https://developer.mozilla.org/zh-CN/docs/web/api/structuredClone)
+[年轻人的第一款单元测试框架———vitest - 掘金](https://juejin.cn/post/7190159077908381756)
+[从这两套题，重新认识JS的this、作用域、闭包、对象 - 掘金](https://juejin.cn/post/6844903493845647367)
+
+关键词： #utils #vitest #this #FP #structuredClone
+
+[2022，38岁，裸辞，自由职业一年实况分享 - 掘金](https://juejin.cn/post/7177321772134924325)
+[去年裸辞全职做开源后，趁快过年说说这一年的经历 - 掘金](https://juejin.cn/post/7189522702300872760)
+
+关键词： #hertzbeat #opensource #monitor
+```
+
 ##  20230129 
 
 ```ad-note
@@ -54,20 +84,20 @@ title: 每日一跃
 [React和Vue谁会淘汰谁？ - 掘金](https://juejin.cn/post/7190550643386351653)
 [不要再用js设置rem了，现代css自适应方案来了 - 掘金](https://juejin.cn/post/7189222771140853797)
 
-关键词：Vapor Mode
+关键词： #Vapor-Mode
 
 [比 JSON.stringify 快两倍的fast-json-stringify - 掘金](https://juejin.cn/post/7173482852695146510)
 [JSON.stringify() 的 5 使用场景 - 掘金](https://juejin.cn/post/7191712569394987065#heading-0)
 
-关键词：JSON.stringify
+关键词： #JSON
 
 [加3行代码减少80%构建时间 - 掘金](https://juejin.cn/post/7135756687134162980)
 
-关键词：Docker cache
+关键词： #Docker
 
 [使用Vue3.2新指令v-memo提升性能(含源码浅析) - 掘金](https://juejin.cn/post/7157229673301147656)
 
-关键词：v-memo
+关键词： #v-memo
 
 [2023年如何成为Web3开发者？详细聊聊Web3开发者的那些事 - 掘金](https://juejin.cn/post/7181761563336900669#heading-5)
 [Web3远程开发的年终总结 - 掘金](https://juejin.cn/post/7187272999546912828)
@@ -78,14 +108,14 @@ title: 每日一跃
 [使用 React+ethers.js 开发简单加密钱包 - 掘金](https://juejin.cn/post/7177284349040017469)
 [Web3年入百万的“空投”到底是什么？教你开发批量转账的空投DApp（涵盖前端、智能合约） - 掘金](https://juejin.cn/post/7192098867868303417)
 
-关键词：Web3 DApp solidity 区块链
+关键词： #Web3 #DApp #solidity #区块链
 
 [(3条消息) Vue3 工具函数 shared_前端小溪的博客-CSDN博客_@vue/shared](https://blog.csdn.net/weixin_44952258/article/details/120249828)
 [idux/Button.tsx at caf4dbf1c9a8de635899b2ac2cca6cf1e73a12ce · IDuxFE/idux](https://github.com/IDuxFE/idux/blob/caf4dbf1c9a8de635899b2ac2cca6cf1e73a12ce/packages/components/button/src/Button.tsx)
 [（二）vue3-shared（vue3工具函数） - 掘金](https://juejin.cn/post/6999174590551293959#heading-6)
 [vue.js - vue3 中隐藏的实用API - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000041616822)
 
-关键词：normalizeClass @vue/shared idux
+关键词： #normalizeClass #vue-shared #idux
 
 [monorepo在jest、eslint配置共享中的应用 - 掘金](https://juejin.cn/post/7140929996125634568)
 [前端工程化 - 随笔分类 - 下一个十年 - 博客园](https://www.cnblogs.com/mate-ui/category/2084923.html)
@@ -96,14 +126,14 @@ title: 每日一跃
 [前端工程化：如何使用monorepo进行多项目的高效管理 - 掘金](https://juejin.cn/post/7043990636751503390)
 [Monorepo 的这些坑，我们帮你踩过了！ - 掘金](https://juejin.cn/post/6972139870231724045#heading-12)
 
-关键词：monorepo pnpm
+关键词： #monorepo #pnpm
 
 [(3条消息) monorepo工作流基础之changesets打开与进阶（Speeches）_咲奈的博客-CSDN博客_changesets](https://blog.csdn.net/qq_21567385/article/details/122361591)
 [实践 Vue3 组件库-基于 changesets 的版本管理及自动化发布 - 掘金](https://juejin.cn/post/7140639347937640479#heading-4)
 [使用 Changesets 管理类库版本及更新日志 - 掘金](https://juejin.cn/post/7054144427622826020)
 [Changesets: 流行的 monorepo 场景发包工具 - 掘金](https://juejin.cn/post/7024827345059971080#heading-7)
 
-关键词：Changesets monorepo pnpm
+关键词： #Changesets #monorepo #pnpm
 
 [antfu/eslint-config: Anthony's ESLint config presets](https://github.com/antfu/eslint-config)
 [实践 Vue3 组件库-基于 VuePress 开发组件文档 - 掘金](https://juejin.cn/post/7136825713411227679)
@@ -112,7 +142,7 @@ title: 每日一跃
 [【前端组件化】系列文章第一篇——方案探究 - 掘金](https://juejin.cn/post/7139513166613970958)
 [关于前端大管家 package.json，你知道多少？ - 掘金](https://juejin.cn/post/7023539063424548872)
 
-关键词：monorepo Vue3 组件库
+关键词： #monorepo #Vue3 #组件库
 ```
 
 [浅谈软件研发管理体系建设](https://www.cnblogs.com/westwind1/p/15675389.html)
