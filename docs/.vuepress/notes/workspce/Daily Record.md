@@ -5,6 +5,31 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230131 
+
+```ad-note
+title: 每日一跃
+
+[What Is the SSH known_hosts File and How to Temporarily Ignore It | Baeldung on Linux](https://www.baeldung.com/linux/ssh-known_hosts-ignore-emporarily)
+[How to Add Public Key to known_hosts File | Baeldung on Linux](https://www.baeldung.com/linux/public-key-known_hosts)
+[openssh - Generate hashed name for SSH known_hosts - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/416586/generate-hashed-name-for-ssh-known-hosts)
+[How to Use Autojump Advanced Navigation in Linux - ByteXD](https://bytexd.com/how-to-use-autojump-advanced-navigation-in-linux/)
+
+
+关键词： #ssh #known_hosts #autojump
+
+[(3条消息) 推荐一款 macOS 终端下自动配置系统代理的神器 ZSH-OSX-AutoProxy_运维之美的博客-CSDN博客](https://blog.csdn.net/easylife206/article/details/113903855)
+[用Starship来管理iTerm主题](https://pepcn.com/macos/yong-starshiplai-guan-li-itermzhu-ti)
+[ZSH 自动读取 macOS 系统代理配置并设置环境变量 | Sukka's Blog](https://blog.skk.moe/post/macos-auto-read-proxy-settings-zsh/)
+
+关键词： #zsh #proxy #starship
+
+[How to Change the Cursor Color in CSS | SamanthaMing.com](https://www.samanthaming.com/tidbits/31-css-caret-color/)
+[css3怎样设置鼠标禁止样式-css教程-PHP中文网](https://www.php.cn/css-tutorial-485965.html)
+[caret-color - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/caret-color)
+
+关键词： #cursor #css #caret-color
+```
 ##  20230130 
 
 [[git-remote-host-identification-has-changed]]

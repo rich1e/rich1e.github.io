@@ -9,12 +9,16 @@
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
+      "basename": "git-open",
+      "path": "work-records/git-open.md"
     },
     {
       "basename": "git-remote-host-identification-has-changed",
       "path": "work-records/git-remote-host-identification-has-changed.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Pasted image 20230130094121",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20221017150236",
       "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017150236.png"
-    },
-    {
-      "basename": "Pasted image 20221017151356",
-      "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017151356.png"
     }
   ],
   "omittedPaths": [],
