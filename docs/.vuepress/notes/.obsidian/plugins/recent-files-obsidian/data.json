@@ -1,28 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "vscode-vim-surround",
+      "path": "work-records/vscode-vim-surround.md"
     },
     {
-      "basename": "git-open",
-      "path": "work-records/git-open.md"
+      "basename": "vscode-vim-sneak",
+      "path": "work-records/vscode-vim-sneak.md"
+    },
+    {
+      "basename": "vscode-vim-navigation",
+      "path": "work-records/vscode-vim-navigation.md"
+    },
+    {
+      "basename": "vscode-vim-Folding",
+      "path": "work-records/vscode-vim-Folding.md"
+    },
+    {
+      "basename": "vscode-vim-easymotion",
+      "path": "work-records/vscode-vim-easymotion.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "Pasted image 20230130094121",
+      "path": "images/work-records/Pasted image 20230130094121.png"
+    },
+    {
+      "basename": "Pasted image 20230130104203",
+      "path": "images/work-records/Pasted image 20230130104203.png"
+    },
+    {
+      "basename": "Pasted image 20230130104047",
+      "path": "images/work-records/Pasted image 20230130104047.png"
+    },
+    {
+      "basename": "image-20220426230425183",
+      "path": "images/image-20220426230425183.png"
+    },
+    {
+      "basename": "image-20220518184115750",
+      "path": "images/image-20220518184115750.png"
+    },
+    {
+      "basename": "image-20220519225735792",
+      "path": "images/image-20220519225735792.png"
+    },
+    {
+      "basename": "image-20220520163240682",
+      "path": "images/image-20220520163240682.png"
+    },
+    {
+      "basename": "image-20220521201229235",
+      "path": "images/image-20220521201229235.png"
+    },
+    {
+      "basename": "image-20220521223834138",
+      "path": "images/image-20220521223834138.png"
+    },
+    {
+      "basename": "image-20220521224330584",
+      "path": "images/image-20220521224330584.png"
+    },
+    {
+      "basename": "Pasted image 20221016185201",
+      "path": "images/Pasted image 20221016185201.png"
+    },
+    {
+      "basename": "Pasted image 20230201111152",
+      "path": "buckets/max-optics/assets/daily/Pasted image 20230201111152.png"
+    },
+    {
+      "basename": "Pasted image 20230201143312",
+      "path": "buckets/max-optics/assets/daily/Pasted image 20230201143312.png"
     },
     {
       "basename": "git-remote-host-identification-has-changed",
       "path": "work-records/git-remote-host-identification-has-changed.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
+      "basename": "git-open",
+      "path": "work-records/git-open.md"
     },
     {
-      "basename": "Pasted image 20230130094121",
-      "path": "Pasted image 20230130094121.png"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Archives File",
@@ -47,10 +123,6 @@
     {
       "basename": "Kanban",
       "path": "workspce/Kanban.md"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "Pasted image 20230128184312",
@@ -127,78 +199,6 @@
     {
       "basename": "Pasted image 20221211235212",
       "path": "images/draft/Pasted image 20221211235212.png"
-    },
-    {
-      "basename": "Pasted image 20221209141011",
-      "path": "images/draft/Pasted image 20221209141011.png"
-    },
-    {
-      "basename": "Pasted image 20221212105241",
-      "path": "buckets/max-optics/assets/daily/Pasted image 20221212105241.png"
-    },
-    {
-      "basename": "Pasted image 20221212105601",
-      "path": "buckets/max-optics/assets/daily/Pasted image 20221212105601.png"
-    },
-    {
-      "basename": "Pasted image 20221212105511",
-      "path": "buckets/max-optics/assets/daily/Pasted image 20221212105511.png"
-    },
-    {
-      "basename": "Pasted image 20221212105404",
-      "path": "buckets/max-optics/assets/daily/Pasted image 20221212105404.png"
-    },
-    {
-      "basename": "Pasted image 20221206162854",
-      "path": "images/draft/Pasted image 20221206162854.png"
-    },
-    {
-      "basename": "Pasted image 20221208154851",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221208154851.png"
-    },
-    {
-      "basename": "Pasted image 20221208162803",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221208162803.png"
-    },
-    {
-      "basename": "Pasted image 20221208163510",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221208163510.png"
-    },
-    {
-      "basename": "Pasted image 20221208163704",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221208163704.png"
-    },
-    {
-      "basename": "Pasted image 20221208164424",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221208164424.png"
-    },
-    {
-      "basename": "Pasted image 20221208155256",
-      "path": "buckets/max-optics/assets/attr/Pasted image 20221208155256.png"
-    },
-    {
-      "basename": "Pasted image 20221017171707",
-      "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017171707.png"
-    },
-    {
-      "basename": "Pasted image 20221017165120",
-      "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017165120.png"
-    },
-    {
-      "basename": "Pasted image 20221017162600",
-      "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017162600.png"
-    },
-    {
-      "basename": "Pasted image 20221017154110",
-      "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017154110.png"
-    },
-    {
-      "basename": "Pasted image 20221017151640",
-      "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017151640.png"
-    },
-    {
-      "basename": "Pasted image 20221017150236",
-      "path": "buckets/max-optics/assets/daily_20221017/Pasted image 20221017150236.png"
     }
   ],
   "omittedPaths": [],
