@@ -19,6 +19,22 @@ title: 每日一跃
 [代码生成-从 module css 生成 dts - rxliuli blog](https://blog.rxliuli.com/p/b8e8ce8bccff49d191480a40a18a7fc8/)
 
 关键词： #vscode-dts #typescript
+
+[vuepress-plugin/plugins/vuepress-plugin-auto-sidebar-navbar/lib at 44a2ea8daa6a03edff83dbe7637cf9398eacdf86 · iamouyangdan/vuepress-plugin](https://github.com/iamouyangdan/vuepress-plugin/tree/44a2ea8daa6a03edff83dbe7637cf9398eacdf86/plugins/vuepress-plugin-auto-sidebar-navbar/lib)
+[一鱼两吃——VuePress 2 搭建独立博客和知识管理库 - 掘金](https://juejin.cn/post/6980134339434512421#heading-3)
+[从零开始写一个vuepress插件 | 远方的灯塔 - 专注于服务端技术分享](https://terwergreen.com/post/write-a-vuepress-plugin-from-scratch.html#%E5%88%9D%E5%A7%8B%E5%8C%96%E6%8F%92%E4%BB%B6%E9%A1%B9%E7%9B%AE)
+[Vuepress2插件 — 代码剪贴板 | Qbenben](https://blog.qbb.sh/docs/play/vuepress-plugin-clipboard.html#install)
+[从零实现一个 VuePress 插件 - 冴羽的JavaScript博客 - SegmentFault 思否](https://segmentfault.com/a/1190000041285750)
+[插件 API | VuePress](https://v2.vuepress.vuejs.org/zh/reference/plugin-api.html)
+[(3条消息) VuePress插件分享_九城风雪的博客-CSDN博客](https://blog.csdn.net/weixin_42029738/article/details/125833297)
+[插件 | VuePress](https://vuepress.github.io/zh/guide/plugin.html#%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6)
+[vuepress-plugin-permalink-pinyin/index.js at master · viko16/vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin/blob/master/index.js)
+[dzcpy/transliteration: UTF-8 to ASCII transliteration / slugify module for node.js, browser, Web Worker, React Native, Electron and CLI.](https://github.com/dzcpy/transliteration)
+[vuepress-reco/vuepress-theme-reco: 🔥 The 2.x of vuepress-theme-reco.](https://github.com/vuepress-reco/vuepress-theme-reco)
+[使用ts开发vuepress自动生成侧边栏插件 - 掘金](https://juejin.cn/post/7093920481899708447)
+[插件 API | VuePress](https://v2.vuepress.vuejs.org/zh/reference/plugin-api.html)
+
+关键词： #vuepress
 ```
 
 [使用ts开发vuepress自动生成侧边栏插件 - 掘金](https://juejin.cn/post/7093920481899708447)

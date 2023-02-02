@@ -5,6 +5,14 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
       "basename": "git-open",
       "path": "work-records/git-open.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "RegExp",
       "path": "buckets/learn/RegExp.md"
-    },
-    {
-      "basename": "React",
-      "path": "buckets/learn/React.md"
-    },
-    {
-      "basename": "React 性能优化",
-      "path": "buckets/learn/React 性能优化.md"
     }
   ],
   "omittedPaths": [],
