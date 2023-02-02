@@ -113,7 +113,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/game/HeroEmblems.md",
+                        "file": "work-records/git-open.md",
                         "mode": "source",
                         "source": false
                       }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/game/HeroEmblems.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/game/HeroEmblems.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/game/HeroEmblems.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -298,17 +298,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af0035df406cdc86",
+  "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
+    "work-records/git-open.md",
+    "workspce/Daily Record.md",
+    "buckets/game/HeroEmblems.md",
     "images/imgs/UNADJUSTEDNONRAW_thumb_9567.jpg",
     "frontend/前端监控.md",
     "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
     "frontend/前端工程自动化实践-文档篇.md",
     "frontend/前端代码构建部署.md",
     "frontend/混合开发.md",
-    "frontend/当下还有人知道 buble 吗？.md",
-    "buckets/Home.md",
-    "2022/2022 learn.md",
-    "2022/Alienware.md"
+    "frontend/当下还有人知道 buble 吗？.md"
   ]
 }

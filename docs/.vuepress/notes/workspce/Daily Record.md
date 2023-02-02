@@ -21,6 +21,8 @@ title: 每日一跃
 关键词： #vscode-dts #typescript
 ```
 
+[使用ts开发vuepress自动生成侧边栏插件 - 掘金](https://juejin.cn/post/7093920481899708447)
+
 ##  20230201 
 
 ![[Pasted image 20230201111152.png]]

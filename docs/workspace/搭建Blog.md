@@ -2,7 +2,18 @@
 title: 搭建Blog
 date: 2021-12-08
 permalinkPattern: :year/:month/:day/:slug.html
+permalink: /workspace/build-a-blog
 ---
+
+<!--
+ * @Author: yuqigong@outlook.com
+ * @Date: 2022-10-10 11:25:19
+ * @LastEditors: yuqigong@outlook.com
+ * @LastEditTime: 2023-02-02 18:30:59
+ * @FilePath: /rich1e.github.io/docs/workspace/搭建Blog.md
+ * @Description:
+ *
+-->
 
 # 搭建 Blog
 

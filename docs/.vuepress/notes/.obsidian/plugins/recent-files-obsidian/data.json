@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "git-open",
+      "path": "work-records/git-open.md"
+    },
+    {
       "basename": "HeroEmblems",
       "path": "buckets/game/HeroEmblems.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "React 性能优化",
       "path": "buckets/learn/React 性能优化.md"
-    },
-    {
-      "basename": "merge-request",
-      "path": "buckets/work-experience/pab/merge-request.md"
-    },
-    {
-      "basename": "nginx",
-      "path": "buckets/learn/nginx.md"
     }
   ],
   "omittedPaths": [],
