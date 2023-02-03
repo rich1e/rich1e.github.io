@@ -5,12 +5,24 @@
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
+      "basename": "vscode-vim-fold",
+      "path": "work-records/vscode-vim-fold.md"
+    },
+    {
+      "basename": "vscode-vim-easymotion",
+      "path": "work-records/vscode-vim-easymotion.md"
     },
     {
       "basename": "vscode-vim",
       "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "git-open",
@@ -187,18 +199,6 @@
     {
       "basename": "Promise",
       "path": "buckets/learn/Promise.md"
-    },
-    {
-      "basename": "PowerShell",
-      "path": "buckets/learn/PowerShell.md"
-    },
-    {
-      "basename": "RFC-Vue",
-      "path": "buckets/learn/RFC-Vue.md"
-    },
-    {
-      "basename": "RegExp",
-      "path": "buckets/learn/RegExp.md"
     }
   ],
   "omittedPaths": [],

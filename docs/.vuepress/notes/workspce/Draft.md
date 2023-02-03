@@ -391,7 +391,6 @@ Ref：
 [peers 是如何被处理的 | pnpm](https://pnpm.io/zh/how-peers-are-resolved)
 ```
 
-[提交详情 - 前端组件库Aquaman - 上海曼光信息科技有限公司](https://e.gitee.com/max-optics/repos/max-optics/aquaman/commit/57d8590463feb0d0efe15e61ed9c710ff03b91dc)
 [Vue3 + Vite2 + ElementPlus + TS 项目常见问题](https://bbchin.com/archives/vite2vue3ts#9%E3%80%81%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8-vscode-%E5%92%8C-vue-%E5%AE%98%E6%96%B9%E6%8B%93%E5%B1%95-volar%EF%BC%8C%E5%AE%83%E4%B8%BA-vue-3-%E6%8F%90%E4%BE%9B%E4%BA%86%E5%85%A8%E9%9D%A2%E7%9A%84-ide-%E6%94%AF%E6%8C%81)
 [vue3中update:modelValue的使用与不生效问题解决_vue.js_脚本之家](https://www.jb51.net/article/242919.htm)
 [Element Form to Json，快速构建表单应用，支持表单分组 - 掘金](https://juejin.cn/post/6993907898371801118)

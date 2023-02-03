@@ -5,6 +5,40 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230203 
+
+```ad-note
+title: jest
+
+[带你入门前端工程（四）：测试](https://www.freecodecamp.org/chinese/news/front-end-engineering-test/)
+[javascript - Jest 单元测试疑难点入门 - 原创小文章 - SegmentFault 思否](https://segmentfault.com/a/1190000041386455)
+[单元测试 - Jest 入门知识全覆盖 ! - 掘金](https://juejin.cn/post/7080342960390275086#heading-26)
+[Jest单元测试中的常用方法和技巧 - 掘金](https://juejin.cn/post/6997581158670630948#heading-2)
+[ES6 类模拟 · Jest](https://jestjs.io/zh-Hans/docs/es6-class-mocks)
+
+```
+
+```ad-note
+title: github 自定义首页
+
+[Awesome Github Profile](https://zzetao.github.io/awesome-github-profile/)
+[halfrost (halfrost)](https://github.com/halfrost)
+[rahul-jha98/github-stats-transparent: Automatically generate summary GitHub statistics images for your profile using Actions, no server required](https://github.com/rahul-jha98/github-stats-transparent)
+[jstrieb/github-stats: Better GitHub statistics images for your profile, with stats from private repos too](https://github.com/jstrieb/github-stats)
+[Introduction | CodersRank Documentation](https://docs.codersrank.io/)
+[gautamkrishnar/README.md at master · gautamkrishnar/gautamkrishnar](https://github.com/gautamkrishnar/gautamkrishnar)
+[Github 个人首页的 README，这样玩儿~ - Ficow Shen's Blog](https://blog.ficowshen.com/page/post/19)
+[github-readme-stats/readme_cn.md at master · anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#%E8%87%AA%E5%AE%9A%E4%B9%89)
+[花式自定义Github首页：作为程序员最棒的自我介绍 - 杜赛的博客](https://www.dusaiphoto.com/article/166/)
+[DenverCoder1/github-readme-streak-stats: 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README](https://github.com/DenverCoder1/github-readme-streak-stats)
+[Github 首页美化教程（一）：打造个性化的GitHub首页 - 知乎](https://zhuanlan.zhihu.com/p/454597068)
+[Ashutosh00710/github-readme-activity-graph: A dynamically generated activity graph to show your GitHub activities of last 31 days.](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[Shields.io: Quality metadata badges for open source projects](https://shields.io/)
+[ryo-ma/github-profile-trophy: 🏆 Add dynamically generated GitHub Stat Trophies on your readme](https://github.com/ryo-ma/github-profile-trophy/)
+[lowlighter/metrics: 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
+
+```
+
 ##  20230202 
 
 [mini-vue](https://github.com/cuixiaorui/mini-vue)
@@ -487,173 +521,6 @@ http://javascript.ruanyifeng.com/stdlib/regexp.html
 [[前端漫谈] 做一个四则计算器 - 掘金](https://juejin.cn/post/6844903750994231303)
 [JS如何处理四则运算表达式，并按照正确的运算优先级输出结果 - 掘金](https://juejin.cn/post/7136044541651451917#heading-0)
 [js 检验四则运算字符串是否合法](https://www.fly63.com/article/detial/8999)
-
-
-```md
-git log feat/testDev_1230_gyq ^feat/1220_gyq
-
-commit 8c29d31e6b94ab61ce41e4107a99cf2407513667 (HEAD -> feat/testDev_1230_gyq, origin/feat/testDev_1230_gyq)
-Author: gongyuqi <gongyuqi@max-optics.com>
-Date:   Fri Dec 30 15:21:09 2022 +0800
-
-    feat: 全局变量显示时忽略常量
-
-    affects: @mg/orca
-
-commit 4e385900abb7fe4e9a4d67247f9d5a9f9b5d43c6
-Author: gongyuqi <gongyuqi@max-optics.com>
-Date:   Fri Dec 30 14:48:48 2022 +0800
-
-    feat: 全局参数列表展示逻辑修改
-
-    affects: @mg/orca
-
-
-git log 1215hotfix ^testDev
-
-commit 5e4555940d0c540ba1b0611b36cd58cc6e11ebfb (origin/1215hotfix, 1215hotfix)
-Merge: 9f2ef827 bd74a919
-Author: 李坚 <lijian@max-optics.com>
-Date:   Thu Dec 29 10:03:56 2022 +0000
-
-    !787 MOL-P-079 变量列表和消息窗口分成两个窗口
-    Merge pull request !787 from feat/1220_gyq
-
-commit 9f2ef8275ec706af4e03d8b0825a9b64190f103e (origin/th-dev-electron)
-Author: 涂行 <tuhang@max-optics.com>
-Date:   Thu Dec 29 16:56:39 2022 +0800
-
-    feat: 优化材料库
-
-    affects: @mg/orca
-
-commit be3585950005629b487a875ba37515f1e2b62de8
-Merge: 623890a8 b6d49f68
-Author: 涂行 <tuhang@max-optics.com>
-Date:   Thu Dec 29 16:55:35 2022 +0800
-
-    Merge branch '1215hotfix' into th-dev-electron
-
-commit bd74a91914a6dade7d4f4e5f618a5c98b7752eb0 (origin/feat/1220_gyq)
-Author: gongyuqi <gongyuqi@max-optics.com>
-Date:   Thu Dec 29 16:34:46 2022 +0800
-
-    feat: mOL-P-079 变量列表和消息窗口分成两个窗口
-
-    affects: @mg/orca
-
-commit 66b5c0f5ee925b1f216ea2be91fa91b7b45f68d5
-Author: gongyuqi <gongyuqi@max-optics.com>
-Date:   Thu Dec 29 15:05:57 2022 +0800
-
-    feat: 双击修改全局变量
-
-    affects: @mg/orca
-
-commit 7d33357defdc62bd5df30becbe6cf26d06407ce7
-Author: gongyuqi <gongyuqi@max-optics.com>
-Date:   Thu Dec 29 11:27:36 2022 +0800
-
-    feat: 全局参数进行新增/修改/删除
-
-    affects: @mg/orca
-
-commit d15722b2b604bf53eee70db5e95ccb019db16881
-Author: rich1e <yuqigong@outlook.com>
-Date:   Wed Dec 28 22:48:37 2022 +0800
-
-    feat: table 修改
-
-    affects: @mg/orca
-
-commit 6d956e582bc9628e608a14ebe081bfcd41068c06
-Author: rich1e <yuqigong@outlook.com>
-Date:   Mon Dec 26 19:22:27 2022 +0800
-
-    feat: 调整窗口布局
-
-    affects: @mg/orca
-
-commit af44a8a9f9df73b948856e772f31869bdc6c0b18
-Author: gongyuqi <gongyuqi@max-optics.com>
-Date:   Wed Dec 21 18:27:53 2022 +0800
-
-    feat: 变量列表和消息窗口分成两个窗口
-
-    affects: @mg/orca
-
-commit e346fc49abffaed51e1e66225141e70de8b8bead
-Author: gongyuqi <gongyuqi@max-optics.com>
-Date:   Wed Dec 21 15:48:48 2022 +0800
-
-    feat(orca): 添加splitpanes
-
-    affects: @mg/orca
-
-commit b6d49f68c93ea9462cd47b548f19b1929ebdc2f4
-Author: 李佳 <523319121@qq.com>
-Date:   Tue Dec 27 15:08:25 2022 +0800
-
-    feat: 优化button按钮
-
-    affects: @mg/orca, @mg/angelfish
-
-commit 623890a892829a0d7d0c6c8263dbec75f83452f4
-Author: 涂行 <tuhang@max-optics.com>
-Date:   Tue Dec 27 10:39:26 2022 +0800
-
-    feat: 优化材料库
-
-    affects: @mg/orca
-
-commit babfadd9f8631af4f6c6ef1594f5dc0df5730416
-Author: 涂行 <tuhang@max-optics.com>
-Date:   Mon Dec 26 17:37:49 2022 +0800
-
-    feat: 优化材料库
-
-    affects: @mg/orca
-
-commit 094c46ce063985daf4fbd9e0b7cf513b148953f3
-Author: 李佳 <523319121@qq.com>
-Date:   Mon Dec 26 17:35:48 2022 +0800
-
-    feat: 还原api.ts setting.js
-
-    affects: @mg/orca
-
-commit 5059e11488fd2e937e8e3fa7f5c0e61f0f9bcc67
-Merge: 02b4e34b d62590be
-Author: 李佳 <523319121@qq.com>
-Date:   Sat Dec 24 14:09:43 2022 +0800
-
-    Merge branch '1215hotfix' of https://gitee.com/max-optics/aquaman into 1215hotfix
-
-commit 02b4e34b3e7e9873b848117047a8833cf332d8f6
-Author: 李佳 <523319121@qq.com>
-Date:   Sat Dec 24 14:08:26 2022 +0800
-
-    feat: 修改bug
-
-    affects: @mg/orca
-
-commit f491e2a073e1d534c7fcf0ceef2127393da30a53
-Merge: 27b7780e d62590be
-Author: 涂行 <tuhang@max-optics.com>
-Date:   Fri Dec 23 16:18:19 2022 +0800
-
-    Merge branch '1215hotfix' into th-dev-electron
-
-commit 27b7780eb87242e750fa6d5e2f086c120524075f
-Author: 涂行 <tuhang@max-optics.com>
-Date:   Mon Dec 19 17:01:55 2022 +0800
-
-    fix: fix 有源bug
-
-    affects: cachalot, @mg/angelfish
-(END)
-
-```
 
 ##  20221228 
 
