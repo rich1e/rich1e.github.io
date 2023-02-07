@@ -5,6 +5,22 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "vscode-vim-search",
+      "path": "work-records/vscode-vim-search.md"
+    },
+    {
+      "basename": "vscode-vim-navigation",
+      "path": "work-records/vscode-vim-navigation.md"
+    },
+    {
+      "basename": "vscode-vim-replace",
+      "path": "work-records/vscode-vim-replace.md"
+    },
+    {
+      "basename": "vscode-vim-sneak",
+      "path": "work-records/vscode-vim-sneak.md"
+    },
+    {
       "basename": "vscode-vim-fold",
       "path": "work-records/vscode-vim-fold.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Responsive-layout",
       "path": "buckets/learn/Responsive-layout.md"
-    },
-    {
-      "basename": "python",
-      "path": "buckets/lifestyle/python.md"
-    },
-    {
-      "basename": "Python by Mac OS",
-      "path": "buckets/lifestyle/Python by Mac OS.md"
-    },
-    {
-      "basename": "Proxifier",
-      "path": "buckets/technology/Proxifier.md"
-    },
-    {
-      "basename": "Promise",
-      "path": "buckets/learn/Promise.md"
     }
   ],
   "omittedPaths": [],

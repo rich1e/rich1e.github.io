@@ -7,6 +7,10 @@ banner_y: 0.504
 
 ##  20230206 
 
+[如何 Git Clone 指定分支](https://www.freecodecamp.org/chinese/news/git-clone-branch-how-to-clone-a-specific-branch/)
+
+[Any recommendations for a Mac Mastodon client?](https://www.reddit.com/r/Mastodon/comments/10qja86/mac_client/)
+
 ```ad-note
 title: brew & pyenv
 
