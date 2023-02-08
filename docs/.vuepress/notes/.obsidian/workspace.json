@@ -113,7 +113,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "work-records/vscode-vim-search.md",
+                        "file": "work-records/vscode-vim.md",
                         "mode": "source",
                         "source": false
                       }
@@ -300,15 +300,15 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
+    "work-records/vscode-vim.md",
+    "workspce/Daily Record.md",
+    "work-records/vscode-vim-replace.md",
+    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "work-records/vscode-vim-search.md",
     "work-records/vscode-vim-navigation.md",
-    "work-records/vscode-vim-replace.md",
     "work-records/vscode-vim-sneak.md",
-    "workspce/Daily Record.md",
     "work-records/vscode-vim-fold.md",
     "work-records/vscode-vim-easymotion.md",
-    "work-records/vscode-vim.md",
-    "workspce/Draft.md",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    "workspce/Draft.md"
   ]
 }

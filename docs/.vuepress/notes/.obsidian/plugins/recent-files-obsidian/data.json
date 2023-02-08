@@ -5,16 +5,24 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "vscode-vim-replace",
+      "path": "work-records/vscode-vim-replace.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
       "basename": "vscode-vim-search",
       "path": "work-records/vscode-vim-search.md"
     },
     {
       "basename": "vscode-vim-navigation",
       "path": "work-records/vscode-vim-navigation.md"
-    },
-    {
-      "basename": "vscode-vim-replace",
-      "path": "work-records/vscode-vim-replace.md"
     },
     {
       "basename": "vscode-vim-sneak",
@@ -29,16 +37,8 @@
       "path": "work-records/vscode-vim-easymotion.md"
     },
     {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
       "basename": "Draft",
       "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "git-open",
