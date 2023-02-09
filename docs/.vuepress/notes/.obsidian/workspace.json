@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       },
                       "pinned": true
@@ -113,14 +113,26 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "work-records/vscode-vim.md",
+                        "file": "work-records/vscode-vim-easymotion.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "5ee854cc137edfe3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "vscode-vim-multicursor.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 3
               }
             ],
             "direction": "vertical"
@@ -300,15 +312,15 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
-    "work-records/vscode-vim.md",
-    "workspce/Daily Record.md",
+    "vscode-vim-multicursor.md",
+    "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim-replace.md",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
+    "work-records/vscode-vim-surround.md",
     "work-records/vscode-vim-search.md",
     "work-records/vscode-vim-navigation.md",
-    "work-records/vscode-vim-sneak.md",
+    "work-records/vscode-vim-indent-object.md",
     "work-records/vscode-vim-fold.md",
-    "work-records/vscode-vim-easymotion.md",
-    "workspce/Draft.md"
+    "work-records/vscode-vim.md",
+    "workspce/Daily Record.md"
   ]
 }

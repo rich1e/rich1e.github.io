@@ -29,3 +29,4 @@ vim 中有很多快捷键，还有各种扩展插件，为了避免按键冲突�
 [在 VS Code 中流畅的使用 vim（持续更新） - 掘金](https://juejin.cn/post/7134701599833882655)
 [完全用 Vim 工作 | Harttle Land](https://harttle.land/vim-practice.html)
 [干活向的 vim 配置](https://a-wing.top/vim/2021/03/21/work_vim_config)
+[visual studio vim mode | 🌹 喇賽的人 Blog 🌹](https://www.blog.lasai.com.tw/2020/07/05/visual-studio-vim-mode/)

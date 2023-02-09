@@ -5,8 +5,28 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230209 
+
+```md
+handelclick -> loadProjectResult -> Result View
+
+initTaskList -> getHistoricalTaskList -> historicalTaskList -> historyTaskTree -> HTML
+```
+
+```ad-note
+title: Obsidian & 博客
+
+[SivanLaai/blog: Obsidian写hugo博客，快捷键Crtl + U快速发布并自动部署，专注文字本身。](https://github.com/SivanLaai/blog)
+[使用Obsidian配合Hexo写博客 | 杂烩饭](https://zahui.fan/posts/ldle4xfe/)
+[Hexo + Obsidian + Git 完美的博客部署与编辑方案 - 掘金](https://juejin.cn/post/7120189614660255781)
+[晴耕雨讀 - 用 Obsidian 写博客的方法](https://0x3f.org/posts/how-to-write-blog-with-obsidian/)
+[请问是否有办法能够将 obsidian 的笔记生成一个博客展示？ - 疑问解答 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/13458)
+[用Obsidian digital garden插件发布笔记 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/10331/4)
+
+```
+
 ##  20230208 
-[<input> | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input)
+[\<input\> | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input)
 [How, to, add, title, property, to, el-input, component?](https://github.com/ElemeFE/element/issues/6609)
 > Element UI 默认支持 `title` 属性透传。`title` 属性是全局属性，所有HTML标签都支持。
 

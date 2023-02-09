@@ -5,16 +5,20 @@
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
+      "basename": "vscode-vim-multicursor",
+      "path": "vscode-vim-multicursor.md"
+    },
+    {
+      "basename": "vscode-vim-easymotion",
+      "path": "work-records/vscode-vim-easymotion.md"
     },
     {
       "basename": "vscode-vim-replace",
       "path": "work-records/vscode-vim-replace.md"
     },
     {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+      "basename": "vscode-vim-surround",
+      "path": "work-records/vscode-vim-surround.md"
     },
     {
       "basename": "vscode-vim-search",
@@ -25,16 +29,52 @@
       "path": "work-records/vscode-vim-navigation.md"
     },
     {
-      "basename": "vscode-vim-sneak",
-      "path": "work-records/vscode-vim-sneak.md"
+      "basename": "vscode-vim-indent-object",
+      "path": "work-records/vscode-vim-indent-object.md"
     },
     {
       "basename": "vscode-vim-fold",
       "path": "work-records/vscode-vim-fold.md"
     },
     {
-      "basename": "vscode-vim-easymotion",
-      "path": "work-records/vscode-vim-easymotion.md"
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "Book Sync",
+      "path": "2022/Book Sync.md"
+    },
+    {
+      "basename": "Pasted image 20230209102416",
+      "path": "images/2023/book/Pasted image 20230209102416.png"
+    },
+    {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
+    },
+    {
+      "basename": "Pasted image 20230209133455",
+      "path": "images/2023/book/Pasted image 20230209133455.png"
+    },
+    {
+      "basename": "Pasted image 20230209132915",
+      "path": "images/2023/book/Pasted image 20230209132915.png"
+    },
+    {
+      "basename": "Pasted image 20230209132128",
+      "path": "images/2023/book/Pasted image 20230209132128.png"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "vscode-vim-sneak",
+      "path": "work-records/vscode-vim-sneak.md"
     },
     {
       "basename": "Draft",
@@ -85,10 +125,6 @@
       "path": "2022/Alienware.md"
     },
     {
-      "basename": "Book Sync",
-      "path": "2022/Book Sync.md"
-    },
-    {
       "basename": "2021-手写代码",
       "path": "2021/2021-手写代码.md"
     },
@@ -107,10 +143,6 @@
     {
       "basename": "Windows Terminal",
       "path": "buckets/lifestyle/Windows Terminal.md"
-    },
-    {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
     },
     {
       "basename": "前端数据请求方式",
@@ -167,38 +199,6 @@
     {
       "basename": "Ubuntu",
       "path": "buckets/learn/Ubuntu.md"
-    },
-    {
-      "basename": "pull&fetch",
-      "path": "buckets/learn/pull&fetch.md"
-    },
-    {
-      "basename": "Typescript",
-      "path": "buckets/learn/Typescript.md"
-    },
-    {
-      "basename": "sublime-plugin",
-      "path": "buckets/lifestyle/sublime-plugin.md"
-    },
-    {
-      "basename": "Stereotyped Writing",
-      "path": "buckets/learn/Stereotyped Writing.md"
-    },
-    {
-      "basename": "ssh",
-      "path": "buckets/learn/ssh.md"
-    },
-    {
-      "basename": "Serverless",
-      "path": "buckets/learn/Serverless.md"
-    },
-    {
-      "basename": "Scoop",
-      "path": "buckets/learn/Scoop.md"
-    },
-    {
-      "basename": "Responsive-layout",
-      "path": "buckets/learn/Responsive-layout.md"
     }
   ],
   "omittedPaths": [],
