@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
                       },
                       "pinned": true
@@ -118,21 +118,9 @@
                         "source": false
                       }
                     }
-                  },
-                  {
-                    "id": "5ee854cc137edfe3",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "vscode-vim-multicursor.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -312,7 +300,7 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
-    "vscode-vim-multicursor.md",
+    "work-records/vscode-vim-multicursor.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim-replace.md",
     "work-records/vscode-vim-surround.md",
