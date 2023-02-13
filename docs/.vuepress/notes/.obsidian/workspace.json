@@ -113,7 +113,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "work-records/vscode-vim-easymotion.md",
+                        "file": "2023/Book.md",
                         "mode": "source",
                         "source": false
                       }
@@ -300,15 +300,15 @@
   },
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
+    "2023/Book.md",
+    "work-records/vscode-vim.md",
+    "work-records/vscode-vim-search.md",
+    "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092354.png",
+    "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092436.png",
+    "workspce/Daily Record.md",
     "work-records/vscode-vim-multicursor.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim-replace.md",
-    "work-records/vscode-vim-surround.md",
-    "work-records/vscode-vim-search.md",
-    "work-records/vscode-vim-navigation.md",
-    "work-records/vscode-vim-indent-object.md",
-    "work-records/vscode-vim-fold.md",
-    "work-records/vscode-vim.md",
-    "workspce/Daily Record.md"
+    "work-records/vscode-vim-surround.md"
   ]
 }

@@ -5,6 +5,26 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "vscode-vim-search",
+      "path": "work-records/vscode-vim-search.md"
+    },
+    {
+      "basename": "Pasted image 20230210092354",
+      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092354.png"
+    },
+    {
+      "basename": "Pasted image 20230210092436",
+      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092436.png"
+    },
+    {
       "basename": "vscode-vim-multicursor",
       "path": "work-records/vscode-vim-multicursor.md"
     },
@@ -21,10 +41,6 @@
       "path": "work-records/vscode-vim-surround.md"
     },
     {
-      "basename": "vscode-vim-search",
-      "path": "work-records/vscode-vim-search.md"
-    },
-    {
       "basename": "vscode-vim-navigation",
       "path": "work-records/vscode-vim-navigation.md"
     },
@@ -35,14 +51,6 @@
     {
       "basename": "vscode-vim-fold",
       "path": "work-records/vscode-vim-fold.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
     },
     {
       "basename": "Book Sync",
@@ -191,14 +199,6 @@
     {
       "basename": "Utils",
       "path": "buckets/learn/Utils.md"
-    },
-    {
-      "basename": "unit-test",
-      "path": "buckets/learn/unit-test.md"
-    },
-    {
-      "basename": "Ubuntu",
-      "path": "buckets/learn/Ubuntu.md"
     }
   ],
   "omittedPaths": [],
