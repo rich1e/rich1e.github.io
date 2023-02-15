@@ -114,7 +114,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "2023/Book.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": false
                       }
                     }
@@ -301,11 +301,11 @@
   "active": "7a4392b9d7250e54",
   "lastOpenFiles": [
     "2023/Book.md",
+    "workspce/Daily Record.md",
     "work-records/vscode-vim.md",
     "work-records/vscode-vim-search.md",
     "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092354.png",
     "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092436.png",
-    "workspce/Daily Record.md",
     "work-records/vscode-vim-multicursor.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim-replace.md",
