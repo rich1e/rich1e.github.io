@@ -5,6 +5,53 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230217 
+
+```md
+https://juejin.cn/post/7181712900094951483
+https://juejin.cn/post/7136467262826872868
+https://juejin.cn/post/7137107018938056734#heading-0
+https://juejin.cn/post/7012160233061482532
+https://element-plus.org/zh-CN/component/button.html
+https://xie.infoq.cn/article/af3e1ee1d2ecedbb5a84ea241
+https://www.jianshu.com/p/2ad8835b2e8b
+https://vuepress.github.io/zh/reference/plugin/register-components.html
+https://github.com/vuepress/vuepress-next/blob/v2.0.0-beta.49/docs/reference/plugin/register-components.md
+https://juejin.cn/post/7155089099399888910
+https://www.google.com/search?newwindow=1&sxsrf=AJOqlzVu-gh0at1D29HvpjSKFIdivkvocg:1676629066173&q=Markdown+script+tag&sa=X&ved=2ahUKEwipyaL_qZz9AhVasFYBHQNeD0U4HhDVAnoECBsQAQ&biw=1728&bih=765&dpr=1
+https://codingbeautydev.com/blog/javascript-convert-html-to-markdown/
+https://desnlee.com/post/vue3-markdown/
+https://github.com/vitejs/vite/issues/7853
+https://blog.csdn.net/shortlived/article/details/126064438
+https://github.com/antfu/vite-plugin-md/issues?q=dynamic
+https://blog.csdn.net/qq_37730829/article/details/112766357
+https://juejin.cn/post/7196915437808074809
+https://juejin.cn/post/7193542003408732218?
+
+```
+
+##  20230216 
+
+[丹顶鹤](https://dongniao.net/nd/1419/%E4%B8%B9%E9%A1%B6%E9%B9%A4/Red-crowned+Crane/Red-crowned+Crane)
+
+```ad-note
+title: Monorepo & ESLint
+
+[基于 monorepo 的 vscode 插件及其相关 packages 开发的架构实践总结 · Issue #99 · Nealyang/PersonalBlog](https://github.com/Nealyang/PersonalBlog/issues/99)
+[(3条消息) 多项目版本管理：monorepo 策略_薛定谔的猫96的博客-CSDN博客_monorepo](https://blog.csdn.net/qq_42415326/article/details/125148474)
+[(oﾟvﾟ)ノ Hi - emo——给项目配置prettier，eslint，husky加强协作规范](https://www.cnblogs.com/wangyang0210/p/16658361.html)
+[javascript - Error while loading rule '@typescript-eslint/dot-notation' - Stack Overflow](https://stackoverflow.com/questions/64116378/error-while-loading-rule-typescript-eslint-dot-notation)
+[eslint: @typescript-eslint error when add some rules · Issue #123 · vuejs/create-vue](https://github.com/vuejs/create-vue/issues/123)
+[Troubleshooting & FAQs | typescript-eslint](https://typescript-eslint.io/linting/troubleshooting/#i-get-errors-telling-me-eslint-was-configured-to-run--however-that-tsconfig-does-not--none-of-those-tsconfigs-include-this-file)
+[Monorepo Configuration | typescript-eslint](https://typescript-eslint.io/linting/typed-linting/monorepos#one-tsconfigjson-per-package-and-an-optional-one-in-the-root)
+[Configurations | typescript-eslint](https://typescript-eslint.io/linting/configs/#recommended-requiring-type-checking)
+[typescript-eslint/tsconfig.eslint.json at main · typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/blob/main/tsconfig.eslint.json)
+[为什麽前端工程越来越爱使用 Monorepo 架构？ - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2023736?cps_key=1d358d18a7a17b4a6df8d67a62fd3d3d)
+[qq449245884/xiaozhi](https://github.com/qq449245884/xiaozhi)
+
+#monorepo #eslint
+```
+
 ##  20230215 
 
 ```ad-note
