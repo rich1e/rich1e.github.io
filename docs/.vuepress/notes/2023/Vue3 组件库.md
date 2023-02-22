@@ -5,6 +5,9 @@
 
 参考
 
+
+[探索前端工程化，快速实现组件库开发 - \_小九的专栏 - 掘金](https://juejin.cn/column/7140103294965252109)
+
 ```md
 https://juejin.cn/post/7193979904458195005
 https://juejin.cn/post/7136467262826872868

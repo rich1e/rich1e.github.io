@@ -5,6 +5,113 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230222 
+
+```ad-note
+title: 锚点
+
+[(3条消息) Vue 路由哈希模式下的锚点定位支持_凝弧的博客-CSDN博客_hash模式使用query传参 不能使用页面锚点](https://blog.csdn.net/wildye/article/details/106074290)
+[Vue路由hash模式下锚点滚动实现 - 简书](https://www.jianshu.com/p/455fd587658d)
+[React SPA 应用 hash 路由如何使用锚点 - 掘金](https://juejin.cn/post/6844903911732543495)
+[Element.scrollIntoView() - Web API 接口参考 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Element/scrollIntoView)
+
+```
+
+##  20230221 
+
+```ad-note
+title: Support for Import Assertions
+
+默认情况下，ES Module 只能导入 JS 代码，无法导入 JSON。tc39 新提案 `Import Assertions` 可以解决这个问题。
+
+在 vite + Vue3.0 的项目中，有 2 种思路可以获取该提案的支持。
+
+- 使用 rollup 插件
+- 使用 babel 插件
+
+另外，Vite 也支持使用特殊的 `import.meta.glob` 函数从文件系统动态导入.
+
+参考：
+
+[vite-plugin-babel - npm](https://www.npmjs.com/package/vite-plugin-babel)
+[import.meta.glob/globEager批量引入文件 | 遇见前端](https://www.soulferry.xyz/?p=768)
+[功能 | Vite 官方中文文档](https://cn.vitejs.dev/guide/features.html#glob-import)
+[Support Import Assertions · Issue #4934 · vitejs/vite](https://github.com/vitejs/vite/issues/4934)
+[[v3.0] Basic support for import assertions by lukastaegert · Pull Request #4646 · rollup/rollup](https://github.com/rollup/rollup/pull/4646)
+[javascript - vite 里怎么 import json文件呢？ - SegmentFault 思否](https://segmentfault.com/q/1010000042773717)
+[功能 | Vite 官方中文文档](https://cn.vitejs.dev/guide/features.html#glob-import)
+[fast-glob | 仰望星空](http://www.xinmi.life/blogs/%E5%89%8D%E7%AB%AF/%E5%B7%A5%E5%85%B7%E9%93%BE/fast-glob.html#%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95)
+[Reading files with Node.js](https://nodejs.dev/en/learn/reading-files-with-nodejs/)
+[calebdwilliams/rollup-plugin-import-assert: Rollup plugin for working with ES module import assertions](https://github.com/calebdwilliams/rollup-plugin-import-assert)
+[tc39/proposal-import-assertions: Proposal for syntax to import ES modules with assertions](https://github.com/tc39/proposal-import-assertions)
+[import assertions | 数字生活 DigitalLife](https://wiki.404lab.top/javascript/import%20assertions/)
+[Import assertions · V8](https://v8.dev/features/import-assertions)
+
+```
+
+[GitHub - zhaoxuhui1122/vue-markdown](https://github.com/zhaoxuhui1122/vue-markdown)
+> 一款使用marked和highlight.js开发的一款markdown编辑器
+
+```ad-note
+title: Dynamic import & JSON
+
+[Dynamic import() · V8](https://v8.dev/features/dynamic-import#dynamic)
+[How to Import JSON file as a Module | Bits and Pieces](https://blog.bitsrc.io/how-to-import-json-file-as-a-module-e4965295a7b3)
+[如何在 JavaScript 中读取 JSON 文件](https://www.freecodecamp.org/chinese/news/how-to-read-json-file-in-javascript/)
+[Dynamic import with json file doesn't work typescript - Stack Overflow](https://stackoverflow.com/questions/70601733/dynamic-import-with-json-file-doesnt-work-typescript)
+[动态导入](https://zh.javascript.info/modules-dynamic-imports)
+[JavaScript 中的 JSON Modules - 掘金](https://juejin.cn/post/7037764312756125732)
+[(3条消息) 在 ES 模块（Node.js）中导入 JSON 文件_lio_zero的博客-CSDN博客](https://blog.csdn.net/weixin_46267040/article/details/125369651)
+[Summary of import assertions and JSON modules | miyauci.me](https://miyauchi.dev/posts/import-assertions-json-modules/)
+
+```
+
+```ad-note
+title: macOS Ventura 定时开关机
+
+[macOS Ventura 把定时开关机改到了终端？？,系统与软件-MacX.NET -](https://www.macx.net/th-2240340-1-1.html)
+[(3条消息) macOs Ventura 13自动开机关机设置教程(命令行)_macos13 定时关机_小手琴师的博客-CSDN博客](https://blog.csdn.net/boildoctor/article/details/127684538)
+[如何在 macOS Ventura 中安排 Mac 关机和睡眠 - 0x资讯](https://0xzx.com/2022121011042950273.html)
+
+```
+
+##  20230220 
+
+```ad-note
+title: 每日一跃
+
+[Vue3.2: 仿飞书App组织架构选人组件封装 - 掘金](https://juejin.cn/post/7199609052124545084?)
+[在Vue3这样子写页面更快更高效 - 掘金](https://juejin.cn/post/7172889961446768670?)
+[如何开发一个人人爱的组件？ - 掘金](https://juejin.cn/post/7189158794838933565?)
+[终极compose函数封装方案！ - 掘金](https://juejin.cn/post/6989815456416661534)
+[vue阻止重复请求 - 掘金](https://juejin.cn/post/7189231050806001719?#heading-10)
+
+#components #compose #fp
+
+[当面试官问我前端可以做的性能优化有哪些 - 掘金](https://juejin.cn/post/7194400984490049573?)
+[年后被吊打的第一面 - 掘金](https://juejin.cn/post/7193979904458195005?)
+[前端性能优化——首页资源压缩63%、白屏时间缩短86% - 掘金](https://juejin.cn/post/7188894691356573754?)
+[如何突破技术瓶颈（适合P6以下） - 掘金](https://juejin.cn/post/7168671474234949662?)
+[两行CSS让页面提升了近7倍渲染性能！ - 掘金](https://juejin.cn/post/7168629736838463525?)
+[从0到1搭建前端监控平台，面试必备的亮点项目 - 掘金](https://juejin.cn/post/7172072612430872584)
+
+#性能 #面试
+
+[真的有必要用微前端框架么？ - 掘金](https://juejin.cn/post/7201282972967944250?)
+[为什么我能坚持？因为写技术文章给我的太多了呀！ - 掘金](https://juejin.cn/post/7185891954083758136?)
+[我的 React 最佳实践 - 掘金](https://juejin.cn/post/7161244682008133639?)
+[出于好奇，我get了一个新的CSS知识🍾 - 掘金](https://juejin.cn/post/7176059912043102268?)
+[放弃 console.log 吧！用 Debugger 你能读懂各种源码 - 掘金](https://juejin.cn/post/7175468840476737592?)
+[10个yyds的Vue、React源码解析开源项目 - 掘金](https://juejin.cn/post/7199828364953321532?)
+[二十张图片彻底讲明白Webpack设计理念，以看懂为目的 - 掘金](https://juejin.cn/post/7170852747749621791?)
+[新时代的 SSR 框架破局者：qwik - 掘金](https://juejin.cn/post/7186161640121827387?)
+[Vite 配置篇：日常开发掌握这些配置就够了！ - 掘金](https://juejin.cn/post/7170843707217412126?)
+[🌄 JavaScript 的三座大山 - 掘金](https://juejin.cn/post/7182571660003213370?)
+[vue配套生态已经全面使用pnpm了,你再不学就说不过去了!🤣🤣🤣 - 掘金](https://juejin.cn/post/7200679596122538045?)
+
+#debuuger #源码 #webpack #qwik
+```
+
 ##  20230217 
 
 ```md
