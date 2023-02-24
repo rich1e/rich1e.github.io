@@ -5,6 +5,21 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230223 
+
+[2023年你应该关注的JavaScript趋势](https://juejin.cn/post/7202914988012142629)
+
+[7种Height的比较](https://blog.csdn.net/Sarahapy/article/details/107037243)
+
+```ad-note
+title: nginx
+
+[Vue项目部署--nginx配置-吴惟刚](http://www.wuweigang.com/?id=329)
+[vue3+ts+vite+nginx部署探索 - 掘金](https://juejin.cn/post/6992855441512333349)
+[使用 include 指令简化 Nginx 配置 · Coding Life](https://akuma.github.io/2013/11/02/%E4%BD%BF%E7%94%A8-include-%E6%8C%87%E4%BB%A4%E7%AE%80%E5%8C%96-Nginx-%E9%85%8D%E7%BD%AE/)
+
+```
+
 ##  20230222 
 
 ```ad-note
@@ -114,26 +129,19 @@ title: 每日一跃
 
 ##  20230217 
 
-```md
-https://juejin.cn/post/7181712900094951483
-https://juejin.cn/post/7136467262826872868
-https://juejin.cn/post/7137107018938056734#heading-0
-https://juejin.cn/post/7012160233061482532
-https://element-plus.org/zh-CN/component/button.html
-https://xie.infoq.cn/article/af3e1ee1d2ecedbb5a84ea241
-https://www.jianshu.com/p/2ad8835b2e8b
-https://vuepress.github.io/zh/reference/plugin/register-components.html
-https://github.com/vuepress/vuepress-next/blob/v2.0.0-beta.49/docs/reference/plugin/register-components.md
-https://juejin.cn/post/7155089099399888910
-https://www.google.com/search?newwindow=1&sxsrf=AJOqlzVu-gh0at1D29HvpjSKFIdivkvocg:1676629066173&q=Markdown+script+tag&sa=X&ved=2ahUKEwipyaL_qZz9AhVasFYBHQNeD0U4HhDVAnoECBsQAQ&biw=1728&bih=765&dpr=1
-https://codingbeautydev.com/blog/javascript-convert-html-to-markdown/
-https://desnlee.com/post/vue3-markdown/
-https://github.com/vitejs/vite/issues/7853
-https://blog.csdn.net/shortlived/article/details/126064438
-https://github.com/antfu/vite-plugin-md/issues?q=dynamic
-https://blog.csdn.net/qq_37730829/article/details/112766357
-https://juejin.cn/post/7196915437808074809
-https://juejin.cn/post/7193542003408732218?
+[2023 年 8 大 Web 开发趋势预测 - 掘金](https://juejin.cn/post/7193542003408732218)
+
+```ad-note
+title: markdown
+
+[Markdown文件居然也可以直接作为Vue路由组件？ - 掘金](https://juejin.cn/post/7155089099399888910)
+[How to Convert HTML to Markdown in JavaScript - Coding Beauty](https://codingbeautydev.com/blog/javascript-convert-html-to-markdown/)
+[记一次 Vue 3 动态展示 markdown 文件](https://desnlee.com/post/vue3-markdown/)
+[Public dir warning about import a json from public directory · Issue #7853 · vitejs/vite](https://github.com/vitejs/vite/issues/7853)
+[(3条消息) 在Vite2+Vue3渲染Markdown文档(亲测有效）_vite-plugin-markdown_雄霸是也的博客-CSDN博客](https://blog.csdn.net/shortlived/article/details/126064438)
+[Issues · antfu/vite-plugin-md](https://github.com/antfu/vite-plugin-md/issues?q=dynamic)
+[(3条消息) 【vite+vue3.0】基于vite写一个将md文件渲染为js文件的插件_程序不了猿的博客-CSDN博客](https://blog.csdn.net/qq_37730829/article/details/112766357)
+[Vue3项目如何通过自定义的Vite Plugin实现路由加载md文件 - 掘金](https://juejin.cn/post/7196915437808074809)
 
 ```
 
