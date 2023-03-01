@@ -5,6 +5,98 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230301 
+
+[The best Vue.js Frameworks 2023](https://madewithvuejs.com/blog/the-best-vue-js-frameworks)
+
+[Vue3.2 + Element-Plus 二次封装 el-table（Pro版🚀🚀） - 掘金](https://juejin.cn/post/7166068828202336263)
+
+##  20230228 
+
+```ad-note
+title: bind
+
+[手写bind - 知乎](https://zhuanlan.zhihu.com/p/54285383)
+[解析 bind 原理，并手写 bind 实现 · Issue #81 · sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms/issues/81)
+
+```
+
+```ad-note
+title: axios & electron & node
+
+[Complete Guide to Axios HTTP Client](https://reflectoring.io/tutorial-guide-axios/)
+[react native - How to get a local file using axios? - Stack Overflow](https://stackoverflow.com/questions/49235628/how-to-get-a-local-file-using-axios)
+[Getting local files (file://) fail after upgrading from 0.18.0 to 0.19.0 · Issue #2416 · axios/axios](https://github.com/axios/axios/issues/2416)
+[(3条消息) NodeJS获取当前目录和运行文件所在目录_彭世瑜的博客-CSDN博客_nodejs 当前目录](https://blog.csdn.net/mouday/article/details/105325635)
+[05_Node js 文件管理模块 fs - 掘金](https://juejin.cn/post/6844903778177515534)
+[electron如何获取当前主程序的路径，如何获取主程序名称](https://newsn.net/say/electron-getpath.html)
+[得物商家客服桌面端Electron技术实践 - 掘金](https://juejin.cn/post/7195447709904404536)
+
+```
+
+##  20230227 
+
+```ad-note
+title: weChat & chatGPT
+
+[我的个人微信也迅速接入了 ChatGPT - 掘金](https://juejin.cn/post/7176813187705077816)
+[openAi | Zzh's note](https://1270001.xyz/ChatGPT.html)
+[重磅：使用UOS微信桌面版协议登录，wechaty免费版web协议重放荣光 | Wechaty](https://wechaty.js.org/2021/04/13/wechaty-uos-web/)
+[5分钟把ChatGPT装进微信里 | Wechaty](https://wechaty.js.org/2022/12/07/play-chatgpt-with-wechaty/)
+[wechaty-chatgpt/index.js at main · sunshanpeng/wechaty-chatgpt](https://github.com/sunshanpeng/wechaty-chatgpt/blob/main/index.js)
+[eatmoreapple/openwechat: golang微信SDK](https://github.com/eatmoreapple/openwechat)
+[wux-weapp/wxbot: 微信机器人，个人微信号小助手平台， nodejs + nuxt + wechaty 技术栈](https://github.com/wux-weapp/wxbot)
+[快速开始 - Wechaty](https://wechaty.gitbook.io/wechaty/v/zh/quick-start)
+[账号管理 | 微信开放文档](https://developers.weixin.qq.com/doc/aispeech/platform/account/accounts.html)
+
+```
+
+```ad-note
+title: chatGPT
+
+[Javascript 原生实现](https://chat.openai.com/chat)
+[chatgpt 注册 - 搜索 - 掘金](https://juejin.cn/search?query=chatgpt%20%E6%B3%A8%E5%86%8C&utm_source=gold_browser_extension&utm_medium=search)
+[我的个人微信也迅速接入了 ChatGPT - 掘金](https://juejin.cn/post/7176813187705077816)
+[超详细的ChatGPT注册教程来了 - 掘金](https://juejin.cn/post/7175917144025071673#heading-5)
+[OpenAI 推出超神 ChatGPT 注册攻略来了 - 掘金](https://juejin.cn/post/7173447848292253704#heading-1)
+[获取虚拟手机号码。短期手机号码。手机短信激活服务](https://sms-activate.org/getNumber)
+[10分钟教你搭建属于自己的ChatGPT微信机器人_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11D4y1h7iC/?vd_source=428347ad0cd2408b9ee76fe8f1afb202)
+[ChatGPT能接入微信了！ - 知乎](https://zhuanlan.zhihu.com/p/590505058)
+[我把chatGpt接入了微信群聊 - 掘金](https://juejin.cn/post/7184626139645050935)
+[wechaty/wechaty: Conversational RPA SDK for Chatbot Makers](https://github.com/wechaty/wechaty)
+[5分钟把ChatGPT装进微信里 | Wechaty](https://wechaty.js.org/2022/12/07/play-chatgpt-with-wechaty/)
+[sunshanpeng/wechaty-chatgpt: 基于wechaty创建一个自己的ChatGPT微信机器人](https://github.com/sunshanpeng/wechaty-chatgpt)
+[eatmoreapple/openwechat: golang微信SDK](https://github.com/eatmoreapple/openwechat)
+
+```
+
+```ad-note
+title: 每日一跃
+
+[使用Echarts绘制街道、镇级地图（bigmap) - 掘金](https://juejin.cn/post/7186944817639718973?)
+[如何封装一个高质量的表单通用组件？ - 掘金](https://juejin.cn/post/7202952940197380154?)
+[如何优雅地校验后端接口数据，不做前端背锅侠 - 掘金](https://juejin.cn/post/7166061734803963917?)
+[我开源了一个好玩且好用的前端脚手架😏 - 掘金](https://juejin.cn/post/7202891949380173880?)
+[分享7 个VUE项目用得上的JavaScript库 - 掘金](https://juejin.cn/post/7175905647018377277?)
+[为iframe正名，你可能并不需要微前端 - 掘金](https://juejin.cn/post/7185070739064619068?#heading-20)
+[leegedan/Scent](https://github.com/leegedan/Scent)
+[注册了 ChatGPT 后，我迫不及待的问了它这 30 个问题 - 掘金](https://juejin.cn/post/7174725650991808572?)
+[我用 ChatGPT 读 Vue3 源码 - 掘金](https://juejin.cn/post/7203325974120169527?)
+[盘点那些玩出花的ChatGPT开源项目 - 掘金](https://juejin.cn/post/7200947950708916283?)
+[JavaScript | 1000个判断条件难道要写了1000个 if ? 一文教你如何实现分支优化 - 掘金](https://juejin.cn/post/7172147708914827300?)
+[JS: function前面加!，引发思考🤔 - 掘金](https://juejin.cn/post/7203734711780081722?)
+[你可能忽略的10种JavaScript快乐写法 - 掘金](https://juejin.cn/post/7203243879255277623?)
+[前端常用设计模式（一） - 掘金](https://juejin.cn/post/7182750482438291512)
+[维护8年的前端开源项目长啥样？ - 掘金](https://juejin.cn/post/7179953478813351992?)
+[太香了！用tauri做了个效率小工具 - 掘金](https://juejin.cn/post/7194780452106797117?)
+[Signal：更多前端框架的选择 - 掘金](https://juejin.cn/post/7203266679602151482?)
+[2023前端二面手写面试题总结 - 掘金](https://juejin.cn/post/7203277707755896869?)
+[🎉 dumi 2，它来了它来了它来了 - 掘金](https://juejin.cn/post/7167325806778122270?)
+[用零碎时间个人建站 - 掘金](https://juejin.cn/post/7201730884373168185?)
+
+#chatgpt #echarts #map #components #mock #typescript #iframe #tauri
+```
+
 ##  20230223 
 
 [2023年你应该关注的JavaScript趋势](https://juejin.cn/post/7202914988012142629)

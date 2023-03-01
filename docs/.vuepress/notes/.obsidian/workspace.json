@@ -65,7 +65,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       },
                       "pinned": true
@@ -114,7 +114,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "2023/Vue3 组件库.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": false
                       }
                     }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "image-20220520113412586",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,8 +180,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
