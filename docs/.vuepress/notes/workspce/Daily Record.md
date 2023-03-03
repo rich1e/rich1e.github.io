@@ -5,6 +5,35 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230303 
+
+如果修改了 `node_modules` 文件，使用 pnpm 安装的项目依赖包会被全部影响。
+
+例如，项目 A 使用了依赖包 foo，如果无意间修改了依赖包 foo 中的内容，那么其他项目中的引用的 foo 也会被修改。
+
+解决办法：
+
+```sh
+# 进入项目中，删除 foo
+pnpm remove foo
+# 从 store 中删除 foo 
+pnpm prune foo
+# 再次安装 foo
+pnpm add foo
+```
+
+[pnpm prune](https://pnpm.io/zh/cli/prune)
+
+```ad-note
+title: npm workspaces
+
+[前端 - workspaces - monorepo实战 - 岁月是把杀猪刀 - SegmentFault 思否](https://segmentfault.com/a/1190000041264204)
+[npm的workspace原理和使用，yyds - 掘金](https://juejin.cn/post/7056644043098456071)
+[热乎乎的 workspaces 替代 npm link 调试的新方式 - 简书](https://www.jianshu.com/p/b76d06b3eb58)
+[Ruan Martinelli - Getting Started with npm Workspaces](https://ruanmartinelli.com/posts/npm-7-workspaces-1)
+
+```
+
 ##  20230301 
 
 [The best Vue.js Frameworks 2023](https://madewithvuejs.com/blog/the-best-vue-js-frameworks)

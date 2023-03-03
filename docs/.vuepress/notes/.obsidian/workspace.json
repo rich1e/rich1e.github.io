@@ -60,15 +60,13 @@
                   {
                     "id": "7a4392b9d7250e54",
                     "type": "leaf",
-                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
-                      },
-                      "pinned": true
+                      }
                     }
                   }
                 ],
@@ -114,7 +112,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "2023/Vue3 组件库.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": false
                       }
                     }
@@ -180,11 +178,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -301,13 +301,13 @@
   "lastOpenFiles": [
     "workspce/Daily Record.md",
     "2023/Vue3 组件库.md",
+    "HomePage.md",
     "2023/Book.md",
     "work-records/vscode-vim.md",
     "work-records/vscode-vim-search.md",
     "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092354.png",
     "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092436.png",
     "work-records/vscode-vim-multicursor.md",
-    "work-records/vscode-vim-easymotion.md",
-    "work-records/vscode-vim-replace.md"
+    "work-records/vscode-vim-easymotion.md"
   ]
 }

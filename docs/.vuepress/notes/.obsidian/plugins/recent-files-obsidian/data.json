@@ -9,6 +9,10 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "Book",
       "path": "2023/Book.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vue 3 Admin & Components",
       "path": "buckets/learn/Vue 3 Admin & Components.md"
-    },
-    {
-      "basename": "Utils",
-      "path": "buckets/learn/Utils.md"
     }
   ],
   "omittedPaths": [],
