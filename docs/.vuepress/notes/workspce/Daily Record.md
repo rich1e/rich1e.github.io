@@ -5,6 +5,16 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230306 
+
+```ad-note
+title: Vue & defineAsyncComponent
+
+[🧩 Vue 深入组件开发☞#异步组件# - 掘金](https://juejin.cn/post/7109083455601770533)
+[Dynamic component imports doesn't work · Issue #15448 · nuxt/nuxt](https://github.com/nuxt/nuxt/issues/15448)
+
+```
+
 ##  20230303 
 
 如果修改了 `node_modules` 文件，使用 pnpm 安装的项目依赖包会被全部影响。

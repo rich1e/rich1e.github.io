@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "HomePage",
       "path": "HomePage.md"
     },
     {
-      "basename": "Book",
-      "path": "2023/Book.md"
+      "basename": "Front-end Technology",
+      "path": "workspce/Front-end Technology.md"
     },
     {
       "basename": "vscode-vim",
@@ -79,10 +87,6 @@
     {
       "basename": "Pasted image 20230209132128",
       "path": "images/2023/book/Pasted image 20230209132128.png"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "vscode-vim-sneak",
@@ -195,10 +199,6 @@
     {
       "basename": "windows",
       "path": "buckets/lifestyle/windows.md"
-    },
-    {
-      "basename": "Vue 3 Admin & Components",
-      "path": "buckets/learn/Vue 3 Admin & Components.md"
     }
   ],
   "omittedPaths": [],
