@@ -5,6 +5,30 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230307 
+
+```ad-note
+title: 单机版启动缓慢调查
+
+1. 构建包检查
+
+- MOPassive-2.1.0.0+build.02211700-setup 正常；
+- MOPassive-2.1.0.0+build.02231658-setup 打不开；
+
+0221之前的构建包启动正常，0223之后的版本均启动缓慢。
+
+2. 代码检查
+
+- 代码分支：testDev
+- 找出0221-0223之间提交的代码
+```
+
+```sh
+git log --since="2023-02-21" --until="2023-02-23" --pretty=format:"%h, %cd, %an : %s"
+```
+
+![[Pasted image 20230307145017.png]]
+
 ##  20230306 
 
 ```ad-note

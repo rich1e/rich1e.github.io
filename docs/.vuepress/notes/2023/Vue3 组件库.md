@@ -325,3 +325,26 @@ https://element-plus.org/zh-CN/component/button.html
 https://github.com/element-plus/element-plus/blob/dev/docs/en-US/component/affix.md
 
 ```
+
+```md
+d32509115, Thu Feb 23 18:20:58 2023 +0800, 李坚 : Merge branch 'feat/I6FR2B' into 'testDev'
+0274c379d, Thu Feb 23 18:18:58 2023 +0800, branch : fix: 修改路由配置，兼容单机版构建
+9e5ff08f6, Thu Feb 23 16:02:56 2023 +0800, 李坚 : Merge branch 'feat/I6FR2B' into 'testDev'
+d188de000, Thu Feb 23 16:00:29 2023 +0800, branch : feat: 调整路由模式为history
+e78f1b7bb, Thu Feb 23 15:58:06 2023 +0800, branch : feat: 优化发布历史锚点功能
+ac0217c71, Thu Feb 23 15:54:04 2023 +0800, 李坚 : Merge branch 'feat/I6FR2B' into 'testDev'
+a5b1a0988, Thu Feb 23 15:05:56 2023 +0800, branch : feat: tOC目录没有锚点跳转，仅显示文字
+a7e3d09aa, Wed Feb 22 17:55:54 2023 +0800, 李坚 : Merge branch 'j-dev-2' into 'testDev'
+841c3684e, Wed Feb 22 17:50:18 2023 +0800, Kris : Merge branch 'testDev' into j-dev-2 merge
+98ba71186, Wed Feb 22 17:49:49 2023 +0800, Kris : fix(local): hide "optimize position" button
+b06e1adf0, Wed Feb 22 17:36:02 2023 +0800, 李坚 : Merge branch 'fix/I679P5' into 'testDev'
+54ca68681, Wed Feb 22 17:35:50 2023 +0800, 李坚 : Merge branch 'feat/lj_0103' into 'testDev'
+759a5e09f, Wed Feb 22 17:34:51 2023 +0800, 李坚 : Merge branch 'j-dev-2' into 'testDev'
+abcf18cc9, Wed Feb 22 17:34:17 2023 +0800, 李坚 : Merge branch 'wyffix2' into 'testDev'
+abb52cc46, Wed Feb 22 17:33:58 2023 +0800, 李坚 : Merge branch 'th-dev' into 'testDev'
+3c46f8c22, Wed Feb 22 17:20:59 2023 +0800, 李坚 : Merge branch 'feat/I6FR2B' into 'testDev'
+a1497c96c, Wed Feb 22 15:25:16 2023 +0800, branch : feat: 转 setup 语法
+dff2cbdba, Wed Feb 22 15:02:39 2023 +0800, Kris : fix(local): line round marker
+ca75993c9, Wed Feb 22 14:38:38 2023 +0800, branch : feat: 解析markdown文件
+f6927966a, Tue Feb 21 18:13:42 2023 +0800, branch : feat: 添加ReleaseNoteDialog
+```
