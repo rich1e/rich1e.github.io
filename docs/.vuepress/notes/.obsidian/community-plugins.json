@@ -25,5 +25,6 @@
   "drawio-obsidian",
   "obsidian-charts",
   "obsidian-vimrc-support",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-pandoc"
 ]
