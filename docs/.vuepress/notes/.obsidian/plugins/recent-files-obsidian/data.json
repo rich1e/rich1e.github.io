@@ -5,16 +5,48 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Pasted image 20230309153847",
+      "path": "Pasted image 20230309153847.png"
+    },
+    {
+      "basename": "Pasted image 20230309153635",
+      "path": "Pasted image 20230309153635.png"
+    },
+    {
+      "basename": "Pasted image 20230303155916",
+      "path": "Pasted image 20230303155916.png"
+    },
+    {
+      "basename": "Pasted image 20230308155123",
+      "path": "Pasted image 20230308155123.png"
+    },
+    {
+      "basename": "Pasted image 20230308161136",
+      "path": "Pasted image 20230308161136.png"
+    },
+    {
+      "basename": "Pasted image 20230308175130",
+      "path": "Pasted image 20230308175130.png"
+    },
+    {
+      "basename": "Pasted image 20230309153356",
+      "path": "Pasted image 20230309153356.png"
+    },
+    {
+      "basename": "Pasted image 20230309153545",
+      "path": "Pasted image 20230309153545.png"
+    },
+    {
       "basename": "Mac & Electron 跨端开发体验",
       "path": "2023/Mac & Electron 跨端开发体验.md"
     },
     {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
-    },
-    {
       "basename": "Book",
       "path": "2023/Book.md"
+    },
+    {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
     },
     {
       "basename": "单机版启动缓慢调查",
@@ -31,10 +63,6 @@
     {
       "basename": "Pasted image 20230307145017",
       "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230307145017.png"
-    },
-    {
-      "basename": "Pasted image 20230303155916",
-      "path": "Pasted image 20230303155916.png"
     },
     {
       "basename": "Pasted image 20230308093654",
@@ -171,34 +199,6 @@
     {
       "basename": "当下还有人知道 buble 吗？",
       "path": "frontend/当下还有人知道 buble 吗？.md"
-    },
-    {
-      "basename": "2022 learn",
-      "path": "2022/2022 learn.md"
-    },
-    {
-      "basename": "Alienware",
-      "path": "2022/Alienware.md"
-    },
-    {
-      "basename": "2021-手写代码",
-      "path": "2021/2021-手写代码.md"
-    },
-    {
-      "basename": "2021-react 经验总结",
-      "path": "2021/2021-react 经验总结.md"
-    },
-    {
-      "basename": "Windows Terminal & Scoop",
-      "path": "buckets/lifestyle/Windows Terminal & Scoop.md"
-    },
-    {
-      "basename": "windows-command",
-      "path": "buckets/lifestyle/windows-command.md"
-    },
-    {
-      "basename": "Windows Terminal",
-      "path": "buckets/lifestyle/Windows Terminal.md"
     }
   ],
   "omittedPaths": [],

@@ -5,6 +5,40 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230310 
+
+[vite使用nodeJS内置的模块 - 灯塔下的守望者 - 博客园](https://www.cnblogs.com/tangyouwei/p/vite-uses-nodejs-built-in-modules-z12udha.html)
+
+```ad-note
+title: Electron & 刷新 & 热键
+
+[(3条消息) electron遇到的问题_electron 禁用ctrl+r_monikaH的博客-CSDN博客](https://blog.csdn.net/qq_40072782/article/details/106889053)
+[Electron 项目搭建 - 掘金](https://juejin.cn/post/6844904053915254797#heading-0)
+
+```
+
+```md
+https://github.com/mrdoob/three.js
+https://github.com/Ovilia/ThreeExample.js
+https://www.jianshu.com/p/a9960941ddf2
+https://segmentfault.com/a/1190000041531427
+https://juejin.cn/post/7108724284721201159
+https://troisjs.github.io/guide/
+https://zhuanlan.zhihu.com/p/560349448
+http://www.webgl3d.cn/pages/2e5d69/
+https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene
+https://vuejsexamples.com/tag/three-js/
+https://juejin.cn/post/7056241894451314725
+https://typescript-eslint.io/linting/typed-linting/monorepos
+https://typescript-eslint.io/rules/triple-slash-reference/
+https://typescript-eslint.io/rules/ban-types/
+https://main--typescript-eslint.netlify.app/architecture/parser
+https://typescript-eslint.io/linting/troubleshooting/#i-get-errors-telling-me-eslint-was-configured-to-run--however-that-tsconfig-does-not--none-of-those-tsconfigs-include-this-file
+https://typescript-eslint.io/linting/typed-linting/
+https://juejin.cn/post/7207417288705458231?
+
+```
+
 ##  20230309 
 
 com.docker.backend cannot start Exit code 101
@@ -68,25 +102,6 @@ title: mac & docker & windows
 ```
 
 ![[Pasted image 20230308111926.png]]
-
-```sh
-############################################################               Wine Is Not an Emulator                        ############################################################
-
- Welcome to wine-8.0.
-
- In order to start a program:
-
-   .exe: **wine64** **program.exe**
-   .msi: **wine64 msiexec /i** **program.msi**
-
- If you want to configure wine:
-
-   **wine64 winecfg**
-
- To get information about app compatibility:
-
-   **appdb** **Program Name**
-```
 
 ```sh
 git checkout wyffix2
