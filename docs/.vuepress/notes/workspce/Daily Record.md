@@ -5,6 +5,23 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230313 
+
+```ad-note
+title: input file & showOpenFilePicker
+
+[不使用file类型input也能触发文件上传 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/)
+[Web APIs - File.webkitRelativePath 非标准的。这个功能不是标准的轨道。](https://runebook.dev/zh/docs/dom/file/webkitrelativepath)
+[File Upload, Mastering These 8 Scenarios Is Enough | by Bytefer | JavaScript in Plain English](https://javascript.plainenglish.io/file-upload-mastering-these-8-scenarios-is-enough-ef392eda7e68)
+[读取文件/文件夹并回显 - 只有时间是永恒 - 博客园](https://www.cnblogs.com/bbdbolg/p/14691384.html)
+[input| MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input/file#%E9%9D%9E%E6%A0%87%E5%87%86%E5%B1%9E%E6%80%A7)
+["webkitRelativePath" | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=webkitRelativePath)
+[(3条消息) 从 23.9K 的前端开源项目我学到了啥？_fe_lucifer的博客-CSDN博客](https://blog.csdn.net/azl397985856/article/details/121187008)
+[js showOpenFilePicker showSaveFilePicker showDirectoryPicker API - Ajanuw - 博客园](https://www.cnblogs.com/ajanuw/p/13788051.html)
+[FileSaver.js](https://github.com/eligrey/FileSaver.js)
+
+```
+
 ##  20230310 
 
 [vite使用nodeJS内置的模块 - 灯塔下的守望者 - 博客园](https://www.cnblogs.com/tangyouwei/p/vite-uses-nodejs-built-in-modules-z12udha.html)
