@@ -5,6 +5,123 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230317 
+
+[vite build error: out of memory · Issue #2433 · vitejs/vite](https://github.com/vitejs/vite/issues/2433)
+[julienXX/terminal-notifier: Send User Notifications on macOS from the command-line.](https://github.com/julienXX/terminal-notifier)
+[构建选项 | Vite 官方中文文档](https://cn.vitejs.dev/config/build-options.html#build-sourcemap)
+[vite copy files 文件 - Google 搜索](https://www.google.com/search?q=vite+copy+files+%E6%96%87%E4%BB%B6&newwindow=1&sxsrf=AJOqlzW8KIEgM8ttBFov40hMB8EPrlsF_g%3A1679032454033&ei=hgAUZJzTAab3kPIPpOqkyAg&ved=0ahUKEwicrvSno-L9AhWmO0QIHSQ1CYkQ4dUDCBA&uact=5&oq=vite+copy+files+%E6%96%87%E4%BB%B6&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAEyBQghEKABMgUIIRCgATIFCCEQoAE6CggAEEcQ1gQQsAM6BAgjECc6CAgAEIAEEMsBOgUIABCABDoECAAQHjoGCAAQCBAeOgYIABAFEB5KBAhBGABQxwdYxBVgshdoAXABeACAAbMDiAHOEJIBBzItMS40LjGYAQCgAQHIAQfAAQE&sclient=gws-wiz-serp)
+[vue.js - Vite - Static Files Are Not Copying - Stack Overflow](https://stackoverflow.com/questions/69540063/vite-static-files-are-not-copying)
+[vite-plugin-files-copy/main.js at main · tcly861204/vite-plugin-files-copy](https://github.com/tcly861204/vite-plugin-files-copy/blob/main/main.js)
+[Vite打包静态文件拷贝需求 - sanvae - 博客园](https://www.cnblogs.com/sanvae/p/14764716.html)
+[sapphi-red/vite-plugin-static-copy: rollup-plugin-copy with dev server support.](https://github.com/sapphi-red/vite-plugin-static-copy#readme)
+[Yarn Workspace使用指南 - 知乎](https://zhuanlan.zhihu.com/p/381794854)
+[Vite+Electron快速构建一个VUE3桌面应用(二)——动态模块热重载 - 知乎](https://zhuanlan.zhihu.com/p/422648687)
+
+
+##  20230316 
+
+> Vite Build Error: FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory
+
+
+
+[vite build error: out of memory · Issue #2433 · vitejs/vite · GitHub](https://github.com/vitejs/vite/issues/2433)
+
+[企业工作台 - 上海曼光信息科技有限公司](https://e.gitee.com/max-optics/dashboard)
+[node 插件 rimraf 介绍 - 简书](https://www.jianshu.com/p/3c825f5d27b4)
+[Vite Electron 热更新 - Google 搜索](https://www.google.com/search?q=Vite+Electron+%E7%83%AD%E6%9B%B4%E6%96%B0&newwindow=1&sxsrf=AJOqlzXyaldAx_XRA-rr71rJFckPNM4OSw%3A1678935113817&ei=SYQSZIS9MYnT-Qadl7r4AQ&ved=0ahUKEwjEhb3YuN_9AhWJad4KHZ2LDh8Q4dUDCA8&uact=5&oq=Vite+Electron+%E7%83%AD%E6%9B%B4%E6%96%B0&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOggIABCiBBCwAzoFCAAQgAQ6BAgAEB46BggAEAcQHjoICAAQBxAeEAo6CAgAEIAEEMsBOgcIABANEIAEOgYIABAIEB46BQghEKABSgQIQRgBUI4LWLFPYI1RaAhwAHgBgAGvBIgB6yeSAQkyLTIuNi4zLjKYAQCgAQKgAQHIAQLAAQE&sclient=gws-wiz-serp)
+[electron-vite：新一代 Electron 开发利器，带你轻松玩转 Electron - 掘金](https://juejin.cn/post/7137987061176336397)
+[npm script工作流(六) 跨平台兼容 - 简书](https://www.jianshu.com/p/497867f631e2)
+[npm script 跨端兼容的实现 - 掘金](https://juejin.cn/post/6844903860864188430)
+[构建选项 | Vite 官方中文文档](https://cn.vitejs.dev/config/build-options.html#build-sourcemap)
+[Playground - OpenAI API](https://platform.openai.com/playground/p/default-chat?mode=chat)
+[Vite+Electron快速构建一个VUE3桌面应用(二)——动态模块热重载 - 知乎](https://zhuanlan.zhihu.com/p/422648687)
+[Vite+Electron快速构建一个VUE3桌面应用(三)——打包 - 知乎](https://zhuanlan.zhihu.com/p/423211730)
+[Issues · Kuari/Blog](https://github.com/Kuari/Blog/labels/Electron)
+[console.group - 搜索](https://cn.bing.com/search?q=console.group&qs=CT&pq=console.gr&sc=10-10&cvid=F7ECD296DE9B4E259DD7CEA5F89C90BB&FORM=QBLH&sp=1&lq=0)
+[你需要知道的 19 个 console 实用调试技巧 - 掘金](https://juejin.cn/post/7025399805878730788#heading-10)
+[console.group - Web API 接口参考 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Console/group)
+[lerna nohoist 管理 - Google 搜索](https://www.google.com/search?newwindow=1&sxsrf=AJOqlzXWg51AI7tFexjkOsqbBtWHRR6YRg:1678955145180&q=lerna+nohoist+%E7%AE%A1%E7%90%86&spell=1&sa=X&ved=2ahUKEwiEwpaog-D9AhVNPUQIHZNTCuQQBSgAegQICBAB&biw=1728&bih=767&dpr=1)
+[Lerna 多包管理工具的萌新探索 // 圆方](https://www.lumin.tech/articles/what-is-lerna/)
+[Lerna的依赖管理及hoisting浅析 | ￥ЯႭ1I0](https://yrq110.me/post/tool/how-lerna-manage-package-dependencies/)
+[nohoist in Workspaces | Yarn Blog](https://classic.yarnpkg.com/blog/2018/02/15/nohoist/)
+[深入理解 yarn 中的 nohoist 机制 · Issue #72 · chenxiaochun/blog](https://github.com/chenxiaochun/blog/issues/72)
+[Yarn Workspaces - 用 nohoist 避免指定依賴被移到根目錄](https://blog.kvzl.net/posts/yarn-workspaces-nohoist)
+[使用Yarn Workspace管理多project repo • OnionTalk](https://www.hateonion.me/posts/b2b0/)
+[Monorepo最佳实践之Yarn Workspaces - 掘金](https://juejin.cn/post/7011024137707585544#heading-17)
+[yarn workspace如何处理不同版本的外部依赖关系？ - 李小菜丶 - 博客园](https://www.cnblogs.com/bq-med/articles/16371359.html)
+[多项目逻辑复用与monorepo_shymean](https://shymean.com/article/%E5%A4%9A%E9%A1%B9%E7%9B%AE%E9%80%BB%E8%BE%91%E5%A4%8D%E7%94%A8%E4%B8%8Emonorepo)
+[lerna nohoist use - Google 搜索](https://www.google.com/search?q=lerna+nohoist+use&newwindow=1&sxsrf=AJOqlzV-4Ag3YAq_i7483UVN9xTgslot6g%3A1678958061985&ei=7d0SZKzkO4X8kPIP8aKO4A4&ved=0ahUKEwjsjoKXjuD9AhUFPkQIHXGRA-wQ4dUDCA8&uact=5&oq=lerna+nohoist+use&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAEyBQghEKABMgUIIRCgAToKCAAQRxDWBBCwAzoICAAQgAQQywE6BAgAEB46BggAEAgQHkoECEEYAFCuBli2EWCJFmgBcAF4AIABkQOIAa4NkgEHMi0xLjMuMZgBAKABAcgBA8ABAQ&sclient=gws-wiz-serp)
+[nohoist in Workspaces | Yarn Blog](https://classic.yarnpkg.com/blog/2018/02/15/nohoist/)
+[yarn-nohoist-examples/package.json at master · connectdotz/yarn-nohoist-examples](https://github.com/connectdotz/yarn-nohoist-examples/blob/master/workspaces-examples/universal-cipher/package.json)
+[Lerna 多包管理工具的萌新探索 - 知乎](https://zhuanlan.zhihu.com/p/409104356)
+[脚手架开发：Lerna简介 | CHENHUOJUN BLOG](https://www.chenhuojun.com/2021/07/08/%E8%84%9A%E6%89%8B%E6%9E%B6%E5%BC%80%E5%8F%91%EF%BC%9Alerna%E7%AE%80%E4%BB%8B/#lerna-clean)
+[Workspaces in Yarn | Yarn Blog](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
+
+
+##  20230314 
+
+```ad-note
+title: Git 原理
+
+[Git实用技巧和原理解读](https://colstuwjx.github.io/2020/11/git%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E5%92%8C%E5%8E%9F%E7%90%86%E8%A7%A3%E8%AF%BB/)
+[图解git原理的几个关键概念 | Tony Bai](https://tonybai.com/2020/04/07/illustrated-tale-of-git-internal-key-concepts/)
+[这才是真正的Git——Git原理及实用技巧](https://www.lzane.com/slide/git-under-the-hood/#/)
+
+```
+
+```ad-note
+title: Git 常用技巧
+
+[Advanced Git Log | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-log)
+[分享个人珍藏的 Git 使用技巧 | DevTools优质外文翻译 | 开发者工具论坛](https://learnku.com/devtools/t/37366)
+[521xueweihan/git-tips: Git的奇技淫巧](https://github.com/521xueweihan/git-tips#git-%E9%85%8D%E7%BD%AE-http-%E5%92%8C-socks-%E4%BB%A3%E7%90%86)
+[这才是真正的Git——分支合并 - LZANE | 李泽帆（靓仔）](https://www.lzane.com/tech/git-merge/)
+[Git实用技巧35招 - CherishTheYouth - 博客园](https://www.cnblogs.com/CherishTheYouth/p/CherishTheYouth_20210426.html)
+[批量删除git 本地分支、远程分支、tag - yo水平 - 博客园](https://www.cnblogs.com/yoable/p/8124343.html)
+[Git-骚操作-批量删除分支 - 掘金](https://juejin.cn/post/6844903760381083662)
+
+```
+
+[What RegEx will match all loopback addresses?](https://stackoverflow.com/questions/8426171/what-regex-will-match-all-loopback-addresses)
+> 匹配本地地址
+
+```ad-note
+title: Git Object
+
+[这个 git 命令你每天都在用，但你却不知道 - 掘金](https://juejin.cn/post/7209852117296611384?)
+[理解了这 3 个 object，你甚至能自己写个 git！ - 掘金](https://juejin.cn/post/7205517870976499770)
+[Git's database internals I: packed object store | The GitHub Blog](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
+[Git Tutorial: Working with git objects using "git cat-file" - DevOpsSchool.com](https://www.devopsschool.com/blog/git-tutorial-working-with-git-objects-using-git-cat-file/)
+[深入 Git：Git 物件儲存 - blob 物件 | Titangene Blog](https://titangene.github.io/article/git--blob-object.html)
+[Git - Git Objects](https://git-scm.com/book/zh-tw/v2/Git-Internals-Git-Objects)
+[Understanding the Fundamentals of Git](https://towardsdatascience.com/understanding-the-fundamentals-of-git-25b5b7ded3c4)
+
+```
+
+```ad-note
+title: 每日一跃
+
+[Typescript的interface自动化生成API文档 - 掘金](https://juejin.cn/post/7181271791468281913?)
+[Vue3 如何实现一个带遮罩的 dialog 对话框 - 掘金](https://juejin.cn/post/7182585412508975165?)
+[你还在用传统方法进行深浅拷贝？教你一种更现代的方法！ - 掘金](https://juejin.cn/post/7209226686372692029?)
+[生产上的问题你不会用 sourcemap 定位吗？ - 掘金](https://juejin.cn/post/7209648356530962489?)
+
+```
+
+```ad-note
+title: git flow & 问题排查
+
+[git查看某次提交修改的文件 - Google 搜索](https://www.google.com/search?newwindow=1&sxsrf=AJOqlzU15Y942ZR0P-1V7-1cZjClqYkIJg%3A1678771387253&lei=uwQQZJSFD8HmkPIPmKWBwAI&q=git%E6%9F%A5%E7%9C%8B%E6%9F%90%E6%AC%A1%E6%8F%90%E4%BA%A4%E4%BF%AE%E6%94%B9%E7%9A%84%E6%96%87%E4%BB%B6&ved=2ahUKEwjUzsjh1tr9AhVBM0QIHZhSACgQsKwBKAN6BAhWEAQ&biw=1728&bih=768&dpr=1)
+[git 查看最近或某一次提交修改的文件列表相关命令整理 - 习惯沉淀 - 博客园](https://www.cnblogs.com/yadongliang/p/14547608.html)
+[git 看某次commit改了哪些文件 | emila](https://emila-github.github.io/2017/03/24/git%20-%20%E7%9C%8B%E6%9F%90%E6%AC%A1commit%E6%94%B9%E4%BA%86%E5%93%AA%E4%BA%9B%E6%96%87%E4%BB%B6/)
+[Git查看某次提交所修改的文件](https://www.bitlogs.tech/2020/08/git%E6%9F%A5%E7%9C%8B%E6%9F%90%E6%AC%A1%E6%8F%90%E4%BA%A4%E6%89%80%E4%BF%AE%E6%94%B9%E7%9A%84%E6%96%87%E4%BB%B6/)
+[Find what changed in a Git commit | Opensource.com](https://opensource.com/article/21/4/git-whatchanged)
+[git - How do I list all the files in a commit? - Stack Overflow](https://stackoverflow.com/questions/424071/how-do-i-list-all-the-files-in-a-commit)
+[Git - 维护项目](https://git-scm.com/book/zh/v2/%E5%88%86%E5%B8%83%E5%BC%8F-Git-%E7%BB%B4%E6%8A%A4%E9%A1%B9%E7%9B%AE#_the_shortlog)
+
+```
+
 ##  20230313 
 
 ```ad-note

@@ -5,6 +5,10 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "单机版启动缓慢调查",
       "path": "2023/单机版启动缓慢调查.md"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "Mac & Electron 跨端开发体验",
