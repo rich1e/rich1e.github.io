@@ -6,6 +6,8 @@
 
 ![[Pasted image 20230319001307.png]]
 
+![[Pasted image 20230319003556.png]]
+
 Ref
 
 https://sysin.org
