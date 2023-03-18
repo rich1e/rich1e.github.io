@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Mac & Electron 跨端开发体验",
+      "path": "2023/Mac & Electron 跨端开发体验.md"
     },
     {
       "basename": "Attr - 动态表单优化",
@@ -39,10 +47,6 @@
     {
       "basename": "单机版启动缓慢调查",
       "path": "2023/单机版启动缓慢调查.md"
-    },
-    {
-      "basename": "Mac & Electron 跨端开发体验",
-      "path": "2023/Mac & Electron 跨端开发体验.md"
     },
     {
       "basename": "Pasted image 20230309153847",
@@ -195,10 +199,6 @@
     {
       "basename": "混合开发",
       "path": "frontend/混合开发.md"
-    },
-    {
-      "basename": "当下还有人知道 buble 吗？",
-      "path": "frontend/当下还有人知道 buble 吗？.md"
     }
   ],
   "omittedPaths": [],

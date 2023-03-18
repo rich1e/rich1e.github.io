@@ -66,7 +66,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       },
                       "pinned": true
@@ -108,9 +108,21 @@
                       },
                       "pinned": true
                     }
+                  },
+                  {
+                    "id": "479ebc68edcbbc51",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023/Mac Update.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -175,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Mac Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Mac Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "2023/Mac Update.md"
               }
             }
           },
@@ -288,10 +301,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af0035df406cdc86",
+  "active": "479ebc68edcbbc51",
   "lastOpenFiles": [
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "workspce/Daily Record.md",
+    "2023/Mac Update.md",
+    "Pasted image 20230319001939.png",
+    "Pasted image 20230319001307.png",
+    "2023/Mac & Electron 跨端开发体验.md",
+    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "2023/Vue3 组件库.md",
     "Pasted image 20230303154347.png",
     "buckets/work-experience/max-optics/assets/Pasted image 20230308155123.png",
