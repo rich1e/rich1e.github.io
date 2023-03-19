@@ -116,7 +116,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "2023/Mac Update.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       }
                     }
@@ -303,6 +303,10 @@
   },
   "active": "479ebc68edcbbc51",
   "lastOpenFiles": [
+    "Pasted image 20230319094613.png",
+    "Pasted image 20230319094601.png",
+    "Pasted image 20230319094342.png",
+    "Pasted image 20230319094212.png",
     "Pasted image 20230319084548.png",
     "Pasted image 20230319083743.png",
     "Pasted image 20230319072545.png",
@@ -315,10 +319,6 @@
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "2023/Vue3 组件库.md",
     "Pasted image 20230303154347.png",
-    "buckets/work-experience/max-optics/assets/Pasted image 20230308155123.png",
-    "buckets/work-experience/max-optics/assets/Pasted image 20230308175130.png",
-    "buckets/work-experience/max-optics/assets/Pasted image 20230308161136.png",
-    "Pasted image 20230309153356.png",
     "2023/单机版启动缓慢调查.md"
   ]
 }

@@ -46,6 +46,32 @@ system_profiler SPHardwareDataType | grep 'Model Identifier'
 
 [How to create a bootable USB drive](https://www.ifixit.com/Guide/How+to+create+a+bootable+USB+drive/66371)
 
+![[Pasted image 20230319094212.png]]
+
+![[Pasted image 20230319094342.png]]
+
+![[Pasted image 20230319094601.png]]
+
+```
+DO NOT RUN AUTOPKG-ASSETS MANUALLY!
+
+THIS CAN BREAK YOUR SYSTEM'S INSTALL!
+
+This package should only ever be invoked by the Patcher itself, never downloaded or run by the user. Download the OpenCore-Patcher.app on the Github Repository.
+
+
+```
+
+```
+Reboot to apply?
+
+OpenCore has finished installing to disk.
+
+You will need to reboot and hold the Option key and select OpenCore/Boot EFI's option.
+
+Would you like to reboot?
+```
+
 Ref
 
 https://sysin.org
