@@ -72,6 +72,34 @@ You will need to reboot and hold the Option key and select OpenCore/Boot EFI's o
 Would you like to reboot?
 ```
 
+```ad-note
+title: macOS QuickLook
+
+[macOS QuickLook常用插件集合，效率神器，超实用！ - 知乎](https://zhuanlan.zhihu.com/p/30690152)
+[GitHub - haokaiyang/Mac-QuickLook: QuickLook plugins and packages](https://github.com/haokaiyang/Mac-QuickLook)
+[GitHub - sindresorhus/quick-look-plugins: List of useful Quick Look plugins for developers](https://github.com/sindresorhus/quick-look-plugins)
+
+```
+
+```ad-note
+title: macOS & Zsh & Shell
+
+[【Mac配置指北】之终端配置 - 掘金](https://juejin.cn/post/6983697673257746440)
+[如何像专业人士一样使用 Zsh 配置 macOS 终端](https://www.freecodecamp.org/chinese/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro/)
+[这 13 个小工具，让我的 Mac 菜单栏更好用 - 少数派](https://sspai.com/post/56160)
+[Getting Started - Spaceship](https://spaceship-prompt.sh/getting-started/)
+[Installing_CN · tonsky/FiraCode Wiki · GitHub](https://github.com/tonsky/FiraCode/wiki/Installing_CN)
+[GitHub - powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts)
+[Zsh常用插件整理 - 掘金](https://juejin.cn/post/7110009485783433229#heading-8)
+[GitHub - wting/autojump: A cd command that learns - easily navigate directories from the command line](https://github.com/wting/autojump)
+[Kubectl_好用的命令行工具：oh-my-zsh_技巧和窍门_Shell_琦彦_InfoQ写作社区](https://xie.infoq.cn/article/aeaff02944a0fa2c32cf01f30)
+
+```
+
+[Welcome to f.lux for macOS](https://justgetflux.com/news/pages/macquickstart/)
+
+![[Pasted image 20230319223823.png]]
+
 Ref
 
 https://sysin.org

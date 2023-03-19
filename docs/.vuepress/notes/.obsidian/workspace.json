@@ -66,7 +66,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
                       },
                       "pinned": true
@@ -116,7 +116,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "2023/Mac Update.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
                       }
                     }
@@ -289,20 +289,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas:Create new canvas": false,
-      "periodic-notes:Open today": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "479ebc68edcbbc51",
   "lastOpenFiles": [
+    "Pasted image 20230319223823.png",
+    "workspce/Daily Record.md",
+    "workspce/Kanban.md",
+    "2023/Mac Update.md",
     "Pasted image 20230319094613.png",
     "Pasted image 20230319094601.png",
     "Pasted image 20230319094342.png",
@@ -311,14 +315,11 @@
     "Pasted image 20230319083743.png",
     "Pasted image 20230319072545.png",
     "Pasted image 20230319003556.png",
-    "workspce/Daily Record.md",
-    "2023/Mac Update.md",
     "Pasted image 20230319001939.png",
     "Pasted image 20230319001307.png",
     "2023/Mac & Electron 跨端开发体验.md",
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "2023/Vue3 组件库.md",
-    "Pasted image 20230303154347.png",
     "2023/单机版启动缓慢调查.md"
   ]
 }
