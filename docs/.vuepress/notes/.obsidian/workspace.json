@@ -116,8 +116,8 @@
                       "type": "markdown",
                       "state": {
                         "file": "2023/Mac Update.md",
-                        "mode": "source",
-                        "source": false
+                        "mode": "preview",
+                        "source": true
                       }
                     }
                   }
@@ -303,6 +303,9 @@
   },
   "active": "479ebc68edcbbc51",
   "lastOpenFiles": [
+    "Pasted image 20230319084548.png",
+    "Pasted image 20230319083743.png",
+    "Pasted image 20230319072545.png",
     "Pasted image 20230319003556.png",
     "workspce/Daily Record.md",
     "2023/Mac Update.md",
@@ -316,7 +319,6 @@
     "buckets/work-experience/max-optics/assets/Pasted image 20230308175130.png",
     "buckets/work-experience/max-optics/assets/Pasted image 20230308161136.png",
     "Pasted image 20230309153356.png",
-    "Pasted image 20230303155916.png",
     "2023/单机版启动缓慢调查.md"
   ]
 }
