@@ -5,6 +5,25 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230321 
+
+获取本机ip & 公网ip & 运营商信息 & 地域信息
+
+```sh
+# 获取本机 ip
+ifconfig | grep "inet " | grep -v 127.0.0.1 | awk '{print $2}'
+# 获取公网 ip
+curl icanhazip.com
+curl ipinfo.io
+curl ifconfig.me
+# 运营商信息
+curl cip.cc
+# 地域信息
+curl ipinfo.io/ip
+```
+
+
+
 ##  20230320 
 
 | app         | Env  | Access method  | Routing mode | IS_ELECTRON | NODE_ENV    |

@@ -98,7 +98,23 @@ title: macOS & Zsh & Shell
 
 [Welcome to f.lux for macOS](https://justgetflux.com/news/pages/macquickstart/)
 
-![[Pasted image 20230319223823.png]]
+![[Pasted image 20230319223823.png]]i
+
+在 macOS 上，您可以使用以下工具来测试磁盘的读写速度：
+
+1.  Blackmagic Disk Speed Test: 这是一款免费的应用程序，可在 Mac App Store 上下载。它提供了一个简单易用的界面，可以测试磁盘的读写速度，并显示结果。
+    
+2.  AJA System Test: 这也是一款免费的应用程序，可在 Mac App Store 上下载。它提供了更多的选项和设置，可以对磁盘的读写速度进行更详细的测试，并显示结果。
+    
+3.  终端命令行：在终端应用程序中，您可以使用一些命令行工具来测试磁盘的读写速度，例如：
+    
+
+-   dd 命令: `dd if=/dev/zero of=testfile bs=1m count=1024 conv=fdatasync,notrunc status=progress` 这将创建一个大小为1GB的名为“testfile”的文件，并测量写入速度。
+    
+-   iozone 命令: `iozone -e -I -a -s 100M -r 4k -r 16k -r 512k -r 1024k -i 0 -i 1 -i 2` 这将使用 iozone 工具测试磁盘的随机和顺序读写速度，并生成详细的报告。
+    
+
+请注意，使用这些工具时，请关闭所有其他应用程序和进程，以获得更准确的测试结果。
 
 Ref
 

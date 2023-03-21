@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Mac Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Mac Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "2023/Mac Update.md"
               }
             }
           },
@@ -297,14 +297,14 @@
       "workspaces:Manage workspace layouts": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "af0035df406cdc86",
+  "active": "479ebc68edcbbc51",
   "lastOpenFiles": [
-    "2023/Mac Update.md",
     "workspce/Daily Record.md",
+    "2023/Mac Update.md",
     "Pasted image 20230319223823.png",
     "workspce/Kanban.md",
     "Pasted image 20230319094613.png",
