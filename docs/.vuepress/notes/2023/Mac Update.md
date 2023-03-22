@@ -16,11 +16,11 @@
 system_profiler SPHardwareDataType | grep 'Model Identifier'
 ```
 
-![[Pasted image 20230319001307.png]]
+![[images/2023/mac-update/Pasted image 20230319001307.png]]
 
-![[Pasted image 20230319001939.png]]
+![[images/2023/mac-update/Pasted image 20230319001939.png]]
 
-![[Pasted image 20230319003556.png]]
+![[images/2023/mac-update/Pasted image 20230319003556.png]]
 
 ## 下载 macOS
 
@@ -32,11 +32,11 @@ system_profiler SPHardwareDataType | grep 'Model Identifier'
 
 > U 盘存储空间至少16G
 
-![[Pasted image 20230319083743.png]]
+![[images/2023/mac-update/Pasted image 20230319083743.png]]
 
 ## 制作可引导的 macOS 安装器
 
-![[Pasted image 20230319084548.png]]
+![[images/2023/mac-update/Pasted image 20230319084548.png]]
 
 参考：
 
@@ -46,11 +46,11 @@ system_profiler SPHardwareDataType | grep 'Model Identifier'
 
 [How to create a bootable USB drive](https://www.ifixit.com/Guide/How+to+create+a+bootable+USB+drive/66371)
 
-![[Pasted image 20230319094212.png]]
+![[images/2023/mac-update/Pasted image 20230319094212.png]]
 
-![[Pasted image 20230319094342.png]]
+![[images/2023/mac-update/Pasted image 20230319094342.png]]
 
-![[Pasted image 20230319094601.png]]
+![[images/2023/mac-update/Pasted image 20230319094601.png]]
 
 ```
 DO NOT RUN AUTOPKG-ASSETS MANUALLY!
@@ -98,7 +98,7 @@ title: macOS & Zsh & Shell
 
 [Welcome to f.lux for macOS](https://justgetflux.com/news/pages/macquickstart/)
 
-![[Pasted image 20230319223823.png]]i
+![[images/2023/mac-update/Pasted image 20230319223823.png]]i
 
 在 macOS 上，您可以使用以下工具来测试磁盘的读写速度：
 
@@ -120,4 +120,4 @@ Ref
 
 https://sysin.org
 
-![[Pasted image 20230319072545.png]]
+![[images/2023/mac-update/Pasted image 20230319072545.png]]

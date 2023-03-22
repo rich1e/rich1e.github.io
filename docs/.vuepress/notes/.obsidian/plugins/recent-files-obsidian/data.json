@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
-    },
-    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
@@ -13,20 +9,180 @@
       "path": "workspce/Kanban.md"
     },
     {
-      "basename": "Mac & Electron 跨端开发体验",
-      "path": "2023/Mac & Electron 跨端开发体验.md"
+      "basename": "Fiddler Everywhere Crack 尝试",
+      "path": "2022/Fiddler Everywhere Crack 尝试.md"
     },
     {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
     {
+      "basename": "Book Sync",
+      "path": "2022/Book Sync.md"
+    },
+    {
+      "basename": "Alienware",
+      "path": "2022/Alienware.md"
+    },
+    {
+      "basename": "2022 learn",
+      "path": "2022/2022 learn.md"
+    },
+    {
+      "basename": "image-20220426230425183",
+      "path": "images/image-20220426230425183.png"
+    },
+    {
+      "basename": "image-20220520163240682",
+      "path": "images/image-20220520163240682.png"
+    },
+    {
+      "basename": "image-20220521201229235",
+      "path": "images/image-20220521201229235.png"
+    },
+    {
+      "basename": "image-20220521223834138",
+      "path": "images/image-20220521223834138.png"
+    },
+    {
+      "basename": "image-20220521224330584",
+      "path": "images/image-20220521224330584.png"
+    },
+    {
+      "basename": "Pasted image 20221016185201",
+      "path": "images/Pasted image 20221016185201.png"
+    },
+    {
+      "basename": "当下还有人知道 buble 吗？",
+      "path": "frontend/当下还有人知道 buble 吗？.md"
+    },
+    {
+      "basename": "混合开发",
+      "path": "frontend/混合开发.md"
+    },
+    {
+      "basename": "前端代码构建部署",
+      "path": "frontend/前端代码构建部署.md"
+    },
+    {
+      "basename": "前端工程自动化实践-文档篇",
+      "path": "frontend/前端工程自动化实践-文档篇.md"
+    },
+    {
+      "basename": "前端监控",
+      "path": "frontend/前端监控.md"
+    },
+    {
+      "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
+      "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
+    },
+    {
+      "basename": "前端数据请求方式",
+      "path": "frontend/前端数据请求方式.md"
+    },
+    {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
     },
     {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "Mac & Electron 跨端开发体验",
+      "path": "2023/Mac & Electron 跨端开发体验.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "单机版启动缓慢调查",
+      "path": "2023/单机版启动缓慢调查.md"
+    },
+    {
+      "basename": "Pasted image 20230318182617",
+      "path": "images/2023/mac-update/Pasted image 20230318182617.png"
+    },
+    {
+      "basename": "4049247c0b474f1e8cce7da67af244d1_tplv-k3u1fbpfcp-watermark",
+      "path": "images/4049247c0b474f1e8cce7da67af244d1_tplv-k3u1fbpfcp-watermark.png"
+    },
+    {
+      "basename": "20211205115322",
+      "path": "images/20211205115322.png"
+    },
+    {
+      "basename": "20211205120859",
+      "path": "images/20211205120859.png"
+    },
+    {
       "basename": "Pasted image 20230303154347",
-      "path": "Pasted image 20230303154347.png"
+      "path": "images/2023/vue3-components-ui/Pasted image 20230303154347.png"
+    },
+    {
+      "basename": "Pasted image 20230303155916",
+      "path": "images/2023/vue3-components-ui/Pasted image 20230303155916.png"
+    },
+    {
+      "basename": "Pasted image 20230309153356",
+      "path": "images/2023/mac-electron/Pasted image 20230309153356.png"
+    },
+    {
+      "basename": "Pasted image 20230309153847",
+      "path": "images/2023/mac-electron/Pasted image 20230309153847.png"
+    },
+    {
+      "basename": "Pasted image 20230309153635",
+      "path": "images/2023/mac-electron/Pasted image 20230309153635.png"
+    },
+    {
+      "basename": "Pasted image 20230309153545",
+      "path": "images/2023/mac-electron/Pasted image 20230309153545.png"
+    },
+    {
+      "basename": "Pasted image 20230319001307",
+      "path": "images/2023/mac-update/Pasted image 20230319001307.png"
+    },
+    {
+      "basename": "Pasted image 20230319001939",
+      "path": "images/2023/mac-update/Pasted image 20230319001939.png"
+    },
+    {
+      "basename": "Pasted image 20230319003556",
+      "path": "images/2023/mac-update/Pasted image 20230319003556.png"
+    },
+    {
+      "basename": "Pasted image 20230319072545",
+      "path": "images/2023/mac-update/Pasted image 20230319072545.png"
+    },
+    {
+      "basename": "Pasted image 20230319083743",
+      "path": "images/2023/mac-update/Pasted image 20230319083743.png"
+    },
+    {
+      "basename": "Pasted image 20230319084548",
+      "path": "images/2023/mac-update/Pasted image 20230319084548.png"
+    },
+    {
+      "basename": "Pasted image 20230319094212",
+      "path": "images/2023/mac-update/Pasted image 20230319094212.png"
+    },
+    {
+      "basename": "Pasted image 20230319094342",
+      "path": "images/2023/mac-update/Pasted image 20230319094342.png"
+    },
+    {
+      "basename": "Pasted image 20230319094601",
+      "path": "images/2023/mac-update/Pasted image 20230319094601.png"
+    },
+    {
+      "basename": "Pasted image 20230319094613",
+      "path": "images/2023/mac-update/Pasted image 20230319094613.png"
+    },
+    {
+      "basename": "Pasted image 20230319223823",
+      "path": "images/2023/mac-update/Pasted image 20230319223823.png"
     },
     {
       "basename": "Pasted image 20230308155123",
@@ -41,164 +197,8 @@
       "path": "buckets/work-experience/max-optics/assets/Pasted image 20230308161136.png"
     },
     {
-      "basename": "Pasted image 20230309153356",
-      "path": "Pasted image 20230309153356.png"
-    },
-    {
-      "basename": "Pasted image 20230303155916",
-      "path": "Pasted image 20230303155916.png"
-    },
-    {
-      "basename": "单机版启动缓慢调查",
-      "path": "2023/单机版启动缓慢调查.md"
-    },
-    {
-      "basename": "Pasted image 20230309153847",
-      "path": "Pasted image 20230309153847.png"
-    },
-    {
-      "basename": "Pasted image 20230309153635",
-      "path": "Pasted image 20230309153635.png"
-    },
-    {
-      "basename": "Pasted image 20230309153545",
-      "path": "Pasted image 20230309153545.png"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
-    },
-    {
       "basename": "Pasted image 20230307145017",
       "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230307145017.png"
-    },
-    {
-      "basename": "Pasted image 20230308093654",
-      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230308093654.png"
-    },
-    {
-      "basename": "Pasted image 20230308094730",
-      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230308094730.png"
-    },
-    {
-      "basename": "Pasted image 20230308111926",
-      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230308111926.png"
-    },
-    {
-      "basename": "Pasted image 20230308140834",
-      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230308140834.png"
-    },
-    {
-      "basename": "Pasted image 20230308140839",
-      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230308140839.png"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "Front-end Technology",
-      "path": "workspce/Front-end Technology.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
-      "basename": "vscode-vim-search",
-      "path": "work-records/vscode-vim-search.md"
-    },
-    {
-      "basename": "Pasted image 20230210092354",
-      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092354.png"
-    },
-    {
-      "basename": "Pasted image 20230210092436",
-      "path": "buckets/work-experience/max-optics/assets/daily/Pasted image 20230210092436.png"
-    },
-    {
-      "basename": "vscode-vim-multicursor",
-      "path": "work-records/vscode-vim-multicursor.md"
-    },
-    {
-      "basename": "vscode-vim-easymotion",
-      "path": "work-records/vscode-vim-easymotion.md"
-    },
-    {
-      "basename": "vscode-vim-replace",
-      "path": "work-records/vscode-vim-replace.md"
-    },
-    {
-      "basename": "vscode-vim-surround",
-      "path": "work-records/vscode-vim-surround.md"
-    },
-    {
-      "basename": "vscode-vim-navigation",
-      "path": "work-records/vscode-vim-navigation.md"
-    },
-    {
-      "basename": "vscode-vim-indent-object",
-      "path": "work-records/vscode-vim-indent-object.md"
-    },
-    {
-      "basename": "vscode-vim-fold",
-      "path": "work-records/vscode-vim-fold.md"
-    },
-    {
-      "basename": "Book Sync",
-      "path": "2022/Book Sync.md"
-    },
-    {
-      "basename": "Pasted image 20230209102416",
-      "path": "images/2023/book/Pasted image 20230209102416.png"
-    },
-    {
-      "basename": "Pasted image 20230209133455",
-      "path": "images/2023/book/Pasted image 20230209133455.png"
-    },
-    {
-      "basename": "Pasted image 20230209132915",
-      "path": "images/2023/book/Pasted image 20230209132915.png"
-    },
-    {
-      "basename": "Pasted image 20230209132128",
-      "path": "images/2023/book/Pasted image 20230209132128.png"
-    },
-    {
-      "basename": "vscode-vim-sneak",
-      "path": "work-records/vscode-vim-sneak.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "git-open",
-      "path": "work-records/git-open.md"
-    },
-    {
-      "basename": "HeroEmblems",
-      "path": "buckets/game/HeroEmblems.md"
-    },
-    {
-      "basename": "UNADJUSTEDNONRAW_thumb_9567",
-      "path": "images/imgs/UNADJUSTEDNONRAW_thumb_9567.jpg"
-    },
-    {
-      "basename": "前端监控",
-      "path": "frontend/前端监控.md"
-    },
-    {
-      "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
-      "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
-    },
-    {
-      "basename": "前端工程自动化实践-文档篇",
-      "path": "frontend/前端工程自动化实践-文档篇.md"
-    },
-    {
-      "basename": "前端代码构建部署",
-      "path": "frontend/前端代码构建部署.md"
     }
   ],
   "omittedPaths": [],
