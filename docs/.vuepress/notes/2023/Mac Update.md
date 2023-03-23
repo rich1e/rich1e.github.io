@@ -116,6 +116,16 @@ title: macOS & Zsh & Shell
 
 请注意，使用这些工具时，请关闭所有其他应用程序和进程，以获得更准确的测试结果。
 
+```ad-note
+title: Bartender
+
+[Bartender 4: 让你的 Mac 菜单栏更整洁好看 - 哔哩哔哩](https://www.bilibili.com/read/cv11430258)
+[Bartender 4: 让你的 Mac 菜单栏更整洁更高效_搬瓦工VPS_美国VPS](https://www.wervps1.com/we/16450.html)
+[Bartender 4 自定义你的Mac菜单栏 - v1tx](https://www.v1tx.com/post/bartender/)
+[Bartender 4：图标显示切换大变样，还能在菜单栏自定义文字 - 少数派](https://sspai.com/post/63608)
+
+```
+
 Ref
 
 https://sysin.org
