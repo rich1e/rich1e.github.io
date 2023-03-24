@@ -5,6 +5,11 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230324 
+
+[Git实用技巧35招 - CherishTheYouth - 博客园](https://www.cnblogs.com/CherishTheYouth/p/CherishTheYouth_20210426.html)
+
+[node.js - node端口占用要怎么处理? - SegmentFault 思否](https://segmentfault.com/q/1010000006954465)
 
 ##  20230323 
 

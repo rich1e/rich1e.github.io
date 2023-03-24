@@ -5,8 +5,20 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "ESlint",
+      "path": "buckets/learn/ESlint.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
       "basename": "Mac Update",
       "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Fiddler Everywhere Crack 尝试",
@@ -187,14 +199,6 @@
     {
       "basename": "Pasted image 20230308155123",
       "path": "buckets/work-experience/max-optics/assets/Pasted image 20230308155123.png"
-    },
-    {
-      "basename": "Pasted image 20230308175130",
-      "path": "buckets/work-experience/max-optics/assets/Pasted image 20230308175130.png"
-    },
-    {
-      "basename": "Pasted image 20230308161136",
-      "path": "buckets/work-experience/max-optics/assets/Pasted image 20230308161136.png"
     }
   ],
   "omittedPaths": [],

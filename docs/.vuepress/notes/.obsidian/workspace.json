@@ -66,7 +66,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
                       },
                       "pinned": true
@@ -115,8 +115,8 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023/Mac Update.md",
-                        "mode": "preview",
+                        "file": "buckets/learn/ESlint.md",
+                        "mode": "source",
                         "source": false
                       }
                     }
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chromedriver",
+                "query": "because",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,13 +182,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -304,18 +302,15 @@
   },
   "active": "af0035df406cdc86",
   "lastOpenFiles": [
-    "2023/Mac Update.md",
-    "2022/Fiddler Everywhere Crack 尝试.md",
+    "buckets/learn/ESlint.md",
+    "workspce/Draft.md",
     "workspce/Daily Record.md",
+    "2023/Mac Update.md",
+    "HomePage.md",
+    "2022/Fiddler Everywhere Crack 尝试.md",
     "Pasted image 20230319223823.png",
     "workspce/Kanban.md",
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
-    "2022/Book Sync.md",
-    "2022/Alienware.md",
-    "2022/2022 learn.md",
-    "images/image-20220426230425183.png",
-    "images/image-20220520163240682.png",
-    "images/image-20220521201229235.png",
-    "images/image-20220521223834138.png"
+    "2022/Book Sync.md"
   ]
 }
