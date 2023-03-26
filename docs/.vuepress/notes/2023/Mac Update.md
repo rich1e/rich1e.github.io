@@ -131,3 +131,13 @@ Ref
 https://sysin.org
 
 ![[images/2023/mac-update/Pasted image 20230319072545.png]]
+
+[内核错误 | OpenCore 安装指南](https://thrrip.github.io/OpenCore-Install-Guide/troubleshooting/extended/kernel-issues.html#%E5%8D%A1%E5%9C%A8-ioconsoleusers-gioscreenlock-giolockstate-3-%E6%88%96%E9%99%84%E8%BF%91)
+[使用 OpenCore Legacy Patcher 为 2015 款 MacBook Pro 激活 AirPlay - Marco Nie](https://blog.niekun.net/archives/2353.html)
+[macOS 下载汇总（系统、应用和教程） - sysin | SYStem INside | 软件与技术分享](https://sysin.org/blog/macOS/)
+[在不受支持的 Mac 上安装 macOS Ventura、Monterey、Big Sur (OpenCore Legacy Patcher) - sysin | SYStem INside | 软件与技术分享](https://sysin.org/blog/install-macos-13-on-unsupported-mac/#5-%E8%BF%90%E8%A1%8C-%E2%80%9CPost-Install-Root-Patch%E2%80%9D)
+[Working Around Legacy Acceleration Issues | OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/ACCEL.html#broken-background-blurs)
+[如何在 Mac 和虚拟机上安装 macOS Big Sur、Monterey 和 Ventura - sysin | SYStem INside | 软件与技术分享](https://sysin.org/blog/how-to-install-macos/#3-%E5%9C%A8%E7%89%A9%E7%90%86%E6%9C%BA-ESXi-%E4%B8%AD%E5%AE%89%E8%A3%85%E8%99%9A%E6%8B%9F%E6%9C%BA-2)
+[不受支持的 Mac 上的通用控制 - sysin | SYStem INside | 软件与技术分享](https://sysin.org/blog/macos-universal-control-on-unsupported-mac/)
+[Ventura on Unsupported Macs [2012-2016] OpenCore Legacy Patcher!!! - YouTube](https://www.youtube.com/watch?v=3LOqHMo5WSQ&ab_channel=Mr.Macintosh)
+[完整教程：在旧 Mac 上安装 macOS Ventura (OpenCore Legacy Patcher)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1jg41167q3/?from=search&vd_source=3710ff3fa57db21b813ef420454b2e16)

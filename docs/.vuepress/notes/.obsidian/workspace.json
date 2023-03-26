@@ -115,7 +115,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "buckets/learn/ESlint.md",
+                        "file": "2023/Mac Update.md",
                         "mode": "source",
                         "source": false
                       }
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "because",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,7 +182,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Mac Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Mac Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "2023/Mac Update.md"
               }
             }
           },
@@ -300,11 +301,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af0035df406cdc86",
+  "active": "7d114664536e87fe",
   "lastOpenFiles": [
     "buckets/learn/ESlint.md",
-    "workspce/Draft.md",
     "workspce/Daily Record.md",
+    "workspce/Draft.md",
     "2023/Mac Update.md",
     "HomePage.md",
     "2022/Fiddler Everywhere Crack 尝试.md",

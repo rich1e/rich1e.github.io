@@ -68,10 +68,13 @@
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "buckets/templates",
+  "announceUpdates": true,
+  "version": "0.16.0",
   "migrations": {
     "migrateToMacroIDFromEmbeddedMacro": true,
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
-    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
   }
 }
