@@ -5,9 +5,65 @@ banner_y: 0.504
 
 > Just keep doing.
 
-##  20230326 
+##  20230329 
 
+ChatGPT for Google
 
+[Site Unreachable](https://poe.com/chatgpt)
+
+##  20230328 
+
+```ad-note
+title: 每日一跃
+
+[Vitejs开源项目实践指南（二） - 掘金](https://juejin.cn/post/7214858677173649465?)
+[如何用cli统计项目中组件的使用次数？ - 掘金](https://juejin.cn/post/7214758560459161657?)
+[60 行代码写一个迷你响应式系统 - 掘金](https://juejin.cn/post/7215047682637086776?#heading-5)
+[设计模式 - 设计模式技术,学习,经验文章 - 掘金](https://juejin.cn/tag/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F?utm_source=gold_browser_extension)
+[享元模式——作者ChatGPT4 - 掘金](https://juejin.cn/post/7215095268608884792)
+[使用 VitePress 打造个人前端导航网站 - 掘金](https://juejin.cn/post/7204860462239498296?)
+[Web前端工程师生存攻略 - 掘金](https://juejin.cn/post/7214512376669372453?)
+[是时候该换掉你的axios了 - 掘金](https://juejin.cn/post/7213923957824979000?)
+[概述 | Alova.JS](https://alova.js.org/zh-CN/overview/index)
+[alovajs/alova: Request scene management library for MVVM libraries such as Vue.js, React.js, and Svelte.js](https://github.com/alovajs/alova)
+
+#axios #alovajs
+```
+
+```ad-note
+title: chatGPT & GUI & MenubarX
+
+[派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/70881)
+[🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器 - V2EX](https://www.v2ex.com/t/825917)
+[vincelwt/chatgpt-mac: ChatGPT for Mac, living in your menubar.](https://github.com/vincelwt/chatgpt-mac)
+[FAQ for MenubarX](https://menubarx.app/faq/#bartender)
+
+#chatGPT
+```
+
+##  20230327 
+
+```ad-note
+title: Skim & PDF
+
+[Do More With PDF in Skim for Mac](https://computers.tutsplus.com/tutorials/do-more-with-pdf-in-skim-for-mac--cms-22661)
+[如何匯出任意 PDF 文件的畫線重點與筆記？只要 3 步驟，使用 Skim 快速匯出 | by 朱騏 | PM的生產力工具箱 | Medium](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E5%A6%82%E4%BD%95%E5%8C%AF%E5%87%BA%E4%BB%BB%E6%84%8F-pdf-%E6%96%87%E4%BB%B6%E7%9A%84%E7%95%AB%E7%B7%9A%E9%87%8D%E9%BB%9E%E8%88%87%E7%AD%86%E8%A8%98-4fd12c3bf0e8)
+
+```
+
+```ad-note
+title: 每日一跃
+
+[Vite 4.0 正式发布！ - 掘金](https://juejin.cn/post/7175085875187941413?)
+[是时候放弃redux了，zustand是完美替代者（主要是源码分析） - 掘金](https://juejin.cn/post/7178318352174022717?)
+[一起来聊一聊，vue3 的心智负担真的比 react 低吗？ - 掘金](https://juejin.cn/post/7195486276936532028?)
+[你还在傻傻的npm run serve吗？快来尝尝这个！ - 掘金](https://juejin.cn/post/7198696282336313400?)
+[前端开发中 5 个很赞的资源 - 掘金](https://juejin.cn/post/7213752661762195516?)
+[前端程序员是怎么做物联网开发的 - 掘金](https://juejin.cn/post/7203180003471081531?)
+[用微前端 qiankun 接入十几个子应用后，我遇到了这些问题 - 掘金](https://juejin.cn/post/7202108772924325949?)
+[我用 ChatGPT 读 Vue3 源码 - 掘金](https://juejin.cn/post/7203325974120169527?)
+
+```
 
 ##  20230324 
 
