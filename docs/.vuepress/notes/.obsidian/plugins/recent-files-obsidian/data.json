@@ -5,6 +5,10 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
       "basename": "Mac Update",
       "path": "2023/Mac Update.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Mac & Electron 跨端开发体验",
       "path": "2023/Mac & Electron 跨端开发体验.md"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
     },
     {
       "basename": "单机版启动缓慢调查",

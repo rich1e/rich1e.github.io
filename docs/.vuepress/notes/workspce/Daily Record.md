@@ -5,6 +5,42 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230331 
+
+```ad-note
+title: 每日一跃
+
+[[ 极简实现 🚀 ] - vue3 依赖收集 - 掘金](https://juejin.cn/post/7216293600484458555?)
+[5、ChatGPT开源的whisper音频生成字幕，可本地搭建环境运行，效果质量很棒 - 掘金](https://juejin.cn/post/7216133455296331835?)
+[浅谈柯里化之我为什么要用它 - 掘金](https://juejin.cn/post/7216493408607977509?)
+[浅谈柯里化 - 掘金](https://juejin.cn/post/7181983157544042557)
+[JavaScript专题之函数柯里化 · Issue #42 · mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog/issues/42)
+[New Bing尝鲜：VuePress项目使用LaTeX语法渲染数学公式 - 掘金](https://juejin.cn/post/7216412604800958525?)
+[vue3 admin 开发中的奇淫巧技｜在vue中如何刷新当前页面 - 掘金](https://juejin.cn/post/7216130963276644407?)
+[前端设计模式——依赖注入模式 - 掘金](https://juejin.cn/post/7215997807874310199?)
+[初识 JavaScript 依赖注入 - 掘金](https://juejin.cn/post/6844903508257275912)
+[2023年最新最全 VSCode 插件推荐 - 掘金](https://juejin.cn/post/7205753233599578170?#heading-11)
+[私有化部署chatGPT，告别网络困扰 - 掘金](https://juejin.cn/post/7216217118588551229?)
+[预测2024年之后的前端开发模式 - 掘金](https://juejin.cn/post/7216182763237818425?)
+[(7条消息) git log怎么搜索关键字，git log怎么查找关键字，git log搜索提交注释_git log查找关键字_或非与的博客-CSDN博客](https://blog.csdn.net/qq_27517377/article/details/84937661)
+[git根据注释信息查看某个commit修改记录 - 掘金](https://juejin.cn/post/7063752358726991879)
+[求Visual Studio Code 权威指南pdf - 『悬赏问答区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn](https://www.52pojie.cn/thread-1370329-1-1.html)
+[TypeError: fetch failed (can't connect to OpenAI Api) · Issue #34 · ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo/issues/34)
+
+```
+
+```git
+# 空提交
+git commit --allow-empty -m 'Release Orca by 202303311015'
+# 没有消息
+git commit --allow-empty-message -m ""
+```
+
+[Git 空提交和没有消息的提交 | WaterLemons2k的博客](https://blog.waterlemons2k.com/Git-empty-commit-and-empty-message)
+
+[如何在 Git 中推送一个空的提交](https://www.freecodecamp.org/chinese/news/how-to-push-an-empty-commit-with-git/)
+
+
 ##  20230330 
 
 ```ad-note
