@@ -5,6 +5,38 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230404 
+
+```git
+git log --author=gongyuqi --oneline --since="10 hours ago" --grep="into 'testDev'" --invert-grep
+```
+
+```ad-note
+title: Javascript 数字精度丢失的问题
+
+[面试官：说说 Javascript 数字精度丢失的问题，如何解决？ | web前端面试 - 面试官系列](https://vue3js.cn/interview/JavaScript/loss_accuracy.html#%E4%B8%89%E3%80%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+[big.js、bignumber.js 和 decimal.js 之间的差别（翻译） - 掘金](https://juejin.cn/post/7069965114564165662)
+[JavaScript 浮点数陷阱及解法 · Issue #9 · camsong/blog](https://github.com/camsong/blog/issues/9)
+
+#big.js #float
+```
+
+```ad-note
+title: 每日一跃
+
+[JavaScript - Top posts this week - DEV Community](https://dev.to/t/javascript/top/week)
+[Node.js Developer Roadmap 2023. Explore nodejs developer roadmap for… | by Melih Yumak | JavaScript in Plain English](https://javascript.plainenglish.io/nodejs-developer-roadmap-2023-4e2fccc0ff54)
+[使用chatGPT，设计一套可落地的前端性能优化方案（上） - 掘金](https://juejin.cn/post/7217373379343384633?)
+[Electron 签名和公证 - 掘金](https://juejin.cn/post/7216536069284593701?)
+[如何使用 ChatGPT 3.5 API 创建自己的智能应用？ - 掘金](https://juejin.cn/post/7217820487203192892?)
+[What Are K, T, and V in TypeScript Generics? | by Bytefer | Frontend Canteen | Medium](https://medium.com/frontend-canteen/what-are-k-t-and-v-in-typescript-generics-9fabe1d0f0f3)
+[TypeScript中的递归类型简析 - 掘金](https://juejin.cn/post/7217714396591554619?)
+[刘海 Mac 食用指南，聊聊我在 Mac 上的常用软件 - 掘金](https://juejin.cn/post/7217820487203618876?)
+[一个神奇的书签，跳过Medium、纽约时报等阅读限制 - 少数派](https://sspai.com/post/57752)
+[ChatGPT - Poe](https://poe.com/chatgpt)
+
+```
+
 ##  20230403 
 
 ```ad-note
