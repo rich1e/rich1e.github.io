@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Book",
-      "path": "2023/Book.md"
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
     },
     {
       "basename": "HomePage",
@@ -99,10 +103,6 @@
     {
       "basename": "前端数据请求方式",
       "path": "frontend/前端数据请求方式.md"
-    },
-    {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
     },
     {
       "basename": "Mac & Electron 跨端开发体验",
