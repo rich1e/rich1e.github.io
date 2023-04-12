@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
-    },
-    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
     },
     {
       "basename": "Book",
@@ -31,10 +35,6 @@
     {
       "basename": "Fiddler Everywhere Crack 尝试",
       "path": "2022/Fiddler Everywhere Crack 尝试.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
     },
     {
       "basename": "Attr - 动态表单优化",

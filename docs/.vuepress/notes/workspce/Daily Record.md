@@ -5,6 +5,131 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230412 
+
+[升级macOS 13 Ventura后打开某软件显示“已损坏，无法打开”怎么解决](https://mac.macsc.com/news/979.html)
+
+```ad-note
+title: Profixier
+
+3CWNN-WYTP4-SD83W-ASDFR-84KEA
+```
+
+Proxifier has detected that ClashX Pro application has likely caused an infinite connection loop.
+
+Do you want to exclude this application from Proxifier processing?
+
+```ad-note
+title: Just My Socks 订阅 udp协议
+
+[如何在 Bob 中使用 macOS 系统翻译？ | Bob](https://bobtranslate.com/faq/use-apple-translate.html#%E5%AE%89%E8%A3%85%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4)
+[接口返回未知错误 · Issue #73 · yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator/issues/73)
+[Clash for Windows配置Just My Socks教程 - V2ray XTLS黑科技](https://v2xtls.org/clash-for-windows%E9%85%8D%E7%BD%AEjust-my-socks%E6%95%99%E7%A8%8B/)
+[Fndroid/clash_for_windows_pkg: A Windows/macOS GUI based on Clash](https://github.com/Fndroid/clash_for_windows_pkg)
+[2022年10月最新：Just My Socks购买+客户端+TCP+TLS设置使用方法-Just My Socks中文教程网](https://www.justmysockss.com/jsm1252/)
+[关于在中国地区使用的问题汇总 · Issue #83 · lencx/ChatGPT](https://github.com/lencx/ChatGPT/issues/83)
+[使用Clash代理ChatGPT规则配置 – WolfBolin](https://blog.wolfbolin.com/archives/813)
+[www.v2ex.com](https://www.v2ex.com/t/900491)
+[wakaka123wakaka/chatgpt-openclash: Chatgpt openclash分流规则](https://github.com/wakaka123wakaka/chatgpt-openclash)
+[MacOS 翻译软件推荐 - 掘金](https://juejin.cn/post/7203993298817220668)
+[Just My Socks 已支持 UDP 协议-Justmysocks套餐|优惠码|教程|购买|使用|续费|稳定; 更美星球 A Better Planet](https://tech.a-better-planet.com/justmysocks-udp.html)
+
+```
+
+```ad-note
+title: 每日一跃
+
+[Mac终端终极解决方案一揽子计划 - 掘金](https://juejin.cn/post/7176624950285959205)
+[推荐一个方便好用的 ChatGPT 客户端 - 掘金](https://juejin.cn/post/7183138644378452028)
+[如何用好免费的chatGPT - 掘金](https://juejin.cn/post/7210369671665041463)
+[一个令人惊艳的ChatGPT项目，开源了！ - 掘金](https://juejin.cn/post/7217851001087230013)
+[掌握TypeScript：10个最佳实践提高代码质量 - 掘金](https://juejin.cn/post/7217977235801555003)
+[React为什么不将Vite作为默认推荐？ - 掘金](https://juejin.cn/post/7195395331666739256)
+[面试官：你可以用 for of 遍历 Object 吗？ - 掘金](https://juejin.cn/post/7217304466076631096)
+[(3 封私信 / 80 条消息) js 对象身上没有Symbol.iterator，为什么还能解构？ - 知乎](https://www.zhihu.com/question/537534257)
+[对象为什么能解构?让我来告诉你😏😏😏 - 掘金](https://juejin.cn/post/7218014583864328247?share_token=25787605-6438-4a7b-9ee7-766c2b93e7b9)
+[前端必须掌握的7种设计模式 - 掘金](https://juejin.cn/post/7215967453929586748)
+[睡后收入（无人直播） - 掘金](https://juejin.cn/post/7215842530838085692)
+
+```
+
+##  20230411 
+
+```ad-note
+title: orca 内存爆增
+
+1. webContents.setBackgroundThrottling(false)；
+2. CAD 按需渲染；
+
+Ref
+
+[electron踩坑系列之一-阿里云开发者社区](https://developer.aliyun.com/article/898718?userCode=okjhlpr5)
+[webContents | Electron](https://www.electronjs.org/zh/docs/latest/api/web-contents#contentssetbackgroundthrottlingallowed)
+
+```
+
+```ad-note
+title: Transitions and Animations for Vue
+
+[打造属于你自己的 Mac（Next.js+Nest.js TS全栈项目） - 掘金](https://juejin.cn/post/7220327699385532471?)
+[framer/motion: Open source, production-ready animation and gesture library for React](https://github.com/framer/motion)
+[Understanding Vue Transitions & Animations with Examples - LearnVue | LearnVue](https://learnvue.co/articles/vue-animation)
+[Modern web animations with Gsap and Vue 3](https://blog.openreplay.com/modern-web-animations-with-gsap-and-vue-3/)
+[Does Vue any libraries like react-spring or framer motion? : r/vuejs](https://www.reddit.com/r/vuejs/comments/ey5ta1/does_vue_any_libraries_like_reactspring_or_framer/)
+[motiondivision/motionone](https://github.com/motiondivision/motionone)
+[Vue + Anime.js: Using a library to ease animation complexity - Imarc, a digital agency](https://www.imarc.com/blog/vue-anime-js-using-a-library-to-ease-animation-complexity)
+[vueuse/motion: 🤹 Vue Composables putting your components in motion](https://github.com/vueuse/motion)
+[前端弹性动画与 framer-motion 动画库初探 - 掘金](https://juejin.cn/post/6934657845094776845)
+[都2022年了，一个还不知道Lottie动画的前端已经OUT啦！ - 掘金](https://juejin.cn/post/7101629986427109383)
+```
+
+##  20230410 
+
+| 方式         | 功能 | 自定义文件名称 |            文件路径            |
+|:------------ |:----:| -------------- |:------------------------------|
+| `input:file` | 上传 | 支持           | 默认桌面路径，能记住上一次路径 |
+| `<a>`        | 下载 | 支持           |          默认下载目录          |
+| CMD          | 示例 | 不支持         |          可以指定路径          |
+
+```ad-note
+title: Electron & NW.js
+
+[浅谈基于Web的跨平台桌面应用开发 - 掘金](https://juejin.cn/post/7207417288706113591#heading-23)
+[跨平台桌面应用程序开发框架比较：Electron、NW.js、Qt、JavaFX 和 NeutralinoJS](https://www.oldcai.com/programing/cross-platform-desktop-application-framework/)
+[跨平台桌面应用程序开发框架比较：NW.js 和 Electron 哪个好？](https://www.oldcai.com/programing/NW-js-vs-Electron/)
+[使用nwjs开发桌面应用之Hello,World! - 漫思 - 博客园](https://www.cnblogs.com/sexintercourse/p/16272591.html)
+[nwjs/nw.js: Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.](https://github.com/nwjs/nw.js)
+
+#electron #nw.js
+```
+
+
+```ad-note
+title: 每日一跃
+
+[Chrome 发布 WebGPU - 掘金](https://juejin.cn/post/7218964487776649273?)
+[Git Blame in VS Code: The Top 4 Extensions](https://www.kosli.com/blog/git-blame-in-vs-code-the-4-best-options/)
+[dialog | Electron](https://www.electronjs.org/zh/docs/latest/api/dialog#dialogshowsavedialogbrowserwindow-options)
+[Building a Vue 3 Desktop App With Pinia, Electron and Quasar](https://mokkapps.de/blog/building-a-vue-3-desktop-app-with-pinia-electron-and-quasar/)
+[electron 开发跨平台文件下载桌面端应用 - 够过瘾技术博客](https://www.gouguoyin.com/posts/10097.html)
+[tal-tech/electron-playground: This is a project to quickly experiment and learn electron related APIs](https://github.com/tal-tech/electron-playground)
+[(7条消息) 【electron-vue】踩坑笔记1_黑夜的风的博客-CSDN博客](https://blog.csdn.net/chanlingmai5374/article/details/86766010)
+[javascript - How to select file OR folder in file dialog - Stack Overflow](https://stackoverflow.com/questions/44773029/how-to-select-file-or-folder-in-file-dialog)
+[javascript - How to show an open file native dialog with Electron? - Stack Overflow](https://stackoverflow.com/questions/45849190/how-to-show-an-open-file-native-dialog-with-electron)
+[(7条消息) Electron学习 第十一章 dialog对话框_electron dialog进度条_梅子酱~的博客-CSDN博客](https://blog.csdn.net/mm_0123456789/article/details/122718003)
+[【Electron】实现下载、上传、系统提示功能（dialog模块） - 掘金](https://juejin.cn/post/7140085468917399583#heading-4)
+[Electron 入门 06 | 以记事本为例：运用 Menu 和 File 配置 Electron 菜单及新建文档 - 掘金](https://juejin.cn/post/7151381494186180638)
+[【Electron】解决windows系统无法创建文件夹及写文件的问题 - 掘金](https://juejin.cn/post/7145415649282490375)
+[file-saver&Blob、File前端导出文件 - _花小七 - 博客园](https://www.cnblogs.com/candy-xia/p/13176895.html)
+[(7条消息) JS新建文件到本地(不弹出保存文件框)_启步-全聪的博客-CSDN博客](https://blog.csdn.net/u013905123/article/details/87857426)
+[JS弹出下载对话框以及实现常见文件类型的下载 - 我是小茗同学 - 博客园](https://www.cnblogs.com/liuxianan/p/js-download.html)
+[JavaScript 弹窗 | 菜鸟教程](https://www.runoob.com/js/js-popup.html)
+[【优化file菜单及功能】创建工程名字为工程的绝对路径 - 企业工作台 - 上海曼光信息科技有限公司](https://e.gitee.com/max-optics/dashboard?issue=I6UAAO)
+
+#electron
+```
+
+
 ##  20230407 
 
 Electron 是一个使用 JavaScript, HTML 和 CSS 构建跨平台桌面应用的框架。当您的 Electron 应用程序出现内存问题时，您可以使用以下工具进行内存分析：

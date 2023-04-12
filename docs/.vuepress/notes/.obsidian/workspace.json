@@ -66,7 +66,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "workspce/Daily Record.md",
-                        "mode": "source",
+                        "mode": "preview",
                         "source": true
                       },
                       "pinned": true
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Vue3 组件库.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Vue3 组件库.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Vue3 组件库.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -284,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,8 +300,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7d114664536e87fe",
+  "active": "af0035df406cdc86",
   "lastOpenFiles": [
+    "workspce/Kanban.md",
     "workspce/Daily Record.md",
     "2023/Vue3 组件库.md",
     "2023/Book.md",
@@ -311,7 +311,6 @@
     "buckets/learn/ESlint.md",
     "workspce/Draft.md",
     "2022/Fiddler Everywhere Crack 尝试.md",
-    "Pasted image 20230319223823.png",
-    "workspce/Kanban.md"
+    "Pasted image 20230319223823.png"
   ]
 }
