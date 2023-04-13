@@ -5,6 +5,18 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230413 
+
+```ad-note
+title: Clash for Windows 使用教程
+
+[Clash for Windows 使用教程 – 第2页 – BosLife Support](https://wikibos.com/index.php/kb/clash-for-windows/2/)
+[欢迎来到 Skicat - Skicat 使用文档](https://gitbook.skicat.io/)
+[绕过系统代理 | Clash for Windows 代理工具使用说明](https://docs.gtk.pw/contents/bypass.html#%E8%AE%BE%E7%BD%AE%E6%96%B9%E5%BC%8F)
+[苹果电脑科学上网-Clash for Windows for Mac教程 - 冲克号-谷歌账号礼品卡充值游戏氪金](http://ckehao.com/381.html)
+
+```
+
 ##  20230412 
 
 [升级macOS 13 Ventura后打开某软件显示“已损坏，无法打开”怎么解决](https://mac.macsc.com/news/979.html)
