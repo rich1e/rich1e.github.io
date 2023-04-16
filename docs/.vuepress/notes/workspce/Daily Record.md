@@ -5,6 +5,111 @@ banner_y: 0.504
 
 > Just keep doing.
 
+##  20230416 
+
+```ad-note
+title: youtube-dl 批量下载
+
+1. 安装 youtube-dl 和 ffmpeg
+2. 下载多个文件
+
+~~~sh
+youtube-dl -c -i -a video_url.txt
+~~~
+
+- `-a` 参数表示读取外部链接文件。
+- `-c` 断点续传（如果由于意外原因下载中断了，再次启动下载命令时，可以实现断点续传）
+- `-i` 忽略报错（如果出现某些链接无法打开或者下载的问题，会自动绕过，继续下载其他视频）
+
+Ref
+
+[通过youtube-dl批量下载youtube 和B站视频](https://www.ectrv.com/?p=873)
+
+[youtube-dl | 海淘笔记](http://www.gonewto.com/?post/okaqu1)
+
+[通过 python 和 youtube-dl.exe 批量下载 youtube 视频-黑苹果动力](https://www.mfpud.com/topics/457/)
+
+#youtube-dl
+
+```
+
+```ad-note
+title: youtube-dl & FQA
+
+## 如果遇到“File name too long”。
+
+~~~sh
+youtube-dl -o "%(title).150B [%(id)s].%(ext)s"
+~~~
+
+## 关于下载文件时的403错误的修正
+
+“ERROR: unable to download video data: HTTP Error 403: Forbidden”，当出现这个错误时，可以尝试以下命令：
+
+~~~sh
+youtube-dl --rm-cache-dir
+~~~
+
+Ref
+
+[Unable to download videos due to "File name too long" · Issue #2329 · yt-dlp/yt-dlp · GitHub](https://github.com/yt-dlp/yt-dlp/issues/2329)
+
+[小技巧|yt-dlp下载YouTube视频提示文件名过长|File name too long | VPS小白](https://vpsxb.net/4013/)
+
+[File system write error in Windows with long >>title<< parameter in output file name · Issue #29975 · ytdl-org/youtube-dl · GitHub](https://github.com/ytdl-org/youtube-dl/issues/29975)
+
+[GitHub - szhaolu/YouTube-dl: YouTube-dl 安装](https://github.com/szhaolu/YouTube-dl)
+
+[Site Unreachable](https://bytefreaks.net/gnulinux/youtube-dl-error-unable-to-download-video-data-http-error-403-forbidden)
+
+#youtube-dl
+```
+
+```ad-note
+title: youtube-dl 其他技巧
+
+[【密技】Youtube-dl — 傳說中的辣個工具 - mashumeow的創作 - 巴哈姆特](https://home.gamer.com.tw/creationDetail.php?sn=5211217)
+[[筆記]如何使用 youtube-dl 下載 YouTube 會員限定的影片 – AlexLeo 的網路小窩](https://www.alexleo.click/%E7%AD%86%E8%A8%98%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-youtube-dl-%E4%B8%8B%E8%BC%89-youtube-%E6%9C%83%E5%93%A1%E9%99%90%E5%AE%9A%E7%9A%84%E5%BD%B1%E7%89%87/)
+[youtube-dl 使用小记 - faunjoe88 - 博客园](https://www.cnblogs.com/faunjoe88/p/7810427.html)
+[开源而强大的视频下载工具——youtube-dl - 少数派](https://sspai.com/post/42409)
+[youtube-dl 的一些实用技巧](https://aisensiy.me/youtube-dl/)
+[关于 youtube-dl 的两个问题 - V2EX](https://www.v2ex.com/t/823085)
+[使用 youtube-dl 下载视频 - 王诗翔](https://shixiangwang.github.io/home/cn/post/2020-12-23-use-youtube-download/)
+
+#youtube-dl
+```
+
+```ad-note
+title: youtube-dl & yt-dlp & you-get & lux
+
+[中文说明 · soimort/you-get Wiki](https://github.com/soimort/you-get/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E)
+[yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp#usage-and-options)
+[iawia002/lux: 👾 Fast and simple video download library and CLI tool written in Go](https://github.com/iawia002/lux#getting-started)
+
+```
+
+```ad-note
+title: 2023 Mac 开源命令行工具
+
+https://oskernellab.com/2021/02/15/2021/0215-0001-Using_FZF_to_Improve_Productivity/
+https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/web-search
+https://github.com/pyenv/pyenv/blob/master/COMMANDS.md#pyenv-install
+http://blog.itpub.net/69955379/viewspace-2910727/
+https://juejin.cn/post/7119653379587964941
+https://mp.weixin.qq.com/s?__biz=MzA5MzYyNzQ0MQ==&mid=2247512232&idx=1&sn=355246e5c81365e7f88036458ae508d1&chksm=905805f6a72f8ce0eef571bb14338b36bb32de2be9de529928aec7a52dbe790c0590f1e49c27&token=441186140&lang=zh_CN#rd
+https://zhuanlan.zhihu.com/p/386425054
+https://juejin.cn/post/7110009485783433229#heading-8
+https://blog.csdn.net/weixin_39802884/article/details/121721263?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D
+https://zhuanlan.zhihu.com/p/71716068
+https://forum.xda-developers.com/t/tutorial-no-root-fake-a-hollywood-hacker-screen-in-termux.4027429/
+https://github.com/dustinkirkland/hollywood
+https://github.com/yaronn/blessed-contrib
+https://droidyue.com/blog/2019/12/15/translate-words-in-terminal/
+https://github.com/soimort/translate-shell/issues/375
+https://translate.google.com/?langpair=auto%7Cauto&text=By%20default%2C%20text-to-speech%20functionality%20is%20provided%20by%20macOS%27s%20builtin%0A%60say%27%20command.%20This%20functionality%20may%20be%20improved%20in%20certain%20cases%20by%0Ainstalling%20one%20of%20mplayer%2C%20mpv%2C%20or%20mpg123%2C%20all%20of%20which%20are%20available%0Athrough%20%60brew%20install%27.
+
+```
+
 ##  20230414 
 
 ```ad-note
