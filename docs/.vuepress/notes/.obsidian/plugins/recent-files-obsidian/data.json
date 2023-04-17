@@ -5,6 +5,18 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
       "basename": "Homebrew",
       "path": "2023/Homebrew.md"
     },
@@ -21,10 +33,6 @@
       "path": "workspce/Kanban.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
     },
@@ -37,16 +45,8 @@
       "path": "buckets/learn/ESlint.md"
     },
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Fiddler Everywhere Crack 尝试",
       "path": "2022/Fiddler Everywhere Crack 尝试.md"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "Book Sync",
@@ -195,10 +195,6 @@
     {
       "basename": "Pasted image 20230319094601",
       "path": "images/2023/mac-update/Pasted image 20230319094601.png"
-    },
-    {
-      "basename": "Pasted image 20230319094613",
-      "path": "images/2023/mac-update/Pasted image 20230319094613.png"
     }
   ],
   "omittedPaths": [],

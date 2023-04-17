@@ -6771,6 +6771,7 @@ var VARIABLE_SYNTAX = "{{value:<variable name>}}";
 var FIELD_VAR_SYNTAX = "{{field:<field name>}}";
 var MATH_VALUE_SYNTAX = "{{mvalue}}";
 var LINKCURRENT_SYNTAX = "{{linkcurrent}}";
+var SELECTED_SYNTAX = "{{selected}}";
 var FILE_NAME_FORMAT_SYNTAX = [
   DATE_SYNTAX,
   "{{date:<dateformat>}}",
@@ -6809,6 +6810,7 @@ var INLINE_JAVASCRIPT_REGEX = new RegExp(
 );
 var MATH_VALUE_REGEX = new RegExp(/{{MVALUE}}/i);
 var TITLE_REGEX = new RegExp(/{{TITLE}}/i);
+var SELECTED_REGEX = new RegExp(/{{SELECTED}}/i);
 var FILE_LINK_REGEX = new RegExp(/\[\[([^\]]*)$/);
 var TAG_REGEX = new RegExp(/#([^ ]*)$/);
 var DATE_SYNTAX_SUGGEST_REGEX = new RegExp(
@@ -6843,6 +6845,9 @@ var MATH_VALUE_SYNTAX_SUGGEST_REGEX = new RegExp(
 );
 var TITLE_SYNTAX_SUGGEST_REGEX = new RegExp(
   /{{[T]?[I]?[T]?[L]?[E]?[}]?[}]?/i
+);
+var SELECTED_SYNTAX_SUGGEST_REGEX = new RegExp(
+  /{{[S]?[E]?[L]?[E]?[C]?[T]?[E]?[D]?[}]?[}]?/i
 );
 var fileExistsIncrement = "Increment the file name";
 var fileExistsAppendToBottom = "Append to the bottom of the file";
@@ -9049,6 +9054,14 @@ var Formatter = class {
     }
     return output;
   }
+  async replaceSelectedInString(input) {
+    let output = input;
+    const selectedText = await this.getSelectedText();
+    while (SELECTED_REGEX.test(output)) {
+      output = this.replacer(output, SELECTED_REGEX, selectedText);
+    }
+    return output;
+  }
   async replaceLinkToCurrentFileInString(input) {
     const currentFilePathLink = this.getCurrentFileLink();
     let output = input;
@@ -9371,6 +9384,9 @@ var FormatSyntaxSuggester = class extends TextInputSuggest {
         9 /* MathValue */,
         MATH_VALUE_SYNTAX
       );
+    const selectedMatch = SELECTED_SYNTAX_SUGGEST_REGEX.exec(input);
+    if (selectedMatch)
+      callback(selectedMatch, 7 /* Macro */, SELECTED_SYNTAX);
     const variableMatch = VARIABLE_SYNTAX_SUGGEST_REGEX.exec(input);
     if (variableMatch)
       callback(variableMatch, 5 /* Variable */, "{{VALUE:}}");
@@ -10029,7 +10045,7 @@ var QuickAddApi = class {
         await choiceExecutor.execute(choice);
         choiceExecutor.variables.clear();
       },
-      format: async (input, variables) => {
+      format: async (input, variables, shouldClearVariables = true) => {
         if (variables) {
           Object.keys(variables).forEach((key) => {
             choiceExecutor.variables.set(key, variables[key]);
@@ -10040,7 +10056,9 @@ var QuickAddApi = class {
           plugin,
           choiceExecutor
         ).formatFileContent(input);
-        choiceExecutor.variables.clear();
+        if (shouldClearVariables) {
+          choiceExecutor.variables.clear();
+        }
         return output;
       },
       utility: {
@@ -11567,6 +11585,7 @@ var CompleteFormatter = class extends Formatter {
     output = await this.replaceTemplateInString(output);
     output = this.replaceDateInString(output);
     output = await this.replaceValueInString(output);
+    output = await this.replaceSelectedInString(output);
     output = await this.replaceDateVariableInString(output);
     output = await this.replaceVariableInString(output);
     output = await this.replaceFieldVarInString(output);
@@ -12880,8 +12899,10 @@ var UserScriptSettingsModal = class extends import_obsidian23.Modal {
       this.command.settings = {};
     if (this.settings.options) {
       for (const setting in this.settings.options) {
-        if (this.command.settings[setting] === void 0 && typeof this.settings.options === "object" && this.settings.options && "setting" in this.settings.options && typeof this.settings.options.setting === "object" && this.settings.options.setting && "defaultValue" in this.settings.options.setting) {
-          this.command.settings[setting] = this.settings.options.setting.defaultValue;
+        const valueIsNotSetAlready = this.command.settings[setting] === void 0;
+        const defaultValueAvailable = "defaultValue" in this.settings.options[setting] && this.settings.options[setting].defaultValue !== void 0;
+        if (valueIsNotSetAlready && defaultValueAvailable) {
+          this.command.settings[setting] = this.settings.options[setting].defaultValue;
         }
       }
     }

@@ -287,7 +287,7 @@
       },
       "active": "daabbc0cd8e02983"
     },
-    "daily-record": {
+    "record": {
       "main": {
         "id": "6ba69e80e9ab15be",
         "type": "split",
@@ -365,21 +365,9 @@
                       },
                       "pinned": true
                     }
-                  },
-                  {
-                    "id": "7d114664536e87fe",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "buckets/technology/Clash.md",
-                        "mode": "preview",
-                        "source": false
-                      }
-                    }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -441,8 +429,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 285.5,
-        "collapsed": true
+        "width": 248.5
       },
       "right": {
         "id": "064593a9d8021565",
@@ -459,7 +446,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "workspce/Daily Record.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -476,7 +462,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "workspce/Daily Record.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -498,9 +483,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "workspce/Daily Record.md"
-                  }
+                  "state": {}
                 }
               },
               {
@@ -520,7 +503,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "99022f2b9cdd4d81",
@@ -556,8 +539,8 @@
           "obsidian-excalidraw-plugin:Create new drawing": false
         }
       },
-      "active": "af0035df406cdc86"
+      "active": "d9995859cf1212a3"
     }
   },
-  "active": "daily-record"
+  "active": "record"
 }

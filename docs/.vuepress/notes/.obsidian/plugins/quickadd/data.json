@@ -69,7 +69,7 @@
   "devMode": false,
   "templateFolderPath": "buckets/templates",
   "announceUpdates": true,
-  "version": "0.20.1",
+  "version": "0.21.0",
   "migrations": {
     "migrateToMacroIDFromEmbeddedMacro": true,
     "useQuickAddTemplateFolder": true,
