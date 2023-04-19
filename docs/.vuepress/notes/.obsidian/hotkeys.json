@@ -1,1 +1,11 @@
-{}
+{
+  "templater-obsidian:buckets/templater/update-time.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ]
+}

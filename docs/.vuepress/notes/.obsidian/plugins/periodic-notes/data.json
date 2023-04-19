@@ -1,31 +1,35 @@
 {
-  "showGettingStartedBanner": true,
+  "showGettingStartedBanner": false,
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY-MM-DD_dddd",
     "folder": "buckets/daily",
-    "template": "buckets/templates/Obsidian使用：日记模板",
+    "template": "buckets/templates/Obsidian：日记模板.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   }
 }

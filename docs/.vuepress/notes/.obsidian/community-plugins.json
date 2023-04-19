@@ -26,5 +26,6 @@
   "obsidian-charts",
   "obsidian-vimrc-support",
   "obsidian-linter",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "templater-obsidian"
 ]

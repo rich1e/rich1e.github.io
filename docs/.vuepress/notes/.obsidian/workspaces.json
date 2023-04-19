@@ -299,7 +299,7 @@
               {
                 "id": "407f3574ed32ad7f",
                 "type": "tabs",
-                "dimension": 50,
+                "dimension": 50.2112676056338,
                 "children": [
                   {
                     "id": "0e8ae64d066956a7",
@@ -336,7 +336,7 @@
               {
                 "id": "6e227f9ee0584db0",
                 "type": "tabs",
-                "dimension": 50,
+                "dimension": 49.7887323943662,
                 "children": [
                   {
                     "id": "daabbc0cd8e02983",
@@ -366,8 +366,7 @@
                       "pinned": true
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical"
@@ -429,7 +428,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 248.5
+        "width": 248.5,
+        "collapsed": true
       },
       "right": {
         "id": "064593a9d8021565",
@@ -446,6 +446,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "workspce/Draft.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -462,6 +463,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "workspce/Draft.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -483,7 +485,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "workspce/Draft.md"
+                  }
                 }
               },
               {
@@ -503,7 +507,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 5
           },
           {
             "id": "99022f2b9cdd4d81",
@@ -522,24 +526,24 @@
           }
         ],
         "direction": "horizontal",
-        "width": 264.5,
-        "collapsed": true
+        "width": 264.5
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-excalidraw-plugin:Create new drawing": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "workspaces:Manage workspace layouts": false,
-          "canvas:Create new canvas": false,
+          "templater-obsidian:Templater": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "periodic-notes:Open today": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false
+          "periodic-notes:Open today": false
         }
       },
-      "active": "d9995859cf1212a3"
+      "active": "daabbc0cd8e02983"
     }
   },
   "active": "record"
