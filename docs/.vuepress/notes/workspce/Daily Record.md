@@ -24,6 +24,13 @@ Apps
 - Oulu Dictionary (Eudic)
 - Amphetamine
 
+## Script
+
+```powershell
+cd C:\ProgramData\MaxOptics\MOPassive\2022\MOService\bin\Release
+.\mol-mid-pas-console.exe
+```
+
 ## Git Flow
 
 获取 log 中最近10小时的 commit
