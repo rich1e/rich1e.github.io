@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-04-21_Friday",
+      "path": "buckets/daily/2023-04-21_Friday.md"
+    },
+    {
       "basename": "2023-04-20_Thursday",
       "path": "buckets/daily/2023-04-20_Thursday.md"
     },
     {
-      "basename": "2023-04-19_Wednesday",
-      "path": "buckets/daily/2023-04-19_Wednesday.md"
-    },
-    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "2023-04-19_Wednesday",
+      "path": "buckets/daily/2023-04-19_Wednesday.md"
     },
     {
       "basename": "2023-04-18_Tuesday",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-02-20_Monday",
       "path": "buckets/daily/2023-02-20_Monday.md"
-    },
-    {
-      "basename": "2023-02-17_Friday",
-      "path": "buckets/daily/2023-02-17_Friday.md"
     }
   ],
   "omittedPaths": [],
