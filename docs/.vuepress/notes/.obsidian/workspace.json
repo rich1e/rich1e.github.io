@@ -83,8 +83,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-04-21_Friday.md",
-                    "mode": "preview",
+                    "file": "2023/Mac Update.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-04-21_Friday.md",
+                "file": "2023/Mac Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-04-21_Friday.md",
+                "file": "2023/Mac Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-04-21_Friday.md"
+                "file": "2023/Mac Update.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -269,8 +269,11 @@
   },
   "active": "c56e01d18be24c82",
   "lastOpenFiles": [
-    "buckets/daily/2023-04-20_Thursday.md",
+    "2023/meta/Pasted image 20230422220814.png",
+    "2023/meta/Pasted image 20230422214233.png",
+    "2023/meta",
     "buckets/daily/2023-04-21_Friday.md",
+    "buckets/daily/2023-04-20_Thursday.md",
     "workspce/Daily Record.md",
     "buckets/daily/2023-04-19_Wednesday.md",
     "buckets/daily/2023-04-18_Tuesday.md",
@@ -297,7 +300,6 @@
     "buckets/daily/2023-04-12_Wednesday.md",
     "buckets/daily/2023-04-11_Tuesday.md",
     "buckets/daily/2023-04-10_Monday.md",
-    "buckets/daily/2023-04-04_Tuesday.md",
     "Untitled.canvas"
   ]
 }

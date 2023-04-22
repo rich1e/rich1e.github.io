@@ -132,6 +132,21 @@ https://sysin.org
 
 ![[images/2023/mac-update/Pasted image 20230319072545.png]]
 
+![[2023/meta/Pasted image 20230422214233.png]]
+
+```md
+OpenCore Legacy Patcher has detected you're running without Root Patches, and would like to install them.
+
+However we've detected a new version of OCLP on Github. Would you like to view this?
+
+Current Version: 0.6.1
+Latest Version: 0.6.4
+
+Note: After downloading the latest OCLP version, open the app and run the 'Post Install Root Patcher' from the main menu.
+```
+
+![[2023/meta/Pasted image 20230422220814.png]]
+
 [内核错误 | OpenCore 安装指南](https://thrrip.github.io/OpenCore-Install-Guide/troubleshooting/extended/kernel-issues.html#%E5%8D%A1%E5%9C%A8-ioconsoleusers-gioscreenlock-giolockstate-3-%E6%88%96%E9%99%84%E8%BF%91)
 [使用 OpenCore Legacy Patcher 为 2015 款 MacBook Pro 激活 AirPlay - Marco Nie](https://blog.niekun.net/archives/2353.html)
 [macOS 下载汇总（系统、应用和教程） - sysin | SYStem INside | 软件与技术分享](https://sysin.org/blog/macOS/)

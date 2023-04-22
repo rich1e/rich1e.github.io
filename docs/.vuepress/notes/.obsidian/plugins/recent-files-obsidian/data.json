@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
       "basename": "2023-04-21_Friday",
       "path": "buckets/daily/2023-04-21_Friday.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-02-21_Tuesday",
       "path": "buckets/daily/2023-02-21_Tuesday.md"
-    },
-    {
-      "basename": "2023-02-20_Monday",
-      "path": "buckets/daily/2023-02-20_Monday.md"
     }
   ],
   "omittedPaths": [],
