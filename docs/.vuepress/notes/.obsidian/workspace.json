@@ -34,7 +34,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "workspce/Daily Record.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   },
                   "pinned": true
@@ -78,13 +78,13 @@
                 }
               },
               {
-                "id": "c56e01d18be24c82",
+                "id": "6675df0eebe95921",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2023/Mac Update.md",
-                    "mode": "source",
+                    "file": "buckets/daily/2023-04-24_Monday.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Mac Update.md",
+                "file": "buckets/daily/2023-04-24_Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Mac Update.md",
+                "file": "buckets/daily/2023-04-24_Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Mac Update.md"
+                "file": "buckets/daily/2023-04-24_Monday.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -267,18 +267,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c56e01d18be24c82",
+  "active": "6675df0eebe95921",
   "lastOpenFiles": [
-    "2023/meta/Pasted image 20230422220814.png",
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-04-24_Monday.md",
     "2023/meta/Pasted image 20230422214233.png",
+    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
+    "2023/meta/Pasted image 20230422220814.png",
+    "2023/Book.md",
+    "buckets/work-experience/max-optics/Attr - 动态表单Slots设计.md",
+    "buckets/work-experience/max-optics/Attr - 动态表单设计.md",
+    "buckets/daily/2023-04-23_Sunday.md",
+    "buckets/daily/2023-01-07_Saturday.md",
+    "2023/Mac Update.md",
     "2023/meta",
     "buckets/daily/2023-04-21_Friday.md",
     "buckets/daily/2023-04-20_Thursday.md",
-    "workspce/Daily Record.md",
     "buckets/daily/2023-04-19_Wednesday.md",
     "buckets/daily/2023-04-18_Tuesday.md",
     "workspce/Draft.md",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "buckets/daily/2023-04-16_Sunday.md",
     "buckets/daily/2023-04-07_Friday.md",
     "HomePage.md",
@@ -293,13 +300,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "buckets/templater",
-    "2023-04-20.md",
-    "buckets/daily/2023-04-17_Monday.md",
-    "buckets/daily/2023-04-14_Friday.md",
-    "buckets/daily/2023-04-13_Thursday.md",
-    "buckets/daily/2023-04-12_Wednesday.md",
-    "buckets/daily/2023-04-11_Tuesday.md",
-    "buckets/daily/2023-04-10_Monday.md",
     "Untitled.canvas"
   ]
 }
