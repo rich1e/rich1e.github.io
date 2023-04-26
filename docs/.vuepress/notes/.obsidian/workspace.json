@@ -83,9 +83,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-04-25_Tuesday.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "buckets/daily/2023-04-26_Wednesday.md",
+                    "mode": "preview",
+                    "source": true
                   }
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-04-25_Tuesday.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-04-25_Tuesday.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-04-25_Tuesday.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -267,15 +267,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6675df0eebe95921",
+  "active": "af0035df406cdc86",
   "lastOpenFiles": [
-    "workspce/Daily Record.md",
-    "buckets/daily/2023-04-25_Tuesday.md",
+    "buckets/daily/2023-04-26_Wednesday.md",
     "buckets/daily/2023-04-24_Monday.md",
+    "buckets/daily/2023-04-25_Tuesday.md",
+    "2023/Book.md",
+    "buckets/travel/岛国游.md",
+    "HomePage.md",
+    "workspce/Daily Record.md",
     "2023/meta/Pasted image 20230422214233.png",
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "2023/meta/Pasted image 20230422220814.png",
-    "2023/Book.md",
     "buckets/work-experience/max-optics/Attr - 动态表单Slots设计.md",
     "buckets/work-experience/max-optics/Attr - 动态表单设计.md",
     "buckets/daily/2023-04-23_Sunday.md",
@@ -289,7 +292,6 @@
     "workspce/Draft.md",
     "buckets/daily/2023-04-16_Sunday.md",
     "buckets/daily/2023-04-07_Friday.md",
-    "HomePage.md",
     "buckets/templates/Obsidian：日记模板.md",
     "buckets/templater/update-time.md",
     "buckets/templater/Obsidian：Quick Day.md",
@@ -298,8 +300,6 @@
     "buckets/script/get_guid.js",
     "buckets/script/get_guid.js.md",
     "buckets/script",
-    "Untitled 1.md",
-    "Untitled.md",
     "buckets/templater",
     "Untitled.canvas"
   ]

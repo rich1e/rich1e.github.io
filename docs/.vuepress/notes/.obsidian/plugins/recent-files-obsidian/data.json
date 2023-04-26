@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-04-25_Tuesday",
-      "path": "buckets/daily/2023-04-25_Tuesday.md"
-    },
-    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "2023-04-26_Wednesday",
+      "path": "buckets/daily/2023-04-26_Wednesday.md"
+    },
+    {
       "basename": "2023-04-24_Monday",
       "path": "buckets/daily/2023-04-24_Monday.md"
+    },
+    {
+      "basename": "2023-04-25_Tuesday",
+      "path": "buckets/daily/2023-04-25_Tuesday.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "岛国游",
+      "path": "buckets/travel/岛国游.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Pasted image 20230422214233",
@@ -23,10 +39,6 @@
     {
       "basename": "Pasted image 20230422220814",
       "path": "2023/meta/Pasted image 20230422220814.png"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
     },
     {
       "basename": "Attr - 动态表单Slots设计",
@@ -75,10 +87,6 @@
     {
       "basename": "2023-04-07_Friday",
       "path": "buckets/daily/2023-04-07_Friday.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Obsidian：日记模板",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-03-10_Friday",
       "path": "buckets/daily/2023-03-10_Friday.md"
-    },
-    {
-      "basename": "2023-03-09_Thursday",
-      "path": "buckets/daily/2023-03-09_Thursday.md"
-    },
-    {
-      "basename": "2023-03-08_Wednesday",
-      "path": "buckets/daily/2023-03-08_Wednesday.md"
     }
   ],
   "omittedPaths": [],
