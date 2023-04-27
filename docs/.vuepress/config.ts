@@ -31,6 +31,12 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     // ["link", { rel: "mask-icon", href: "/images/favicon/safari-pinned-tab.svg", color: "#3a0839" }],
     ["link", { rel: "shortcut icon", href: "/images/favicon/favicon.ico" }],
     /**
+     * 首页自定义样式
+     * @see https://blog.csdn.net/sinat_31213021/article/details/119383416
+     * @see https://juejin.cn/post/7054090319368814623
+     */
+    ["link", { rel: "stylesheet", href: "/css/index.css" }],
+    /**
      * vuepress配置谷歌统计
      * @see https://www.sofineday.com/vuepress-google-analytics.html
      */
@@ -107,7 +113,19 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
      */
     navbar: [
       {
-        text: "工作",
+        text: "生活",
+        link: "/lifestyle/",
+      },
+      {
+        text: "思考",
+        link: "/meditate/",
+      },
+      {
+        text: "旅游",
+        link: "/traveling/",
+      },
+      {
+        text: "√get",
         children: [
           {
             text: "便签",
@@ -127,18 +145,6 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
           },
           "/workspace/README.md",
         ],
-      },
-      {
-        text: "生活",
-        link: "/lifestyle/",
-      },
-      {
-        text: "思考",
-        link: "/meditate/",
-      },
-      {
-        text: "旅游",
-        link: "/traveling/",
       },
       {
         text: "GitHub",
