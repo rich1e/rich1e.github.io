@@ -5,6 +5,78 @@
       "path": "buckets/daily/2023-04-27_Thursday.md"
     },
     {
+      "basename": "vscode-vim-easymotion",
+      "path": "work-records/vscode-vim-easymotion.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "vscode-vim-text-object",
+      "path": "work-records/vscode-vim-text-object.md"
+    },
+    {
+      "basename": "vscode-vim-surround",
+      "path": "work-records/vscode-vim-surround.md"
+    },
+    {
+      "basename": "vscode-vim-sneak",
+      "path": "work-records/vscode-vim-sneak.md"
+    },
+    {
+      "basename": "vscode-vim-search",
+      "path": "work-records/vscode-vim-search.md"
+    },
+    {
+      "basename": "vscode-vim-replace",
+      "path": "work-records/vscode-vim-replace.md"
+    },
+    {
+      "basename": "vscode-vim-navigation",
+      "path": "work-records/vscode-vim-navigation.md"
+    },
+    {
+      "basename": "vscode-vim-multicursor",
+      "path": "work-records/vscode-vim-multicursor.md"
+    },
+    {
+      "basename": "vscode-vim-indent-object",
+      "path": "work-records/vscode-vim-indent-object.md"
+    },
+    {
+      "basename": "vscode-vim-fold",
+      "path": "work-records/vscode-vim-fold.md"
+    },
+    {
+      "basename": "vscode-markdown",
+      "path": "work-records/vscode-markdown.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
+    },
+    {
+      "basename": "Mac & Electron 跨端开发体验",
+      "path": "2023/Mac & Electron 跨端开发体验.md"
+    },
+    {
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "单机版启动缓慢调查",
+      "path": "2023/单机版启动缓慢调查.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
@@ -19,10 +91,6 @@
     {
       "basename": "2023-04-25_Tuesday",
       "path": "buckets/daily/2023-04-25_Tuesday.md"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
     },
     {
       "basename": "岛国游",
@@ -59,10 +127,6 @@
     {
       "basename": "2023-01-07_Saturday",
       "path": "buckets/daily/2023-01-07_Saturday.md"
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
     },
     {
       "basename": "2023-04-21_Friday",
@@ -135,70 +199,6 @@
     {
       "basename": "2023-04-04_Tuesday",
       "path": "buckets/daily/2023-04-04_Tuesday.md"
-    },
-    {
-      "basename": "2023-04-03_Monday",
-      "path": "buckets/daily/2023-04-03_Monday.md"
-    },
-    {
-      "basename": "2023-03-31_Friday",
-      "path": "buckets/daily/2023-03-31_Friday.md"
-    },
-    {
-      "basename": "2023-03-30_Thursday",
-      "path": "buckets/daily/2023-03-30_Thursday.md"
-    },
-    {
-      "basename": "2023-03-29_Wednesday",
-      "path": "buckets/daily/2023-03-29_Wednesday.md"
-    },
-    {
-      "basename": "2023-03-28_Tuesday",
-      "path": "buckets/daily/2023-03-28_Tuesday.md"
-    },
-    {
-      "basename": "2023-03-27_Monday",
-      "path": "buckets/daily/2023-03-27_Monday.md"
-    },
-    {
-      "basename": "2023-03-24_Friday",
-      "path": "buckets/daily/2023-03-24_Friday.md"
-    },
-    {
-      "basename": "2023-03-23_Thursday",
-      "path": "buckets/daily/2023-03-23_Thursday.md"
-    },
-    {
-      "basename": "2023-03-22_Wednesday",
-      "path": "buckets/daily/2023-03-22_Wednesday.md"
-    },
-    {
-      "basename": "2023-03-21_Tuesday",
-      "path": "buckets/daily/2023-03-21_Tuesday.md"
-    },
-    {
-      "basename": "2023-03-20_Monday",
-      "path": "buckets/daily/2023-03-20_Monday.md"
-    },
-    {
-      "basename": "2023-03-18_Saturday",
-      "path": "buckets/daily/2023-03-18_Saturday.md"
-    },
-    {
-      "basename": "2023-03-17_Friday",
-      "path": "buckets/daily/2023-03-17_Friday.md"
-    },
-    {
-      "basename": "2023-03-16_Thursday",
-      "path": "buckets/daily/2023-03-16_Thursday.md"
-    },
-    {
-      "basename": "2023-03-14_Tuesday",
-      "path": "buckets/daily/2023-03-14_Tuesday.md"
-    },
-    {
-      "basename": "2023-03-13_Monday",
-      "path": "buckets/daily/2023-03-13_Monday.md"
     }
   ],
   "omittedPaths": [],
