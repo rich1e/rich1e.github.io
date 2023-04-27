@@ -4,7 +4,7 @@ heroText: null
 tagline: null
 title: Rich1e Kung
 date: 2021-11-30
-footer: "MIT Licensed | Copyright © 2021-present, Rich1e Kung"
+footer: "MIT Licensed | Copyright © 2023-present, Rich1e Kung"
 ---
 
 <!--

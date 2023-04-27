@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-04-27_Thursday",
+      "path": "buckets/daily/2023-04-27_Thursday.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-03-13_Monday",
       "path": "buckets/daily/2023-03-13_Monday.md"
-    },
-    {
-      "basename": "2023-03-10_Friday",
-      "path": "buckets/daily/2023-03-10_Friday.md"
     }
   ],
   "omittedPaths": [],
