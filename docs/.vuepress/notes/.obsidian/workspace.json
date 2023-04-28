@@ -83,7 +83,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-04-27_Thursday.md",
+                    "file": "buckets/daily/2023-04-28_Friday.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-04-27_Thursday.md",
+                "file": "buckets/daily/2023-04-28_Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-04-27_Thursday.md",
+                "file": "buckets/daily/2023-04-28_Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-04-27_Thursday.md"
+                "file": "buckets/daily/2023-04-28_Friday.md"
               }
             }
           },
@@ -269,6 +269,9 @@
   },
   "active": "6675df0eebe95921",
   "lastOpenFiles": [
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-04-28_Friday.md",
+    "buckets/daily/2023-04-27_Thursday.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim.md",
     "work-records/vscode-vim-text-object.md",
@@ -287,15 +290,12 @@
     "2023/Homebrew.md",
     "2023/Book.md",
     "2023/单机版启动缓慢调查.md",
-    "buckets/daily/2023-04-27_Thursday.md",
-    "workspce/Daily Record.md",
     "buckets/daily/2023-04-26_Wednesday.md",
     "buckets/daily/2023-04-24_Monday.md",
     "buckets/daily/2023-04-25_Tuesday.md",
     "buckets/travel/岛国游.md",
     "HomePage.md",
     "2023/meta/Pasted image 20230422214233.png",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "2023/meta/Pasted image 20230422220814.png",
     "2023/meta",
     "buckets/script/get_guid.js",

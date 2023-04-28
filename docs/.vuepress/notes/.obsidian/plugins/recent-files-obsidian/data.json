@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-04-28_Friday",
+      "path": "buckets/daily/2023-04-28_Friday.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
       "basename": "2023-04-27_Thursday",
       "path": "buckets/daily/2023-04-27_Thursday.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "单机版启动缓慢调查",
       "path": "2023/单机版启动缓慢调查.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "2023-04-26_Wednesday",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-04-10_Monday",
       "path": "buckets/daily/2023-04-10_Monday.md"
-    },
-    {
-      "basename": "2023-04-04_Tuesday",
-      "path": "buckets/daily/2023-04-04_Tuesday.md"
     }
   ],
   "omittedPaths": [],
