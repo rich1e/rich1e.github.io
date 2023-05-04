@@ -83,9 +83,21 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-04-28_Friday.md",
+                    "file": "buckets/daily/2023-05-04_Thursday.md",
                     "mode": "preview",
                     "source": true
+                  }
+                }
+              },
+              {
+                "id": "917050766f6c0634",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "buckets/daily/2023-04-28_Friday.md",
+                    "mode": "preview",
+                    "source": false
                   }
                 }
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-04-28_Friday.md",
+                "file": "buckets/daily/2023-05-04_Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-04-28_Friday.md",
+                "file": "buckets/daily/2023-05-04_Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-04-28_Friday.md"
+                "file": "buckets/daily/2023-05-04_Thursday.md"
               }
             }
           },
@@ -269,8 +281,15 @@
   },
   "active": "6675df0eebe95921",
   "lastOpenFiles": [
-    "workspce/Daily Record.md",
     "buckets/daily/2023-04-28_Friday.md",
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-05-04_Thursday.md",
+    "buckets/daily/meta/Pasted image 20230504141008.png",
+    "buckets/daily/meta",
+    "2023/Book.md",
+    "2023/Vue3 组件库.md",
+    "2023/Mac Update.md",
+    "2023/Mac & Electron 跨端开发体验.md",
     "buckets/daily/2023-04-27_Thursday.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim.md",
@@ -284,17 +303,11 @@
     "work-records/vscode-vim-indent-object.md",
     "work-records/vscode-vim-fold.md",
     "work-records/vscode-markdown.md",
-    "2023/Mac Update.md",
-    "2023/Vue3 组件库.md",
-    "2023/Mac & Electron 跨端开发体验.md",
     "2023/Homebrew.md",
-    "2023/Book.md",
     "2023/单机版启动缓慢调查.md",
     "buckets/daily/2023-04-26_Wednesday.md",
     "buckets/daily/2023-04-24_Monday.md",
     "buckets/daily/2023-04-25_Tuesday.md",
-    "buckets/travel/岛国游.md",
-    "HomePage.md",
     "2023/meta/Pasted image 20230422214233.png",
     "2023/meta/Pasted image 20230422220814.png",
     "2023/meta",

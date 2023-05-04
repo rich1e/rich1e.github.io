@@ -20,7 +20,7 @@ Apps
 - Clash
 - Zotero
 - Obsidian (update before opening)
-- WeChat for enterprise
+- WeChat for Enterprise
 - Oulu Dictionary (Eudic)
 - Amphetamine
 
