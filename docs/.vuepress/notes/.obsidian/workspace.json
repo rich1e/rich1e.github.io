@@ -83,7 +83,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-04_Thursday.md",
+                    "file": "buckets/daily/2023-05-05_Friday.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-04_Thursday.md",
+                "file": "buckets/daily/2023-05-05_Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-04_Thursday.md",
+                "file": "buckets/daily/2023-05-05_Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-04_Thursday.md"
+                "file": "buckets/daily/2023-05-05_Friday.md"
               }
             }
           },
@@ -281,9 +281,11 @@
   },
   "active": "6675df0eebe95921",
   "lastOpenFiles": [
-    "buckets/daily/2023-04-28_Friday.md",
     "workspce/Daily Record.md",
+    "buckets/daily/2023-05-05_Friday.md",
+    "buckets/daily/2023-04-28_Friday.md",
     "buckets/daily/2023-05-04_Thursday.md",
+    "HomePage.md",
     "buckets/daily/meta/Pasted image 20230504141008.png",
     "buckets/daily/meta",
     "2023/Book.md",
@@ -307,7 +309,6 @@
     "2023/单机版启动缓慢调查.md",
     "buckets/daily/2023-04-26_Wednesday.md",
     "buckets/daily/2023-04-24_Monday.md",
-    "buckets/daily/2023-04-25_Tuesday.md",
     "2023/meta/Pasted image 20230422214233.png",
     "2023/meta/Pasted image 20230422220814.png",
     "2023/meta",
