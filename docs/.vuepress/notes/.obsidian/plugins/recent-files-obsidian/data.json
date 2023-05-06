@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-04-28_Friday",
-      "path": "buckets/daily/2023-04-28_Friday.md"
+      "basename": "2023-05-06_Saturday",
+      "path": "buckets/daily/2023-05-06_Saturday.md"
     },
     {
-      "basename": "2023-04-29_Saturday",
-      "path": "buckets/daily/2023-04-29_Saturday.md"
+      "basename": "2023-05-05_Friday",
+      "path": "buckets/daily/2023-05-05_Friday.md"
+    },
+    {
+      "basename": "javascript-async-await",
+      "path": "work-records/javascript-async-await.md"
+    },
+    {
+      "basename": "git-remote-host-identification-has-changed",
+      "path": "work-records/git-remote-host-identification-has-changed.md"
+    },
+    {
+      "basename": "git-open",
+      "path": "work-records/git-open.md"
+    },
+    {
+      "basename": "vscode-vim-indent-object",
+      "path": "work-records/vscode-vim-indent-object.md"
+    },
+    {
+      "basename": "vscode-vim-easymotion",
+      "path": "work-records/vscode-vim-easymotion.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "vscode-markdown",
+      "path": "work-records/vscode-markdown.md"
     },
     {
       "basename": "2023-05-04_Thursday",
       "path": "buckets/daily/2023-05-04_Thursday.md"
     },
     {
-      "basename": "2023-05-05_Friday",
-      "path": "buckets/daily/2023-05-05_Friday.md"
+      "basename": "2023-04-29_Saturday",
+      "path": "buckets/daily/2023-04-29_Saturday.md"
+    },
+    {
+      "basename": "2023-04-28_Friday",
+      "path": "buckets/daily/2023-04-28_Friday.md"
     },
     {
       "basename": "Daily Record",
@@ -49,14 +81,6 @@
       "path": "buckets/daily/2023-04-27_Thursday.md"
     },
     {
-      "basename": "vscode-vim-easymotion",
-      "path": "work-records/vscode-vim-easymotion.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
       "basename": "vscode-vim-text-object",
       "path": "work-records/vscode-vim-text-object.md"
     },
@@ -85,16 +109,8 @@
       "path": "work-records/vscode-vim-multicursor.md"
     },
     {
-      "basename": "vscode-vim-indent-object",
-      "path": "work-records/vscode-vim-indent-object.md"
-    },
-    {
       "basename": "vscode-vim-fold",
       "path": "work-records/vscode-vim-fold.md"
-    },
-    {
-      "basename": "vscode-markdown",
-      "path": "work-records/vscode-markdown.md"
     },
     {
       "basename": "Homebrew",
@@ -183,22 +199,6 @@
     {
       "basename": "Obsidian：Quick Day",
       "path": "buckets/templater/Obsidian：Quick Day.md"
-    },
-    {
-      "basename": "Obsidian：Day Planner Template",
-      "path": "buckets/templates/Obsidian：Day Planner Template.md"
-    },
-    {
-      "basename": "2023-04-17_Monday",
-      "path": "buckets/daily/2023-04-17_Monday.md"
-    },
-    {
-      "basename": "2023-04-14_Friday",
-      "path": "buckets/daily/2023-04-14_Friday.md"
-    },
-    {
-      "basename": "2023-04-13_Thursday",
-      "path": "buckets/daily/2023-04-13_Thursday.md"
     }
   ],
   "omittedPaths": [],
