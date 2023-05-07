@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-07_Sunday",
+      "path": "buckets/daily/2023-05-07_Sunday.md"
+    },
+    {
       "basename": "2023-05-06_Saturday",
       "path": "buckets/daily/2023-05-06_Saturday.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "update-time",
       "path": "buckets/templater/update-time.md"
-    },
-    {
-      "basename": "Obsidian：Quick Day",
-      "path": "buckets/templater/Obsidian：Quick Day.md"
     }
   ],
   "omittedPaths": [],
