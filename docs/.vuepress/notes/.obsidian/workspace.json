@@ -83,8 +83,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-07_Sunday.md",
-                    "mode": "source",
+                    "file": "buckets/daily/2023-05-08_Monday.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-07_Sunday.md",
+                "file": "buckets/daily/2023-05-08_Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-07_Sunday.md",
+                "file": "buckets/daily/2023-05-08_Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-07_Sunday.md"
+                "file": "buckets/daily/2023-05-08_Monday.md"
               }
             }
           },
@@ -276,9 +277,20 @@
   },
   "active": "27747f461f41a346",
   "lastOpenFiles": [
-    "buckets/daily/2023-05-06_Saturday.md",
-    "buckets/daily/2023-05-07_Sunday.md",
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-05-08_Monday.md",
+    "2023/Mac Update.md",
+    "2023/单机版启动缓慢调查.md",
+    "2022/2022 learn.md",
+    "2022/Alienware.md",
+    "2022/Book Sync.md",
+    "2022/Fiddler Everywhere Crack 尝试.md",
+    "2023/Book.md",
+    "2023/Homebrew.md",
+    "2023/Mac & Electron 跨端开发体验.md",
     "buckets/daily/2023-05-05_Friday.md",
+    "buckets/daily/2023-05-07_Sunday.md",
+    "buckets/daily/2023-05-06_Saturday.md",
     "work-records/javascript-async-await.md",
     "work-records/git-remote-host-identification-has-changed.md",
     "work-records/git-open.md",
@@ -289,21 +301,10 @@
     "buckets/daily/2023-05-04_Thursday.md",
     "buckets/daily/2023-04-29_Saturday.md",
     "buckets/daily/2023-04-28_Friday.md",
-    "workspce/Daily Record.md",
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "HomePage.md",
     "buckets/daily/meta/Pasted image 20230504141008.png",
     "buckets/daily/meta",
-    "2023/Book.md",
-    "2023/Vue3 组件库.md",
-    "2023/Mac Update.md",
-    "2023/Mac & Electron 跨端开发体验.md",
-    "buckets/daily/2023-04-27_Thursday.md",
-    "work-records/vscode-vim-text-object.md",
-    "work-records/vscode-vim-surround.md",
-    "work-records/vscode-vim-sneak.md",
-    "work-records/vscode-vim-search.md",
-    "work-records/vscode-vim-replace.md",
     "2023/meta/Pasted image 20230422214233.png",
     "2023/meta/Pasted image 20230422220814.png",
     "2023/meta",

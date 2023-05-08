@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-08_Monday",
+      "path": "buckets/daily/2023-05-08_Monday.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "单机版启动缓慢调查",
+      "path": "2023/单机版启动缓慢调查.md"
+    },
+    {
+      "basename": "2022 learn",
+      "path": "2022/2022 learn.md"
+    },
+    {
+      "basename": "Alienware",
+      "path": "2022/Alienware.md"
+    },
+    {
+      "basename": "Book Sync",
+      "path": "2022/Book Sync.md"
+    },
+    {
+      "basename": "Fiddler Everywhere Crack 尝试",
+      "path": "2022/Fiddler Everywhere Crack 尝试.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
+    },
+    {
+      "basename": "Mac & Electron 跨端开发体验",
+      "path": "2023/Mac & Electron 跨端开发体验.md"
+    },
+    {
+      "basename": "2023-05-05_Friday",
+      "path": "buckets/daily/2023-05-05_Friday.md"
+    },
+    {
       "basename": "2023-05-07_Sunday",
       "path": "buckets/daily/2023-05-07_Sunday.md"
     },
     {
       "basename": "2023-05-06_Saturday",
       "path": "buckets/daily/2023-05-06_Saturday.md"
-    },
-    {
-      "basename": "2023-05-05_Friday",
-      "path": "buckets/daily/2023-05-05_Friday.md"
     },
     {
       "basename": "javascript-async-await",
@@ -53,10 +97,6 @@
       "path": "buckets/daily/2023-04-28_Friday.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
@@ -65,20 +105,8 @@
       "path": "HomePage.md"
     },
     {
-      "basename": "Book",
-      "path": "2023/Book.md"
-    },
-    {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
-    },
-    {
-      "basename": "Mac & Electron 跨端开发体验",
-      "path": "2023/Mac & Electron 跨端开发体验.md"
     },
     {
       "basename": "2023-04-27_Thursday",
@@ -115,14 +143,6 @@
     {
       "basename": "vscode-vim-fold",
       "path": "work-records/vscode-vim-fold.md"
-    },
-    {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "单机版启动缓慢调查",
-      "path": "2023/单机版启动缓慢调查.md"
     },
     {
       "basename": "2023-04-26_Wednesday",
@@ -179,26 +199,6 @@
     {
       "basename": "2023-04-18_Tuesday",
       "path": "buckets/daily/2023-04-18_Tuesday.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "2023-04-16_Sunday",
-      "path": "buckets/daily/2023-04-16_Sunday.md"
-    },
-    {
-      "basename": "2023-04-07_Friday",
-      "path": "buckets/daily/2023-04-07_Friday.md"
-    },
-    {
-      "basename": "Obsidian：日记模板",
-      "path": "buckets/templates/Obsidian：日记模板.md"
-    },
-    {
-      "basename": "update-time",
-      "path": "buckets/templater/update-time.md"
     }
   ],
   "omittedPaths": [],

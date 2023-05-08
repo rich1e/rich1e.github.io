@@ -70,7 +70,7 @@ echo -e "\xf0\x9f\x90\x8d"
 echo -e "\xee\x82\xa0"
 ```
 
-第一行应该显示出一个蛇的 `emoji`，第二行应该显示出 `powerline` 的分支符号。
+第一行应该显示蛇 🐍 的 `emoji` 图标，第二行应该显示出 `powerline` 的分支符号  （e0a0）。
 
 ## 安装 Starship
 
