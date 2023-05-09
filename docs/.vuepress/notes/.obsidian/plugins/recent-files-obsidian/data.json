@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-08_Monday",
-      "path": "buckets/daily/2023-05-08_Monday.md"
+      "basename": "2023-05-09_Tuesday",
+      "path": "buckets/daily/2023-05-09_Tuesday.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Mac & Electron 跨端开发体验",
+      "path": "2023/Mac & Electron 跨端开发体验.md"
+    },
+    {
+      "basename": "Mac & Vim",
+      "path": "2023/Mac & Vim.md"
+    },
+    {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
+    },
+    {
+      "basename": "git-blame",
+      "path": "work-records/git-blame.md"
+    },
+    {
+      "basename": "git-remote-host-identification-has-changed",
+      "path": "work-records/git-remote-host-identification-has-changed.md"
+    },
+    {
+      "basename": "git-open",
+      "path": "work-records/git-open.md"
+    },
+    {
+      "basename": "vscode-vim-text-object",
+      "path": "work-records/vscode-vim-text-object.md"
+    },
+    {
+      "basename": "vscode-vim-fold",
+      "path": "work-records/vscode-vim-fold.md"
+    },
+    {
+      "basename": "vscode-vim-easymotion",
+      "path": "work-records/vscode-vim-easymotion.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "vscode-markdown",
+      "path": "work-records/vscode-markdown.md"
+    },
+    {
+      "basename": "javascript-async-await",
+      "path": "work-records/javascript-async-await.md"
+    },
+    {
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
+    },
+    {
+      "basename": "2023-05-08_Monday",
+      "path": "buckets/daily/2023-05-08_Monday.md"
     },
     {
       "basename": "Mac Update",
@@ -37,14 +93,6 @@
       "path": "2023/Book.md"
     },
     {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "Mac & Electron 跨端开发体验",
-      "path": "2023/Mac & Electron 跨端开发体验.md"
-    },
-    {
       "basename": "2023-05-05_Friday",
       "path": "buckets/daily/2023-05-05_Friday.md"
     },
@@ -57,32 +105,8 @@
       "path": "buckets/daily/2023-05-06_Saturday.md"
     },
     {
-      "basename": "javascript-async-await",
-      "path": "work-records/javascript-async-await.md"
-    },
-    {
-      "basename": "git-remote-host-identification-has-changed",
-      "path": "work-records/git-remote-host-identification-has-changed.md"
-    },
-    {
-      "basename": "git-open",
-      "path": "work-records/git-open.md"
-    },
-    {
       "basename": "vscode-vim-indent-object",
       "path": "work-records/vscode-vim-indent-object.md"
-    },
-    {
-      "basename": "vscode-vim-easymotion",
-      "path": "work-records/vscode-vim-easymotion.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
-      "basename": "vscode-markdown",
-      "path": "work-records/vscode-markdown.md"
     },
     {
       "basename": "2023-05-04_Thursday",
@@ -105,16 +129,8 @@
       "path": "HomePage.md"
     },
     {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
-    },
-    {
       "basename": "2023-04-27_Thursday",
       "path": "buckets/daily/2023-04-27_Thursday.md"
-    },
-    {
-      "basename": "vscode-vim-text-object",
-      "path": "work-records/vscode-vim-text-object.md"
     },
     {
       "basename": "vscode-vim-surround",
@@ -139,10 +155,6 @@
     {
       "basename": "vscode-vim-multicursor",
       "path": "work-records/vscode-vim-multicursor.md"
-    },
-    {
-      "basename": "vscode-vim-fold",
-      "path": "work-records/vscode-vim-fold.md"
     },
     {
       "basename": "2023-04-26_Wednesday",
@@ -187,18 +199,6 @@
     {
       "basename": "2023-04-21_Friday",
       "path": "buckets/daily/2023-04-21_Friday.md"
-    },
-    {
-      "basename": "2023-04-20_Thursday",
-      "path": "buckets/daily/2023-04-20_Thursday.md"
-    },
-    {
-      "basename": "2023-04-19_Wednesday",
-      "path": "buckets/daily/2023-04-19_Wednesday.md"
-    },
-    {
-      "basename": "2023-04-18_Tuesday",
-      "path": "buckets/daily/2023-04-18_Tuesday.md"
     }
   ],
   "omittedPaths": [],
