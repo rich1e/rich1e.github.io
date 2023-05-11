@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-09_Tuesday",
-      "path": "buckets/daily/2023-05-09_Tuesday.md"
+      "basename": "2023-05-11_Thursday",
+      "path": "buckets/daily/2023-05-11_Thursday.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "2023-03-23_Thursday",
+      "path": "buckets/daily/2023-03-23_Thursday.md"
+    },
+    {
+      "basename": "2023-01-11_Wednesday",
+      "path": "buckets/daily/2023-01-11_Wednesday.md"
+    },
+    {
+      "basename": "2023-05-09_Tuesday",
+      "path": "buckets/daily/2023-05-09_Tuesday.md"
+    },
+    {
+      "basename": "Windows Terminal",
+      "path": "buckets/lifestyle/Windows Terminal.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
+    },
+    {
+      "basename": "Drawing 2023-05-10 11.26.57.excalidraw",
+      "path": "buckets/excalidraw/Drawing 2023-05-10 11.26.57.excalidraw.md"
+    },
+    {
+      "basename": "Attr - 动态表单设计",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单设计.md"
+    },
+    {
+      "basename": "Attr - 动态表单Slots设计",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单Slots设计.md"
+    },
+    {
+      "basename": "单机版启动缓慢调查",
+      "path": "2023/单机版启动缓慢调查.md"
     },
     {
       "basename": "Mac & Electron 跨端开发体验",
@@ -69,10 +113,6 @@
       "path": "2023/Mac Update.md"
     },
     {
-      "basename": "单机版启动缓慢调查",
-      "path": "2023/单机版启动缓慢调查.md"
-    },
-    {
       "basename": "2022 learn",
       "path": "2022/2022 learn.md"
     },
@@ -121,10 +161,6 @@
       "path": "buckets/daily/2023-04-28_Friday.md"
     },
     {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
-    },
-    {
       "basename": "HomePage",
       "path": "HomePage.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "2023-04-24_Monday",
       "path": "buckets/daily/2023-04-24_Monday.md"
-    },
-    {
-      "basename": "2023-04-25_Tuesday",
-      "path": "buckets/daily/2023-04-25_Tuesday.md"
-    },
-    {
-      "basename": "岛国游",
-      "path": "buckets/travel/岛国游.md"
-    },
-    {
-      "basename": "Pasted image 20230422214233",
-      "path": "2023/meta/Pasted image 20230422214233.png"
-    },
-    {
-      "basename": "Pasted image 20230422220814",
-      "path": "2023/meta/Pasted image 20230422220814.png"
-    },
-    {
-      "basename": "Attr - 动态表单Slots设计",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单Slots设计.md"
-    },
-    {
-      "basename": "Attr - 动态表单设计",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单设计.md"
-    },
-    {
-      "basename": "2023-04-23_Sunday",
-      "path": "buckets/daily/2023-04-23_Sunday.md"
-    },
-    {
-      "basename": "2023-01-07_Saturday",
-      "path": "buckets/daily/2023-01-07_Saturday.md"
-    },
-    {
-      "basename": "2023-04-21_Friday",
-      "path": "buckets/daily/2023-04-21_Friday.md"
     }
   ],
   "omittedPaths": [],
