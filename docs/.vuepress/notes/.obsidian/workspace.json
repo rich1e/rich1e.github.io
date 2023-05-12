@@ -83,7 +83,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-11_Thursday.md",
+                    "file": "buckets/daily/2023-05-12_Friday.md",
                     "mode": "source",
                     "source": false
                   }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-11_Thursday.md",
+                "file": "buckets/daily/2023-05-12_Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-11_Thursday.md",
+                "file": "buckets/daily/2023-05-12_Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-11_Thursday.md"
+                "file": "buckets/daily/2023-05-12_Friday.md"
               }
             }
           },
@@ -270,8 +270,10 @@
   "active": "3d537be371145076",
   "lastOpenFiles": [
     "workspce/Daily Record.md",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
+    "buckets/daily/2023-05-12_Friday.md",
+    "buckets/daily/meta/Pasted image 20230512132527.png",
     "buckets/daily/2023-05-11_Thursday.md",
+    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "buckets/daily/2023-03-23_Thursday.md",
     "buckets/daily/2023-01-11_Wednesday.md",
     "buckets/daily/2023-05-09_Tuesday.md",
@@ -293,8 +295,6 @@
     "work-records/vscode-vim-fold.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim.md",
-    "work-records/vscode-markdown.md",
-    "work-records/javascript-async-await.md",
     "buckets/daily/meta/Pasted image 20230504141008.png",
     "buckets/daily/meta",
     "2023/meta/Pasted image 20230422214233.png",

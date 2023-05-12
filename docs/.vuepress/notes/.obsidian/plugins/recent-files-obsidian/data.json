@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-11_Thursday",
-      "path": "buckets/daily/2023-05-11_Thursday.md"
+      "basename": "2023-05-12_Friday",
+      "path": "buckets/daily/2023-05-12_Friday.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "2023-05-11_Thursday",
+      "path": "buckets/daily/2023-05-11_Thursday.md"
     },
     {
       "basename": "Attr - 动态表单优化",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-04-26_Wednesday",
       "path": "buckets/daily/2023-04-26_Wednesday.md"
-    },
-    {
-      "basename": "2023-04-24_Monday",
-      "path": "buckets/daily/2023-04-24_Monday.md"
     }
   ],
   "omittedPaths": [],

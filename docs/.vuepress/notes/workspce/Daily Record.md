@@ -157,6 +157,20 @@ Ref
 [cmd命令行配置windows防火墙 - 熊未泯 - 博客园](https://www.cnblogs.com/xiongweimin/articles/14192710.html)
 [cmd怎么打开i防火墙-百度经验](https://jingyan.baidu.com/article/36d6ed1f22d3c25ace48835a.html)
 
+## Proxy
+
+run the container detached, forward internal port 25500 to host port 25500
+
+```sh
+docker run -d --restart=always -p 25500:25500 tindy2013/subconverter:latest
+```
+
+then check its status
+
+```sh
+curl http://localhost:25500/version
+```
+
 ```dataview 
 table date AS 创建时间, file.mtime AS 修改时间
 from ""
