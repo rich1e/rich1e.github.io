@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-12_Friday",
-      "path": "buckets/daily/2023-05-12_Friday.md"
-    },
-    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "2023-05-11_Thursday",
-      "path": "buckets/daily/2023-05-11_Thursday.md"
-    },
-    {
       "basename": "Attr - 动态表单优化",
       "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "2023-05-13_Saturday",
+      "path": "buckets/daily/2023-05-13_Saturday.md"
+    },
+    {
+      "basename": "2023-05-14_Sunday",
+      "path": "buckets/daily/2023-05-14_Sunday.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "2023-05-12_Friday",
+      "path": "buckets/daily/2023-05-12_Friday.md"
+    },
+    {
+      "basename": "2023-05-11_Thursday",
+      "path": "buckets/daily/2023-05-11_Thursday.md"
     },
     {
       "basename": "2023-03-23_Thursday",
@@ -113,10 +125,6 @@
       "path": "buckets/daily/2023-05-08_Monday.md"
     },
     {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
-    },
-    {
       "basename": "2022 learn",
       "path": "2022/2022 learn.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "vscode-vim-navigation",
       "path": "work-records/vscode-vim-navigation.md"
-    },
-    {
-      "basename": "vscode-vim-multicursor",
-      "path": "work-records/vscode-vim-multicursor.md"
-    },
-    {
-      "basename": "2023-04-26_Wednesday",
-      "path": "buckets/daily/2023-04-26_Wednesday.md"
     }
   ],
   "omittedPaths": [],
