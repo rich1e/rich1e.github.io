@@ -83,14 +83,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-13_Saturday.md",
+                    "file": "buckets/daily/2023-05-15_Monday.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/daily/2023-05-15_Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/daily/2023-05-15_Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "buckets/daily/2023-05-15_Monday.md"
               }
             }
           },
@@ -275,14 +275,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af0035df406cdc86",
+  "active": "3d537be371145076",
   "lastOpenFiles": [
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-05-15_Monday.md",
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "buckets/daily/2023-05-13_Saturday.md",
     "buckets/daily/2023-05-14_Sunday.md",
     "2023/Mac Update.md",
     "buckets/daily/2023-05-12_Friday.md",
-    "workspce/Daily Record.md",
     "buckets/daily/meta/Pasted image 20230512132527.png",
     "buckets/daily/2023-05-11_Thursday.md",
     "buckets/daily/2023-03-23_Thursday.md",
@@ -303,7 +304,6 @@
     "work-records/git-remote-host-identification-has-changed.md",
     "work-records/git-open.md",
     "work-records/vscode-vim-text-object.md",
-    "work-records/vscode-vim-fold.md",
     "buckets/daily/meta/Pasted image 20230504141008.png",
     "buckets/daily/meta",
     "2023/meta/Pasted image 20230422214233.png",

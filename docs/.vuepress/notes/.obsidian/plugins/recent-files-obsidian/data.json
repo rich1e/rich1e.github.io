@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-15_Monday",
+      "path": "buckets/daily/2023-05-15_Monday.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "vscode-vim-replace",
       "path": "work-records/vscode-vim-replace.md"
-    },
-    {
-      "basename": "vscode-vim-navigation",
-      "path": "work-records/vscode-vim-navigation.md"
     }
   ],
   "omittedPaths": [],
