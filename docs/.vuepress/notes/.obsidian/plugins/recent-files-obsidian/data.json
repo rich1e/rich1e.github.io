@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-15_Monday",
-      "path": "buckets/daily/2023-05-15_Monday.md"
+      "basename": "2023-05-16_Tuesday",
+      "path": "buckets/daily/2023-05-16_Tuesday.md"
+    },
+    {
+      "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
+      "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Buckets",
+      "path": "workspce/Buckets.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Archives File",
+      "path": "workspce/Archives File.md"
+    },
+    {
+      "basename": "Front-end Technology",
+      "path": "workspce/Front-end Technology.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "Mobile Development",
+      "path": "workspce/Mobile Development.md"
+    },
+    {
+      "basename": "2023-05-15_Monday",
+      "path": "buckets/daily/2023-05-15_Monday.md"
     },
     {
       "basename": "Attr - 动态表单优化",
@@ -47,10 +79,6 @@
     {
       "basename": "Windows Terminal",
       "path": "buckets/lifestyle/Windows Terminal.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
     },
     {
       "basename": "mind - Attr 动态表单组件关系图",
@@ -171,34 +199,6 @@
     {
       "basename": "2023-04-29_Saturday",
       "path": "buckets/daily/2023-04-29_Saturday.md"
-    },
-    {
-      "basename": "2023-04-28_Friday",
-      "path": "buckets/daily/2023-04-28_Friday.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "2023-04-27_Thursday",
-      "path": "buckets/daily/2023-04-27_Thursday.md"
-    },
-    {
-      "basename": "vscode-vim-surround",
-      "path": "work-records/vscode-vim-surround.md"
-    },
-    {
-      "basename": "vscode-vim-sneak",
-      "path": "work-records/vscode-vim-sneak.md"
-    },
-    {
-      "basename": "vscode-vim-search",
-      "path": "work-records/vscode-vim-search.md"
-    },
-    {
-      "basename": "vscode-vim-replace",
-      "path": "work-records/vscode-vim-replace.md"
     }
   ],
   "omittedPaths": [],
