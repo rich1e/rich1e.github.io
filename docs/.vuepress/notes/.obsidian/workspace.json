@@ -83,8 +83,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-16_Tuesday.md",
-                    "mode": "source",
+                    "file": "buckets/daily/2023-05-17_Wednesday.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-16_Tuesday.md",
+                "file": "buckets/daily/2023-05-17_Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-16_Tuesday.md",
+                "file": "buckets/daily/2023-05-17_Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-16_Tuesday.md"
+                "file": "buckets/daily/2023-05-17_Wednesday.md"
               }
             }
           },
@@ -268,6 +269,14 @@
   },
   "active": "0e997f033783bea0",
   "lastOpenFiles": [
+    "buckets/learn/git-useing.md",
+    "buckets/learn/git-commit.md",
+    "buckets/learn/Git.md",
+    "2021/2021-Vue&React.md",
+    "2021/2021-网络代理.md",
+    "buckets/daily/2023-05-18_Thursday.md",
+    "buckets/daily/2023-05-17_Wednesday.md",
+    "buckets/daily/2023-05-16_Tuesday.md",
     "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
     "workspce/Draft.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
@@ -288,7 +297,6 @@
     "buckets/excalidraw/scripts",
     "buckets/excalidraw/meta/Pasted Image 20230517095648_363.png",
     "buckets/excalidraw/meta",
-    "buckets/daily/2023-05-16_Tuesday.md",
     "workspce/Buckets.md",
     "workspce/Daily Record.md",
     "workspce/Archives File.md",
@@ -298,13 +306,7 @@
     "buckets/daily/2023-05-15_Monday.md",
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "buckets/daily/2023-05-13_Saturday.md",
-    "buckets/daily/2023-05-14_Sunday.md",
-    "2023/Mac Update.md",
-    "buckets/daily/2023-05-12_Friday.md",
     "buckets/daily/meta/Pasted image 20230512132527.png",
-    "buckets/daily/2023-05-11_Thursday.md",
-    "buckets/daily/2023-03-23_Thursday.md",
-    "buckets/daily/2023-01-11_Wednesday.md",
     "buckets/daily/meta/Pasted image 20230504141008.png",
     "buckets/daily/meta",
     "2023/meta",
