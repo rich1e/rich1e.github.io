@@ -83,8 +83,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-17_Wednesday.md",
-                    "mode": "preview",
+                    "file": "buckets/daily/2023-05-18_Thursday.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-17_Wednesday.md",
+                "file": "buckets/daily/2023-05-18_Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-17_Wednesday.md",
+                "file": "buckets/daily/2023-05-18_Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-17_Wednesday.md"
+                "file": "buckets/daily/2023-05-18_Thursday.md"
               }
             }
           },
@@ -269,15 +269,15 @@
   },
   "active": "0e997f033783bea0",
   "lastOpenFiles": [
+    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
+    "buckets/daily/2023-05-17_Wednesday.md",
+    "buckets/daily/2023-05-16_Tuesday.md",
+    "buckets/daily/2023-05-18_Thursday.md",
     "buckets/learn/git-useing.md",
     "buckets/learn/git-commit.md",
     "buckets/learn/Git.md",
     "2021/2021-Vue&React.md",
     "2021/2021-网络代理.md",
-    "buckets/daily/2023-05-18_Thursday.md",
-    "buckets/daily/2023-05-17_Wednesday.md",
-    "buckets/daily/2023-05-16_Tuesday.md",
-    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
     "workspce/Draft.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.md",
