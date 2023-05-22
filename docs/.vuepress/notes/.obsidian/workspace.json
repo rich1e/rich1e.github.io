@@ -83,8 +83,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-20_Saturday.md",
-                    "mode": "source",
+                    "file": "buckets/daily/2023-05-22_Monday.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-20_Saturday.md",
+                "file": "buckets/daily/2023-05-22_Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-20_Saturday.md",
+                "file": "buckets/daily/2023-05-22_Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-20_Saturday.md"
+                "file": "buckets/daily/2023-05-22_Monday.md"
               }
             }
           },
@@ -269,8 +269,10 @@
   },
   "active": "0e997f033783bea0",
   "lastOpenFiles": [
-    "buckets/daily/2023-05-18_Thursday.md",
     "buckets/daily/2023-05-20_Saturday.md",
+    "buckets/daily/2023-05-22_Monday.md",
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-05-18_Thursday.md",
     "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
     "buckets/daily/2023-05-17_Wednesday.md",
     "buckets/daily/2023-05-16_Tuesday.md",
@@ -299,13 +301,11 @@
     "buckets/excalidraw/meta/Pasted Image 20230517095648_363.png",
     "buckets/excalidraw/meta",
     "workspce/Buckets.md",
-    "workspce/Daily Record.md",
     "workspce/Archives File.md",
     "workspce/Front-end Technology.md",
     "workspce/Kanban.md",
     "workspce/Mobile Development.md",
     "buckets/daily/2023-05-15_Monday.md",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "buckets/daily/meta/Pasted image 20230512132527.png",
     "buckets/daily/meta/Pasted image 20230504141008.png",
     "buckets/daily/meta",
