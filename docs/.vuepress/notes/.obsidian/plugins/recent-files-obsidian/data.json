@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "2023-05-23_Tuesday",
+      "path": "buckets/daily/2023-05-23_Tuesday.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
       "basename": "2023-05-22_Monday",
       "path": "buckets/daily/2023-05-22_Monday.md"
     },
     {
       "basename": "2023-05-20_Saturday",
       "path": "buckets/daily/2023-05-20_Saturday.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "2023-05-18_Thursday",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-05-08_Monday",
       "path": "buckets/daily/2023-05-08_Monday.md"
-    },
-    {
-      "basename": "2022 learn",
-      "path": "2022/2022 learn.md"
-    },
-    {
-      "basename": "Alienware",
-      "path": "2022/Alienware.md"
     }
   ],
   "omittedPaths": [],

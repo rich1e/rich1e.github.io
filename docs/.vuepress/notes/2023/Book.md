@@ -1,4 +1,4 @@
-最近在找一些电子书，发现知乎[^1]上有个推荐文章，粗略看了下，决定试试 [Z-library](https://singlelogin.me/) 。
+最近在找一些电子书，发现知乎[^1]上有个推荐文章，粗略看了下，决定试试 [Z-library](https://singlelogin.site/) 。
 
 ![[Pasted image 20230209133455.png]]
 
