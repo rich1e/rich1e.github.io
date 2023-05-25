@@ -1,4 +1,4 @@
-#git 
+#git #command 
 
 ## 基础使用
 

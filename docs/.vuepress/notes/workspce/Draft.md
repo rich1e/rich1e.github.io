@@ -11,58 +11,6 @@
 
 
 
-## Blog
-
-```ad-note
-title: GitHub & Actions
-
-[用 GitHub 貢獻圖製作貪食蛇動畫](https://blog.jyhsu.tw/p/%E7%94%A8-github-%E8%B2%A2%E7%8D%BB%E5%9C%96%E8%A3%BD%E4%BD%9C%E8%B2%AA%E9%A3%9F%E8%9B%87%E5%8B%95%E7%95%AB/)
-[GitHub Actions + Github Page | Azhubaby Blog](https://blog.azhubaby.com/2021/08/19/2021-08-19-GitHubActions+GitHubPage/)
-[GitHub自动化部署 - 掘金](https://juejin.cn/post/7173302202604191751)
-[用GitHub Action + VuePress自动化部署自己的文档网站 - 掘金](https://juejin.cn/post/6937532951223599141)
-
-```
-
-```md
-ariadne.ns.cloudflare.com
-hal.ns.cloudflare.com
-
-ns77.domaincontrol.com
-ns78.domaincontrol.com
-
-_github-pages-challenge-rich1e
-
-977af2d598b3cb94cbb6933b55a1db
-```
-
-![[Pasted image 20221209140322.png]]
-
-![[Pasted image 20221209141011.png]]
-
-![[Pasted image 20221215110059.png]]
-
-![[Pasted image 20221215110245.png]]
-
-![[Pasted image 20221215110534.png]]
-
-```ad-note
-title: blog续费
-
-[GitHub Pages 绑定个人域名，免 Cloudflare 支持 HTTPS | reuixiy](https://io-oi.me/tech/custom-domains-on-github-pages/)
-[cloudflare使用入门教程，国外最好免费CDN - 知乎](https://zhuanlan.zhihu.com/p/82909515)
-[Managing a custom domain for your GitHub Pages site - GitHub Docs](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
-[你要离开我了吗？~~~~(>_<)~~~~](https://www.wenvenn.com/20211211/wei-github-page-shang-de-ge-ren-bo-ke-bang-ding-godaddy-yu-ming/)
-[主页 | Flyfishtome@gmail.com's Account | Cloudflare](https://dash.cloudflare.com/6883b0fd17b23b42678e412b10869bb4)
-[╭(°A°`)╮ 页面崩溃啦 ~](https://siriusq.top/github-pages-%E5%90%AF%E7%94%A8-cloudflare-%E5%8A%A0%E9%80%9F%E5%8F%8A-https.html)
-[自动更新 Cloudflare 中的域名解析记录为最快 IP（Windows/Linux 脚本+手动教程） · Issue #40 · XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest/issues/40)
-[验证 GitHub Pages 的自定义域 - GitHub Docs](https://docs.github.com/zh/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)
-[godaddy+cloudflare实现自定义域名访问+https | vinda](https://codingwjl.github.io/2018/03/10/cloudflare-https/)
-[Pages](https://github.com/rich1e/rich1e.github.io/settings/pages)
-[How to Flush DNS Cache on Windows, Mac, and Chrome | Trend Micro News](https://news.trendmicro.com/2022/10/06/how-to-flush-dns-cache-windows-mac-chrome/)/)
-[Google Chrome Clear or Flush the DNS Cache Tutorial - nixCraft](https://www.cyberciti.biz/faq/google-chrome-clear-or-flush-the-dns-cache/)
-
-```
-
 
 
 ## Error
@@ -158,26 +106,6 @@ title: vim
 
 ## Command
 
-**exa**
-
-```zsh
-exa -T --level=6 --ignore-glob="node_modules|mock|views|example|helper|public" --git-ignore --sort=ext
-```
-
-![[Pasted image 20221206162854.png]]
-
-
-```ad-note
-title: tldr
-
-node 版本支持语言切换
-
-[tldr-pages/tldr-node-client: Node.js command-line client for tldr pages](https://github.com/tldr-pages/tldr-node-client)
-[tldr/CLIENT-SPECIFICATION.md at main · tldr-pages/tldr](https://github.com/tldr-pages/tldr/blob/main/CLIENT-SPECIFICATION.md#caching)
-[How to change language using a client? · Issue #3161 · tldr-pages/tldr](https://github.com/tldr-pages/tldr/issues/3161)
-
-```
-
 ```ad-note
 title: fd & ag & rg & fzf
 
@@ -210,32 +138,6 @@ title: Git Delta & Diff Tools
 [dandavison/delta: A syntax-highlighting pager for git, diff, and grep output](https://github.com/dandavison/delta)
 [https://raw.githubusercontent.com/dandavison/delta/master/themes.gitconfig](https://raw.githubusercontent.com/dandavison/delta/master/themes.gitconfig)
 [Improved Terminal Experience with Oh My Zsh, iTerm2, PowerLevel10K - naschenweng.info](https://www.naschenweng.info/2021/01/05/improved-terminal-experience-with-oh-my-zsh-iterm2-powerlevel10k/)
-
-```
-
-```ad-note
-title: fzf & fzf-tab & # forgit
-
-[Supercharge your command line - DEV Community 👩‍💻👨‍💻](https://dev.to/budavariam/supercharge-your-command-line-2c9b)
-[Improve Your Workflow In The Terminal With These 4 Fzf Tips](https://revelry.co/insights/development/terminal-workflow-fzf/)
-[每天学习一个命令：fzf 使用笔记 | Verne in GitHub](https://einverne.github.io/post/2019/08/fzf-usage.html)
-[使用模糊搜索神器 FZF 来提升办公效率 | OSKernelLAB](https://oskernellab.com/2021/02/15/2021/0215-0001-Using_FZF_to_Improve_Productivity/)
-[wfxr/forgit: A utility tool powered by fzf for using git interactively.](https://github.com/wfxr/forgit)
-[wfxr/emoji-cli](https://github.com/wfxr/emoji-cli)
-[fzf-tab - 使用 fzf 作为 zsh 的补全选择菜单 - V2EX](https://www.v2ex.com/t/653576)
-[kimci86/bkcrack: Crack legacy zip encryption with Biham and Kocher's known plaintext attack.](https://github.com/kimci86/bkcrack)
-[万物皆可 fzf :: HP goes FE](https://www.hikerpig.cn/2021-01-08-fzf-everything/)
-[Aloxaf/fzf-tab: Replace zsh's default completion selection menu with fzf!](https://github.com/Aloxaf/fzf-tab#oh-my-zsh)
-[fzf-tab - asciinema](https://asciinema.org/a/293849)
-[ZSH + ZI + PURE 配置教程](https://sdl.moe/post/zsh-conf/)
-[fzf-tab —— 使用 fzf 进行 zsh 补全 - Aloxaf's Blog](https://www.aloxaf.com/2020/03/fzf-tab/)
-[加速你的 zsh —— 最强 zsh 插件管理器 zplugin/zinit 教程 - Aloxaf's Blog](https://www.aloxaf.com/2019/11/zplugin_tutorial/#%E4%B8%80%E4%BB%BD%E7%A4%BA%E4%BE%8B%E9%85%8D%E7%BD%AE)
-[zi 感觉是 zinit 作者写的新的 - V2EX](https://www.v2ex.com/t/859660)
-[zdharma-continuum/zinit: 🌻 Flexible and fast ZSH plugin manager](https://github.com/zdharma-continuum/zinit)
-[Zsh 启动优化 | 人间熙攘，好久不见](https://magiclala.github.io/Contents/DailyTrivia/zshOptimize.html#%E5%88%86%E6%9E%90)
-[fzf模糊搜索神器的安装和使用 | Levon's Blog](https://www.liuvv.com/p/a0700771.html)
-[Examples · junegunn/fzf Wiki](https://github.com/junegunn/fzf/wiki/Examples#npm)
-[Meet Forgit: A Tool for Using Git More Interactively | by Amine Elhattami | Better Programming](https://betterprogramming.pub/how-to-make-your-git-command-line-interactions-seamless-769d5c148097)
 
 ```
 

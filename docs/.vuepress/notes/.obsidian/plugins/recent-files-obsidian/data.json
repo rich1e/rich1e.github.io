@@ -1,12 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-24_Wednesday",
+      "path": "buckets/daily/2023-05-24_Wednesday.md"
+    },
+    {
+      "basename": "2023-05-25_Thursday",
+      "path": "buckets/daily/2023-05-25_Thursday.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
     },
     {
       "basename": "2023-05-23_Tuesday",
       "path": "buckets/daily/2023-05-23_Tuesday.md"
+    },
+    {
+      "basename": "2023-05-04_Thursday",
+      "path": "buckets/daily/2023-05-04_Thursday.md"
+    },
+    {
+      "basename": "Blog",
+      "path": "2023/Blog.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "command-fzf",
+      "path": "work-records/command-fzf.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "command-tree",
+      "path": "work-records/command-tree.md"
+    },
+    {
+      "basename": "command-tldr",
+      "path": "work-records/command-tldr.md"
+    },
+    {
+      "basename": "command-exa",
+      "path": "work-records/command-exa.md"
+    },
+    {
+      "basename": "git-remote-host-identification-has-changed",
+      "path": "work-records/git-remote-host-identification-has-changed.md"
+    },
+    {
+      "basename": "git-open",
+      "path": "work-records/git-open.md"
+    },
+    {
+      "basename": "git-blame",
+      "path": "work-records/git-blame.md"
+    },
+    {
+      "basename": "javascript-async-await",
+      "path": "work-records/javascript-async-await.md"
+    },
+    {
+      "basename": "vscode-markdown",
+      "path": "work-records/vscode-markdown.md"
+    },
+    {
+      "basename": "git-useing",
+      "path": "buckets/learn/git-useing.md"
+    },
+    {
+      "basename": "2023-03-22_Wednesday",
+      "path": "buckets/daily/2023-03-22_Wednesday.md"
+    },
+    {
+      "basename": "2021-Vue&React",
+      "path": "2021/2021-Vue&React.md"
+    },
+    {
+      "basename": "mac-utils",
+      "path": "buckets/lifestyle/mac-utils.md"
+    },
+    {
+      "basename": "Oh My Zsh",
+      "path": "buckets/learn/Oh My Zsh.md"
+    },
+    {
+      "basename": "VuePress",
+      "path": "buckets/learn/VuePress.md"
+    },
+    {
+      "basename": "za-kj",
+      "path": "buckets/work-experience/za/za-kj.md"
+    },
+    {
+      "basename": "nginx",
+      "path": "buckets/learn/nginx.md"
     },
     {
       "basename": "Book",
@@ -37,10 +129,6 @@
       "path": "buckets/daily/2023-05-16_Tuesday.md"
     },
     {
-      "basename": "git-useing",
-      "path": "buckets/learn/git-useing.md"
-    },
-    {
       "basename": "git-commit",
       "path": "buckets/learn/git-commit.md"
     },
@@ -49,16 +137,8 @@
       "path": "buckets/learn/Git.md"
     },
     {
-      "basename": "2021-Vue&React",
-      "path": "2021/2021-Vue&React.md"
-    },
-    {
       "basename": "2021-网络代理",
       "path": "2021/2021-网络代理.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
     },
     {
       "basename": "Buckets",
@@ -83,10 +163,6 @@
     {
       "basename": "2023-05-15_Monday",
       "path": "buckets/daily/2023-05-15_Monday.md"
-    },
-    {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
     },
     {
       "basename": "2023-05-13_Saturday",
@@ -123,82 +199,6 @@
     {
       "basename": "Windows Terminal",
       "path": "buckets/lifestyle/Windows Terminal.md"
-    },
-    {
-      "basename": "mind - Attr 动态表单组件关系图",
-      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
-    },
-    {
-      "basename": "Drawing 2023-05-10 11.26.57.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2023-05-10 11.26.57.excalidraw.md"
-    },
-    {
-      "basename": "Attr - 动态表单设计",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单设计.md"
-    },
-    {
-      "basename": "Attr - 动态表单Slots设计",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单Slots设计.md"
-    },
-    {
-      "basename": "单机版启动缓慢调查",
-      "path": "2023/单机版启动缓慢调查.md"
-    },
-    {
-      "basename": "Mac & Electron 跨端开发体验",
-      "path": "2023/Mac & Electron 跨端开发体验.md"
-    },
-    {
-      "basename": "Mac & Vim",
-      "path": "2023/Mac & Vim.md"
-    },
-    {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
-    },
-    {
-      "basename": "git-blame",
-      "path": "work-records/git-blame.md"
-    },
-    {
-      "basename": "git-remote-host-identification-has-changed",
-      "path": "work-records/git-remote-host-identification-has-changed.md"
-    },
-    {
-      "basename": "git-open",
-      "path": "work-records/git-open.md"
-    },
-    {
-      "basename": "vscode-vim-text-object",
-      "path": "work-records/vscode-vim-text-object.md"
-    },
-    {
-      "basename": "vscode-vim-fold",
-      "path": "work-records/vscode-vim-fold.md"
-    },
-    {
-      "basename": "vscode-vim-easymotion",
-      "path": "work-records/vscode-vim-easymotion.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
-      "basename": "vscode-markdown",
-      "path": "work-records/vscode-markdown.md"
-    },
-    {
-      "basename": "javascript-async-await",
-      "path": "work-records/javascript-async-await.md"
-    },
-    {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "2023-05-08_Monday",
-      "path": "buckets/daily/2023-05-08_Monday.md"
     }
   ],
   "omittedPaths": [],

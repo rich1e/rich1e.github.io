@@ -78,12 +78,12 @@
                 }
               },
               {
-                "id": "0e997f033783bea0",
+                "id": "df16662c30fc76da",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-23_Tuesday.md",
+                    "file": "buckets/daily/2023-05-24_Wednesday.md",
                     "mode": "source",
                     "source": false
                   }
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "瓦片",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
+    "width": 273.5,
     "collapsed": true
   },
   "right": {
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/daily/2023-05-24_Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/daily/2023-05-24_Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "buckets/daily/2023-05-24_Wednesday.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -267,45 +267,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af0035df406cdc86",
+  "active": "df16662c30fc76da",
   "lastOpenFiles": [
-    "buckets/daily/2023-05-23_Tuesday.md",
-    "2023/Book.md",
-    "buckets/daily/2023-05-22_Monday.md",
-    "buckets/daily/2023-05-20_Saturday.md",
+    "buckets/daily/2023-05-25_Thursday.md",
     "workspce/Daily Record.md",
-    "buckets/daily/2023-05-18_Thursday.md",
-    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
-    "buckets/daily/2023-05-17_Wednesday.md",
-    "buckets/daily/2023-05-16_Tuesday.md",
-    "buckets/learn/git-useing.md",
-    "buckets/learn/git-commit.md",
-    "buckets/learn/Git.md",
-    "2021/2021-Vue&React.md",
-    "2021/2021-网络代理.md",
+    "buckets/daily/2023-05-24_Wednesday.md",
+    "buckets/daily/2023-05-23_Tuesday.md",
+    "buckets/daily/2023-05-04_Thursday.md",
+    "2023/Blog.md",
     "workspce/Draft.md",
+    "work-records/command-fzf.md",
+    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
+    "work-records/command-tree.md",
+    "work-records/command-tldr.md",
+    "work-records/command-exa.md",
+    "work-records/git-remote-host-identification-has-changed.md",
+    "work-records/git-open.md",
+    "work-records/git-blame.md",
+    "work-records/javascript-async-await.md",
+    "work-records/vscode-markdown.md",
+    "buckets/learn/git-useing.md",
+    "buckets/daily/2023-03-22_Wednesday.md",
+    "2021/2021-Vue&React.md",
+    "buckets/lifestyle/mac-utils.md",
+    "buckets/learn/Oh My Zsh.md",
+    "buckets/learn/VuePress.md",
+    "buckets/work-experience/za/za-kj.md",
+    "buckets/learn/nginx.md",
+    "2023/Book.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
-    "buckets/excalidraw/scripts/Downloaded/Elbow connectors.md",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
-    "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
-    "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.md",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically.svg",
-    "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically.md",
     "buckets/excalidraw/scripts/Downloaded/Set Dimensions.svg",
-    "buckets/excalidraw/scripts/Downloaded/Set Dimensions.md",
     "buckets/excalidraw/scripts/Downloaded/Rename Image.svg",
-    "buckets/excalidraw/scripts/Downloaded/Rename Image.md",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally.svg",
-    "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally.md",
     "buckets/excalidraw/scripts/Downloaded",
     "buckets/excalidraw/scripts",
     "buckets/excalidraw/meta/Pasted Image 20230517095648_363.png",
     "buckets/excalidraw/meta",
-    "workspce/Buckets.md",
-    "workspce/Archives File.md",
-    "workspce/Front-end Technology.md",
-    "workspce/Kanban.md",
     "buckets/daily/meta/Pasted image 20230512132527.png",
     "buckets/daily/meta/Pasted image 20230504141008.png",
     "buckets/daily/meta",
