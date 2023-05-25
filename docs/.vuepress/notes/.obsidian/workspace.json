@@ -34,7 +34,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "workspce/Daily Record.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   },
                   "pinned": true
@@ -83,7 +83,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-24_Wednesday.md",
+                    "file": "buckets/daily/2023-05-25_Thursday.md",
                     "mode": "source",
                     "source": false
                   }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-24_Wednesday.md",
+                "file": "buckets/daily/2023-05-25_Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-24_Wednesday.md",
+                "file": "buckets/daily/2023-05-25_Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-24_Wednesday.md"
+                "file": "buckets/daily/2023-05-25_Thursday.md"
               }
             }
           },
@@ -269,9 +269,9 @@
   },
   "active": "df16662c30fc76da",
   "lastOpenFiles": [
-    "buckets/daily/2023-05-25_Thursday.md",
     "workspce/Daily Record.md",
     "buckets/daily/2023-05-24_Wednesday.md",
+    "buckets/daily/2023-05-25_Thursday.md",
     "buckets/daily/2023-05-23_Tuesday.md",
     "buckets/daily/2023-05-04_Thursday.md",
     "2023/Blog.md",

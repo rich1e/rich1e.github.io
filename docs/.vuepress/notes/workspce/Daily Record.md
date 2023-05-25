@@ -160,6 +160,18 @@ git reset --soft head^
 git reset --hard head^
 ```
 
+显示最近一次提交的 commit ID 的缩写形式，并复制到剪切板
+
+```git
+git log -1 --pretty=format:%h | pbcopy
+```
+
+复制提交中的代码而不想创建新的提交
+
+```git
+git cherry-pick --no-commit <commit-id>
+```
+
 Ref
 
 [[buckets/daily/2023-04-18_Tuesday]]
