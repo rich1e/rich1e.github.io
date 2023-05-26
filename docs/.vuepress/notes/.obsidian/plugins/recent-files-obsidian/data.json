@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-26_Friday",
+      "path": "buckets/daily/2023-05-26_Friday.md"
+    },
+    {
       "basename": "2023-05-25_Thursday",
       "path": "buckets/daily/2023-05-25_Thursday.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-05-09_Tuesday",
       "path": "buckets/daily/2023-05-09_Tuesday.md"
-    },
-    {
-      "basename": "Windows Terminal",
-      "path": "buckets/lifestyle/Windows Terminal.md"
     }
   ],
   "omittedPaths": [],
