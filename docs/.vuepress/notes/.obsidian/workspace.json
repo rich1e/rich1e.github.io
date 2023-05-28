@@ -83,7 +83,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-26_Friday.md",
+                    "file": "buckets/daily/2023-05-28_Sunday.md",
                     "mode": "source",
                     "source": false
                   }
@@ -146,9 +146,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4e0d64b37fc438ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-26_Friday.md",
+                "file": "buckets/daily/2023-05-28_Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-26_Friday.md",
+                "file": "buckets/daily/2023-05-28_Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-26_Friday.md"
+                "file": "buckets/daily/2023-05-28_Sunday.md"
               }
             }
           },
@@ -231,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -250,11 +258,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -264,14 +271,16 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df16662c30fc76da",
+  "active": "21d36ea2fedabd7e",
   "lastOpenFiles": [
-    "buckets/daily/2023-05-25_Thursday.md",
-    "buckets/daily/2023-05-26_Friday.md",
     "workspce/Daily Record.md",
+    "buckets/daily/2023-05-28_Sunday.md",
+    "buckets/daily/2023-05-26_Friday.md",
+    "buckets/daily/2023-05-25_Thursday.md",
     "buckets/daily/2023-05-24_Wednesday.md",
     "buckets/daily/2023-05-23_Tuesday.md",
     "buckets/daily/2023-05-04_Thursday.md",
@@ -294,7 +303,6 @@
     "buckets/learn/Oh My Zsh.md",
     "buckets/learn/VuePress.md",
     "buckets/work-experience/za/za-kj.md",
-    "buckets/learn/nginx.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
