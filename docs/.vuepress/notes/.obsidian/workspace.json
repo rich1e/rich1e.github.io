@@ -83,7 +83,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-05-28_Sunday.md",
+                    "file": "2023/Book.md",
                     "mode": "source",
                     "source": false
                   }
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "瓦片",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-05-28_Sunday.md",
+                "file": "2023/Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-05-28_Sunday.md",
+                "file": "2023/Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-05-28_Sunday.md"
+                "file": "2023/Book.md"
               }
             }
           },
@@ -239,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -271,13 +270,20 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "21d36ea2fedabd7e",
+  "active": "df16662c30fc76da",
   "lastOpenFiles": [
+    "buckets/daily/2023-05-29_Monday.md",
     "workspce/Daily Record.md",
+    "workspce/Draft.md",
+    "buckets/technology/PDF.md",
+    "buckets/learn/ESlint.md",
+    "buckets/daily/2022-12-26_Monday.md",
+    "buckets/daily/2022-12-07_Wednesday.md",
+    "HomePage.md",
     "buckets/daily/2023-05-28_Sunday.md",
     "buckets/daily/2023-05-26_Friday.md",
     "buckets/daily/2023-05-25_Thursday.md",
@@ -285,7 +291,6 @@
     "buckets/daily/2023-05-23_Tuesday.md",
     "buckets/daily/2023-05-04_Thursday.md",
     "2023/Blog.md",
-    "workspce/Draft.md",
     "work-records/command-fzf.md",
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "work-records/command-tree.md",
@@ -297,12 +302,6 @@
     "work-records/javascript-async-await.md",
     "work-records/vscode-markdown.md",
     "buckets/learn/git-useing.md",
-    "buckets/daily/2023-03-22_Wednesday.md",
-    "2021/2021-Vue&React.md",
-    "buckets/lifestyle/mac-utils.md",
-    "buckets/learn/Oh My Zsh.md",
-    "buckets/learn/VuePress.md",
-    "buckets/work-experience/za/za-kj.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.svg",

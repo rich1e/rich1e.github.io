@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-28_Sunday",
-      "path": "buckets/daily/2023-05-28_Sunday.md"
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "2023-05-29_Monday",
+      "path": "buckets/daily/2023-05-29_Monday.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "PDF",
+      "path": "buckets/technology/PDF.md"
+    },
+    {
+      "basename": "ESlint",
+      "path": "buckets/learn/ESlint.md"
+    },
+    {
+      "basename": "2022-12-26_Monday",
+      "path": "buckets/daily/2022-12-26_Monday.md"
+    },
+    {
+      "basename": "2022-12-07_Wednesday",
+      "path": "buckets/daily/2022-12-07_Wednesday.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "2023-05-28_Sunday",
+      "path": "buckets/daily/2023-05-28_Sunday.md"
     },
     {
       "basename": "2023-05-26_Friday",
@@ -31,10 +63,6 @@
     {
       "basename": "Blog",
       "path": "2023/Blog.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
     },
     {
       "basename": "command-fzf",
@@ -109,10 +137,6 @@
       "path": "buckets/learn/nginx.md"
     },
     {
-      "basename": "Book",
-      "path": "2023/Book.md"
-    },
-    {
       "basename": "2023-05-22_Monday",
       "path": "buckets/daily/2023-05-22_Monday.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "2023-05-13_Saturday",
       "path": "buckets/daily/2023-05-13_Saturday.md"
-    },
-    {
-      "basename": "2023-05-14_Sunday",
-      "path": "buckets/daily/2023-05-14_Sunday.md"
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
-    },
-    {
-      "basename": "2023-05-12_Friday",
-      "path": "buckets/daily/2023-05-12_Friday.md"
-    },
-    {
-      "basename": "2023-05-11_Thursday",
-      "path": "buckets/daily/2023-05-11_Thursday.md"
-    },
-    {
-      "basename": "2023-03-23_Thursday",
-      "path": "buckets/daily/2023-03-23_Thursday.md"
-    },
-    {
-      "basename": "2023-01-11_Wednesday",
-      "path": "buckets/daily/2023-01-11_Wednesday.md"
     }
   ],
   "omittedPaths": [],
