@@ -10,7 +10,7 @@
           {
             "id": "407f3574ed32ad7f",
             "type": "tabs",
-            "dimension": 50.2112676056338,
+            "dimension": 54.31255337318531,
             "children": [
               {
                 "id": "0e8ae64d066956a7",
@@ -34,7 +34,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "workspce/Daily Record.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   },
                   "pinned": true
@@ -47,7 +47,7 @@
           {
             "id": "6e227f9ee0584db0",
             "type": "tabs",
-            "dimension": 49.7887323943662,
+            "dimension": 45.68744662681469,
             "children": [
               {
                 "id": "daabbc0cd8e02983",
@@ -78,12 +78,12 @@
                 }
               },
               {
-                "id": "df16662c30fc76da",
+                "id": "3c52fb63f1d3cba7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2023/Book.md",
+                    "file": "buckets/daily/2023-06-02_Friday.md",
                     "mode": "source",
                     "source": false
                   }
@@ -146,21 +146,14 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "4e0d64b37fc438ba",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -177,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Book.md",
+                "file": "buckets/daily/2023-06-02_Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Book.md",
+                "file": "buckets/daily/2023-06-02_Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Book.md"
+                "file": "buckets/daily/2023-06-02_Friday.md"
               }
             }
           },
@@ -257,10 +250,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -270,38 +264,40 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "df16662c30fc76da",
+  "active": "3c52fb63f1d3cba7",
   "lastOpenFiles": [
-    "buckets/daily/2023-05-29_Monday.md",
     "workspce/Daily Record.md",
-    "workspce/Draft.md",
-    "buckets/technology/PDF.md",
-    "buckets/learn/ESlint.md",
+    "buckets/daily/2023-01-09_Monday.md",
+    "Untitled.canvas",
+    "buckets/daily/2023-06-02_Friday.md",
+    "buckets/daily/2023-06-01_Thursday.md",
+    "workspce/meta/企业微信截图_55837940-dc9e-4475-bddf-8e3639e4eec2.png",
+    "buckets/daily/meta/Pasted image 20230602091923.png",
+    "buckets/daily/meta/IMG_8894.png",
+    "buckets/daily/2023-05-31_Wednesday.md",
+    "buckets/daily/2023-05-29_Monday.md",
+    "buckets/daily/2023-05-30_Tuesday.md",
+    "Untitled.md",
+    "buckets/technology/nvm.md",
+    "buckets/learn/node.md",
+    "buckets/lifestyle/WSL2.md",
+    "buckets/lifestyle/Windows Terminal.md",
+    "buckets/technology/webstorm.md",
     "buckets/daily/2022-12-26_Monday.md",
-    "buckets/daily/2022-12-07_Wednesday.md",
-    "HomePage.md",
+    "buckets/daily/2023-03-22_Wednesday.md",
     "buckets/daily/2023-05-28_Sunday.md",
-    "buckets/daily/2023-05-26_Friday.md",
-    "buckets/daily/2023-05-25_Thursday.md",
-    "buckets/daily/2023-05-24_Wednesday.md",
+    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
+    "buckets/lifestyle/Mac 开箱食谱.md",
+    "buckets/lifestyle/windows-command.md",
+    "workspce/Draft.md",
+    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
+    "workspce/Kanban.md",
     "buckets/daily/2023-05-23_Tuesday.md",
-    "buckets/daily/2023-05-04_Thursday.md",
-    "2023/Blog.md",
-    "work-records/command-fzf.md",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
-    "work-records/command-tree.md",
-    "work-records/command-tldr.md",
-    "work-records/command-exa.md",
-    "work-records/git-remote-host-identification-has-changed.md",
-    "work-records/git-open.md",
-    "work-records/git-blame.md",
-    "work-records/javascript-async-await.md",
-    "work-records/vscode-markdown.md",
-    "buckets/learn/git-useing.md",
+    "buckets/templater/Obsidian：Quick Day.md",
+    "buckets/daily/2023-03-08_Wednesday.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
@@ -311,15 +307,11 @@
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally.svg",
     "buckets/excalidraw/scripts/Downloaded",
     "buckets/excalidraw/scripts",
-    "buckets/excalidraw/meta/Pasted Image 20230517095648_363.png",
     "buckets/excalidraw/meta",
-    "buckets/daily/meta/Pasted image 20230512132527.png",
-    "buckets/daily/meta/Pasted image 20230504141008.png",
     "buckets/daily/meta",
     "2023/meta",
     "buckets/script/get_guid.js",
     "buckets/script",
-    "buckets/templater",
-    "Untitled.canvas"
+    "buckets/templater"
   ]
 }

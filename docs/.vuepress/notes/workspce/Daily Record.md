@@ -160,6 +160,25 @@ git reset --soft head^
 git reset --hard head^
 ```
 
+恢复特定 commit 中的某个文件
+
+```git
+git checkout <目标 commit> -- <文件>
+```
+
+文件回滚
+
+```git
+# 仅在工作区修改，还没有提交暂存区和本地仓库
+git checkout -- 文件名
+# 添加到暂存区，但还未提交 commit
+git reset HEAD 文件名
+# 已提交commit，但还没有 push 时
+git reset <要回滚到的 commit>
+# 已 push 到远端时
+git revert
+```
+
 显示最近一次提交的 commit ID 的缩写形式，并复制到剪切板
 
 ```git
@@ -180,25 +199,84 @@ Ref
 [Git使用的奇技淫巧 | Escape](https://www.escapelife.site/posts/7a4a6df7.html#toc-heading-3)
 [Git 常用指令 - 潘忠显](https://panzhongxian.cn/cn/2021/01/git-common-commands/)
 
+## Node Command-line
 
-## Node Command
+> [Command-line API | Node.js v20.2.0 Documentation](https://nodejs.org/api/cli.html)
 
 ```sh
 # 查询最新稳定版
 nvm ls-remote | grep 'Latest LTS'
+# 查看可用的（可下载的）全部node版本
+nvm ls available 
+# 列出所有安装的版本
+nvm ls 
+# 安装最新版本的 node
+nvm install latest 
+# 安装当前稳定的 Node.js LTS 版本
+nvm install --lts
+```
+
+> nvm 软件包 windows 平台的命令和其它平台的有区别
+
+lerna
+
+```sh
 # 清空 node_modules
-lerna clean
-# https://yarnpkg.com/cli/workspace
+lerna clean 
+```
+
+yarn workspace
+
+```node
 yarn workspace [package-name] [action] [...pkg]
 ```
 
+Ref
+
+[yarn workspace](https://yarnpkg.com/cli/workspace)
+
+查看镜像源
+
+```node
+npm config get registry 
+```
+
+```node
+yarn config get registry
+```
+
+设置镜像源
+
+```node
+npm config set registry <registry-url> 
+```
+
+```node
+yarn config set registry <registry-url>
+```
+
+```md
+npm --- https://registry.npmjs.org/
+
+cnpm --- https://r.cnpmjs.org/
+
+taobao --- https://registry.npm.taobao.org/
+
+nj --- https://registry.nodejitsu.com/
+
+rednpm --- https://registry.mirror.cqupt.edu.cn/
+
+npmMirror --- https://skimdb.npmjs.com/registry/
+
+deunpm --- http://registry.enpmjs.org/
+```
 
 ## Windows Settings
 
 1. 申请机器；
 2. 连接 `\\192.168.91.253`，获取安装文件；
     - `MOPassiveSetup` 安装程序
-    - `MaxOpticsStudio__SetLocalServer` 设置 `License` 服务
+    - `MaxOpticsStudio__SetLocalServer` 设置 `License` 服务 `bitanswer.max.com`
 3. 关闭防火墙；
     - 命令行执行 
     Win + R，打开CMD，运行 `netsh advfirewall set allprofiles state off`;
@@ -215,6 +293,8 @@ netsh advfirewall set allprofiles state on
 # 恢复初始防火墙设置
 netsh advfirewall reset
 ```
+
+![[workspce/meta/企业微信截图_55837940-dc9e-4475-bddf-8e3639e4eec2.png]]
 
 Ref
 
@@ -234,6 +314,14 @@ then check its status
 ```sh
 curl http://localhost:25500/version
 ```
+
+
+## Docs
+
+[Release 1.1.0-beta.24 · element-plus/element-plus](https://github.com/element-plus/element-plus/releases/tag/1.1.0-beta.24)
+[element-plus/docs at 1.1.0-beta.24 · element-plus/element-plus · GitHub](https://github.com/element-plus/element-plus/tree/1.1.0-beta.24/docs)
+
+
 
 ```dataview 
 table date AS 创建时间, file.mtime AS 修改时间
