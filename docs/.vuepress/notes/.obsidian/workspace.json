@@ -10,22 +10,8 @@
           {
             "id": "407f3574ed32ad7f",
             "type": "tabs",
-            "dimension": 54.31255337318531,
+            "dimension": 50.2112676056338,
             "children": [
-              {
-                "id": "0e8ae64d066956a7",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "HomePage.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
               {
                 "id": "af0035df406cdc86",
                 "type": "leaf",
@@ -34,20 +20,19 @@
                   "type": "markdown",
                   "state": {
                     "file": "workspce/Daily Record.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   },
                   "pinned": true
                 }
               }
             ],
-            "currentTab": 1,
             "stacked": true
           },
           {
             "id": "6e227f9ee0584db0",
             "type": "tabs",
-            "dimension": 45.68744662681469,
+            "dimension": 49.7887323943662,
             "children": [
               {
                 "id": "daabbc0cd8e02983",
@@ -64,33 +49,19 @@
                 }
               },
               {
-                "id": "a74e309c73b35736",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "3c52fb63f1d3cba7",
+                "id": "fd8d079b2e1372b1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-06-02_Friday.md",
+                    "file": "buckets/daily/2023-06-05_Monday.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -170,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-06-02_Friday.md",
+                "file": "buckets/daily/2023-06-05_Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-06-02_Friday.md",
+                "file": "buckets/daily/2023-06-05_Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-06-02_Friday.md"
+                "file": "buckets/daily/2023-06-05_Monday.md"
               }
             }
           },
@@ -254,7 +225,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -264,15 +234,20 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c52fb63f1d3cba7",
+  "active": "fd8d079b2e1372b1",
   "lastOpenFiles": [
+    "buckets/daily/2023-06-02_Friday.md",
     "workspce/Daily Record.md",
+    "buckets/daily/2023-06-05_Monday.md",
+    "workspce/Draft.md",
+    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
+    "HomePage.md",
     "buckets/daily/2023-01-09_Monday.md",
     "Untitled.canvas",
-    "buckets/daily/2023-06-02_Friday.md",
     "buckets/daily/2023-06-01_Thursday.md",
     "workspce/meta/企业微信截图_55837940-dc9e-4475-bddf-8e3639e4eec2.png",
     "buckets/daily/meta/Pasted image 20230602091923.png",
@@ -292,12 +267,9 @@
     "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
     "buckets/lifestyle/Mac 开箱食谱.md",
     "buckets/lifestyle/windows-command.md",
-    "workspce/Draft.md",
     "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
     "workspce/Kanban.md",
     "buckets/daily/2023-05-23_Tuesday.md",
-    "buckets/templater/Obsidian：Quick Day.md",
-    "buckets/daily/2023-03-08_Wednesday.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.svg",

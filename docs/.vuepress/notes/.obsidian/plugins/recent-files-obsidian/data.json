@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-05_Monday",
+      "path": "buckets/daily/2023-06-05_Monday.md"
+    },
+    {
       "basename": "2023-06-02_Friday",
       "path": "buckets/daily/2023-06-02_Friday.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "2023-01-09_Monday",
@@ -73,10 +89,6 @@
       "path": "buckets/lifestyle/windows-command.md"
     },
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
       "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
     },
@@ -101,10 +113,6 @@
       "path": "2023/Mac & Electron 跨端开发体验.md"
     },
     {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
-    },
-    {
       "basename": "2023-05-18_Thursday",
       "path": "buckets/daily/2023-05-18_Thursday.md"
     },
@@ -123,10 +131,6 @@
     {
       "basename": "2022-12-07_Wednesday",
       "path": "buckets/daily/2022-12-07_Wednesday.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "2023-05-26_Friday",

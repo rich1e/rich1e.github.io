@@ -292,6 +292,8 @@ netsh advfirewall set allprofiles state off
 netsh advfirewall set allprofiles state on  
 # 恢复初始防火墙设置
 netsh advfirewall reset
+# 显示操作系统信息，例如：系统版本、内存等
+systeminfo
 ```
 
 ![[workspce/meta/企业微信截图_55837940-dc9e-4475-bddf-8e3639e4eec2.png]]
