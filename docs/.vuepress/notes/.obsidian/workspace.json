@@ -20,7 +20,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "workspce/Daily Record.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   },
                   "pinned": true
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-06-05_Monday.md",
+                    "file": "buckets/daily/2023-06-09_Friday.md",
                     "mode": "source",
                     "source": false
                   }
@@ -118,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-06-05_Monday.md",
+                "file": "buckets/daily/2023-06-09_Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-06-05_Monday.md",
+                "file": "buckets/daily/2023-06-09_Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-06-05_Monday.md"
+                "file": "buckets/daily/2023-06-09_Friday.md"
               }
             }
           },
@@ -234,15 +233,22 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "fd8d079b2e1372b1",
   "lastOpenFiles": [
-    "buckets/daily/2023-06-02_Friday.md",
+    "buckets/daily/2023-06-08_Thursday.md",
+    "buckets/daily/2023-06-09_Friday.md",
     "workspce/Daily Record.md",
+    "buckets/daily/2023-06-06_Tuesday.md",
+    "buckets/daily/2023-06-07_Wednesday.md",
+    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
+    "buckets/daily/2023-01-12_Thursday.md",
+    "2023/Homebrew.md",
     "buckets/daily/2023-06-05_Monday.md",
+    "buckets/daily/2023-06-02_Friday.md",
     "workspce/Draft.md",
     "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
     "HomePage.md",
@@ -263,13 +269,6 @@
     "buckets/technology/webstorm.md",
     "buckets/daily/2022-12-26_Monday.md",
     "buckets/daily/2023-03-22_Wednesday.md",
-    "buckets/daily/2023-05-28_Sunday.md",
-    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
-    "buckets/lifestyle/Mac 开箱食谱.md",
-    "buckets/lifestyle/windows-command.md",
-    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
-    "workspce/Kanban.md",
-    "buckets/daily/2023-05-23_Tuesday.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.svg",

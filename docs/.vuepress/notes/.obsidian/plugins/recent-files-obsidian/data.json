@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-09_Friday",
+      "path": "buckets/daily/2023-06-09_Friday.md"
+    },
+    {
+      "basename": "2023-06-08_Thursday",
+      "path": "buckets/daily/2023-06-08_Thursday.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "2023-06-06_Tuesday",
+      "path": "buckets/daily/2023-06-06_Tuesday.md"
+    },
+    {
+      "basename": "2023-06-07_Wednesday",
+      "path": "buckets/daily/2023-06-07_Wednesday.md"
+    },
+    {
+      "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
+      "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
+    },
+    {
+      "basename": "2023-01-12_Thursday",
+      "path": "buckets/daily/2023-01-12_Thursday.md"
+    },
+    {
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
+    },
+    {
       "basename": "2023-06-05_Monday",
       "path": "buckets/daily/2023-06-05_Monday.md"
     },
     {
       "basename": "2023-06-02_Friday",
       "path": "buckets/daily/2023-06-02_Friday.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "Draft",
@@ -75,10 +103,6 @@
     {
       "basename": "2023-05-28_Sunday",
       "path": "buckets/daily/2023-05-28_Sunday.md"
-    },
-    {
-      "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
-      "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
     },
     {
       "basename": "Mac 开箱食谱",
@@ -175,30 +199,6 @@
     {
       "basename": "git-open",
       "path": "work-records/git-open.md"
-    },
-    {
-      "basename": "git-blame",
-      "path": "work-records/git-blame.md"
-    },
-    {
-      "basename": "javascript-async-await",
-      "path": "work-records/javascript-async-await.md"
-    },
-    {
-      "basename": "vscode-markdown",
-      "path": "work-records/vscode-markdown.md"
-    },
-    {
-      "basename": "git-useing",
-      "path": "buckets/learn/git-useing.md"
-    },
-    {
-      "basename": "2021-Vue&React",
-      "path": "2021/2021-Vue&React.md"
-    },
-    {
-      "basename": "mac-utils",
-      "path": "buckets/lifestyle/mac-utils.md"
     }
   ],
   "omittedPaths": [],

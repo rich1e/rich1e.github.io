@@ -14,3 +14,4 @@ Ref
 
 [Homebrew — The Missing Package Manager for macOS (or Linux)](https://brew.sh/)
 [Brew tutorial | difyel - Tuorials](https://difyel.com/tutorial/brew-tutorial/index.html)
+[使用brew安装历史版本的几种方式 - 掘金](https://juejin.cn/post/7179202980191666233)
