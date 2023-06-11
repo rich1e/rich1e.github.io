@@ -54,7 +54,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-06-09_Friday.md",
+                    "file": "buckets/daily/2023-06-10_Saturday.md",
                     "mode": "source",
                     "source": false
                   }
@@ -117,6 +117,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b1b0cab84ff59e6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -140,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-06-09_Friday.md",
+                "file": "buckets/daily/2023-06-10_Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-06-09_Friday.md",
+                "file": "buckets/daily/2023-06-10_Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-06-09_Friday.md"
+                "file": "buckets/daily/2023-06-10_Saturday.md"
               }
             }
           },
@@ -239,8 +247,9 @@
   },
   "active": "fd8d079b2e1372b1",
   "lastOpenFiles": [
-    "buckets/daily/2023-06-08_Thursday.md",
     "buckets/daily/2023-06-09_Friday.md",
+    "buckets/daily/2023-06-10_Saturday.md",
+    "buckets/daily/2023-06-08_Thursday.md",
     "workspce/Daily Record.md",
     "buckets/daily/2023-06-06_Tuesday.md",
     "buckets/daily/2023-06-07_Wednesday.md",
@@ -268,7 +277,6 @@
     "buckets/lifestyle/Windows Terminal.md",
     "buckets/technology/webstorm.md",
     "buckets/daily/2022-12-26_Monday.md",
-    "buckets/daily/2023-03-22_Wednesday.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
