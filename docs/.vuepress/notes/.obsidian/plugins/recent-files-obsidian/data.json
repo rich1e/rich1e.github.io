@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-12_Monday",
+      "path": "buckets/daily/2023-06-12_Monday.md"
+    },
+    {
       "basename": "2023-06-10_Saturday",
       "path": "buckets/daily/2023-06-10_Saturday.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "command-exa",
       "path": "work-records/command-exa.md"
-    },
-    {
-      "basename": "git-remote-host-identification-has-changed",
-      "path": "work-records/git-remote-host-identification-has-changed.md"
     }
   ],
   "omittedPaths": [],
