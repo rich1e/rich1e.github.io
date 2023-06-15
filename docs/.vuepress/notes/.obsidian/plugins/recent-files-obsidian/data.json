@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-13_Tuesday",
+      "path": "buckets/daily/2023-06-13_Tuesday.md"
+    },
+    {
+      "basename": "2023-06-14_Wednesday",
+      "path": "buckets/daily/2023-06-14_Wednesday.md"
+    },
+    {
+      "basename": "2023-06-15_Thursday",
+      "path": "buckets/daily/2023-06-15_Thursday.md"
+    },
+    {
+      "basename": "Electron：WebSwapCGLLayer warning",
+      "path": "2023/Electron：WebSwapCGLLayer warning.md"
+    },
+    {
       "basename": "2023-06-12_Monday",
       "path": "buckets/daily/2023-06-12_Monday.md"
     },
     {
-      "basename": "2023-06-10_Saturday",
-      "path": "buckets/daily/2023-06-10_Saturday.md"
+      "basename": "2023-06-08_Thursday",
+      "path": "buckets/daily/2023-06-08_Thursday.md"
     },
     {
       "basename": "2023-06-09_Friday",
       "path": "buckets/daily/2023-06-09_Friday.md"
     },
     {
-      "basename": "2023-06-08_Thursday",
-      "path": "buckets/daily/2023-06-08_Thursday.md"
+      "basename": "2023-06-10_Saturday",
+      "path": "buckets/daily/2023-06-10_Saturday.md"
+    },
+    {
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
     },
     {
       "basename": "Daily Record",
@@ -35,10 +55,6 @@
     {
       "basename": "2023-01-12_Thursday",
       "path": "buckets/daily/2023-01-12_Thursday.md"
-    },
-    {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
     },
     {
       "basename": "2023-06-05_Monday",
@@ -183,22 +199,6 @@
     {
       "basename": "Blog",
       "path": "2023/Blog.md"
-    },
-    {
-      "basename": "command-fzf",
-      "path": "work-records/command-fzf.md"
-    },
-    {
-      "basename": "command-tree",
-      "path": "work-records/command-tree.md"
-    },
-    {
-      "basename": "command-tldr",
-      "path": "work-records/command-tldr.md"
-    },
-    {
-      "basename": "command-exa",
-      "path": "work-records/command-exa.md"
     }
   ],
   "omittedPaths": [],
