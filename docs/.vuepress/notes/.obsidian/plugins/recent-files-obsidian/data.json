@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-16_Friday",
+      "path": "buckets/daily/2023-06-16_Friday.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "2023-06-12_Monday",
+      "path": "buckets/daily/2023-06-12_Monday.md"
+    },
+    {
       "basename": "2023-06-13_Tuesday",
       "path": "buckets/daily/2023-06-13_Tuesday.md"
     },
@@ -17,10 +29,6 @@
       "path": "2023/Electron：WebSwapCGLLayer warning.md"
     },
     {
-      "basename": "2023-06-12_Monday",
-      "path": "buckets/daily/2023-06-12_Monday.md"
-    },
-    {
       "basename": "2023-06-08_Thursday",
       "path": "buckets/daily/2023-06-08_Thursday.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Homebrew",
       "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "2023-06-06_Tuesday",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-05-04_Thursday",
       "path": "buckets/daily/2023-05-04_Thursday.md"
-    },
-    {
-      "basename": "Blog",
-      "path": "2023/Blog.md"
     }
   ],
   "omittedPaths": [],

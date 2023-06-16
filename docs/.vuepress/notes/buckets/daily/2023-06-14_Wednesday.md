@@ -6,6 +6,7 @@ Last modified date: 2023-06-14 16:39
 uuid: 347c57d2-ca1a-6cf9-a6af-fdb2e9e76288
 ---
 
+#nvm #设计模式 #pattern
 
 ## 发布订阅模式有哪些问题？
 
