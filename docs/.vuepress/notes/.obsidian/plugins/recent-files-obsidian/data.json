@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-16_Friday",
-      "path": "buckets/daily/2023-06-16_Friday.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
       "basename": "2023-06-12_Monday",
       "path": "buckets/daily/2023-06-12_Monday.md"
+    },
+    {
+      "basename": "2023-06-19_Monday",
+      "path": "buckets/daily/2023-06-19_Monday.md"
+    },
+    {
+      "basename": "自建 OSS",
+      "path": "2023/自建 OSS.md"
     },
     {
       "basename": "2023-06-13_Tuesday",
@@ -23,6 +23,14 @@
     {
       "basename": "2023-06-15_Thursday",
       "path": "buckets/daily/2023-06-15_Thursday.md"
+    },
+    {
+      "basename": "2023-06-16_Friday",
+      "path": "buckets/daily/2023-06-16_Friday.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "Electron：WebSwapCGLLayer warning",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-05-25_Thursday",
       "path": "buckets/daily/2023-05-25_Thursday.md"
-    },
-    {
-      "basename": "2023-05-24_Wednesday",
-      "path": "buckets/daily/2023-05-24_Wednesday.md"
-    },
-    {
-      "basename": "2023-05-04_Thursday",
-      "path": "buckets/daily/2023-05-04_Thursday.md"
     }
   ],
   "omittedPaths": [],

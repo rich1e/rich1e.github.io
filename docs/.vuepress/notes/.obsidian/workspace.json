@@ -61,12 +61,12 @@
                 }
               },
               {
-                "id": "c63375789df4010d",
+                "id": "c3fc844d3bc48d3e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "buckets/daily/2023-06-16_Friday.md",
+                    "file": "buckets/daily/2023-06-12_Monday.md",
                     "mode": "source",
                     "source": false
                   }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-06-16_Friday.md",
+                "file": "buckets/daily/2023-06-12_Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-06-16_Friday.md",
+                "file": "buckets/daily/2023-06-12_Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-06-16_Friday.md"
+                "file": "buckets/daily/2023-06-12_Monday.md"
               }
             }
           },
@@ -258,14 +258,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c63375789df4010d",
+  "active": "d9995859cf1212a3",
   "lastOpenFiles": [
-    "workspce/Daily Record.md",
+    "buckets/daily/2023-06-19_Monday.md",
     "buckets/daily/2023-06-12_Monday.md",
+    "2023/自建 OSS.md",
+    "buckets/daily/meta/Pasted image 20230619102624.png",
+    "buckets/daily/meta/Pasted image 20230619102541.png",
     "buckets/daily/2023-06-13_Tuesday.md",
     "buckets/daily/2023-06-14_Wednesday.md",
     "buckets/daily/2023-06-15_Thursday.md",
     "buckets/daily/2023-06-16_Friday.md",
+    "workspce/Daily Record.md",
     "2023/Electron：WebSwapCGLLayer warning.md",
     "2023/meta/Pasted image 20230615134619.png",
     "buckets/daily/2023-06-08_Thursday.md",
@@ -291,12 +295,8 @@
     "buckets/daily/meta/IMG_8894.png",
     "buckets/daily/2023-05-31_Wednesday.md",
     "buckets/daily/2023-05-29_Monday.md",
-    "buckets/daily/2023-05-30_Tuesday.md",
-    "Untitled.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
-    "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
-    "buckets/excalidraw/scripts/Downloaded/Expand rectangles vertically.svg",
     "buckets/excalidraw/scripts/Downloaded",
     "buckets/excalidraw/scripts",
     "buckets/excalidraw/meta",
