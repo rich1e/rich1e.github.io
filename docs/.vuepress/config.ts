@@ -96,7 +96,7 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     [
       "@vuepress/plugin-google-analytics",
       {
-        id: "G-LQXPNSFYVH",
+        id: "G-5ELCHD60RW",
       },
     ],
     VuepressPluginPermalinkPinyin,

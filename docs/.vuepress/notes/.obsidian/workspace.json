@@ -54,26 +54,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2023/Homebrew.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c3fc844d3bc48d3e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "buckets/daily/2023-06-12_Monday.md",
+                    "file": "buckets/daily/2023-06-19_Monday.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md",
+                "file": "buckets/daily/2023-06-19_Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md",
+                "file": "buckets/daily/2023-06-19_Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md"
+                "file": "buckets/daily/2023-06-19_Monday.md"
               }
             }
           },
@@ -258,9 +246,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d9995859cf1212a3",
+  "active": "fd8d079b2e1372b1",
   "lastOpenFiles": [
+    "buckets/daily/2023-06-20_Tuesday.md",
     "buckets/daily/2023-06-19_Monday.md",
+    "workspce/Daily Record.md",
     "buckets/daily/2023-06-12_Monday.md",
     "2023/自建 OSS.md",
     "buckets/daily/meta/Pasted image 20230619102624.png",
@@ -269,7 +259,6 @@
     "buckets/daily/2023-06-14_Wednesday.md",
     "buckets/daily/2023-06-15_Thursday.md",
     "buckets/daily/2023-06-16_Friday.md",
-    "workspce/Daily Record.md",
     "2023/Electron：WebSwapCGLLayer warning.md",
     "2023/meta/Pasted image 20230615134619.png",
     "buckets/daily/2023-06-08_Thursday.md",
@@ -294,7 +283,6 @@
     "buckets/daily/meta/Pasted image 20230602091923.png",
     "buckets/daily/meta/IMG_8894.png",
     "buckets/daily/2023-05-31_Wednesday.md",
-    "buckets/daily/2023-05-29_Monday.md",
     "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
     "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
     "buckets/excalidraw/scripts/Downloaded",
