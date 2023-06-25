@@ -12,5 +12,6 @@
   },
   "vimMode": true,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "./meta"
+  "attachmentFolderPath": "./meta",
+  "showFrontmatter": true
 }

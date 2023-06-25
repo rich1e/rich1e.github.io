@@ -22,10 +22,13 @@
   "quickadd",
   "obsidian-admonition",
   "obsidian-plantuml",
-  "drawio-obsidian",
   "obsidian-charts",
   "obsidian-vimrc-support",
   "obsidian-linter",
   "obsidian-pandoc",
-  "templater-obsidian"
+  "templater-obsidian",
+  "drawio-obsidian",
+  "obsidian42-brat",
+  "obsidian-memos",
+  "obsidian-annotator"
 ]

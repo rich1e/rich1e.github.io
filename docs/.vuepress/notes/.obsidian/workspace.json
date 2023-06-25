@@ -4,67 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ce0237dc8f18a771",
-        "type": "split",
+        "id": "c1556e395f9036ae",
+        "type": "tabs",
+        "dimension": 61.76056338028169,
         "children": [
           {
-            "id": "407f3574ed32ad7f",
-            "type": "tabs",
-            "dimension": 50.2112676056338,
-            "children": [
-              {
-                "id": "af0035df406cdc86",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "workspce/Daily Record.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "pinned": true
-                }
-              }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "6e227f9ee0584db0",
-            "type": "tabs",
-            "dimension": 49.7887323943662,
-            "children": [
-              {
-                "id": "daabbc0cd8e02983",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "workspce/Draft.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "fd8d079b2e1372b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "buckets/daily/2023-06-12_Monday.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "466a56a88f2abaec",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
+      },
+      {
+        "id": "9459e2d1d3ad9ec6",
+        "type": "tabs",
+        "dimension": 38.23943661971831,
+        "children": [
+          {
+            "id": "5a0852da4e9108a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workspce/Daily Record.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,26 +49,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2ef5fe60b318861",
+            "id": "d9995859cf1212a3",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "file-explorer",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "7c7a3fcdb591f263",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -109,29 +67,25 @@
             }
           },
           {
-            "id": "d9995859cf1212a3",
+            "id": "c2ef5fe60b318861",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "search",
               "state": {
+                "query": "duplicate",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b1b0cab84ff59e6b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
+    "width": 226.5,
     "collapsed": true
   },
   "right": {
@@ -149,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           },
@@ -210,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -233,6 +187,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -242,56 +198,58 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "fd8d079b2e1372b1",
+  "active": "47a0b26365126ab3",
   "lastOpenFiles": [
-    "buckets/daily/2023-06-13_Tuesday.md",
-    "buckets/daily/2023-06-12_Monday.md",
+    "HomePage.md",
     "buckets/daily/2023-06-19_Monday.md",
     "buckets/daily/2023-06-20_Tuesday.md",
-    "workspce/Daily Record.md",
-    "2023/自建 OSS.md",
-    "buckets/daily/meta/Pasted image 20230619102624.png",
-    "buckets/daily/meta/Pasted image 20230619102541.png",
-    "buckets/daily/2023-06-14_Wednesday.md",
-    "buckets/daily/2023-06-15_Thursday.md",
-    "buckets/daily/2023-06-16_Friday.md",
-    "2023/Electron：WebSwapCGLLayer warning.md",
-    "2023/meta/Pasted image 20230615134619.png",
-    "buckets/daily/2023-06-08_Thursday.md",
-    "buckets/daily/2023-06-09_Friday.md",
-    "buckets/daily/2023-06-10_Saturday.md",
-    "2023/meta/Pasted image 20230615093305.png",
-    "2023/meta/Pasted image 20230615092537.png",
-    "2023/Homebrew.md",
-    "buckets/daily/2023-06-06_Tuesday.md",
-    "buckets/daily/2023-06-07_Wednesday.md",
-    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
-    "buckets/daily/2023-01-12_Thursday.md",
-    "buckets/daily/2023-06-05_Monday.md",
-    "buckets/daily/2023-06-02_Friday.md",
+    "buckets/daily/2023-06-25_Sunday.md",
+    "buckets/daily/query.md",
+    "buckets/Read Record/Read Record-20230625.md",
+    "buckts/Read Record/Read Record-20230625.md",
+    "buckts/Read Record",
+    "buckts",
+    "buckets/templates/Obsidian：Read Record Template.md",
+    "buckets/Read Record",
+    "buckets/books/Head First 设计模式（中文版） (Elisabeth Freeman, Eric Freeman, Bert Bates etc.) (z-lib.org).pdf",
+    "buckets/books/Designing Data-Intensive Applications 数据密集型应用系统设计(扫描) (Martin Kleppmann(著) 赵军平 吕云松 耿煜 李三平 (译)) (z-lib.org).pdf",
+    "buckets/books/笛卡尔的错误 情绪、推理和人脑 (达马西奥) (Z-Library).pdf",
+    "buckets/books/[图灵程序设计丛书].函数式编程思维 ([美] Neal Ford) (Z-Library).pdf",
+    "buckets/books",
     "workspce/Draft.md",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
-    "HomePage.md",
-    "buckets/daily/2023-01-09_Monday.md",
-    "Untitled.canvas",
-    "buckets/daily/2023-06-01_Thursday.md",
-    "workspce/meta/企业微信截图_55837940-dc9e-4475-bddf-8e3639e4eec2.png",
-    "buckets/daily/meta/Pasted image 20230602091923.png",
-    "buckets/daily/meta/IMG_8894.png",
-    "buckets/daily/2023-05-31_Wednesday.md",
-    "buckets/excalidraw/scripts/Downloaded/Elbow connectors.svg",
-    "buckets/excalidraw/scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
-    "buckets/excalidraw/scripts/Downloaded",
-    "buckets/excalidraw/scripts",
-    "buckets/excalidraw/meta",
-    "buckets/daily/meta",
-    "2023/meta",
-    "buckets/script/get_guid.js",
-    "buckets/script",
-    "buckets/templater"
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-06-14_Wednesday.md",
+    "buckets/diagram/Untitled Diagram.svg",
+    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
+    "buckets/excalidraw/Drawing 2023-06-25 10.04.09.excalidraw.md",
+    "buckets/excalidraw/Drawing 2022-10-19 13.53.49.excalidraw.md",
+    "buckets/excalidraw/Drawing 2023-06-25 15.32.07.excalidraw.md",
+    "buckets/diagram",
+    "Untitled Diagram 1.svg",
+    "Drawing 2023-06-25 15.35.39.excalidraw.md",
+    "Drawing 2023-06-25 15.35.52.excalidraw.md",
+    "buckets/learn/nuxt-ts.md",
+    "Untitled 1.md",
+    "buckets/excalidraw/font/沐瑶随心手写体.ttf",
+    "buckets/excalidraw/scripts/Downloaded/Text to Sticky Notes.svg",
+    "buckets/excalidraw/scripts/Downloaded/Text to Sticky Notes.md",
+    "buckets/excalidraw/scripts/Downloaded/Text Arch.svg",
+    "buckets/excalidraw/scripts/Downloaded/Text Arch.md",
+    "buckets/excalidraw/scripts/Downloaded/Convert selected text elements to sticky notes.svg",
+    "buckets/excalidraw/scripts/Downloaded/Convert selected text elements to sticky notes.md",
+    "buckets/excalidraw/scripts/Downloaded/Box Each Selected Groups.svg",
+    "buckets/excalidraw/scripts/Downloaded/Box Each Selected Groups.md",
+    "buckets/excalidraw/scripts/Downloaded/Auto Layout.svg",
+    "buckets/excalidraw/scripts/Downloaded/Auto Layout.md",
+    "buckets/excalidraw/scripts/Downloaded/Copy Selected Element Styles to Global.svg",
+    "buckets/excalidraw/scripts/Downloaded/Copy Selected Element Styles to Global.md",
+    "buckets/excalidraw/scripts/Downloaded/Fixed horizontal distance between centers.svg",
+    "buckets/excalidraw/scripts/Downloaded/Fixed horizontal distance between centers.md",
+    "buckets/excalidraw/scripts/Downloaded/Fixed inner distance.svg",
+    "Untitled.canvas"
   ]
 }

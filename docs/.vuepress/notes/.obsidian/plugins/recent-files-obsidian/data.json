@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-12_Monday",
-      "path": "buckets/daily/2023-06-12_Monday.md"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "2023-06-13_Tuesday",
-      "path": "buckets/daily/2023-06-13_Tuesday.md"
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "2023-06-19_Monday",
@@ -17,188 +17,32 @@
       "path": "buckets/daily/2023-06-20_Tuesday.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "2023-06-25_Sunday",
+      "path": "buckets/daily/2023-06-25_Sunday.md"
     },
     {
-      "basename": "自建 OSS",
-      "path": "2023/自建 OSS.md"
+      "basename": "Read Record-20230625",
+      "path": "buckets/Read Record/Read Record-20230625.md"
     },
     {
-      "basename": "2023-06-14_Wednesday",
-      "path": "buckets/daily/2023-06-14_Wednesday.md"
-    },
-    {
-      "basename": "2023-06-15_Thursday",
-      "path": "buckets/daily/2023-06-15_Thursday.md"
-    },
-    {
-      "basename": "2023-06-16_Friday",
-      "path": "buckets/daily/2023-06-16_Friday.md"
-    },
-    {
-      "basename": "Electron：WebSwapCGLLayer warning",
-      "path": "2023/Electron：WebSwapCGLLayer warning.md"
-    },
-    {
-      "basename": "2023-06-08_Thursday",
-      "path": "buckets/daily/2023-06-08_Thursday.md"
-    },
-    {
-      "basename": "2023-06-09_Friday",
-      "path": "buckets/daily/2023-06-09_Friday.md"
-    },
-    {
-      "basename": "2023-06-10_Saturday",
-      "path": "buckets/daily/2023-06-10_Saturday.md"
-    },
-    {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "2023-06-06_Tuesday",
-      "path": "buckets/daily/2023-06-06_Tuesday.md"
-    },
-    {
-      "basename": "2023-06-07_Wednesday",
-      "path": "buckets/daily/2023-06-07_Wednesday.md"
-    },
-    {
-      "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
-      "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
-    },
-    {
-      "basename": "2023-01-12_Thursday",
-      "path": "buckets/daily/2023-01-12_Thursday.md"
-    },
-    {
-      "basename": "2023-06-05_Monday",
-      "path": "buckets/daily/2023-06-05_Monday.md"
-    },
-    {
-      "basename": "2023-06-02_Friday",
-      "path": "buckets/daily/2023-06-02_Friday.md"
+      "basename": "Obsidian：Read Record Template",
+      "path": "buckets/templates/Obsidian：Read Record Template.md"
     },
     {
       "basename": "Draft",
       "path": "workspce/Draft.md"
     },
     {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+      "basename": "2023-06-14_Wednesday",
+      "path": "buckets/daily/2023-06-14_Wednesday.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "2023-01-09_Monday",
-      "path": "buckets/daily/2023-01-09_Monday.md"
-    },
-    {
-      "basename": "2023-06-01_Thursday",
-      "path": "buckets/daily/2023-06-01_Thursday.md"
-    },
-    {
-      "basename": "2023-05-31_Wednesday",
-      "path": "buckets/daily/2023-05-31_Wednesday.md"
-    },
-    {
-      "basename": "2023-05-29_Monday",
-      "path": "buckets/daily/2023-05-29_Monday.md"
-    },
-    {
-      "basename": "2023-05-30_Tuesday",
-      "path": "buckets/daily/2023-05-30_Tuesday.md"
-    },
-    {
-      "basename": "nvm",
-      "path": "buckets/technology/nvm.md"
-    },
-    {
-      "basename": "node",
-      "path": "buckets/learn/node.md"
-    },
-    {
-      "basename": "WSL2",
-      "path": "buckets/lifestyle/WSL2.md"
-    },
-    {
-      "basename": "Windows Terminal",
-      "path": "buckets/lifestyle/Windows Terminal.md"
-    },
-    {
-      "basename": "webstorm",
-      "path": "buckets/technology/webstorm.md"
-    },
-    {
-      "basename": "2022-12-26_Monday",
-      "path": "buckets/daily/2022-12-26_Monday.md"
-    },
-    {
-      "basename": "2023-03-22_Wednesday",
-      "path": "buckets/daily/2023-03-22_Wednesday.md"
-    },
-    {
-      "basename": "2023-05-28_Sunday",
-      "path": "buckets/daily/2023-05-28_Sunday.md"
-    },
-    {
-      "basename": "Mac 开箱食谱",
-      "path": "buckets/lifestyle/Mac 开箱食谱.md"
-    },
-    {
-      "basename": "windows-command",
-      "path": "buckets/lifestyle/windows-command.md"
+      "basename": "Untitled Diagram",
+      "path": "buckets/diagram/Untitled Diagram.svg"
     },
     {
       "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
       "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
-    },
-    {
-      "basename": "2023-05-23_Tuesday",
-      "path": "buckets/daily/2023-05-23_Tuesday.md"
-    },
-    {
-      "basename": "Obsidian：Quick Day",
-      "path": "buckets/templater/Obsidian：Quick Day.md"
-    },
-    {
-      "basename": "2023-03-08_Wednesday",
-      "path": "buckets/daily/2023-03-08_Wednesday.md"
-    },
-    {
-      "basename": "Mac & Electron 跨端开发体验",
-      "path": "2023/Mac & Electron 跨端开发体验.md"
-    },
-    {
-      "basename": "2023-05-18_Thursday",
-      "path": "buckets/daily/2023-05-18_Thursday.md"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
-    },
-    {
-      "basename": "PDF",
-      "path": "buckets/technology/PDF.md"
-    },
-    {
-      "basename": "ESlint",
-      "path": "buckets/learn/ESlint.md"
-    },
-    {
-      "basename": "2022-12-07_Wednesday",
-      "path": "buckets/daily/2022-12-07_Wednesday.md"
-    },
-    {
-      "basename": "2023-05-26_Friday",
-      "path": "buckets/daily/2023-05-26_Friday.md"
     }
   ],
   "omittedPaths": [],

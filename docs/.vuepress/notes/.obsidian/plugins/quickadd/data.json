@@ -62,6 +62,35 @@
       },
       "openFile": false,
       "openFileInMode": "source"
+    },
+    {
+      "id": "5795f2e9-21e6-4796-9d17-b515d1aa3d56",
+      "name": "Create Read Record",
+      "type": "Template",
+      "command": false,
+      "templatePath": "buckets/templates/Obsidian：Read Record Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Read Record-{{DATE:YYYYMMDD}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "buckets/Read Record"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
     }
   ],
   "macros": [],
