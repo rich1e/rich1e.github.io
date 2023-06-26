@@ -6,7 +6,7 @@
       {
         "id": "c1556e395f9036ae",
         "type": "tabs",
-        "dimension": 61.76056338028169,
+        "dimension": 61.760563380281695,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -30,7 +30,7 @@
               "type": "markdown",
               "state": {
                 "file": "workspce/Daily Record.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -202,8 +202,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "47a0b26365126ab3",
+  "active": "5a0852da4e9108a3",
   "lastOpenFiles": [
+    "buckets/daily/2023-06-26_Monday.md",
+    "workspce/Daily Record.md",
     "HomePage.md",
     "buckets/daily/2023-06-19_Monday.md",
     "buckets/daily/2023-06-20_Tuesday.md",
@@ -221,7 +223,6 @@
     "buckets/books/[图灵程序设计丛书].函数式编程思维 ([美] Neal Ford) (Z-Library).pdf",
     "buckets/books",
     "workspce/Draft.md",
-    "workspce/Daily Record.md",
     "buckets/daily/2023-06-14_Wednesday.md",
     "buckets/diagram/Untitled Diagram.svg",
     "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
@@ -248,7 +249,6 @@
     "buckets/excalidraw/scripts/Downloaded/Copy Selected Element Styles to Global.svg",
     "buckets/excalidraw/scripts/Downloaded/Copy Selected Element Styles to Global.md",
     "buckets/excalidraw/scripts/Downloaded/Fixed horizontal distance between centers.svg",
-    "buckets/excalidraw/scripts/Downloaded/Fixed horizontal distance between centers.md",
     "buckets/excalidraw/scripts/Downloaded/Fixed inner distance.svg",
     "Untitled.canvas"
   ]
