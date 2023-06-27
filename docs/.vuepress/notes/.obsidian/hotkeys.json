@@ -7,5 +7,15 @@
       ],
       "key": "U"
     }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }

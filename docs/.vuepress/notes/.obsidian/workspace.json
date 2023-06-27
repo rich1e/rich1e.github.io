@@ -34,8 +34,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7ac9ee641521314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "buckets/work-experience/max-optics/全局变量设计.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duplicate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/work-experience/max-optics/全局变量设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/work-experience/max-optics/全局变量设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "buckets/work-experience/max-optics/全局变量设计.md"
               }
             }
           },
@@ -183,10 +196,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
@@ -202,10 +217,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5a0852da4e9108a3",
+  "active": "c7ac9ee641521314",
   "lastOpenFiles": [
-    "buckets/daily/2023-06-26_Monday.md",
     "workspce/Daily Record.md",
+    "buckets/work-experience/max-optics/全局变量设计.md",
+    "buckets/work-experience/max-optics/meta/Pasted image 20230627154424.png",
+    "buckets/work-experience/max-optics/meta",
+    "buckets/daily/2022-12-13_Tuesday.md",
+    "buckets/daily/2023-06-27_Tuesday.md",
+    "buckets/daily/2023-06-26_Monday.md",
     "HomePage.md",
     "buckets/daily/2023-06-19_Monday.md",
     "buckets/daily/2023-06-20_Tuesday.md",
@@ -235,21 +255,15 @@
     "Drawing 2023-06-25 15.35.52.excalidraw.md",
     "buckets/learn/nuxt-ts.md",
     "Untitled 1.md",
-    "buckets/excalidraw/font/沐瑶随心手写体.ttf",
     "buckets/excalidraw/scripts/Downloaded/Text to Sticky Notes.svg",
     "buckets/excalidraw/scripts/Downloaded/Text to Sticky Notes.md",
     "buckets/excalidraw/scripts/Downloaded/Text Arch.svg",
     "buckets/excalidraw/scripts/Downloaded/Text Arch.md",
     "buckets/excalidraw/scripts/Downloaded/Convert selected text elements to sticky notes.svg",
-    "buckets/excalidraw/scripts/Downloaded/Convert selected text elements to sticky notes.md",
     "buckets/excalidraw/scripts/Downloaded/Box Each Selected Groups.svg",
-    "buckets/excalidraw/scripts/Downloaded/Box Each Selected Groups.md",
     "buckets/excalidraw/scripts/Downloaded/Auto Layout.svg",
-    "buckets/excalidraw/scripts/Downloaded/Auto Layout.md",
     "buckets/excalidraw/scripts/Downloaded/Copy Selected Element Styles to Global.svg",
-    "buckets/excalidraw/scripts/Downloaded/Copy Selected Element Styles to Global.md",
     "buckets/excalidraw/scripts/Downloaded/Fixed horizontal distance between centers.svg",
-    "buckets/excalidraw/scripts/Downloaded/Fixed inner distance.svg",
     "Untitled.canvas"
   ]
 }
