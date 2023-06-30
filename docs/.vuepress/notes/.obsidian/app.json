@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "tabSize": 2,
   "useTab": false,
   "pdfExportSettings": {
@@ -13,5 +13,7 @@
   "vimMode": true,
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "./meta",
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": false
 }

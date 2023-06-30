@@ -98,7 +98,7 @@
   "devMode": false,
   "templateFolderPath": "buckets/templates",
   "announceUpdates": true,
-  "version": "1.0.2",
+  "version": "1.2.1",
   "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",

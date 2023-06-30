@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "vscode-vim-easymotion",
+      "path": "work-records/vscode-vim-easymotion.md"
+    },
+    {
+      "basename": "vscode-vim-multicursor",
+      "path": "work-records/vscode-vim-multicursor.md"
+    },
+    {
+      "basename": "command-exa",
+      "path": "work-records/command-exa.md"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "buckets/diagram/Untitled Diagram.svg"
+    },
+    {
+      "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
+      "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
+    },
+    {
       "basename": "全局变量设计",
       "path": "buckets/work-experience/max-optics/全局变量设计.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金",
+      "path": "buckets/omnivore/2023-06-30/Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金.md"
+    },
+    {
+      "basename": "iOS - Carthage - 掘金",
+      "path": "buckets/omnivore/2023-06-30/iOS - Carthage - 掘金.md"
+    },
+    {
+      "basename": "在 macOS 下为 Markdown 文件开启全文检索 - Piglei",
+      "path": "buckets/omnivore/2023-06-30/在 macOS 下为 Markdown 文件开启全文检索 - Piglei.md"
+    },
+    {
+      "basename": "2023-05-04_Thursday",
+      "path": "buckets/daily/2023-05-04_Thursday.md"
+    },
+    {
+      "basename": "2023-06-30_Friday",
+      "path": "buckets/daily/2023-06-30_Friday.md"
     },
     {
       "basename": "2022-12-13_Tuesday",
@@ -47,14 +87,6 @@
     {
       "basename": "2023-06-14_Wednesday",
       "path": "buckets/daily/2023-06-14_Wednesday.md"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "buckets/diagram/Untitled Diagram.svg"
-    },
-    {
-      "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
     }
   ],
   "omittedPaths": [],

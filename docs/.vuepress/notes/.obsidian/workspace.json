@@ -6,7 +6,7 @@
       {
         "id": "c1556e395f9036ae",
         "type": "tabs",
-        "dimension": 61.760563380281695,
+        "dimension": 64.67551622418878,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -21,7 +21,7 @@
       {
         "id": "9459e2d1d3ad9ec6",
         "type": "tabs",
-        "dimension": 38.23943661971831,
+        "dimension": 35.32448377581121,
         "children": [
           {
             "id": "5a0852da4e9108a3",
@@ -30,25 +30,13 @@
               "type": "markdown",
               "state": {
                 "file": "workspce/Daily Record.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7ac9ee641521314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "buckets/work-experience/max-optics/全局变量设计.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,13 +73,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "duplicate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "966f174ba032d7ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -116,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/work-experience/max-optics/全局变量设计.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/work-experience/max-optics/全局变量设计.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,16 +143,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "47a0b26365126ab3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "buckets/work-experience/max-optics/全局变量设计.md"
               }
             }
           },
@@ -177,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -191,18 +177,27 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "47a0b26365126ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "workspce/Daily Record.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
+    "width": 328.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -211,18 +206,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c7ac9ee641521314",
+  "active": "7d2705af45226db7",
   "lastOpenFiles": [
+    "work-records/vscode-vim-easymotion.md",
+    "work-records/vscode-vim-multicursor.md",
+    "work-records/command-exa.md",
     "workspce/Daily Record.md",
+    "buckets/diagram/Untitled Diagram.svg",
+    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
+    "buckets/work-experience/max-optics/全局变量设计.md",
+    "buckets/omnivore/2023-06-30/Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金.md",
+    "buckets/omnivore/2023-06-30/iOS - Carthage - 掘金.md",
+    "buckets/omnivore/2023-06-30/在 macOS 下为 Markdown 文件开启全文检索 - Piglei.md",
+    "buckets/omnivore/2023-06-30",
+    "buckets/daily/2023-05-04_Thursday.md",
+    "buckets/omnivore",
+    "Omnivore/2023-06-30/iOS - Carthage - 掘金.md",
+    "Omnivore/2023-06-30/在 macOS 下为 Markdown 文件开启全文检索 - Piglei.md",
+    "Omnivore/2023-06-30",
+    "Omnivore",
+    "buckets/daily/2023-06-30_Friday.md",
     "buckets/daily/2023-06-29_Thursday.md",
     "buckets/daily/2023-06-28_Wednesday.md",
-    "buckets/work-experience/max-optics/全局变量设计.md",
     "buckets/work-experience/max-optics/meta/Pasted image 20230627154424.png",
     "buckets/work-experience/max-optics/meta",
     "buckets/daily/2022-12-13_Tuesday.md",
@@ -241,24 +255,8 @@
     "buckets/Read Record",
     "buckets/books/Head First 设计模式（中文版） (Elisabeth Freeman, Eric Freeman, Bert Bates etc.) (z-lib.org).pdf",
     "buckets/books/Designing Data-Intensive Applications 数据密集型应用系统设计(扫描) (Martin Kleppmann(著) 赵军平 吕云松 耿煜 李三平 (译)) (z-lib.org).pdf",
-    "buckets/books/笛卡尔的错误 情绪、推理和人脑 (达马西奥) (Z-Library).pdf",
-    "buckets/books/[图灵程序设计丛书].函数式编程思维 ([美] Neal Ford) (Z-Library).pdf",
-    "buckets/books",
-    "workspce/Draft.md",
-    "buckets/daily/2023-06-14_Wednesday.md",
-    "buckets/diagram/Untitled Diagram.svg",
-    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
-    "buckets/excalidraw/Drawing 2023-06-25 10.04.09.excalidraw.md",
-    "buckets/excalidraw/Drawing 2022-10-19 13.53.49.excalidraw.md",
-    "buckets/excalidraw/Drawing 2023-06-25 15.32.07.excalidraw.md",
-    "buckets/diagram",
     "Untitled Diagram 1.svg",
-    "Drawing 2023-06-25 15.35.39.excalidraw.md",
-    "Drawing 2023-06-25 15.35.52.excalidraw.md",
-    "buckets/learn/nuxt-ts.md",
-    "Untitled 1.md",
     "buckets/excalidraw/scripts/Downloaded/Text to Sticky Notes.svg",
-    "buckets/excalidraw/scripts/Downloaded/Text to Sticky Notes.md",
     "buckets/excalidraw/scripts/Downloaded/Text Arch.svg",
     "buckets/excalidraw/scripts/Downloaded/Convert selected text elements to sticky notes.svg",
     "buckets/excalidraw/scripts/Downloaded/Box Each Selected Groups.svg",
