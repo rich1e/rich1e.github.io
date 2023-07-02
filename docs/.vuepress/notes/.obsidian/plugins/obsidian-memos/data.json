@@ -33,5 +33,5 @@
   "FetchMemosMark": "#memo",
   "FetchMemosFromNote": false,
   "ShowCommentOnMemos": false,
-  "ShowLeftSideBar": false
+  "ShowLeftSideBar": true
 }

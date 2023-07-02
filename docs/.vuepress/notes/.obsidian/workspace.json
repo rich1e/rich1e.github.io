@@ -6,7 +6,7 @@
       {
         "id": "c1556e395f9036ae",
         "type": "tabs",
-        "dimension": 64.67551622418878,
+        "dimension": 51.51757188498403,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -21,7 +21,7 @@
       {
         "id": "9459e2d1d3ad9ec6",
         "type": "tabs",
-        "dimension": 35.32448377581121,
+        "dimension": 48.48242811501597,
         "children": [
           {
             "id": "5a0852da4e9108a3",
@@ -35,8 +35,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bced098e85c5551e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/Mac Update.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,10 +105,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "8607dfc46dce05dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d2705af45226db7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "47a0b26365126ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023/Mac Update.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
+    "width": 270.5,
     "collapsed": true
   },
   "right": {
@@ -112,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Mac Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Mac Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +192,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "7d2705af45226db7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -177,19 +208,8 @@
               "type": "timeline",
               "state": {}
             }
-          },
-          {
-            "id": "47a0b26365126ab3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "workspce/Daily Record.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,13 +235,38 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7d2705af45226db7",
+  "active": "bced098e85c5551e",
   "lastOpenFiles": [
+    "2023/meta/Pasted image 20230702140426.png",
+    "2023/meta/Pasted image 20230702140025.png",
+    "2023/meta/Pasted image 20230702135513.png",
+    "2023/meta/Pasted image 20230702135408.png",
+    "2023/meta/Pasted image 20230702135214.png",
+    "2023/meta/Pasted image 20230702132533.png",
+    "2023/meta/Pasted image 20230702131727.png",
+    "2023/meta/Pasted image 20230702131158.png",
+    "2023/meta/Pasted image 20230702124512.png",
+    "buckets/daily/2023-07-02_Sunday.md",
+    "2023/Mac Update.md",
+    "workspce/Daily Record.md",
+    "2023/meta/Pasted image 20230702111616.png",
+    "2023/meta/Pasted image 20230702111135.png",
+    "buckets/daily/2023-06-30_Friday.md",
+    "buckets/daily/2023-06-29_Thursday.md",
+    "buckets/daily/2023-06-28_Wednesday.md",
+    "buckets/daily/2023-06-27_Tuesday.md",
+    "buckets/daily/2023-06-26_Monday.md",
+    "buckets/daily/2023-06-25_Sunday.md",
+    "buckets/daily/2023-06-20_Tuesday.md",
+    "buckets/daily/2023-06-19_Monday.md",
+    "buckets/daily/2023-06-16_Friday.md",
+    "buckets/daily/2023-06-15_Thursday.md",
+    "buckets/daily/2023-06-14_Wednesday.md",
+    "buckets/daily/2023-06-13_Tuesday.md",
+    "buckets/daily/2023-06-12_Monday.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim-multicursor.md",
     "work-records/command-exa.md",
-    "workspce/Daily Record.md",
-    "buckets/diagram/Untitled Diagram.svg",
     "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
     "buckets/work-experience/max-optics/全局变量设计.md",
     "buckets/omnivore/2023-06-30/Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金.md",
@@ -230,39 +275,14 @@
     "buckets/omnivore/2023-06-30",
     "buckets/daily/2023-05-04_Thursday.md",
     "buckets/omnivore",
-    "Omnivore/2023-06-30/iOS - Carthage - 掘金.md",
-    "Omnivore/2023-06-30/在 macOS 下为 Markdown 文件开启全文检索 - Piglei.md",
     "Omnivore/2023-06-30",
     "Omnivore",
-    "buckets/daily/2023-06-30_Friday.md",
-    "buckets/daily/2023-06-29_Thursday.md",
-    "buckets/daily/2023-06-28_Wednesday.md",
-    "buckets/work-experience/max-optics/meta/Pasted image 20230627154424.png",
     "buckets/work-experience/max-optics/meta",
-    "buckets/daily/2022-12-13_Tuesday.md",
-    "buckets/daily/2023-06-27_Tuesday.md",
-    "buckets/daily/2023-06-26_Monday.md",
-    "HomePage.md",
-    "buckets/daily/2023-06-19_Monday.md",
-    "buckets/daily/2023-06-20_Tuesday.md",
-    "buckets/daily/2023-06-25_Sunday.md",
-    "buckets/daily/query.md",
-    "buckets/Read Record/Read Record-20230625.md",
-    "buckts/Read Record/Read Record-20230625.md",
     "buckts/Read Record",
     "buckts",
-    "buckets/templates/Obsidian：Read Record Template.md",
     "buckets/Read Record",
     "buckets/books/Head First 设计模式（中文版） (Elisabeth Freeman, Eric Freeman, Bert Bates etc.) (z-lib.org).pdf",
     "buckets/books/Designing Data-Intensive Applications 数据密集型应用系统设计(扫描) (Martin Kleppmann(著) 赵军平 吕云松 耿煜 李三平 (译)) (z-lib.org).pdf",
-    "Untitled Diagram 1.svg",
-    "buckets/excalidraw/scripts/Downloaded/Text to Sticky Notes.svg",
-    "buckets/excalidraw/scripts/Downloaded/Text Arch.svg",
-    "buckets/excalidraw/scripts/Downloaded/Convert selected text elements to sticky notes.svg",
-    "buckets/excalidraw/scripts/Downloaded/Box Each Selected Groups.svg",
-    "buckets/excalidraw/scripts/Downloaded/Auto Layout.svg",
-    "buckets/excalidraw/scripts/Downloaded/Copy Selected Element Styles to Global.svg",
-    "buckets/excalidraw/scripts/Downloaded/Fixed horizontal distance between centers.svg",
     "Untitled.canvas"
   ]
 }

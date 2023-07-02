@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "2023-07-02_Sunday",
+      "path": "buckets/daily/2023-07-02_Sunday.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "2023-06-30_Friday",
+      "path": "buckets/daily/2023-06-30_Friday.md"
+    },
+    {
+      "basename": "2023-06-29_Thursday",
+      "path": "buckets/daily/2023-06-29_Thursday.md"
+    },
+    {
+      "basename": "2023-06-28_Wednesday",
+      "path": "buckets/daily/2023-06-28_Wednesday.md"
+    },
+    {
+      "basename": "2023-06-27_Tuesday",
+      "path": "buckets/daily/2023-06-27_Tuesday.md"
+    },
+    {
+      "basename": "2023-06-26_Monday",
+      "path": "buckets/daily/2023-06-26_Monday.md"
+    },
+    {
+      "basename": "2023-06-25_Sunday",
+      "path": "buckets/daily/2023-06-25_Sunday.md"
+    },
+    {
+      "basename": "2023-06-20_Tuesday",
+      "path": "buckets/daily/2023-06-20_Tuesday.md"
+    },
+    {
+      "basename": "2023-06-19_Monday",
+      "path": "buckets/daily/2023-06-19_Monday.md"
+    },
+    {
+      "basename": "2023-06-16_Friday",
+      "path": "buckets/daily/2023-06-16_Friday.md"
+    },
+    {
+      "basename": "2023-06-15_Thursday",
+      "path": "buckets/daily/2023-06-15_Thursday.md"
+    },
+    {
+      "basename": "2023-06-14_Wednesday",
+      "path": "buckets/daily/2023-06-14_Wednesday.md"
+    },
+    {
+      "basename": "2023-06-13_Tuesday",
+      "path": "buckets/daily/2023-06-13_Tuesday.md"
+    },
+    {
+      "basename": "2023-06-12_Monday",
+      "path": "buckets/daily/2023-06-12_Monday.md"
     },
     {
       "basename": "vscode-vim-easymotion",
@@ -45,32 +105,12 @@
       "path": "buckets/daily/2023-05-04_Thursday.md"
     },
     {
-      "basename": "2023-06-30_Friday",
-      "path": "buckets/daily/2023-06-30_Friday.md"
-    },
-    {
       "basename": "2022-12-13_Tuesday",
       "path": "buckets/daily/2022-12-13_Tuesday.md"
     },
     {
-      "basename": "2023-06-26_Monday",
-      "path": "buckets/daily/2023-06-26_Monday.md"
-    },
-    {
       "basename": "HomePage",
       "path": "HomePage.md"
-    },
-    {
-      "basename": "2023-06-19_Monday",
-      "path": "buckets/daily/2023-06-19_Monday.md"
-    },
-    {
-      "basename": "2023-06-20_Tuesday",
-      "path": "buckets/daily/2023-06-20_Tuesday.md"
-    },
-    {
-      "basename": "2023-06-25_Sunday",
-      "path": "buckets/daily/2023-06-25_Sunday.md"
     },
     {
       "basename": "Read Record-20230625",
@@ -83,10 +123,6 @@
     {
       "basename": "Draft",
       "path": "workspce/Draft.md"
-    },
-    {
-      "basename": "2023-06-14_Wednesday",
-      "path": "buckets/daily/2023-06-14_Wednesday.md"
     }
   ],
   "omittedPaths": [],
