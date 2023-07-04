@@ -1,304 +1,5 @@
 {
   "workspaces": {
-    "workspace": {
-      "main": {
-        "id": "6ba69e80e9ab15be",
-        "type": "split",
-        "children": [
-          {
-            "id": "a0c000061f7a4f47",
-            "type": "split",
-            "children": [
-              {
-                "id": "44ccd82035aa246e",
-                "type": "tabs",
-                "dimension": 39.8974358974359,
-                "children": [
-                  {
-                    "id": "8716702610da8bf6",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "workspce/Kanban.md"
-                      },
-                      "pinned": true
-                    }
-                  },
-                  {
-                    "id": "13e8eda8a023b2f6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "mindmap",
-                      "state": {}
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "ce0237dc8f18a771",
-                "type": "split",
-                "dimension": 60.1025641025641,
-                "children": [
-                  {
-                    "id": "407f3574ed32ad7f",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "0e8ae64d066956a7",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "HomePage.md",
-                            "mode": "preview",
-                            "source": false
-                          },
-                          "pinned": true
-                        }
-                      },
-                      {
-                        "id": "7a4392b9d7250e54",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "workspce/Daily Record.md",
-                            "mode": "preview",
-                            "source": true
-                          },
-                          "pinned": true
-                        }
-                      }
-                    ],
-                    "currentTab": 1,
-                    "stacked": true
-                  },
-                  {
-                    "id": "6e227f9ee0584db0",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "daabbc0cd8e02983",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "workspce/Draft.md",
-                            "mode": "preview",
-                            "source": true
-                          },
-                          "pinned": true
-                        }
-                      },
-                      {
-                        "id": "a74e309c73b35736",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "empty",
-                          "state": {},
-                          "pinned": true
-                        }
-                      },
-                      {
-                        "id": "0401bd1fe09063e7",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "HomePage.md",
-                            "mode": "source",
-                            "source": false
-                          }
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "vertical"
-              }
-            ],
-            "direction": "horizontal"
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "c7e0fff3b9262e8b",
-        "type": "split",
-        "children": [
-          {
-            "id": "7ecb84c18b19b196",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c2ef5fe60b318861",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "7c7a3fcdb591f263",
-                "type": "leaf",
-                "state": {
-                  "type": "starred",
-                  "state": {}
-                }
-              },
-              {
-                "id": "7906763b87e2c80c",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {}
-                }
-              },
-              {
-                "id": "d9995859cf1212a3",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "horizontal",
-        "width": 297.5,
-        "collapsed": true
-      },
-      "right": {
-        "id": "064593a9d8021565",
-        "type": "split",
-        "children": [
-          {
-            "id": "0ce6debe408e99df",
-            "type": "tabs",
-            "dimension": 51.79119754350051,
-            "children": [
-              {
-                "id": "ad3946728bac7730",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "workspce/Draft.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "e0298cee4185a062",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "workspce/Draft.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "8b41c86c4f8f7da6",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "47a0b26365126ab3",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "workspce/Draft.md"
-                  }
-                }
-              },
-              {
-                "id": "21d36ea2fedabd7e",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "7d2705af45226db7",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "99022f2b9cdd4d81",
-            "type": "tabs",
-            "dimension": 48.20880245649949,
-            "children": [
-              {
-                "id": "993b8743a6a39edf",
-                "type": "leaf",
-                "state": {
-                  "type": "timeline",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 264.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "obsidian-excalidraw-plugin:Create new drawing": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false,
-          "templater-obsidian:Templater": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "periodic-notes:Open today": false
-        }
-      },
-      "active": "daabbc0cd8e02983"
-    },
     "draw": {
       "main": {
         "id": "6ba69e80e9ab15be",
@@ -495,191 +196,6 @@
         }
       },
       "active": "491901ff353122f9"
-    },
-    "memo": {
-      "main": {
-        "id": "6ba69e80e9ab15be",
-        "type": "split",
-        "children": [
-          {
-            "id": "c1556e395f9036ae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "466a56a88f2abaec",
-                "type": "leaf",
-                "state": {
-                  "type": "memos_view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "c7e0fff3b9262e8b",
-        "type": "split",
-        "children": [
-          {
-            "id": "7ecb84c18b19b196",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d9995859cf1212a3",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "7906763b87e2c80c",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {}
-                }
-              },
-              {
-                "id": "c2ef5fe60b318861",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "duplicate",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 226.5
-      },
-      "right": {
-        "id": "064593a9d8021565",
-        "type": "split",
-        "children": [
-          {
-            "id": "0ce6debe408e99df",
-            "type": "tabs",
-            "dimension": 51.79119754350051,
-            "children": [
-              {
-                "id": "ad3946728bac7730",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "buckets/daily/2023-06-25_Sunday.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "e0298cee4185a062",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "buckets/daily/2023-06-25_Sunday.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "8b41c86c4f8f7da6",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "47a0b26365126ab3",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "buckets/daily/2023-06-25_Sunday.md"
-                  }
-                }
-              },
-              {
-                "id": "21d36ea2fedabd7e",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "7d2705af45226db7",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 5
-          },
-          {
-            "id": "99022f2b9cdd4d81",
-            "type": "tabs",
-            "dimension": 48.20880245649949,
-            "children": [
-              {
-                "id": "993b8743a6a39edf",
-                "type": "leaf",
-                "state": {
-                  "type": "timeline",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 264.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "obsidian42-brat:BRAT": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false,
-          "templater-obsidian:Templater": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "periodic-notes:Open today": false,
-          "obsidian-memos:Memos": false
-        }
-      },
-      "active": "466a56a88f2abaec"
     },
     "read": {
       "main": {
@@ -1092,7 +608,565 @@
         }
       },
       "active": "5a0852da4e9108a3"
+    },
+    "memos": {
+      "main": {
+        "id": "6ba69e80e9ab15be",
+        "type": "split",
+        "children": [
+          {
+            "id": "c1556e395f9036ae",
+            "type": "tabs",
+            "dimension": 51.51757188498403,
+            "children": [
+              {
+                "id": "466a56a88f2abaec",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "9459e2d1d3ad9ec6",
+            "type": "tabs",
+            "dimension": 48.48242811501597,
+            "children": [
+              {
+                "id": "5a0852da4e9108a3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "workspce/Daily Record.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bced098e85c5551e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2023/Mac Update.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c7e0fff3b9262e8b",
+        "type": "split",
+        "children": [
+          {
+            "id": "7ecb84c18b19b196",
+            "type": "tabs",
+            "dimension": 28.410372040586246,
+            "children": [
+              {
+                "id": "d9995859cf1212a3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7906763b87e2c80c",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c2ef5fe60b318861",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "duplicate",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "966f174ba032d7ca",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "8607dfc46dce05dc",
+            "type": "tabs",
+            "dimension": 40.022547914317926,
+            "children": [
+              {
+                "id": "7d2705af45226db7",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "2e722310acc52202",
+            "type": "tabs",
+            "dimension": 31.567080045095828,
+            "children": [
+              {
+                "id": "47a0b26365126ab3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2023/Mac Update.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 270.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "064593a9d8021565",
+        "type": "split",
+        "children": [
+          {
+            "id": "0ce6debe408e99df",
+            "type": "tabs",
+            "dimension": 51.79119754350051,
+            "children": [
+              {
+                "id": "ad3946728bac7730",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2023/Mac Update.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0298cee4185a062",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2023/Mac Update.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8b41c86c4f8f7da6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "21d36ea2fedabd7e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "99022f2b9cdd4d81",
+            "type": "tabs",
+            "dimension": 48.20880245649949,
+            "children": [
+              {
+                "id": "993b8743a6a39edf",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 328.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-omnivore:Omnivore": false,
+          "obsidian42-brat:BRAT": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "periodic-notes:Open today": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "466a56a88f2abaec"
+    },
+    "workspace": {
+      "main": {
+        "id": "6ba69e80e9ab15be",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0c000061f7a4f47",
+            "type": "split",
+            "children": [
+              {
+                "id": "44ccd82035aa246e",
+                "type": "tabs",
+                "dimension": 44.983089064261556,
+                "children": [
+                  {
+                    "id": "8716702610da8bf6",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "workspce/Kanban.md"
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "13e8eda8a023b2f6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "mindmap",
+                      "state": {}
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "ce0237dc8f18a771",
+                "type": "split",
+                "dimension": 55.01691093573844,
+                "children": [
+                  {
+                    "id": "407f3574ed32ad7f",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "0e8ae64d066956a7",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "HomePage.md",
+                            "mode": "preview",
+                            "backlinks": true,
+                            "source": false
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "7a4392b9d7250e54",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "workspce/Daily Record.md",
+                            "mode": "preview",
+                            "backlinks": true,
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      }
+                    ],
+                    "currentTab": 1,
+                    "stacked": true
+                  },
+                  {
+                    "id": "6e227f9ee0584db0",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "daabbc0cd8e02983",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "workspce/Draft.md",
+                            "mode": "preview",
+                            "backlinks": true,
+                            "source": true
+                          },
+                          "pinned": true
+                        }
+                      },
+                      {
+                        "id": "0401bd1fe09063e7",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "HomePage.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      },
+                      {
+                        "id": "b10b62be23ce404d",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      }
+                    ],
+                    "currentTab": 2
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c7e0fff3b9262e8b",
+        "type": "split",
+        "children": [
+          {
+            "id": "7ecb84c18b19b196",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c2ef5fe60b318861",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7c7a3fcdb591f263",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7906763b87e2c80c",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d9995859cf1212a3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 233.5
+      },
+      "right": {
+        "id": "064593a9d8021565",
+        "type": "split",
+        "children": [
+          {
+            "id": "0ce6debe408e99df",
+            "type": "tabs",
+            "dimension": 51.79119754350051,
+            "children": [
+              {
+                "id": "ad3946728bac7730",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e0298cee4185a062",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8b41c86c4f8f7da6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "47a0b26365126ab3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
+                  }
+                }
+              },
+              {
+                "id": "21d36ea2fedabd7e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7d2705af45226db7",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "99022f2b9cdd4d81",
+            "type": "tabs",
+            "dimension": 48.20880245649949,
+            "children": [
+              {
+                "id": "993b8743a6a39edf",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 264.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "omnisearch:Omnisearch": false,
+          "obsidian-omnivore:Omnivore": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-memos:Memos": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "b10b62be23ce404d"
     }
   },
-  "active": "record"
+  "active": "memos"
 }

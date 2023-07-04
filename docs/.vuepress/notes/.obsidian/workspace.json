@@ -62,6 +62,7 @@
       {
         "id": "7ecb84c18b19b196",
         "type": "tabs",
+        "dimension": 28.410372040586243,
         "children": [
           {
             "id": "d9995859cf1212a3",
@@ -109,6 +110,7 @@
       {
         "id": "8607dfc46dce05dc",
         "type": "tabs",
+        "dimension": 40.022547914317926,
         "children": [
           {
             "id": "7d2705af45226db7",
@@ -117,19 +119,25 @@
               "type": "calendar",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2e722310acc52202",
+        "type": "tabs",
+        "dimension": 31.567080045095828,
+        "children": [
           {
             "id": "47a0b26365126ab3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Mac Update.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Mac Update.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Mac Update.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +243,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bced098e85c5551e",
+  "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-07-04_Tuesday.md",
+    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
+    "HomePage.md",
+    "workspce/Draft.md",
+    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
+    "buckets/work-experience/max-optics/全局变量设计.md",
+    "2023/Mac Update.md",
+    "buckets/daily/2023-07-03_Monday.md",
     "2023/meta/Pasted image 20230702140426.png",
     "2023/meta/Pasted image 20230702140025.png",
     "2023/meta/Pasted image 20230702135513.png",
@@ -247,10 +263,8 @@
     "2023/meta/Pasted image 20230702131158.png",
     "2023/meta/Pasted image 20230702124512.png",
     "buckets/daily/2023-07-02_Sunday.md",
-    "2023/Mac Update.md",
     "workspce/Daily Record.md",
     "2023/meta/Pasted image 20230702111616.png",
-    "2023/meta/Pasted image 20230702111135.png",
     "buckets/daily/2023-06-30_Friday.md",
     "buckets/daily/2023-06-29_Thursday.md",
     "buckets/daily/2023-06-28_Wednesday.md",
@@ -267,13 +281,7 @@
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim-multicursor.md",
     "work-records/command-exa.md",
-    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
-    "buckets/work-experience/max-optics/全局变量设计.md",
-    "buckets/omnivore/2023-06-30/Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金.md",
-    "buckets/omnivore/2023-06-30/iOS - Carthage - 掘金.md",
-    "buckets/omnivore/2023-06-30/在 macOS 下为 Markdown 文件开启全文检索 - Piglei.md",
     "buckets/omnivore/2023-06-30",
-    "buckets/daily/2023-05-04_Thursday.md",
     "buckets/omnivore",
     "Omnivore/2023-06-30",
     "Omnivore",

@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Attr - 动态表单优化",
+      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+    },
+    {
+      "basename": "全局变量设计",
+      "path": "buckets/work-experience/max-optics/全局变量设计.md"
+    },
+    {
       "basename": "Mac Update",
       "path": "2023/Mac Update.md"
     },
     {
       "basename": "2023-07-02_Sunday",
       "path": "buckets/daily/2023-07-02_Sunday.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "2023-06-30_Friday",
@@ -85,10 +105,6 @@
       "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
     },
     {
-      "basename": "全局变量设计",
-      "path": "buckets/work-experience/max-optics/全局变量设计.md"
-    },
-    {
       "basename": "Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金",
       "path": "buckets/omnivore/2023-06-30/Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金.md"
     },
@@ -109,20 +125,12 @@
       "path": "buckets/daily/2022-12-13_Tuesday.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "Read Record-20230625",
       "path": "buckets/Read Record/Read Record-20230625.md"
     },
     {
       "basename": "Obsidian：Read Record Template",
       "path": "buckets/templates/Obsidian：Read Record Template.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
     }
   ],
   "omittedPaths": [],
