@@ -5,6 +5,18 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
+    },
+    {
+      "basename": "2023-05-04_Thursday",
+      "path": "buckets/daily/2023-05-04_Thursday.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
       "basename": "mind - Attr 动态表单组件关系图",
       "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "全局变量设计",
       "path": "buckets/work-experience/max-optics/全局变量设计.md"
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
     },
     {
       "basename": "2023-07-02_Sunday",
@@ -115,10 +123,6 @@
     {
       "basename": "在 macOS 下为 Markdown 文件开启全文检索 - Piglei",
       "path": "buckets/omnivore/2023-06-30/在 macOS 下为 Markdown 文件开启全文检索 - Piglei.md"
-    },
-    {
-      "basename": "2023-05-04_Thursday",
-      "path": "buckets/daily/2023-05-04_Thursday.md"
     },
     {
       "basename": "2022-12-13_Tuesday",
