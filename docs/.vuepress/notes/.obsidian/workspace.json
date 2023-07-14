@@ -6,7 +6,7 @@
       {
         "id": "c1556e395f9036ae",
         "type": "tabs",
-        "dimension": 51.51757188498403,
+        "dimension": 52.13776722090261,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -21,7 +21,7 @@
       {
         "id": "9459e2d1d3ad9ec6",
         "type": "tabs",
-        "dimension": 48.48242811501597,
+        "dimension": 47.86223277909738,
         "children": [
           {
             "id": "5a0852da4e9108a3",
@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Vue3 组件库.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8607dfc46dce05dc",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "buckets/daily/2023-07-13_Thursday.md"
               }
             }
           }
@@ -128,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
+    "width": 254.5,
     "collapsed": true
   },
   "right": {
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/daily/2023-07-13_Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "buckets/daily/2023-07-13_Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,11 +229,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5a0852da4e9108a3",
+  "active": "466a56a88f2abaec",
   "lastOpenFiles": [
     "2023/Vue3 组件库.md",
-    "buckets/daily/2023-07-12_Wednesday.md",
+    "buckets/daily/2023-07-14_Friday.md",
     "workspce/Daily Record.md",
+    "buckets/daily/2023-07-13_Thursday.md",
+    "buckets/learn/JSX & TSX.md",
+    "buckets/daily/2023-07-12_Wednesday.md",
     "buckets/daily/2023-05-04_Thursday.md",
     "buckets/daily/2023-07-11_Tuesday.md",
     "buckets/daily/2023-07-10_Monday.md",
@@ -265,9 +267,6 @@
     "buckets/daily/2023-06-27_Tuesday.md",
     "buckets/daily/2023-06-26_Monday.md",
     "buckets/daily/2023-06-25_Sunday.md",
-    "buckets/daily/2023-06-20_Tuesday.md",
-    "buckets/daily/2023-06-19_Monday.md",
-    "buckets/daily/2023-06-16_Friday.md",
     "buckets/omnivore/2023-06-30",
     "buckets/omnivore",
     "Omnivore/2023-06-30",
