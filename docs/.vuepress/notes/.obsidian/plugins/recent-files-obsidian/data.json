@@ -5,6 +5,58 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "2023-06-05_Monday",
+      "path": "buckets/daily/2023-06-05_Monday.md"
+    },
+    {
+      "basename": "2023-05-12_Friday",
+      "path": "buckets/daily/2023-05-12_Friday.md"
+    },
+    {
+      "basename": "2023-04-26_Wednesday",
+      "path": "buckets/daily/2023-04-26_Wednesday.md"
+    },
+    {
+      "basename": "单机版启动缓慢调查",
+      "path": "2023/单机版启动缓慢调查.md"
+    },
+    {
+      "basename": "BEM 命名规范",
+      "path": "2023/BEM 命名规范.md"
+    },
+    {
+      "basename": "Blog",
+      "path": "2023/Blog.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
+    },
+    {
+      "basename": "自建 OSS",
+      "path": "2023/自建 OSS.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "buckets/diagram/Untitled Diagram.svg"
+    },
+    {
+      "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
+      "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
+    },
+    {
       "basename": "2023-07-14_Friday",
       "path": "buckets/daily/2023-07-14_Friday.md"
     },
@@ -27,14 +79,6 @@
     {
       "basename": "2023-05-04_Thursday",
       "path": "buckets/daily/2023-05-04_Thursday.md"
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
-    },
-    {
-      "basename": "mind - Attr 动态表单组件关系图",
-      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
     },
     {
       "basename": "HomePage",
@@ -119,14 +163,6 @@
     {
       "basename": "command-exa",
       "path": "work-records/command-exa.md"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "buckets/diagram/Untitled Diagram.svg"
-    },
-    {
-      "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
     },
     {
       "basename": "Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金",

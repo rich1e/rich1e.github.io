@@ -6,7 +6,7 @@
       {
         "id": "c1556e395f9036ae",
         "type": "tabs",
-        "dimension": 63.895486935866984,
+        "dimension": 51.84085510688836,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -21,7 +21,7 @@
       {
         "id": "9459e2d1d3ad9ec6",
         "type": "tabs",
-        "dimension": 36.104513064133016,
+        "dimension": 48.15914489311164,
         "children": [
           {
             "id": "5a0852da4e9108a3",
@@ -33,6 +33,32 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "bced098e85c5551e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "buckets/daily/2023-04-26_Wednesday.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "337fd40023d3bb4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/BEM 命名规范.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -91,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8607dfc46dce05dc",
@@ -127,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
+    "width": 270.5,
     "collapsed": true
   },
   "right": {
@@ -220,53 +247,53 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-07-28_Friday.md",
+    "buckets/daily/2023-06-05_Monday.md",
+    "buckets/daily/2023-05-12_Friday.md",
+    "buckets/daily/2023-04-26_Wednesday.md",
+    "2023/单机版启动缓慢调查.md",
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-07-27_Thursday.md",
+    "2023/BEM 命名规范.md",
+    "2023/Blog.md",
+    "2023/Book.md",
+    "buckets/daily/meta/Pasted Image 20230726090641.png",
+    "buckets/daily/meta/Pasted Image 20230726090542.png",
+    "buckets/daily/2023-07-26_Wednesday.md",
+    "buckets/daily/2023-07-25_Tuesday.md",
+    "2023/自建 OSS.md",
+    "2023/Mac Update.md",
+    "workspce/Kanban.md",
+    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
+    "buckets/diagram/Untitled Diagram.svg",
+    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
+    "buckets/daily/2023-07-24_Monday.md",
     "buckets/daily/2023-07-21_Friday.md",
     "buckets/daily/meta/Pasted Image 20230720173711.png",
     "buckets/daily/2023-07-20_Thursday.md",
     "buckets/daily/2023-07-19_Wednesday.md",
     "buckets/daily/2023-07-18_Tuesday.md",
     "buckets/daily/2023-07-14_Friday.md",
-    "workspce/Daily Record.md",
     "buckets/daily/2023-01-12_Thursday.md",
     "buckets/daily/2023-07-17_Monday.md",
     "2023/Vue3 组件库.md",
-    "buckets/daily/2023-07-13_Thursday.md",
-    "buckets/learn/JSX & TSX.md",
-    "buckets/daily/2023-07-12_Wednesday.md",
-    "buckets/daily/2023-05-04_Thursday.md",
-    "buckets/daily/2023-07-11_Tuesday.md",
-    "buckets/daily/2023-07-10_Monday.md",
-    "buckets/daily/2023-07-06_Thursday.md",
-    "buckets/daily/2023-07-05_Wednesday.md",
-    "2023/Mac Update.md",
-    "buckets/daily/2023-07-04_Tuesday.md",
-    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
-    "HomePage.md",
-    "workspce/Draft.md",
-    "buckets/work-experience/max-optics/Attr - 动态表单优化.md",
-    "buckets/work-experience/max-optics/全局变量设计.md",
-    "buckets/daily/2023-07-03_Monday.md",
     "2023/meta/Pasted image 20230702140426.png",
     "2023/meta/Pasted image 20230702140025.png",
     "2023/meta/Pasted image 20230702135513.png",
     "2023/meta/Pasted image 20230702135408.png",
     "2023/meta/Pasted image 20230702135214.png",
     "2023/meta/Pasted image 20230702132533.png",
-    "2023/meta/Pasted image 20230702131727.png",
-    "2023/meta/Pasted image 20230702131158.png",
-    "2023/meta/Pasted image 20230702124512.png",
-    "buckets/daily/2023-07-02_Sunday.md",
     "buckets/omnivore/2023-06-30",
     "buckets/omnivore",
     "Omnivore/2023-06-30",
