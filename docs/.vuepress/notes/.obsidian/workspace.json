@@ -6,7 +6,7 @@
       {
         "id": "c1556e395f9036ae",
         "type": "tabs",
-        "dimension": 51.84085510688836,
+        "dimension": 51.84085510688837,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -21,7 +21,7 @@
       {
         "id": "9459e2d1d3ad9ec6",
         "type": "tabs",
-        "dimension": 48.15914489311164,
+        "dimension": 48.15914489311163,
         "children": [
           {
             "id": "5a0852da4e9108a3",
@@ -258,6 +258,12 @@
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-08-05_Saturday.md",
+    "buckets/daily/2023-08-04_Friday.md",
+    "buckets/daily/2023-08-03_Thursday.md",
+    "buckets/daily/2023-08-02_Wednesday.md",
+    "buckets/daily/2023-08-01_Tuesday.md",
+    "buckets/daily/2023-07-31_Monday.md",
     "buckets/daily/2023-07-28_Friday.md",
     "buckets/daily/2023-06-05_Monday.md",
     "buckets/daily/2023-05-12_Friday.md",
@@ -282,12 +288,6 @@
     "buckets/daily/2023-07-21_Friday.md",
     "buckets/daily/meta/Pasted Image 20230720173711.png",
     "buckets/daily/2023-07-20_Thursday.md",
-    "buckets/daily/2023-07-19_Wednesday.md",
-    "buckets/daily/2023-07-18_Tuesday.md",
-    "buckets/daily/2023-07-14_Friday.md",
-    "buckets/daily/2023-01-12_Thursday.md",
-    "buckets/daily/2023-07-17_Monday.md",
-    "2023/Vue3 组件库.md",
     "2023/meta/Pasted image 20230702140426.png",
     "2023/meta/Pasted image 20230702140025.png",
     "2023/meta/Pasted image 20230702135513.png",

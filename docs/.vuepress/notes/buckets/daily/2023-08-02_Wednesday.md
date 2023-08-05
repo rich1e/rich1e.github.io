@@ -1,0 +1,12 @@
+---
+author: rich1e
+tags: ["daily"]
+date: 2023-08-02 09:01:05
+Last modified date: 2023-08-02 09:01
+uuid: 393e6cac-c3f8-6c3d-8aef-76e35b5badb4
+---
+
+- 09:01 vxe-table 事件拦截 https://github.com/x-extends/vxe-table/issues/736<br>#vxe-table
+- 09:03 vue3 Invalid VNode type: undefined<br>[Invalid vnode type when creating vnode: undefined. · Issue · vuejs/core](https://github.com/vuejs/core/issues/4358)<br>[(oﾟvﾟ)ノ Hi - vue报错Invalid VNode type: undefined](https://www.cnblogs.com/zz-1q/p/17472890.html)<br>[Vue3组件库开发报[Vue warn]: Invalid VNode type: true (boolean)等类型问题解决方案_invalid vnode type: symbol(fragment) (symbol)_aa760774653的博客-CSDN博客](https://blog.csdn.net/aa760774653/article/details/112414623)<br>[vue3中如何使用JSX？ - 掘金](https://juejin.cn/post/7169533991854374949)<br>[Vue3中使用jsx的render函数 - 掘金](https://juejin.cn/post/7093566222217773069)<br>#Vue #jsx ^kd9ukh
+- 09:20 [$XModal.open() 方式打开modal，vxe-form 标签不显示控件 · Issue #1414 · x-extends/vxe-table](https://github.com/x-extends/vxe-table/issues/1414)<br>[mystifying-goldstine-4engo - CodeSandbox](https://codesandbox.io/s/mystifying-goldstine-4engo?file=/src/components/HelloWorld.vue:0-2737)<br>[VxeModal的简单二次封装 - 掘金](https://juejin.cn/post/7032883287093673992)<br>[vxe-table中vxe-grid(高级表格)的使用_vue.js_Gemini_Kanon-View Design](https://devpress.csdn.net/viewdesign/6412da77986c660f3cf92b46.html)<br>[vxe-table创建可编辑表格 - 掘金](https://juejin.cn/post/6976167764587511845)<br>[vxe-grid可编辑渲染_edit-render_鸣拙的博客-CSDN博客](https://blog.csdn.net/weixin_45939191/article/details/122210375)<br>#vxe-table
+- 17:30 [vite-svg-loader，在项目里轻松使用svg，ts项目需特别注意！_vite 配置loader_小五Five的博客-CSDN博客](https://blog.csdn.net/weixin_42373175/article/details/130486737)<br>[vite vue3.0 单个使用svg图标 vite-svg-loader - 冷枫残月 - 博客园](https://www.cnblogs.com/tigerK/p/15980000.html)<br>[vite-svg-loader是什么，如何使用？ - 简书](https://www.jianshu.com/p/bd3835d17ad1)<br>[Vue svg-symbol 的使用步骤 - 掘金](https://juejin.cn/post/6985417264761667620)<br>[Vue项目中动态给svg 中 xlink:href 属性赋值_是个前端的博客-CSDN博客](https://blog.csdn.net/HWJBJ/article/details/116060049)<br>[Property 'xx' does not exist on type 'ElementAttrs' · Issue #12620 · vuejs/vue](https://github.com/vuejs/vue/issues/12620)<br>[Property 'xmlns' does not exist on type 'IntrinsicAttributes...' - TypeScript · Issue #1638 · software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg/issues/1638)<br>#Vue #svg #Vite
