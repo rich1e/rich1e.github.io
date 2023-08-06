@@ -1,3 +1,5 @@
+#opencore-legacy-patcher #mac 
+
 > 目前使用的硬件为 MacBook Pro，2012年生产，距离现在至少有10年。由于苹果新系统对硬件有要求，常规方式安装不了，所以选择hack的方式安装，当然这一切归功于开源社区的力量。
 
 > 另外，由于工作原因，大部分时间里需要使用Homebrew管理和安装软件包，随着苹果新系统和架构的升级，Homebrew对苹果系统版本最低要求macOS 11（Big Sur）或更高版本，才能获得最好的支持。
@@ -145,7 +147,6 @@ Would you like to reboot?
 ### 再次构建和安装 `Build and Install OpenCore`
 
 现在 `OpenCore` 是安装在 USB 接口的移动U盘的 `EFI` 分区，拔掉 移动U盘将无法正常启动，我们需要将 `OpenCore` 安装到 `Mac` 内置储存的 `EFI` 分区中，这样才能脱离 USB 存储正常启动。步骤与上文中 **构建和安装 OpenCore** 类似。
-
 #### 运行 `OpenCore Legacy Patcher`，点击 `Build and Install OpenCore` 再次 `Install OpenCore`。
 
 ![[2023/meta/Pasted image 20230702135214.png]]
@@ -167,6 +168,21 @@ Would you like to reboot?
 ![[2023/meta/Pasted image 20230422220814.png]]
 
 ![[2023/meta/Pasted image 20230702140426.png]]
+
+
+```md
+OpenCore Legacy Patcher has detected you're running without Root Patches, and would like to install them.
+
+macOS wipes all root patches during OS installs and updates, so they need to be reinstalled.
+
+Following Patches have been detected for your system: 
+- Graphics: Nvidia Kepler
+- Graphics: Intel Ivy Bridge
+
+Would you like to apply these patches?
+```
+
+![[2023/meta/Pasted image 20230806194428.png]]
 
 Ref
 

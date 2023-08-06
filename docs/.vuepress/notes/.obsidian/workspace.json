@@ -6,7 +6,6 @@
       {
         "id": "c1556e395f9036ae",
         "type": "tabs",
-        "dimension": 51.84085510688837,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -15,17 +14,26 @@
               "type": "memos_view",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "9459e2d1d3ad9ec6",
-        "type": "tabs",
-        "dimension": 48.15914489311163,
-        "children": [
+          },
+          {
+            "id": "06f79af0ff009e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomePage.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
           {
             "id": "5a0852da4e9108a3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,36 +41,72 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "bced098e85c5551e",
+            "id": "e3530ef681c98a76",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "buckets/daily/2023-04-26_Wednesday.md",
+                "file": "workspce/Front-end Technology.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "337fd40023d3bb4f",
+            "id": "09d592bfe1cb5790",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/BEM 命名规范.md",
-                "mode": "source",
+                "file": "work-records/vscode-vim.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "161abe8a930740d1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/Mac Update.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b8a715805c45944f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/Vue3 组件库.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -74,7 +118,7 @@
       {
         "id": "7ecb84c18b19b196",
         "type": "tabs",
-        "dimension": 28.410372040586243,
+        "dimension": 31.301939058171747,
         "children": [
           {
             "id": "d9995859cf1212a3",
@@ -117,13 +161,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8607dfc46dce05dc",
         "type": "tabs",
-        "dimension": 40.022547914317926,
+        "dimension": 40.99722991689751,
         "children": [
           {
             "id": "7d2705af45226db7",
@@ -138,7 +181,7 @@
       {
         "id": "2e722310acc52202",
         "type": "tabs",
-        "dimension": 31.567080045095828,
+        "dimension": 27.70083102493075,
         "children": [
           {
             "id": "47a0b26365126ab3",
@@ -146,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "HomePage.md"
               }
             }
           }
@@ -154,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -172,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +281,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -247,53 +288,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-omnivore:Omnivore": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "2023/Mac Update.md",
+    "2023/Vue3 组件库.md",
+    "buckets/work-experience/max-optics/Orca - 功能梳理和优化建议.md",
+    "buckets/work-experience/max-optics/Orca - 功能流程图和时序图.md",
+    "buckets/learn/Git.md",
+    "workspce/Daily Record.md",
+    "buckets/work-experience/max-optics/全局变量设计.md",
+    "2023/单机版启动缓慢调查.md",
+    "buckets/daily/2023-05-05_Friday.md",
+    "buckets/daily/2023-04-25_Tuesday.md",
+    "buckets/daily/2022-12-21_Wednesday.md",
+    "buckets/daily/2023-04-10_Monday.md",
+    "buckets/daily/2022-10-18_Tuesday.md",
+    "buckets/daily/2022-12-05_Monday.md",
+    "buckets/work-experience/max-optics/Max-Optics Api.md",
+    "2023/meta/Pasted image 20230806194428.png",
+    "workspce/Front-end Technology.md",
+    "work-records/vscode-vim.md",
+    "HomePage.md",
+    "buckets/daily/2023-08-06_Sunday.md",
+    "buckets/daily/2023-04-26_Wednesday.md",
+    "2023/BEM 命名规范.md",
     "buckets/daily/2023-08-05_Saturday.md",
     "buckets/daily/2023-08-04_Friday.md",
     "buckets/daily/2023-08-03_Thursday.md",
     "buckets/daily/2023-08-02_Wednesday.md",
     "buckets/daily/2023-08-01_Tuesday.md",
-    "buckets/daily/2023-07-31_Monday.md",
-    "buckets/daily/2023-07-28_Friday.md",
-    "buckets/daily/2023-06-05_Monday.md",
-    "buckets/daily/2023-05-12_Friday.md",
-    "buckets/daily/2023-04-26_Wednesday.md",
-    "2023/单机版启动缓慢调查.md",
-    "workspce/Daily Record.md",
-    "buckets/daily/2023-07-27_Thursday.md",
-    "2023/BEM 命名规范.md",
-    "2023/Blog.md",
-    "2023/Book.md",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
     "buckets/daily/meta/Pasted Image 20230726090542.png",
-    "buckets/daily/2023-07-26_Wednesday.md",
-    "buckets/daily/2023-07-25_Tuesday.md",
-    "2023/自建 OSS.md",
-    "2023/Mac Update.md",
-    "workspce/Kanban.md",
-    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
     "buckets/diagram/Untitled Diagram.svg",
-    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
-    "buckets/daily/2023-07-24_Monday.md",
-    "buckets/daily/2023-07-21_Friday.md",
     "buckets/daily/meta/Pasted Image 20230720173711.png",
-    "buckets/daily/2023-07-20_Thursday.md",
     "2023/meta/Pasted image 20230702140426.png",
     "2023/meta/Pasted image 20230702140025.png",
     "2023/meta/Pasted image 20230702135513.png",
     "2023/meta/Pasted image 20230702135408.png",
     "2023/meta/Pasted image 20230702135214.png",
-    "2023/meta/Pasted image 20230702132533.png",
     "buckets/omnivore/2023-06-30",
     "buckets/omnivore",
     "Omnivore/2023-06-30",

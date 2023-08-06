@@ -1,7 +1,7 @@
 <!--
- * @Author: gongyuqi@max-optics.com
+ * @Author: yuqigong@outlook.com
  * @Date: 2022-11-01 09:39:16
- * @LastEditors: gongyuqi@max-optics.com
+ * @LastEditors: yuqigong@outlook.com
  * @LastEditTime: 2022-11-01 14:08:52
  * @FilePath: /orca/Users/gongyuqi/Desktop/Workspace/code/rich1e.github.io/docs/.vuepress/notes/buckets/max-optics/orca 功能梳理和优化建议.md
  * @Description:

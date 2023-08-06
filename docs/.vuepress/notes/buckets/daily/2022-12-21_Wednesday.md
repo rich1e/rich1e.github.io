@@ -19,10 +19,6 @@ title: mac install electron error & RequestError: connect ETIMEDOUT
 
 ```
 
-
-
-[MOL-P-079 变量列表和消息窗口分成两个窗口](https://e.gitee.com/max-optics/issues/kanban/members?issue=I66SHY)
-
 **20221220**
 
 ![[Pasted image 20221221110226.png]]
