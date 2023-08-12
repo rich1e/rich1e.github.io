@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "Mac Update",
       "path": "2023/Mac Update.md"
     },
     {
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
+    },
+    {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "Front-end Technology",
+      "path": "workspce/Front-end Technology.md"
     },
     {
       "basename": "Orca - 功能梳理和优化建议",
@@ -23,10 +39,6 @@
     {
       "basename": "Git",
       "path": "buckets/learn/Git.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "全局变量设计",
@@ -59,14 +71,6 @@
     {
       "basename": "2022-12-05_Monday",
       "path": "buckets/daily/2022-12-05_Monday.md"
-    },
-    {
-      "basename": "Front-end Technology",
-      "path": "workspce/Front-end Technology.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
     },
     {
       "basename": "2023-04-26_Wednesday",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-06-12_Monday",
       "path": "buckets/daily/2023-06-12_Monday.md"
-    },
-    {
-      "basename": "vscode-vim-easymotion",
-      "path": "work-records/vscode-vim-easymotion.md"
     }
   ],
   "omittedPaths": [],

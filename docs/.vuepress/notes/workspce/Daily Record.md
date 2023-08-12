@@ -201,7 +201,33 @@ Ref
 
 ## Node Command-line
 
+npm
+
+```node
+npm install (with no args in a package dir)
+
+npm install <tarball file>
+
+npm install <tarball url>
+
+npm install <folder>
+
+npm install [@<scope>/]<name> [--save|--save-dev|--save-optional] [--save-exact]
+
+npm install [@<scope>/]<name>@<tag>
+
+npm install [@<scope>/]<name>@<version>
+
+npm install [@<scope>/]<name>@<version range>
+
+npm i (with any of the previous argument usage)
+```
+
+Node
+
 > [Command-line API | Node.js v20.2.0 Documentation](https://nodejs.org/api/cli.html)
+
+nvm
 
 ```sh
 # 查询最新稳定版
@@ -234,6 +260,7 @@ yarn workspace [package-name] [action] [...pkg]
 Ref
 
 [yarn workspace](https://yarnpkg.com/cli/workspace)
+[Monorepo最佳实践之Yarn Workspaces - 掘金](https://juejin.cn/post/7011024137707585544)
 
 查看镜像源
 
@@ -271,6 +298,36 @@ npmMirror --- https://skimdb.npmjs.com/registry/
 deunpm --- http://registry.enpmjs.org/
 ```
 
+pnpm
+
+```sh
+pnpm init
+
+# 安装公共依赖
+pnpm install typescript -w -D
+
+# 为某个项目安装依赖
+pnpm --filter <workspace> <command>
+# 缩写
+pnpm -F <workspace> <command> 
+
+# Example
+pnpm --filter math-lib add lodash
+pnpm --filter math-lib add -D typescript @types/lodash
+pnpm --filter calculator run test
+
+# Support glob pattern
+pnpm --filter pkg* run test
+
+# 安装本地依赖
+pnpm --filter calculator add math-lib --workspace
+
+# List all workspaces in JSON format
+pnpm m ls --depth -1 --json
+
+# 列出这个包的源码位置，被monorepo内部哪些项目引用
+pnpm why vue
+```
 ## Mac
 
 `Cmd + Shift + .` 查看隐藏文件

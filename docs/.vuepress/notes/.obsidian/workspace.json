@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "c1556e395f9036ae",
+        "id": "7b85fb2119ea444f",
         "type": "tabs",
+        "dimension": 51.85979971387697,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -14,7 +15,14 @@
               "type": "memos_view",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c1556e395f9036ae",
+        "type": "tabs",
+        "dimension": 48.14020028612303,
+        "children": [
           {
             "id": "06f79af0ff009e49",
             "type": "leaf",
@@ -38,36 +46,6 @@
               "type": "markdown",
               "state": {
                 "file": "workspce/Daily Record.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e3530ef681c98a76",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workspce/Front-end Technology.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "09d592bfe1cb5790",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work-records/vscode-vim.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -106,6 +84,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +97,7 @@
       {
         "id": "7ecb84c18b19b196",
         "type": "tabs",
-        "dimension": 31.301939058171747,
+        "dimension": 46.3359639233371,
         "children": [
           {
             "id": "d9995859cf1212a3",
@@ -160,14 +139,7 @@
               "type": "bookmarks",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "8607dfc46dce05dc",
-        "type": "tabs",
-        "dimension": 40.99722991689751,
-        "children": [
+          },
           {
             "id": "7d2705af45226db7",
             "type": "leaf",
@@ -181,7 +153,7 @@
       {
         "id": "2e722310acc52202",
         "type": "tabs",
-        "dimension": 27.70083102493075,
+        "dimension": 53.6640360766629,
         "children": [
           {
             "id": "47a0b26365126ab3",
@@ -189,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           }
@@ -197,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 285.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -214,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,21 +263,30 @@
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "466a56a88f2abaec",
+  "active": "5a0852da4e9108a3",
   "lastOpenFiles": [
     "2023/Mac Update.md",
+    "2023/Homebrew.md",
+    "buckets/daily/2023-08-12_Saturday.md",
+    "workspce/Daily Record.md",
+    "buckets/daily/2023-08-11_Friday.md",
     "2023/Vue3 组件库.md",
+    "HomePage.md",
+    "buckets/daily/2023-08-10_Thursday.md",
+    "buckets/daily/2023-08-09_Wednesday.md",
+    "buckets/daily/2023-08-08_Tuesday.md",
+    "work-records/vscode-vim.md",
+    "workspce/Front-end Technology.md",
     "buckets/work-experience/max-optics/Orca - 功能梳理和优化建议.md",
     "buckets/work-experience/max-optics/Orca - 功能流程图和时序图.md",
     "buckets/learn/Git.md",
-    "workspce/Daily Record.md",
     "buckets/work-experience/max-optics/全局变量设计.md",
     "2023/单机版启动缓慢调查.md",
     "buckets/daily/2023-05-05_Friday.md",
@@ -316,17 +297,8 @@
     "buckets/daily/2022-12-05_Monday.md",
     "buckets/work-experience/max-optics/Max-Optics Api.md",
     "2023/meta/Pasted image 20230806194428.png",
-    "workspce/Front-end Technology.md",
-    "work-records/vscode-vim.md",
-    "HomePage.md",
     "buckets/daily/2023-08-06_Sunday.md",
     "buckets/daily/2023-04-26_Wednesday.md",
-    "2023/BEM 命名规范.md",
-    "buckets/daily/2023-08-05_Saturday.md",
-    "buckets/daily/2023-08-04_Friday.md",
-    "buckets/daily/2023-08-03_Thursday.md",
-    "buckets/daily/2023-08-02_Wednesday.md",
-    "buckets/daily/2023-08-01_Tuesday.md",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
     "buckets/daily/meta/Pasted Image 20230726090542.png",
     "buckets/diagram/Untitled Diagram.svg",
