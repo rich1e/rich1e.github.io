@@ -82,6 +82,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e234b53bdf230a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/Book.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1,
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "HomePage.md"
               }
             }
           }
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,20 +278,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "5a0852da4e9108a3",
+  "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-08-22_Tuesday.md",
+    "buckets/daily/2023-08-19_Saturday.md",
+    "buckets/daily/2023-08-18_Friday.md",
+    "buckets/daily/2023-08-17_Thursday.md",
+    "buckets/daily/2023-08-16_Wednesday.md",
+    "buckets/daily/2023-08-15_Tuesday.md",
+    "HomePage.md",
+    "2023/Book.md",
+    "buckets/daily/meta/Pasted Image 20230814165545.png",
+    "buckets/daily/2023-08-14_Monday.md",
+    "2023/Vue3 组件库.md",
+    "workspce/Daily Record.md",
     "2023/Mac Update.md",
     "2023/Homebrew.md",
     "buckets/daily/2023-08-12_Saturday.md",
-    "workspce/Daily Record.md",
     "buckets/daily/2023-08-11_Friday.md",
-    "2023/Vue3 组件库.md",
-    "HomePage.md",
     "buckets/daily/2023-08-10_Thursday.md",
     "buckets/daily/2023-08-09_Wednesday.md",
     "buckets/daily/2023-08-08_Tuesday.md",
@@ -290,15 +312,7 @@
     "buckets/work-experience/max-optics/全局变量设计.md",
     "2023/单机版启动缓慢调查.md",
     "buckets/daily/2023-05-05_Friday.md",
-    "buckets/daily/2023-04-25_Tuesday.md",
-    "buckets/daily/2022-12-21_Wednesday.md",
-    "buckets/daily/2023-04-10_Monday.md",
-    "buckets/daily/2022-10-18_Tuesday.md",
-    "buckets/daily/2022-12-05_Monday.md",
-    "buckets/work-experience/max-optics/Max-Optics Api.md",
     "2023/meta/Pasted image 20230806194428.png",
-    "buckets/daily/2023-08-06_Sunday.md",
-    "buckets/daily/2023-04-26_Wednesday.md",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
     "buckets/daily/meta/Pasted Image 20230726090542.png",
     "buckets/diagram/Untitled Diagram.svg",
@@ -307,7 +321,6 @@
     "2023/meta/Pasted image 20230702140025.png",
     "2023/meta/Pasted image 20230702135513.png",
     "2023/meta/Pasted image 20230702135408.png",
-    "2023/meta/Pasted image 20230702135214.png",
     "buckets/omnivore/2023-06-30",
     "buckets/omnivore",
     "Omnivore/2023-06-30",

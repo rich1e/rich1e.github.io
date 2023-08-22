@@ -26,6 +26,10 @@ Apps
 
 ## Script
 
+```sh
+code --goto /Users/gongyuqi/Desktop/Workspace/code/web-gui/apps/passive/src/store/resultChart.ts:557
+```
+
 ```powershell
 cd C:\ProgramData\MaxOptics\MOPassive\2022\MOService\bin\Release
 .\mol-mid-pas-console.exe
