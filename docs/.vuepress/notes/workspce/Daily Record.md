@@ -195,6 +195,19 @@ git log -1 --pretty=format:%h | pbcopy
 git cherry-pick --no-commit <commit-id>
 ```
 
+tag 操作
+
+```git
+# 获取远程tag
+git fetch origin tag v1.0.1
+# 强制刷新tag命令
+git fetch --tags -f
+# 基于tag签出分支
+git switch --detach <tag>
+```
+
+> [github - Switch to another Git tag - Stack Overflow](https://stackoverflow.com/questions/4330610/switch-to-another-git-tag)
+
 Ref
 
 [[buckets/daily/2023-04-18_Tuesday]]

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Book",
@@ -15,10 +19,6 @@
     {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
     },
     {
       "basename": "Homebrew",

@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2e722310acc52202",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           }
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,6 +286,14 @@
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-09-01_Friday.md",
+    "buckets/daily/2023-08-31_Thursday.md",
+    "buckets/daily/2023-08-30_Wednesday.md",
+    "buckets/daily/2023-08-29_Tuesday.md",
+    "2023/Mac Update.md",
+    "workspce/Daily Record.md",
+    "HomePage.md",
+    "buckets/daily/2023-08-28_Monday.md",
     "buckets/daily/2023-08-26_Saturday.md",
     "buckets/daily/2023-08-23_Wednesday.md",
     "buckets/daily/2023-08-22_Tuesday.md",
@@ -293,13 +302,10 @@
     "buckets/daily/2023-08-17_Thursday.md",
     "buckets/daily/2023-08-16_Wednesday.md",
     "buckets/daily/2023-08-15_Tuesday.md",
-    "HomePage.md",
     "2023/Book.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "buckets/daily/2023-08-14_Monday.md",
     "2023/Vue3 组件库.md",
-    "workspce/Daily Record.md",
-    "2023/Mac Update.md",
     "2023/Homebrew.md",
     "buckets/daily/2023-08-12_Saturday.md",
     "buckets/daily/2023-08-11_Friday.md",
@@ -307,11 +313,6 @@
     "buckets/daily/2023-08-09_Wednesday.md",
     "buckets/daily/2023-08-08_Tuesday.md",
     "work-records/vscode-vim.md",
-    "workspce/Front-end Technology.md",
-    "buckets/work-experience/max-optics/Orca - 功能梳理和优化建议.md",
-    "buckets/work-experience/max-optics/Orca - 功能流程图和时序图.md",
-    "buckets/learn/Git.md",
-    "buckets/work-experience/max-optics/全局变量设计.md",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
     "buckets/daily/meta/Pasted Image 20230726090542.png",
