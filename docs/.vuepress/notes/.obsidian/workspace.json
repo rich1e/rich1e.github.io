@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/Book.md",
+                "file": "2023/Homebrew.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2e722310acc52202",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "2023/Homebrew.md"
               }
             }
           }
@@ -183,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -192,7 +192,6 @@
       {
         "id": "0ce6debe408e99df",
         "type": "tabs",
-        "dimension": 51.79119754350051,
         "children": [
           {
             "id": "ad3946728bac7730",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,21 +243,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "99022f2b9cdd4d81",
-        "type": "tabs",
-        "dimension": 48.20880245649949,
-        "children": [
-          {
-            "id": "993b8743a6a39edf",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -279,20 +263,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-day-planner:Week plan": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-09-03_Sunday.md",
+    "2023/Vue3 组件库.md",
+    "2023/Homebrew.md",
+    "workspce/Daily Record.md",
+    "HomePage.md",
     "buckets/daily/2023-09-01_Friday.md",
     "buckets/daily/2023-08-31_Thursday.md",
     "buckets/daily/2023-08-30_Wednesday.md",
     "buckets/daily/2023-08-29_Tuesday.md",
     "2023/Mac Update.md",
-    "workspce/Daily Record.md",
-    "HomePage.md",
     "buckets/daily/2023-08-28_Monday.md",
     "buckets/daily/2023-08-26_Saturday.md",
     "buckets/daily/2023-08-23_Wednesday.md",
@@ -305,14 +293,11 @@
     "2023/Book.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "buckets/daily/2023-08-14_Monday.md",
-    "2023/Vue3 组件库.md",
-    "2023/Homebrew.md",
     "buckets/daily/2023-08-12_Saturday.md",
     "buckets/daily/2023-08-11_Friday.md",
     "buckets/daily/2023-08-10_Thursday.md",
     "buckets/daily/2023-08-09_Wednesday.md",
     "buckets/daily/2023-08-08_Tuesday.md",
-    "work-records/vscode-vim.md",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
     "buckets/daily/meta/Pasted Image 20230726090542.png",

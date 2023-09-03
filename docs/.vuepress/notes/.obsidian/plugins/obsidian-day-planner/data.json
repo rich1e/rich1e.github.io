@@ -1,4 +1,15 @@
 {
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "zoomLevel": 2,
+  "timelineIcon": "calendar-with-checkmark",
+  "endLabel": "All done",
+  "startHour": 6,
+  "timelineDateFormat": "LLLL",
+  "centerNeedle": false,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 1,
   "customFolder": "Day Planners",
   "mode": 1,
   "mermaid": true,
@@ -117,8 +128,5 @@
     }
   ],
   "completePastItems": true,
-  "circularProgress": true,
-  "nowAndNextInStatusBar": true,
-  "showTaskNotification": true,
   "timelineZoomLevel": 4
 }
