@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Homebrew.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           }
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Homebrew.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Homebrew.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,19 +263,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
       "obsidian-day-planner:Week plan": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-09-08_Friday.md",
+    "buckets/daily/2023-09-07_Thursday.md",
+    "buckets/daily/2023-09-06_Wednesday.md",
+    "buckets/daily/2023-09-04_Monday.md",
+    "HomePage.md",
     "buckets/daily/2023-09-03_Sunday.md",
     "2023/Vue3 组件库.md",
     "2023/Homebrew.md",
     "workspce/Daily Record.md",
-    "HomePage.md",
     "buckets/daily/2023-09-01_Friday.md",
     "buckets/daily/2023-08-31_Thursday.md",
     "buckets/daily/2023-08-30_Wednesday.md",
@@ -294,10 +298,6 @@
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "buckets/daily/2023-08-14_Monday.md",
     "buckets/daily/2023-08-12_Saturday.md",
-    "buckets/daily/2023-08-11_Friday.md",
-    "buckets/daily/2023-08-10_Thursday.md",
-    "buckets/daily/2023-08-09_Wednesday.md",
-    "buckets/daily/2023-08-08_Tuesday.md",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
     "buckets/daily/meta/Pasted Image 20230726090542.png",

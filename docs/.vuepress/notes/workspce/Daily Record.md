@@ -87,6 +87,7 @@ FOR /d /r . %d in (node_modules) DO @IF EXIST "%d" rm -rf "%d"
 
 [一条命令删除目录下的所有node\_modules | Mulianju](https://www.mulianju.com/delete-all-node_modules/)
 
+[前端不会Shell？Shell 命令只会 cd 的小伙伴，这篇文章你真的得看了 - 掘金](https://juejin.cn/post/7274346507037081640)
 ## Git Flow
 
 获取 log 中最近10小时的 commit
