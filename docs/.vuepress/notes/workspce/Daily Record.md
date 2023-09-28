@@ -300,21 +300,32 @@ npm config set registry <registry-url>
 yarn config set registry <registry-url>
 ```
 
-```md
+```sh
 npm --- https://registry.npmjs.org/
-
 cnpm --- https://r.cnpmjs.org/
-
 taobao --- https://registry.npm.taobao.org/
-
 nj --- https://registry.nodejitsu.com/
-
 rednpm --- https://registry.mirror.cqupt.edu.cn/
-
 npmMirror --- https://skimdb.npmjs.com/registry/
-
 deunpm --- http://registry.enpmjs.org/
+
+# 淘宝镜像设置
+npm config set registry https://registry.npmmirror.com/
+
+# node-sass 淘宝镜像设置
+npm config set sass_binary_site https://npm.taobao.org/mirrors/node-sass/
+yarn config set sass_binary_site https://npm.taobao.org/mirrors/node-sass/
+pnpm config set sass_binary_site https://npm.taobao.org/mirrors/node-sass/
+
+# Chrome Driver 淘宝镜像设置
+npm config set CHROMEDRIVER_CDNURL https://npm.taobao.org/mirrors/chromedriver
+
+# Electron 淘宝镜像设置
+npm config set ELECTRON_MIRROR http://npm.taobao.org/mirrors/electron/
+npm config set ELECTRON_BUILDER_BINARIES_MIRROR https://npm.taobao.org/mirrors/electron-builder-binaries/
 ```
+
+
 
 pnpm
 
@@ -345,6 +356,11 @@ pnpm m ls --depth -1 --json
 
 # 列出这个包的源码位置，被monorepo内部哪些项目引用
 pnpm why vue
+
+# 查看镜像源
+pnpm config get registry
+# 设置镜像源
+pnpm config set registry https://registry.npmmirror.com/
 ```
 ## Mac
 

@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
       "basename": "HomePage",
       "path": "HomePage.md"
     },
     {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "2022-12-05_Monday",
+      "path": "buckets/daily/2022-12-05_Monday.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
     },
     {
       "basename": "Vue3 组件库",
       "path": "2023/Vue3 组件库.md"
     },
     {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
     },
     {
       "basename": "Book",
@@ -71,10 +75,6 @@
     {
       "basename": "2022-10-18_Tuesday",
       "path": "buckets/daily/2022-10-18_Tuesday.md"
-    },
-    {
-      "basename": "2022-12-05_Monday",
-      "path": "buckets/daily/2022-12-05_Monday.md"
     },
     {
       "basename": "2023-04-26_Wednesday",
