@@ -120,6 +120,12 @@ git commit --allow-empty-message -m ''
 git blame -L start,end <filename>
 ```
 
+导出文件
+
+```git
+git archive --format=zip main > file.zip
+```
+
 清理
 
 ```git
