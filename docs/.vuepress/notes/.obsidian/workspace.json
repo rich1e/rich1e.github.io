@@ -148,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2e722310acc52202",
@@ -170,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -266,8 +266,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5a0852da4e9108a3",
+  "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-10-20_Friday.md",
+    "buckets/daily/2023-10-18_Wednesday.md",
+    "buckets/daily/2023-10-16_Monday.md",
     "2023/Vue3 组件库.md",
     "workspce/Daily Record.md",
     "HomePage.md",
@@ -291,9 +294,6 @@
     "buckets/daily/2023-09-04_Monday.md",
     "buckets/daily/2023-09-03_Sunday.md",
     "2023/Homebrew.md",
-    "buckets/daily/2023-09-01_Friday.md",
-    "buckets/daily/2023-08-31_Thursday.md",
-    "buckets/daily/2023-08-30_Wednesday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
