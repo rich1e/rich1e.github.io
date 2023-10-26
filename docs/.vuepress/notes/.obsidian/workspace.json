@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "HomePage.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,6 +268,8 @@
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-10-24_Tuesday.md",
+    "buckets/daily/2023-10-23_Monday.md",
     "buckets/daily/2023-10-20_Friday.md",
     "buckets/daily/2023-10-18_Wednesday.md",
     "buckets/daily/2023-10-16_Monday.md",
@@ -292,8 +294,6 @@
     "buckets/daily/2023-09-07_Thursday.md",
     "buckets/daily/2023-09-06_Wednesday.md",
     "buckets/daily/2023-09-04_Monday.md",
-    "buckets/daily/2023-09-03_Sunday.md",
-    "2023/Homebrew.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
