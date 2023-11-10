@@ -46,7 +46,7 @@
               "type": "markdown",
               "state": {
                 "file": "workspce/Daily Record.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,26 +257,32 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-day-planner:Week plan": false,
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-omnivore:Omnivore": false,
+      "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-11-10_Friday.md",
+    "2023/Vue3 组件库.md",
+    "workspce/Daily Record.md",
+    "HomePage.md",
+    "buckets/daily/2023-11-06_Monday.md",
+    "buckets/daily/2023-11-02_Thursday.md",
+    "buckets/daily/delete.md",
+    "buckets/daily/2023-11-01_Wednesday.md",
+    "buckets/daily/2023-10-30_Monday.md",
     "buckets/daily/2023-10-27_Friday.md",
     "buckets/daily/2023-10-24_Tuesday.md",
     "buckets/daily/2023-10-23_Monday.md",
     "buckets/daily/2023-10-20_Friday.md",
     "buckets/daily/2023-10-18_Wednesday.md",
     "buckets/daily/2023-10-16_Monday.md",
-    "2023/Vue3 组件库.md",
-    "workspce/Daily Record.md",
-    "HomePage.md",
     "buckets/daily/2023-10-10_Tuesday.md",
     "buckets/daily/2023-10-09_Monday.md",
     "buckets/daily/2023-10-07_Saturday.md",
@@ -288,12 +294,6 @@
     "buckets/daily/2022-12-05_Monday.md",
     "2023/Mac Update.md",
     "buckets/daily/2023-09-20_Wednesday.md",
-    "buckets/daily/2023-09-19_Tuesday.md",
-    "buckets/daily/2023-09-15_Friday.md",
-    "buckets/daily/2023-09-12_Tuesday.md",
-    "buckets/daily/2023-09-08_Friday.md",
-    "buckets/daily/2023-09-07_Thursday.md",
-    "buckets/daily/2023-09-06_Wednesday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",

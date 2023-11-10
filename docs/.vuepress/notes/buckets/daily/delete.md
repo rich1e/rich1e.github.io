@@ -1,0 +1,1 @@
+- 202311010950008 [Git-忽略规则(.gitignore配置）不生效原因和解决（转载记录） - 知乎](https://zhuanlan.zhihu.com/p/102890728)<br>[Git忽略规则(.gitignore配置）不生效原因和解决 - 星宸如愿 - 博客园](https://www.cnblogs.com/rainbowk/p/10932322.html)<br>[Git忽略提交规则 - .gitignore配置运维总结 - 散尽浮华 - 博客园](https://www.cnblogs.com/kevingrace/p/5690241.html)<br> deletedAt: 202311010950501

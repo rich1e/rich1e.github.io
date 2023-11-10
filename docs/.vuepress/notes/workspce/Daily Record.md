@@ -436,7 +436,15 @@ then check its status
 curl http://localhost:25500/version
 ```
 
+## Scoop
 
+> 安装Scoop报错：Running the installer as administrator is disabled by default
+
+```shell
+iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
+```
+
+[安装Scoop报错](https://blog.csdn.net/test_write/article/details/129089494)
 ## Docs
 
 [Release 1.1.0-beta.24 · element-plus/element-plus](https://github.com/element-plus/element-plus/releases/tag/1.1.0-beta.24)
