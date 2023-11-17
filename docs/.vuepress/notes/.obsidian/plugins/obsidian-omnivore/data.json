@@ -14,7 +14,7 @@
   "filename": "{{{title}}}",
   "filenameDateFormat": "yyyy-MM-dd",
   "attachmentFolder": "Omnivore/attachments",
-  "version": "1.6.3",
+  "version": "1.7.1",
   "isSingleFile": true,
   "frequency": 0,
   "intervalId": 0,

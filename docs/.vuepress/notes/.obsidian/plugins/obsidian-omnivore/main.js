@@ -10919,6 +10919,7 @@ var loadArticles = async (endpoint, apiKey, after = 0, first = 10, updatedAt = "
                     updatedAt
                     type
                     highlightPositionPercent
+                    highlightPositionAnchorIndex
                     labels {
                       name
                     }
@@ -12386,10 +12387,21 @@ function upperCaseFirst() {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
   };
 }
+function formatDateFunc() {
+  return function(text, render3) {
+    const [dateVariable, format] = text.split(",", 2);
+    const date = render3(dateVariable);
+    if (!date) {
+      return "";
+    }
+    return formatDate(date, format);
+  };
+}
 var functionMap = {
   lowerCase,
   upperCase,
-  upperCaseFirst
+  upperCaseFirst,
+  formatDate: formatDateFunc
 };
 var renderFilename = (article, filename, dateFormat) => {
   var _a;
@@ -12436,7 +12448,9 @@ var renderArticleContnet = async (article, template, highlightOrder, dateHighlig
       dateHighlighted: formatDate(highlight.updatedAt, dateHighlightedFormat),
       note: (_a2 = highlight.annotation) != null ? _a2 : void 0,
       labels: renderLabels(highlight.labels),
-      color: (_b2 = highlight.color) != null ? _b2 : "yellow"
+      color: (_b2 = highlight.color) != null ? _b2 : "yellow",
+      positionPercent: highlight.highlightPositionPercent,
+      positionAnchorIndex: highlight.highlightPositionAnchorIndex
     };
   });
   const dateSaved = formatDate(article.savedAt, dateSavedFormat);

@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "HomePage.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,19 +255,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-omnivore:Omnivore": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false,
       "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-11-17_Friday.md",
+    "buckets/daily/2023-11-16_Thursday.md",
+    "buckets/daily/2023-11-13_Monday.md",
     "buckets/daily/2023-11-10_Friday.md",
     "2023/Vue3 组件库.md",
     "workspce/Daily Record.md",
@@ -291,9 +294,6 @@
     "buckets/daily/2023-09-26_Tuesday.md",
     "buckets/daily/2023-09-22_Friday.md",
     "buckets/daily/2023-09-21_Thursday.md",
-    "buckets/daily/2022-12-05_Monday.md",
-    "2023/Mac Update.md",
-    "buckets/daily/2023-09-20_Wednesday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
