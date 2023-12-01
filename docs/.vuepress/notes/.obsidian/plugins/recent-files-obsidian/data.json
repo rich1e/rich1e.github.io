@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-12_Monday",
+      "path": "buckets/daily/2023-06-12_Monday.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "Windows Terminal",
       "path": "buckets/lifestyle/Windows Terminal.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Vue3 组件库",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-06-14_Wednesday",
       "path": "buckets/daily/2023-06-14_Wednesday.md"
-    },
-    {
-      "basename": "2023-06-13_Tuesday",
-      "path": "buckets/daily/2023-06-13_Tuesday.md"
     }
   ],
   "omittedPaths": [],

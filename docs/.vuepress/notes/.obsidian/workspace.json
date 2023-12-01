@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "buckets/lifestyle/Windows Terminal.md",
+                "file": "buckets/daily/2023-06-12_Monday.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "衡阳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/lifestyle/Windows Terminal.md"
+                "file": "buckets/daily/2023-06-12_Monday.md"
               }
             }
           }
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/lifestyle/Windows Terminal.md",
+                "file": "buckets/daily/2023-06-12_Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/lifestyle/Windows Terminal.md",
+                "file": "buckets/daily/2023-06-12_Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,11 +279,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "466a56a88f2abaec",
+  "active": "76454192028ebee9",
   "lastOpenFiles": [
+    "HomePage.md",
+    "buckets/daily/2023-12-01_Friday.md",
+    "buckets/daily/2023-11-30_Thursday.md",
     "buckets/daily/2023-11-24_Friday.md",
     "workspce/Daily Record.md",
-    "HomePage.md",
     "buckets/daily/2023-11-20_Monday.md",
     "buckets/daily/2023-11-17_Friday.md",
     "buckets/daily/2023-11-16_Thursday.md",
@@ -306,8 +307,6 @@
     "buckets/daily/2023-10-09_Monday.md",
     "buckets/daily/2023-10-07_Saturday.md",
     "buckets/daily/2023-10-06_Friday.md",
-    "buckets/daily/2023-09-28_Thursday.md",
-    "buckets/daily/2023-09-26_Tuesday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
