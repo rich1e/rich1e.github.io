@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "衡阳",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -279,8 +280,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "76454192028ebee9",
+  "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-12-05_Tuesday.md",
+    "buckets/daily/2023-12-04_Monday.md",
     "HomePage.md",
     "buckets/daily/2023-12-01_Friday.md",
     "buckets/daily/2023-11-30_Thursday.md",
@@ -305,8 +308,6 @@
     "buckets/daily/2023-10-16_Monday.md",
     "buckets/daily/2023-10-10_Tuesday.md",
     "buckets/daily/2023-10-09_Monday.md",
-    "buckets/daily/2023-10-07_Saturday.md",
-    "buckets/daily/2023-10-06_Friday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
