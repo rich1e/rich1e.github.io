@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md"
+                "file": "HomePage.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,6 +282,7 @@
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-12-09_Saturday.md",
     "buckets/daily/2023-12-05_Tuesday.md",
     "buckets/daily/2023-12-04_Monday.md",
     "HomePage.md",
@@ -307,7 +308,6 @@
     "buckets/daily/2023-10-18_Wednesday.md",
     "buckets/daily/2023-10-16_Monday.md",
     "buckets/daily/2023-10-10_Tuesday.md",
-    "buckets/daily/2023-10-09_Monday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
