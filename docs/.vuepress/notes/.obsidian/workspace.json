@@ -84,12 +84,12 @@
             }
           },
           {
-            "id": "76454192028ebee9",
+            "id": "888852892300e264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "buckets/daily/2023-06-12_Monday.md",
+                "file": "Lodash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2e722310acc52202",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           }
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,10 +281,16 @@
   },
   "active": "466a56a88f2abaec",
   "lastOpenFiles": [
+    "buckets/daily/2023-12-15_Friday.md",
+    "HomePage.md",
+    "Lodash.md",
+    "buckets/daily/2023-12-14_Thursday.md",
+    "2023/Vue3 组件库.md",
+    "buckets/daily/2023-06-12_Monday.md",
+    "buckets/daily/2023-12-13_Wednesday.md",
     "buckets/daily/2023-12-09_Saturday.md",
     "buckets/daily/2023-12-05_Tuesday.md",
     "buckets/daily/2023-12-04_Monday.md",
-    "HomePage.md",
     "buckets/daily/2023-12-01_Friday.md",
     "buckets/daily/2023-11-30_Thursday.md",
     "buckets/daily/2023-11-24_Friday.md",
@@ -295,7 +300,6 @@
     "buckets/daily/2023-11-16_Thursday.md",
     "buckets/daily/2023-11-13_Monday.md",
     "buckets/daily/2023-11-10_Friday.md",
-    "2023/Vue3 组件库.md",
     "buckets/daily/2023-11-06_Monday.md",
     "buckets/daily/2023-11-02_Thursday.md",
     "buckets/daily/delete.md",
@@ -303,11 +307,6 @@
     "buckets/daily/2023-10-30_Monday.md",
     "buckets/daily/2023-10-27_Friday.md",
     "buckets/daily/2023-10-24_Tuesday.md",
-    "buckets/daily/2023-10-23_Monday.md",
-    "buckets/daily/2023-10-20_Friday.md",
-    "buckets/daily/2023-10-18_Wednesday.md",
-    "buckets/daily/2023-10-16_Monday.md",
-    "buckets/daily/2023-10-10_Tuesday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",

@@ -202,6 +202,12 @@ git log -1 --pretty=format:%h | pbcopy
 git cherry-pick --no-commit <commit-id>
 ```
 
+查询log中匹配的keyword
+
+```sh
+git log --all -i --grep='keyword'
+```
+
 tag 操作
 
 ```git
