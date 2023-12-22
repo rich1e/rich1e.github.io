@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Javascript 函数式编程指南",
+      "path": "Javascript 函数式编程指南.md"
+    },
+    {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
+    },
+    {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
     },
     {
       "basename": "HomePage",
@@ -11,10 +27,6 @@
     {
       "basename": "Lodash",
       "path": "Lodash.md"
-    },
-    {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
     },
     {
       "basename": "2023-06-12_Monday",
@@ -29,16 +41,8 @@
       "path": "buckets/daily/2022-12-05_Monday.md"
     },
     {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
-    },
-    {
       "basename": "Homebrew",
       "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
     },
     {
       "basename": "vscode-vim",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-06-16_Friday",
       "path": "buckets/daily/2023-06-16_Friday.md"
-    },
-    {
-      "basename": "2023-06-15_Thursday",
-      "path": "buckets/daily/2023-06-15_Thursday.md"
     }
   ],
   "omittedPaths": [],
