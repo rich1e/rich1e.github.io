@@ -1,32 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Javascript 函数式编程指南",
-      "path": "Javascript 函数式编程指南.md"
-    },
-    {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "Clash",
+      "path": "2023/Clash.md"
     },
     {
       "basename": "Mac Update",
       "path": "2023/Mac Update.md"
     },
     {
-      "basename": "Book",
-      "path": "2023/Book.md"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "Front-end Technology",
+      "path": "workspce/Front-end Technology.md"
     },
     {
       "basename": "HomePage",
       "path": "HomePage.md"
     },
     {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
+    },
+    {
+      "basename": "Javascript 函数式编程指南",
+      "path": "2023/Javascript 函数式编程指南.md"
+    },
+    {
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
+    },
+    {
+      "basename": "Electron：WebSwapCGLLayer warning",
+      "path": "2023/Electron：WebSwapCGLLayer warning.md"
+    },
+    {
       "basename": "Lodash",
-      "path": "Lodash.md"
+      "path": "2023/Lodash.md"
+    },
+    {
+      "basename": "Pasted image 20231227150401",
+      "path": "2023/meta/Pasted image 20231227150401.png"
+    },
+    {
+      "basename": "Pasted image 20231227112800",
+      "path": "2023/meta/Pasted image 20231227112800.png"
+    },
+    {
+      "basename": "Book",
+      "path": "2023/Book.md"
     },
     {
       "basename": "2023-06-12_Monday",
@@ -39,18 +71,6 @@
     {
       "basename": "2022-12-05_Monday",
       "path": "buckets/daily/2022-12-05_Monday.md"
-    },
-    {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
-      "basename": "Front-end Technology",
-      "path": "workspce/Front-end Technology.md"
     },
     {
       "basename": "Orca - 功能梳理和优化建议",
@@ -121,10 +141,6 @@
       "path": "workspce/Kanban.md"
     },
     {
-      "basename": "mind - Attr 动态表单组件关系图",
-      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
-    },
-    {
       "basename": "Untitled Diagram",
       "path": "buckets/diagram/Untitled Diagram.svg"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "2023-06-26_Monday",
       "path": "buckets/daily/2023-06-26_Monday.md"
-    },
-    {
-      "basename": "2023-06-25_Sunday",
-      "path": "buckets/daily/2023-06-25_Sunday.md"
-    },
-    {
-      "basename": "2023-06-20_Tuesday",
-      "path": "buckets/daily/2023-06-20_Tuesday.md"
-    },
-    {
-      "basename": "2023-06-19_Monday",
-      "path": "buckets/daily/2023-06-19_Monday.md"
-    },
-    {
-      "basename": "2023-06-16_Friday",
-      "path": "buckets/daily/2023-06-16_Friday.md"
     }
   ],
   "omittedPaths": [],

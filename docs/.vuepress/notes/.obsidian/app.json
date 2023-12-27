@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "tabSize": 2,
   "useTab": false,
   "pdfExportSettings": {

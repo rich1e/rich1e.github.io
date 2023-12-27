@@ -13,3 +13,4 @@
 [Chapter 13: Monoids bring it all together - mostly-adequate-guide --- 第 13 章：单体将这一切结合在一起 - 大部分充分指南](https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch13)
 [Introduction · 函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 [轻量函数式 JavaScript](https://github.com/JoeHetfield/Functional-Light-JS)
+[README - 函数式编程指南中文版](https://llh911001.gitbook.io/mostly-adequate-guide-chinese/)
