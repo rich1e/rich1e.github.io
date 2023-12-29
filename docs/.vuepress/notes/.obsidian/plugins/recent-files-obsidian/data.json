@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "Clash",
       "path": "2023/Clash.md"
     },
     {
       "basename": "Mac Update",
       "path": "2023/Mac Update.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "Vue3 组件库",
@@ -23,10 +27,6 @@
     {
       "basename": "Front-end Technology",
       "path": "workspce/Front-end Technology.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "mind - Attr 动态表单组件关系图",

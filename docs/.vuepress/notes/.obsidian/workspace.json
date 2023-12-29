@@ -6,7 +6,6 @@
       {
         "id": "c1556e395f9036ae",
         "type": "tabs",
-        "dimension": 54.809976247030875,
         "children": [
           {
             "id": "466a56a88f2abaec",
@@ -15,17 +14,26 @@
               "type": "memos_view",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "9459e2d1d3ad9ec6",
-        "type": "tabs",
-        "dimension": 45.190023752969125,
-        "children": [
+          },
+          {
+            "id": "06f79af0ff009e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomePage.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
           {
             "id": "5a0852da4e9108a3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,37 +41,71 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "bced098e85c5551e",
+            "id": "e3530ef681c98a76",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workspce/Front-end Technology.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "09d592bfe1cb5790",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work-records/vscode-vim.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "161abe8a930740d1",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2023/Mac Update.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "2ac7813618ba52ed",
+            "id": "b8a715805c45944f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/Clash.md",
-                "mode": "source",
+                "file": "2023/Vue3 组件库.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -76,7 +118,7 @@
       {
         "id": "7ecb84c18b19b196",
         "type": "tabs",
-        "dimension": 28.410372040586243,
+        "dimension": 31.301939058171747,
         "children": [
           {
             "id": "d9995859cf1212a3",
@@ -102,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duplicate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -124,7 +166,7 @@
       {
         "id": "8607dfc46dce05dc",
         "type": "tabs",
-        "dimension": 40.022547914317926,
+        "dimension": 40.99722991689751,
         "children": [
           {
             "id": "7d2705af45226db7",
@@ -139,7 +181,7 @@
       {
         "id": "2e722310acc52202",
         "type": "tabs",
-        "dimension": 31.567080045095828,
+        "dimension": 27.70083102493075,
         "children": [
           {
             "id": "47a0b26365126ab3",
@@ -147,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Clash.md"
+                "file": "workspce/Daily Record.md"
               }
             }
           }
@@ -155,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
+    "width": 303.5,
     "collapsed": true
   },
   "right": {
@@ -173,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Clash.md",
+                "file": "workspce/Daily Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Clash.md",
+                "file": "workspce/Daily Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +283,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-day-planner:Timeline": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -249,25 +290,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "2ac7813618ba52ed",
+  "active": "466a56a88f2abaec",
   "lastOpenFiles": [
-    "2023/Mac Update.md",
-    "2023/Clash.md",
-    "buckets/daily/2023-12-27_Wednesday.md",
+    "HomePage.md",
     "workspce/Daily Record.md",
+    "buckets/daily/2023-12-29_Friday.md",
+    "2023/Clash.md",
+    "buckets/daily/2023-12-28_Thursday.md",
+    "2023/Mac Update.md",
+    "buckets/daily/2023-12-27_Wednesday.md",
     "2023/Vue3 组件库.md",
     "work-records/vscode-vim.md",
     "workspce/Front-end Technology.md",
-    "HomePage.md",
     "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
     "2023/Javascript 函数式编程指南.md",
     "2023/Homebrew.md",
@@ -291,8 +335,6 @@
     "buckets/daily/2023-12-09_Saturday.md",
     "buckets/daily/2023-12-05_Tuesday.md",
     "buckets/daily/2023-12-04_Monday.md",
-    "buckets/daily/2023-12-01_Friday.md",
-    "buckets/daily/2023-11-30_Thursday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
