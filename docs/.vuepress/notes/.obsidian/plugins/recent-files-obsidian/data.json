@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
     },
     {
       "basename": "HomePage",
       "path": "HomePage.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "Clash",
@@ -35,10 +39,6 @@
     {
       "basename": "Javascript 函数式编程指南",
       "path": "2023/Javascript 函数式编程指南.md"
-    },
-    {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
     },
     {
       "basename": "Electron：WebSwapCGLLayer warning",

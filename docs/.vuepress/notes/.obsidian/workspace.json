@@ -91,21 +91,20 @@
             }
           },
           {
-            "id": "b8a715805c45944f",
+            "id": "5405b928915ec511",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/Vue3 组件库.md",
+                "file": "2023/Homebrew.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Daily Record.md"
+                "file": "2023/Homebrew.md"
               }
             }
           }
@@ -197,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -215,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Daily Record.md",
+                "file": "2023/Homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,6 +253,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "62c0e712e24c8304",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -293,16 +301,19 @@
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "466a56a88f2abaec",
+  "active": "5405b928915ec511",
   "lastOpenFiles": [
     "HomePage.md",
+    "buckets/daily/2024-01-05_Friday.md",
+    "buckets/daily/2024-01-04_Thursday.md",
+    "buckets/daily/2024-01-02_Tuesday.md",
     "workspce/Daily Record.md",
     "buckets/daily/2023-12-29_Friday.md",
     "2023/Clash.md",
@@ -332,9 +343,6 @@
     "buckets/daily/2023-12-14_Thursday.md",
     "buckets/daily/2023-06-12_Monday.md",
     "buckets/daily/2023-12-13_Wednesday.md",
-    "buckets/daily/2023-12-09_Saturday.md",
-    "buckets/daily/2023-12-05_Tuesday.md",
-    "buckets/daily/2023-12-04_Monday.md",
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
