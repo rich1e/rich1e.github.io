@@ -4,21 +4,34 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "c1556e395f9036ae",
+=======
+        "id": "2d92bc724e91c39a",
+>>>>>>> 321d495 (update 20240117)
         "type": "tabs",
         "children": [
           {
-            "id": "466a56a88f2abaec",
+            "id": "4a08f26ea2782e99",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
+<<<<<<< HEAD
           },
+=======
+          }
+        ]
+      },
+      {
+        "id": "c639a624c1fc00ec",
+        "type": "tabs",
+        "children": [
+>>>>>>> 321d495 (update 20240117)
           {
-            "id": "06f79af0ff009e49",
+            "id": "1d4730441221c8b3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -26,6 +39,7 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
+<<<<<<< HEAD
               },
               "pinned": true
             }
@@ -106,6 +120,12 @@
         ],
         "currentTab": 6,
         "stacked": true
+=======
+              }
+            }
+          }
+        ]
+>>>>>>> 321d495 (update 20240117)
       }
     ],
     "direction": "vertical"
@@ -196,7 +216,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 303.5
+=======
+    "width": 303.5,
+    "collapsed": true
+>>>>>>> 321d495 (update 20240117)
   },
   "right": {
     "id": "064593a9d8021565",
@@ -254,6 +279,7 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+<<<<<<< HEAD
           },
           {
             "id": "62c0e712e24c8304",
@@ -264,6 +290,8 @@
                 "sortOrder": "frequency"
               }
             }
+=======
+>>>>>>> 321d495 (update 20240117)
           }
         ],
         "currentTab": 2
@@ -301,6 +329,7 @@
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+<<<<<<< HEAD
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
@@ -343,10 +372,57 @@
     "buckets/daily/2023-12-14_Thursday.md",
     "buckets/daily/2023-06-12_Monday.md",
     "buckets/daily/2023-12-13_Wednesday.md",
+=======
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false
+    }
+  },
+  "active": "1d4730441221c8b3",
+  "lastOpenFiles": [
+    "workspce/Daily Record.md",
+    "workspce/Front-end Technology.md",
+    "2023/Mac Update.md",
+    "2023/Vue3 组件库.md",
+    "work-records/vscode-vim.md",
+    "HomePage.md",
+    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
+    "Untitled.canvas",
+    "buckets/diagram/Untitled Diagram.svg",
+    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
+    "buckets/daily/2023-03-22_Wednesday.md",
+    "workspce/Draft.md",
+    "buckets/daily/2023-10-06_Friday.md",
+    "buckets/daily/2023-09-28_Thursday.md",
+    "buckets/daily/2023-09-26_Tuesday.md",
+    "buckets/daily/2023-09-22_Friday.md",
+    "buckets/daily/2023-09-21_Thursday.md",
+    "buckets/daily/2022-12-05_Monday.md",
+    "buckets/daily/2023-09-20_Wednesday.md",
+    "buckets/daily/2023-09-19_Tuesday.md",
+    "buckets/daily/2023-09-15_Friday.md",
+    "buckets/daily/2023-09-12_Tuesday.md",
+    "buckets/daily/2023-09-08_Friday.md",
+    "buckets/daily/2023-09-07_Thursday.md",
+    "buckets/daily/2023-09-06_Wednesday.md",
+    "buckets/daily/2023-09-04_Monday.md",
+    "buckets/daily/2023-09-03_Sunday.md",
+    "2023/Homebrew.md",
+>>>>>>> 321d495 (update 20240117)
     "buckets/daily/meta/Pasted Image 20230814165545.png",
     "2023/meta/Pasted image 20230806194428.png",
     "buckets/daily/meta/Pasted Image 20230726090641.png",
     "buckets/daily/meta/Pasted Image 20230726090542.png",
+<<<<<<< HEAD
+=======
+    "buckets/daily/meta/Pasted Image 20230720173711.png",
+    "2023/meta/Pasted image 20230702140426.png",
+    "2023/meta/Pasted image 20230702140025.png",
+    "2023/meta/Pasted image 20230702135513.png",
+    "2023/meta/Pasted image 20230702135408.png",
+>>>>>>> 321d495 (update 20240117)
     "buckets/omnivore/2023-06-30",
     "buckets/omnivore",
     "Omnivore/2023-06-30",
@@ -356,6 +432,10 @@
     "buckts",
     "buckets/Read Record",
     "buckets/books/Head First 设计模式（中文版） (Elisabeth Freeman, Eric Freeman, Bert Bates etc.) (z-lib.org).pdf",
+<<<<<<< HEAD
     "Untitled.canvas"
+=======
+    "buckets/books/Designing Data-Intensive Applications 数据密集型应用系统设计(扫描) (Martin Kleppmann(著) 赵军平 吕云松 耿煜 李三平 (译)) (z-lib.org).pdf"
+>>>>>>> 321d495 (update 20240117)
   ]
 }

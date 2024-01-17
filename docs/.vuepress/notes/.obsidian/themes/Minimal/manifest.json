@@ -1,7 +1,12 @@
 {
 	"name": "Minimal",
+<<<<<<< HEAD
 	"version": "7.3.5",
 	"minAppVersion": "1.1.9",
+=======
+	"version": "7.4.7",
+	"minAppVersion": "1.5.0",
+>>>>>>> 321d495 (update 20240117)
 	"author": "@kepano",
 	"authorUrl": "https://twitter.com/kepano",
 	"fundingUrl": "https://www.buymeacoffee.com/kepano"

@@ -1,10 +1,15 @@
 {
   "id": "obsidian-linter",
   "name": "Linter",
+<<<<<<< HEAD
   "version": "1.20.1",
+=======
+  "version": "1.22.0",
+>>>>>>> 321d495 (update 20240117)
   "minAppVersion": "1.4.16",
   "description": "Formats and styles your notes. It can be used to format YAML tags, aliases, arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown contents like list, italics, and bold styles; and more with the use of custom rule options as well.",
   "author": "Victor Tao",
   "authorUrl": "https://github.com/platers",
+  "helpUrl": "https://platers.github.io/obsidian-linter/",
   "isDesktopOnly": false
 }

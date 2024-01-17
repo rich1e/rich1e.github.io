@@ -1,6 +1,6 @@
 {
-  "circularProgress": true,
-  "nowAndNextInStatusBar": true,
+  "snapStepMinutes": 10,
+  "progressIndicator": "bar",
   "showTaskNotification": true,
   "zoomLevel": 2,
   "timelineIcon": "calendar-with-checkmark",
@@ -8,13 +8,16 @@
   "startHour": 6,
   "timelineDateFormat": "LLLL",
   "centerNeedle": false,
-  "showHelp": true,
   "plannerHeading": "Day planner",
   "plannerHeadingLevel": 1,
   "timelineColored": false,
   "timelineStartColor": "#006466",
   "timelineEndColor": "#4d194d",
   "timestampFormat": "HH:mm",
+<<<<<<< HEAD
+=======
+  "hourFormat": "H",
+>>>>>>> 321d495 (update 20240117)
   "dataviewSource": "",
   "showDataviewMigrationWarning": true,
   "extendDurationUntilNext": false,
@@ -23,6 +26,14 @@
   "unscheduledTasksHeight": 100,
   "showUncheduledTasks": true,
   "showUnscheduledNestedTasks": true,
+<<<<<<< HEAD
+=======
+  "showNow": true,
+  "showNext": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showHelp": true,
+>>>>>>> 321d495 (update 20240117)
   "customFolder": "Day Planners",
   "mode": 1,
   "mermaid": true,

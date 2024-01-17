@@ -98,7 +98,11 @@
   "devMode": false,
   "templateFolderPath": "buckets/templates",
   "announceUpdates": true,
+<<<<<<< HEAD
   "version": "1.6.0",
+=======
+  "version": "1.6.1",
+>>>>>>> 321d495 (update 20240117)
   "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",

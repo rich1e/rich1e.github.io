@@ -4,7 +4,7 @@
 
 %%25e2d3e6-3f21-4a6b-85a6-073a68065793_start%%
 # Node.js 中遇到大数处理精度丢失如何解决？前端也适用！ - 掘金
-#Omnivore #node 
+#Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/node-js-1890b4fd6cf)
 [Read Original](https://juejin.cn/post/6989754544188031006)
