@@ -1,0 +1,1 @@
+const t={key:"v-7d3bd7fd",path:"/handwritten-code/function.prototype.bind().html",title:"function.prototype.bind()",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"handwritten-code/function.prototype.bind().md",git:{updatedTime:1664266421e3}};export{t as data};
