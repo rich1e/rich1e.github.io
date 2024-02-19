@@ -1,270 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "Clash",
-      "path": "2023/Clash.md"
-=======
-      "basename": "Front-end Technology",
-      "path": "workspce/Front-end Technology.md"
->>>>>>> 321d495 (update 20240117)
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
-    },
-    {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "Front-end Technology",
-      "path": "workspce/Front-end Technology.md"
-    },
-    {
-=======
->>>>>>> 321d495 (update 20240117)
-      "basename": "mind - Attr 动态表单组件关系图",
-      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "Javascript 函数式编程指南",
-      "path": "2023/Javascript 函数式编程指南.md"
-    },
-    {
-      "basename": "Electron：WebSwapCGLLayer warning",
-      "path": "2023/Electron：WebSwapCGLLayer warning.md"
-    },
-    {
-      "basename": "Lodash",
-      "path": "2023/Lodash.md"
-    },
-    {
-      "basename": "Pasted image 20231227150401",
-      "path": "2023/meta/Pasted image 20231227150401.png"
-    },
-    {
-      "basename": "Pasted image 20231227112800",
-      "path": "2023/meta/Pasted image 20231227112800.png"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
-    },
-    {
-      "basename": "2023-06-12_Monday",
-      "path": "buckets/daily/2023-06-12_Monday.md"
-    },
-    {
-      "basename": "Windows Terminal",
-      "path": "buckets/lifestyle/Windows Terminal.md"
-=======
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "buckets/diagram/Untitled Diagram.svg"
-    },
-    {
-      "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
-    },
-    {
-      "basename": "2023-03-22_Wednesday",
-      "path": "buckets/daily/2023-03-22_Wednesday.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
->>>>>>> 321d495 (update 20240117)
-    },
-    {
-      "basename": "2022-12-05_Monday",
-      "path": "buckets/daily/2022-12-05_Monday.md"
-    },
-    {
-<<<<<<< HEAD
-=======
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
-    },
-    {
-      "basename": "Book",
-      "path": "2023/Book.md"
-    },
-    {
->>>>>>> 321d495 (update 20240117)
-      "basename": "Orca - 功能梳理和优化建议",
-      "path": "buckets/work-experience/max-optics/Orca - 功能梳理和优化建议.md"
-    },
-    {
-      "basename": "Orca - 功能流程图和时序图",
-      "path": "buckets/work-experience/max-optics/Orca - 功能流程图和时序图.md"
-    },
-    {
-      "basename": "Git",
-      "path": "buckets/learn/Git.md"
-    },
-    {
-      "basename": "全局变量设计",
-      "path": "buckets/work-experience/max-optics/全局变量设计.md"
-    },
-    {
-      "basename": "单机版启动缓慢调查",
-      "path": "2023/单机版启动缓慢调查.md"
-    },
-    {
-      "basename": "2023-05-05_Friday",
-      "path": "buckets/daily/2023-05-05_Friday.md"
-    },
-    {
-      "basename": "2023-04-25_Tuesday",
-      "path": "buckets/daily/2023-04-25_Tuesday.md"
-    },
-    {
-      "basename": "2022-12-21_Wednesday",
-      "path": "buckets/daily/2022-12-21_Wednesday.md"
-    },
-    {
-      "basename": "2023-04-10_Monday",
-      "path": "buckets/daily/2023-04-10_Monday.md"
-    },
-    {
-      "basename": "2022-10-18_Tuesday",
-      "path": "buckets/daily/2022-10-18_Tuesday.md"
-    },
-    {
-      "basename": "2023-04-26_Wednesday",
-      "path": "buckets/daily/2023-04-26_Wednesday.md"
-    },
-    {
       "basename": "BEM 命名规范",
       "path": "2023/BEM 命名规范.md"
-    },
-    {
-      "basename": "2023-06-05_Monday",
-      "path": "buckets/daily/2023-06-05_Monday.md"
-    },
-    {
-      "basename": "2023-05-12_Friday",
-      "path": "buckets/daily/2023-05-12_Friday.md"
     },
     {
       "basename": "Blog",
       "path": "2023/Blog.md"
     },
     {
-      "basename": "自建 OSS",
-      "path": "2023/自建 OSS.md"
+      "basename": "Book",
+      "path": "2023/Book.md"
     },
     {
-      "basename": "Kanban",
-      "path": "workspce/Kanban.md"
+      "basename": "Clash",
+      "path": "2023/Clash.md"
     },
     {
-<<<<<<< HEAD
-      "basename": "Untitled Diagram",
-      "path": "buckets/diagram/Untitled Diagram.svg"
+      "basename": "Electron：WebSwapCGLLayer warning",
+      "path": "2023/Electron：WebSwapCGLLayer warning.md"
     },
     {
-      "basename": "Drawing 2023-05-17 09.53.43.excalidraw",
-      "path": "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md"
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
     },
     {
-=======
->>>>>>> 321d495 (update 20240117)
-      "basename": "2023-07-14_Friday",
-      "path": "buckets/daily/2023-07-14_Friday.md"
+      "basename": "Lodash",
+      "path": "2023/Lodash.md"
     },
     {
-      "basename": "2023-01-12_Thursday",
-      "path": "buckets/daily/2023-01-12_Thursday.md"
+      "basename": "Mac & Electron 跨端开发体验",
+      "path": "2023/Mac & Electron 跨端开发体验.md"
     },
     {
-      "basename": "2023-07-13_Thursday",
-      "path": "buckets/daily/2023-07-13_Thursday.md"
+      "basename": "Mac & Vim",
+      "path": "2023/Mac & Vim.md"
     },
     {
-      "basename": "JSX & TSX",
-      "path": "buckets/learn/JSX & TSX.md"
+      "basename": "Vue3 组件库",
+      "path": "2023/Vue3 组件库.md"
     },
     {
-      "basename": "2023-05-04_Thursday",
-      "path": "buckets/daily/2023-05-04_Thursday.md"
+      "basename": "Javascript 函数式编程指南",
+      "path": "2023/Javascript 函数式编程指南.md"
     },
     {
-      "basename": "Attr - 动态表单优化",
-      "path": "buckets/work-experience/max-optics/Attr - 动态表单优化.md"
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
-      "basename": "2023-07-02_Sunday",
-      "path": "buckets/daily/2023-07-02_Sunday.md"
-    },
-    {
-      "basename": "2023-06-30_Friday",
-      "path": "buckets/daily/2023-06-30_Friday.md"
-    },
-    {
-      "basename": "2023-06-29_Thursday",
-      "path": "buckets/daily/2023-06-29_Thursday.md"
-    },
-    {
-      "basename": "2023-06-28_Wednesday",
-      "path": "buckets/daily/2023-06-28_Wednesday.md"
-    },
-    {
-      "basename": "2023-06-27_Tuesday",
-      "path": "buckets/daily/2023-06-27_Tuesday.md"
-    },
-    {
-      "basename": "2023-06-26_Monday",
-      "path": "buckets/daily/2023-06-26_Monday.md"
-<<<<<<< HEAD
-=======
-    },
-    {
-      "basename": "2023-06-25_Sunday",
-      "path": "buckets/daily/2023-06-25_Sunday.md"
-    },
-    {
-      "basename": "2023-06-20_Tuesday",
-      "path": "buckets/daily/2023-06-20_Tuesday.md"
-    },
-    {
-      "basename": "2023-06-19_Monday",
-      "path": "buckets/daily/2023-06-19_Monday.md"
-    },
-    {
-      "basename": "2023-06-16_Friday",
-      "path": "buckets/daily/2023-06-16_Friday.md"
-    },
-    {
-      "basename": "2023-06-15_Thursday",
-      "path": "buckets/daily/2023-06-15_Thursday.md"
-    },
-    {
-      "basename": "2023-06-14_Wednesday",
-      "path": "buckets/daily/2023-06-14_Wednesday.md"
->>>>>>> 321d495 (update 20240117)
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
     }
   ],
   "omittedPaths": [],

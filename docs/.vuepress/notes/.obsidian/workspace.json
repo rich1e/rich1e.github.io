@@ -4,11 +4,7 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "c1556e395f9036ae",
-=======
         "id": "2d92bc724e91c39a",
->>>>>>> 321d495 (update 20240117)
         "type": "tabs",
         "children": [
           {
@@ -18,9 +14,6 @@
               "type": "memos_view",
               "state": {}
             }
-<<<<<<< HEAD
-          },
-=======
           }
         ]
       },
@@ -28,10 +21,10 @@
         "id": "c639a624c1fc00ec",
         "type": "tabs",
         "children": [
->>>>>>> 321d495 (update 20240117)
           {
             "id": "1d4730441221c8b3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -39,93 +32,25 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-<<<<<<< HEAD
               },
               "pinned": true
             }
           },
           {
-            "id": "5a0852da4e9108a3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workspce/Daily Record.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e3530ef681c98a76",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workspce/Front-end Technology.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "09d592bfe1cb5790",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work-records/vscode-vim.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "161abe8a930740d1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023/Mac Update.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5405b928915ec511",
+            "id": "81ab4cfbcd0d0b16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/Homebrew.md",
-                "mode": "preview",
+                "file": "2023/BEM 命名规范.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6,
-        "stacked": true
-=======
-              }
-            }
-          }
-        ]
->>>>>>> 321d495 (update 20240117)
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/Homebrew.md"
+                "file": "2023/BEM 命名规范.md"
               }
             }
           }
@@ -216,12 +141,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 303.5
-=======
-    "width": 303.5,
-    "collapsed": true
->>>>>>> 321d495 (update 20240117)
   },
   "right": {
     "id": "064593a9d8021565",
@@ -238,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/Homebrew.md",
+                "file": "2023/BEM 命名规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/Homebrew.md",
+                "file": "2023/BEM 命名规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,19 +199,18 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-<<<<<<< HEAD
           },
           {
-            "id": "62c0e712e24c8304",
+            "id": "1ccd80c5485a613f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
-=======
->>>>>>> 321d495 (update 20240117)
           }
         ],
         "currentTab": 2
@@ -318,7 +237,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Timeline": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -326,116 +244,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-<<<<<<< HEAD
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5405b928915ec511",
+  "active": "81ab4cfbcd0d0b16",
   "lastOpenFiles": [
-    "HomePage.md",
-    "buckets/daily/2024-01-05_Friday.md",
-    "buckets/daily/2024-01-04_Thursday.md",
-    "buckets/daily/2024-01-02_Tuesday.md",
-    "workspce/Daily Record.md",
-    "buckets/daily/2023-12-29_Friday.md",
-    "2023/Clash.md",
-    "buckets/daily/2023-12-28_Thursday.md",
-    "2023/Mac Update.md",
-    "buckets/daily/2023-12-27_Wednesday.md",
-    "2023/Vue3 组件库.md",
-    "work-records/vscode-vim.md",
-    "workspce/Front-end Technology.md",
-    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
-    "2023/Javascript 函数式编程指南.md",
-    "2023/Homebrew.md",
-    "2023/Electron：WebSwapCGLLayer warning.md",
-    "2023/Lodash.md",
-    "2023/meta/Pasted image 20231227150401.png",
-    "2023/meta/Pasted image 20231227112800.png",
-    "2023/meta/Pasted image 20231227145849.png",
-    "2023/meta/Pasted image 20231227145107.png",
-    "2023/meta/Pasted image 20231227145051.png",
-    "2023/meta/Pasted image 20231227112830.png",
-    "meta",
-    "buckets/daily/2023-12-26_Tuesday.md",
-    "buckets/daily/2023-12-22_Friday.md",
+    "2023/Blog.md",
     "2023/Book.md",
-    "buckets/daily/2023-12-21_Thursday.md",
-    "buckets/daily/2023-12-15_Friday.md",
-    "buckets/daily/2023-12-14_Thursday.md",
-    "buckets/daily/2023-06-12_Monday.md",
-    "buckets/daily/2023-12-13_Wednesday.md",
-=======
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false
-    }
-  },
-  "active": "1d4730441221c8b3",
-  "lastOpenFiles": [
-    "workspce/Daily Record.md",
-    "workspce/Front-end Technology.md",
-    "2023/Mac Update.md",
-    "2023/Vue3 组件库.md",
-    "work-records/vscode-vim.md",
-    "HomePage.md",
-    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
-    "Untitled.canvas",
-    "buckets/diagram/Untitled Diagram.svg",
-    "buckets/excalidraw/Drawing 2023-05-17 09.53.43.excalidraw.md",
-    "buckets/daily/2023-03-22_Wednesday.md",
-    "workspce/Draft.md",
-    "buckets/daily/2023-10-06_Friday.md",
-    "buckets/daily/2023-09-28_Thursday.md",
-    "buckets/daily/2023-09-26_Tuesday.md",
-    "buckets/daily/2023-09-22_Friday.md",
-    "buckets/daily/2023-09-21_Thursday.md",
-    "buckets/daily/2022-12-05_Monday.md",
-    "buckets/daily/2023-09-20_Wednesday.md",
-    "buckets/daily/2023-09-19_Tuesday.md",
-    "buckets/daily/2023-09-15_Friday.md",
-    "buckets/daily/2023-09-12_Tuesday.md",
-    "buckets/daily/2023-09-08_Friday.md",
-    "buckets/daily/2023-09-07_Thursday.md",
-    "buckets/daily/2023-09-06_Wednesday.md",
-    "buckets/daily/2023-09-04_Monday.md",
-    "buckets/daily/2023-09-03_Sunday.md",
+    "2023/Clash.md",
+    "2023/Electron：WebSwapCGLLayer warning.md",
     "2023/Homebrew.md",
->>>>>>> 321d495 (update 20240117)
-    "buckets/daily/meta/Pasted Image 20230814165545.png",
-    "2023/meta/Pasted image 20230806194428.png",
-    "buckets/daily/meta/Pasted Image 20230726090641.png",
-    "buckets/daily/meta/Pasted Image 20230726090542.png",
-<<<<<<< HEAD
-=======
-    "buckets/daily/meta/Pasted Image 20230720173711.png",
-    "2023/meta/Pasted image 20230702140426.png",
-    "2023/meta/Pasted image 20230702140025.png",
-    "2023/meta/Pasted image 20230702135513.png",
-    "2023/meta/Pasted image 20230702135408.png",
->>>>>>> 321d495 (update 20240117)
-    "buckets/omnivore/2023-06-30",
-    "buckets/omnivore",
-    "Omnivore/2023-06-30",
-    "Omnivore",
-    "buckets/work-experience/max-optics/meta",
-    "buckts/Read Record",
-    "buckts",
-    "buckets/Read Record",
-    "buckets/books/Head First 设计模式（中文版） (Elisabeth Freeman, Eric Freeman, Bert Bates etc.) (z-lib.org).pdf",
-<<<<<<< HEAD
-    "Untitled.canvas"
-=======
-    "buckets/books/Designing Data-Intensive Applications 数据密集型应用系统设计(扫描) (Martin Kleppmann(著) 赵军平 吕云松 耿煜 李三平 (译)) (z-lib.org).pdf"
->>>>>>> 321d495 (update 20240117)
+    "2023/Lodash.md",
+    "2023/Mac & Electron 跨端开发体验.md",
+    "2023/Mac & Vim.md",
+    "2023/Vue3 组件库.md",
+    "2023/Javascript 函数式编程指南.md",
+    "2023/BEM 命名规范.md",
+    "HomePage.md",
+    "buckets/daily/2024-01-27_Saturday.md"
   ]
 }

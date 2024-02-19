@@ -2,7 +2,7 @@
  * @Author: rich1e
  * @Date: 2022-09-27 11:42:37
  * @LastEditors: rich1e
- * @LastEditTime: 2022-09-27 15:14:01
+ * @LastEditTime : 2024-02-19 22:39:59
  */
 
 // import { SidebarConfig } from "@vuepress/theme-default";
@@ -28,7 +28,11 @@ export default {
   "/javascript-note/": [
     {
       text: "JavaScript 笔记",
-      children: ["/javascript-note/JavaScript继承.md", "/javascript-note/for-in-for-of.md"],
+      children: [
+        "/javascript-note/Object.prototype.__proto__.md",
+        "/javascript-note/JavaScript继承.md",
+        "/javascript-note/for-in-for-of.md"
+      ],
     },
   ],
   "/handwritten-code/": [
@@ -36,7 +40,6 @@ export default {
       text: "手写代码",
       collapsible: true,
       children: [
-        "/handwritten-code/Object.prototype.__proto__.md",
         "/handwritten-code/Object.create().md",
         "/handwritten-code/Promise.md",
         "/handwritten-code/function.prototype.apply().md",
