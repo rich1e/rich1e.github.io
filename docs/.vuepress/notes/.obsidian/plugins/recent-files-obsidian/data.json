@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "BEM 命名规范",
       "path": "2023/BEM 命名规范.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Javascript 函数式编程指南",
       "path": "2023/Javascript 函数式编程指南.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Mac Update",

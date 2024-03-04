@@ -11,11 +11,13 @@
 
 ## JS 原生实现原理
 
-- function.prototype.call()
-- function.prototype.apply()
-- function.prototype.bind()
-- new
-- instanceof
+- [Object.create()](/handwritten-code/Object.create().md)
+- [Promise](/handwritten-code/Promise.md)
+- [function.prototype.apply()](/handwritten-code/function.prototype.apply().md)
+- [function.prototype.bind()](/handwritten-code/function.prototype.bind().md)
+- [function.prototype.call()](/handwritten-code/function.prototype.call().md)
+- [instanceof](/handwritten-code/instanceof.md)
+- [new](/handwritten-code/new.md)
 
 ## 常见工具方法
 

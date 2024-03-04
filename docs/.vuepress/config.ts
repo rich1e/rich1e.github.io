@@ -143,6 +143,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
             text: "LeetCode",
             link: "/leetcode/",
           },
+          {
+            text: "Web Development",
+            link: "/web-development/",
+          },
           "/workspace/README.md",
         ],
       },

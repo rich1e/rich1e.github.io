@@ -2,7 +2,7 @@
  * @Author: rich1e
  * @Date: 2022-09-27 11:42:37
  * @LastEditors: rich1e
- * @LastEditTime : 2024-02-19 22:39:59
+ * @LastEditTime : 2024-03-04 12:44:03
  */
 
 // import { SidebarConfig } from "@vuepress/theme-default";
@@ -60,6 +60,15 @@ export default {
       ],
     },
   ],
+  "/web-development/": [
+    {
+      text: "Web Development",
+      children: [
+        "/web-development/cookies-vs-sessions.md",
+        "/web-development/caching-mechanism.md",
+      ]
+    }
+  ]
   // "/workspace/": [
   //   {
   //     text: "Workspace",
