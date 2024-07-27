@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d42c4a30e27d0200",
+            "id": "08af2ad3388c732b",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +165,28 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "1ccd80c5485a613f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d3f5b3164cec6678",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HomePage.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -182,39 +205,48 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-memos:Thino": false
+      "obsidian-memos:Thino": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d42c4a30e27d0200",
+  "active": "08af2ad3388c732b",
   "lastOpenFiles": [
     "buckets/daily/2024-07-27_Saturday.md",
-    "workspce/Mobile Development.md",
-    "2023/Electron：WebSwapCGLLayer warning.md",
-    "Untitled 1.canvas",
+    "buckets/daily/2024-07-25_Thursday.md",
+    "buckets/daily/2024-07-22_Monday.md",
+    "buckets/daily/2024-07-21_Sunday.md",
+    "buckets/daily/2024-07-18_Thursday.md",
+    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
+    "work-records/vscode-vim.md",
+    "2024/深入浅出 Greasemonkey.md",
+    "2024/2024 手机模拟器游戏火热🔥.md",
+    "软件安装对话框截图.md",
+    "警告.md",
+    "buckets/daily/2024-07-17_Wednesday.md",
+    "buckets/daily/2024-07-14_Sunday.md",
+    "buckets/daily/2024-07-07_Sunday.md",
+    "buckets/daily/2024-07-04_Thursday.md",
+    "buckets/daily/2024-07-03_Wednesday.md",
+    "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
+    "buckets/daily/2024-07-02_Tuesday.md",
+    "buckets/daily/2024-06-26_Wednesday.md",
+    "buckets/daily/2024-06-25_Tuesday.md",
+    "buckets/daily/2024-06-24_Monday.md",
+    "buckets/daily/2024-06-21_Friday.md",
+    "buckets/daily/2024-06-20_Thursday.md",
+    "buckets/daily/2024-06-16_Sunday.md",
+    "2024",
+    "buckets/daily/2024-06-15_Saturday.md",
+    "buckets/daily/2024-06-12_Wednesday.md",
+    "buckets/daily/2024-06-09_Sunday.md",
+    "buckets/daily/meta/Pasted Image 20240426183342.png",
     "Untitled.canvas",
-    "2023/Mac Update.md",
-    "workspce/Daily Record.md",
+    "buckets/daily/meta/Pasted Image 20240331195207.png",
     "buckets/daily/meta/Pasted Image 20240304113334.png",
     "buckets/daily/meta/Pasted Image 20240304113334.jpg",
     "buckets/daily/meta/Pasted Image 20240304114126.png",
     "buckets/daily/meta/Pasted Image 20240304104009.png",
-    "HomePage.md",
-    "buckets/daily/meta/Pasted Image 20240304102046.png",
-    "buckets/daily/2024-03-04_Monday.md",
-    "buckets/daily/2024-02-20_Tuesday.md",
-    "2023/Blog.md",
-    "2023/Book.md",
-    "2023/Clash.md",
-    "2023/Homebrew.md",
-    "2023/Lodash.md",
-    "2023/Mac & Electron 跨端开发体验.md",
-    "2023/Mac & Vim.md",
-    "2023/Vue3 组件库.md",
-    "2023/Javascript 函数式编程指南.md",
-    "2023/BEM 命名规范.md",
-    "buckets/daily/2024-01-27_Saturday.md"
+    "buckets/daily/meta/Pasted Image 20240304102046.png"
   ]
 }

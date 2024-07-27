@@ -21,6 +21,78 @@
       "path": "HomePage.md"
     },
     {
+      "basename": "Mobile Development",
+      "path": "workspce/Mobile Development.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
+      "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
+    },
+    {
+      "basename": "深入浅出 Greasemonkey",
+      "path": "2024/深入浅出 Greasemonkey.md"
+    },
+    {
+      "basename": "2024 手机模拟器游戏火热🔥",
+      "path": "2024/2024 手机模拟器游戏火热🔥.md"
+    },
+    {
+      "basename": "Homebrew",
+      "path": "2023/Homebrew.md"
+    },
+    {
+      "basename": "当下还有人知道 buble 吗？",
+      "path": "frontend/当下还有人知道 buble 吗？.md"
+    },
+    {
+      "basename": "混合开发",
+      "path": "frontend/混合开发.md"
+    },
+    {
+      "basename": "前端代码构建部署",
+      "path": "frontend/前端代码构建部署.md"
+    },
+    {
+      "basename": "前端工程自动化实践-文档篇",
+      "path": "frontend/前端工程自动化实践-文档篇.md"
+    },
+    {
+      "basename": "前端监控",
+      "path": "frontend/前端监控.md"
+    },
+    {
+      "basename": "前端数据请求方式",
+      "path": "frontend/前端数据请求方式.md"
+    },
+    {
+      "basename": "git-blame",
+      "path": "work-records/git-blame.md"
+    },
+    {
+      "basename": "Archives File",
+      "path": "workspce/Archives File.md"
+    },
+    {
+      "basename": "Buckets",
+      "path": "workspce/Buckets.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "2023-03-22_Wednesday",
+      "path": "buckets/daily/2023-03-22_Wednesday.md"
+    },
+    {
       "basename": "BEM 命名规范",
       "path": "2023/BEM 命名规范.md"
     },
@@ -37,8 +109,8 @@
       "path": "2023/Clash.md"
     },
     {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
+      "basename": "Electron：WebSwapCGLLayer warning",
+      "path": "2023/Electron：WebSwapCGLLayer warning.md"
     },
     {
       "basename": "Lodash",
