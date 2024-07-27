@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2d92bc724e91c39a",
+        "id": "7a34dbec6e57d0eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4a08f26ea2782e99",
+            "id": "d42c4a30e27d0200",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
+              "type": "thino_view",
               "state": {}
             }
           }
@@ -27,7 +27,7 @@
       {
         "id": "7ecb84c18b19b196",
         "type": "tabs",
-        "dimension": 55.52486187845304,
+        "dimension": 28.410372040586243,
         "children": [
           {
             "id": "d9995859cf1212a3",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "duplicate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,12 +70,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8607dfc46dce05dc",
         "type": "tabs",
-        "dimension": 44.47513812154696,
+        "dimension": 40.022547914317926,
         "children": [
           {
             "id": "7d2705af45226db7",
@@ -86,10 +87,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "2e722310acc52202",
+        "type": "tabs",
+        "dimension": 31.567080045095828,
+        "children": [
+          {
+            "id": "47a0b26365126ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "workspce/Mobile Development.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 270.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -98,7 +116,6 @@
       {
         "id": "0ce6debe408e99df",
         "type": "tabs",
-        "dimension": 51.79119754350051,
         "children": [
           {
             "id": "ad3946728bac7730",
@@ -106,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "workspce/Mobile Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "workspce/Mobile Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,49 +164,13 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "1ccd80c5485a613f",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "d3f5b3164cec6678",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "99022f2b9cdd4d81",
-        "type": "tabs",
-        "dimension": 48.20880245649949,
-        "children": [
-          {
-            "id": "993b8743a6a39edf",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +183,20 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "4a08f26ea2782e99",
+  "active": "d42c4a30e27d0200",
   "lastOpenFiles": [
+    "buckets/daily/2024-07-27_Saturday.md",
+    "workspce/Mobile Development.md",
+    "2023/Electron：WebSwapCGLLayer warning.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023/Mac Update.md",
+    "workspce/Daily Record.md",
     "buckets/daily/meta/Pasted Image 20240304113334.png",
     "buckets/daily/meta/Pasted Image 20240304113334.jpg",
     "buckets/daily/meta/Pasted Image 20240304114126.png",
@@ -216,7 +208,6 @@
     "2023/Blog.md",
     "2023/Book.md",
     "2023/Clash.md",
-    "2023/Electron：WebSwapCGLLayer warning.md",
     "2023/Homebrew.md",
     "2023/Lodash.md",
     "2023/Mac & Electron 跨端开发体验.md",

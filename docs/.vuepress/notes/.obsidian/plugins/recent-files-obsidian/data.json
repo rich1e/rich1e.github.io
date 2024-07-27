@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Mobile Development",
+      "path": "workspce/Mobile Development.md"
+    },
+    {
+      "basename": "Electron：WebSwapCGLLayer warning",
+      "path": "2023/Electron：WebSwapCGLLayer warning.md"
+    },
+    {
+      "basename": "Mac Update",
+      "path": "2023/Mac Update.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
       "basename": "HomePage",
       "path": "HomePage.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "Clash",
       "path": "2023/Clash.md"
-    },
-    {
-      "basename": "Electron：WebSwapCGLLayer warning",
-      "path": "2023/Electron：WebSwapCGLLayer warning.md"
     },
     {
       "basename": "Homebrew",
@@ -47,10 +59,6 @@
     {
       "basename": "Javascript 函数式编程指南",
       "path": "2023/Javascript 函数式编程指南.md"
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
     }
   ],
   "omittedPaths": [],
