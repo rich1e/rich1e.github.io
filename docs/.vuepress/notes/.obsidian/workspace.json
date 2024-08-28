@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "7a34dbec6e57d0eb",
+        "id": "62651b71ae04b9e4",
         "type": "tabs",
         "children": [
           {
-            "id": "08af2ad3388c732b",
+            "id": "189babb110e8c5ec",
             "type": "leaf",
             "state": {
               "type": "thino_view",
               "state": {}
             }
+          },
+          {
+            "id": "64b5cf84fd47a2e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "buckets/work-experience/360/360.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duplicate",
+                "query": "git auto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8607dfc46dce05dc",
@@ -99,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Mobile Development.md"
+                "file": "buckets/work-experience/360/360.md"
               }
             }
           }
@@ -107,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "buckets/work-experience/360/360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "buckets/work-experience/360/360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "buckets/work-experience/360/360.md"
               }
             }
           }
@@ -193,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +224,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "08af2ad3388c732b",
+  "active": "64b5cf84fd47a2e9",
   "lastOpenFiles": [
+    "workspce/Mobile Development.md",
+    "buckets/daily/2024-02-20_Tuesday.md",
+    "buckets/daily/2024-08-28_Wednesday.md",
     "buckets/daily/2024-07-27_Saturday.md",
     "buckets/daily/2024-07-25_Thursday.md",
     "buckets/daily/2024-07-22_Monday.md",
@@ -237,9 +254,6 @@
     "buckets/daily/2024-06-20_Thursday.md",
     "buckets/daily/2024-06-16_Sunday.md",
     "2024",
-    "buckets/daily/2024-06-15_Saturday.md",
-    "buckets/daily/2024-06-12_Wednesday.md",
-    "buckets/daily/2024-06-09_Sunday.md",
     "buckets/daily/meta/Pasted Image 20240426183342.png",
     "Untitled.canvas",
     "buckets/daily/meta/Pasted Image 20240331195207.png",

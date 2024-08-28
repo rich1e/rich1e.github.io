@@ -22,6 +22,7 @@
   "AppendDateWhenTaskDone": false,
   "MobileAndDesktop": "All",
   "OpenMemosAutomatically": true,
+  "ShowScrollbar": false,
   "ShowTime": true,
   "ShowDate": true,
   "AddBlankLineWhenDate": false,
@@ -85,7 +86,7 @@
   "MomentsIcon": "https://images.pexels.com/photos/256514/pexels-photo-256514.jpeg",
   "MomentsQuote": "Share your thino with the world",
   "DefaultThemeForThino": "modern",
-  "LastUpdatedVersion": "2.4.49",
+  "LastUpdatedVersion": "2.4.53",
   "ShareToThinoWithText": false,
   "ShareToThinoWithTextAppend": "",
   "ShareToThinoWithTextPrepend": "",
@@ -114,5 +115,6 @@
   "AlwaysShowStatusText": false,
   "FilterByMetadata": false,
   "ShowSourcePath": false,
-  "ShowUpdateMessage": true
+  "ShowUpdateMessage": true,
+  "SyncManually": false
 }

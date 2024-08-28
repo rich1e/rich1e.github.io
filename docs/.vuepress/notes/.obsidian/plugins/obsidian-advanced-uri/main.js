@@ -3685,7 +3685,11 @@ var Handlers = class {
         workspaces.saveWorkspace(active);
         new import_obsidian7.Notice(`Saved current workspace to ${active}`);
       }
-      if (parameters.workspace != void 0) {
+      if (parameters.clipboard && parameters.clipboard != "false") {
+        this.tools.copyURI({
+          workspace: workspaces.activeWorkspace
+        });
+      } else if (parameters.workspace != void 0) {
         workspaces.loadWorkspace(parameters.workspace);
       }
       this.plugin.success(parameters);
@@ -3726,7 +3730,7 @@ var Handlers = class {
             editor.setValue("");
           }
         }
-      } else if (parameters.line) {
+      } else if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.open({
           file: parameters.filepath,
           mode: "source",
@@ -3740,6 +3744,10 @@ var Handlers = class {
           parameters
         });
       }
+    } else if (parameters.openmode || parameters.viewmode) {
+      await this.plugin.open({
+        parameters
+      });
     }
     if (parameters.commandid) {
       this.app.commands.executeCommandById(parameters.commandid);
@@ -3748,12 +3756,21 @@ var Handlers = class {
       for (const command in rawCommands) {
         if (rawCommands[command].name === parameters.commandname) {
           if (rawCommands[command].callback) {
-            rawCommands[command].callback();
+            await rawCommands[command].callback();
           } else {
             rawCommands[command].checkCallback(false);
           }
           break;
         }
+      }
+    }
+    if (parameters.confirm && parameters.confirm != "false") {
+      await new Promise((r) => setTimeout(r, 750));
+      const button = document.querySelector(
+        ".mod-cta:not([style*='display: none'])"
+      );
+      if (button.click instanceof Function) {
+        button.click();
       }
     }
     this.plugin.success(parameters);
@@ -3793,7 +3810,7 @@ var Handlers = class {
             editor.setValue("");
           }
         }
-      } else if (parameters.line) {
+      } else if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.open({
           file: parameters.filepath,
           mode: "source",
@@ -3979,7 +3996,7 @@ var Handlers = class {
         setting: this.plugin.settings.openFileWithoutWriteInNewPane,
         parameters
       });
-      if (parameters.line != void 0) {
+      if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.setCursorInLine(parameters);
       }
     }
@@ -4083,7 +4100,7 @@ var Handlers = class {
   }
   async handleUpdatePlugins(parameters) {
     new import_obsidian7.Notice("Checking for updates\u2026");
-    await app.plugins.checkForUpdates();
+    await this.app.plugins.checkForUpdates();
     const updateCount = Object.keys(this.app.plugins.updates).length;
     if (updateCount > 0) {
       parameters.settingid = "community-plugins";
@@ -4103,6 +4120,61 @@ var Handlers = class {
       openMode = parameters.openmode;
     }
     bookmarksPlugin.openBookmark(bookmark, openMode);
+  }
+  async handleCanvas(parameters) {
+    if (parameters.filepath) {
+      await this.plugin.open({
+        file: parameters.filepath,
+        setting: this.plugin.settings.openFileWithoutWriteInNewPane,
+        parameters
+      });
+    }
+    const activeView = this.app.workspace.activeLeaf.view;
+    if (activeView.getViewType() != "canvas") {
+      new import_obsidian7.Notice("Active view is not a canvas");
+      return;
+    }
+    const canvasView = activeView;
+    if (parameters.canvasnodes) {
+      const ids = parameters.canvasnodes.split(",");
+      const nodes = canvasView.canvas.nodes;
+      const selectedNodes = ids.map((id) => nodes.get(id));
+      const selection = canvasView.canvas.selection;
+      canvasView.canvas.updateSelection(() => {
+        for (const node of selectedNodes) {
+          selection.add(node);
+        }
+      });
+      canvasView.canvas.zoomToSelection();
+    }
+    if (parameters.canvasviewport) {
+      const [x, y, zoom] = parameters.canvasviewport.split(",");
+      if (x != "-") {
+        if (x.startsWith("--") || x.startsWith("++")) {
+          const tx = canvasView.canvas.tx + Number(x.substring(1));
+          canvasView.canvas.tx = tx;
+        } else {
+          canvasView.canvas.tx = Number(x);
+        }
+      }
+      if (y != "-") {
+        if (y.startsWith("--") || y.startsWith("++")) {
+          const ty = canvasView.canvas.ty + Number(y.substring(1));
+          canvasView.canvas.ty = ty;
+        } else {
+          canvasView.canvas.ty = Number(y);
+        }
+      }
+      if (zoom != "-") {
+        if (zoom.startsWith("--") || zoom.startsWith("++")) {
+          const tZoom = canvasView.canvas.tZoom + Number(zoom.substring(1));
+          canvasView.canvas.tZoom = tZoom;
+        } else {
+          canvasView.canvas.tZoom = Number(zoom);
+        }
+      }
+      canvasView.canvas.markViewportChanged();
+    }
   }
 };
 
@@ -4598,6 +4670,46 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
         modal.open();
       }
     });
+    this.addCommand({
+      id: "copy-uri-canvas-node",
+      name: "Copy URI for selected canvas nodes",
+      checkCallback: (checking) => {
+        const activeView = this.app.workspace.activeLeaf.view;
+        if (checking) {
+          return activeView.getViewType() === "canvas" && activeView.canvas.selection.size > 0;
+        }
+        if (activeView.getViewType() !== "canvas")
+          return false;
+        const canvasView = activeView;
+        let ids = [];
+        canvasView.canvas.selection.forEach((node) => {
+          ids.push(node.id);
+        });
+        this.tools.copyURI({
+          canvasnodes: ids.join(","),
+          filepath: activeView.file.path
+        });
+      }
+    });
+    this.addCommand({
+      id: "copy-uri-canvas-viewport",
+      name: "Copy URI for current canvas viewport",
+      checkCallback: (checking) => {
+        const activeView = this.app.workspace.activeLeaf.view;
+        if (checking) {
+          return activeView.getViewType() === "canvas";
+        }
+        if (activeView.getViewType() !== "canvas")
+          return false;
+        const canvasView = activeView;
+        const canvas = canvasView.canvas;
+        const tx = canvas.tx.toFixed(0), ty = canvas.ty.toFixed(0), tZoom = canvas.tZoom.toFixed(3);
+        this.tools.copyURI({
+          filepath: activeView.file.path,
+          canvasviewport: `${tx},${ty},${tZoom}`
+        });
+      }
+    });
     this.registerObsidianProtocolHandler("advanced-uri", async (e) => {
       var _a, _b, _c;
       const parameters = e;
@@ -4691,7 +4803,6 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
     );
     this.registerEvent(
       this.app.workspace.on("file-menu", (menu, file, source) => {
-        console.log(source);
         if (!(source === "more-options" || source === "tab-header" || source == "file-explorer-context-menu")) {
           return;
         }
@@ -4721,6 +4832,8 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
       this.handlers.handleEval(parameters);
     } else if (parameters.filepath && parameters.exists === "true") {
       this.handlers.handleDoesFileExist(parameters);
+    } else if (parameters.canvasnodes || parameters.canvasviewport) {
+      this.handlers.handleCanvas(parameters);
     } else if (parameters.data) {
       this.handlers.handleWrite(parameters, createdDailyNote);
     } else if (parameters.filepath && parameters.heading) {
@@ -4889,7 +5002,7 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
         setting: this.settings.openFileOnWriteInNewPane,
         parameters
       });
-      if (parameters.line != void 0) {
+      if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.setCursorInLine(parameters);
       }
     }
@@ -4901,6 +5014,7 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
     supportPopover,
     mode
   }) {
+    let leaf;
     if (parameters.openmode == "popover" && (supportPopover != null ? supportPopover : true)) {
       const hoverEditor = this.app.plugins.plugins["obsidian-hover-editor"];
       if (!hoverEditor) {
@@ -4909,18 +5023,12 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
         );
         this.failure(parameters);
       }
-      const leaf = hoverEditor.spawnPopover(void 0, () => {
-        this.app.workspace.setActiveLeaf(leaf, { focus: true });
+      await new Promise((resolve) => {
+        leaf = hoverEditor.spawnPopover(void 0, () => {
+          this.app.workspace.setActiveLeaf(leaf, { focus: true });
+          resolve();
+        });
       });
-      let tFile;
-      if (file instanceof import_obsidian14.TFile) {
-        tFile = file;
-      } else {
-        tFile = this.app.vault.getAbstractFileByPath(
-          (0, import_obsidian14.getLinkpath)(file)
-        );
-      }
-      await leaf.openFile(tFile);
     } else {
       let openMode = setting;
       if (parameters.newpane !== void 0) {
@@ -4931,6 +5039,7 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
           openMode = parameters.openmode == "true";
         } else if (parameters.openmode == "popover") {
           openMode = false;
+        } else if (import_obsidian14.Platform.isMobile && parameters.openmode == "window") {
         } else {
           openMode = parameters.openmode;
         }
@@ -4941,25 +5050,51 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
       if (import_obsidian14.Platform.isMobileApp && openMode == "window") {
         openMode = true;
       }
-      let fileIsAlreadyOpened = false;
-      if (isBoolean(openMode)) {
-        this.app.workspace.iterateAllLeaves((leaf) => {
-          var _a;
-          if (((_a = leaf.view.file) == null ? void 0 : _a.path) === parameters.filepath) {
-            if (fileIsAlreadyOpened && leaf.width == 0)
-              return;
-            fileIsAlreadyOpened = true;
-            this.app.workspace.setActiveLeaf(leaf, { focus: true });
-          }
-        });
+      if (file != void 0) {
+        let fileIsAlreadyOpened = false;
+        if (isBoolean(openMode)) {
+          this.app.workspace.iterateAllLeaves((existingLeaf) => {
+            var _a;
+            if (((_a = existingLeaf.view.file) == null ? void 0 : _a.path) === parameters.filepath) {
+              if (fileIsAlreadyOpened && existingLeaf.width == 0)
+                return;
+              fileIsAlreadyOpened = true;
+              this.app.workspace.setActiveLeaf(existingLeaf, {
+                focus: true
+              });
+              leaf = existingLeaf;
+            }
+          });
+        }
       }
-      return this.app.workspace.openLinkText(
-        file instanceof import_obsidian14.TFile ? file.path : file,
+      if (!leaf) {
+        leaf = this.app.workspace.getLeaf(openMode);
+        this.app.workspace.setActiveLeaf(leaf, { focus: true });
+      }
+    }
+    if (file instanceof import_obsidian14.TFile) {
+      await leaf.openFile(file);
+    } else if (file != void 0) {
+      await this.app.workspace.openLinkText(
+        file,
         "/",
-        fileIsAlreadyOpened ? false : openMode,
+        false,
         mode != void 0 ? { state: { mode } } : getViewStateFromMode(parameters)
       );
     }
+    if (leaf.view instanceof import_obsidian14.MarkdownView) {
+      const viewState = leaf.getViewState();
+      if (mode != void 0) {
+        viewState.state.mode = mode;
+      } else {
+        viewState.state = {
+          ...viewState.state,
+          ...getViewStateFromMode(parameters).state
+        };
+      }
+      await leaf.setViewState(viewState);
+    }
+    return leaf;
   }
   async setCursor(parameters) {
     const view = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
@@ -4985,19 +5120,36 @@ var AdvancedURI = class extends import_obsidian14.Plugin {
     }
   }
   async setCursorInLine(parameters) {
-    const rawLine = Number(parameters.line);
     const view = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
     if (!view)
       return;
     const viewState = view.leaf.getViewState();
+    const rawLine = parameters.line != void 0 ? Number(parameters.line) : void 0;
+    const rawColumn = parameters.column ? Number(parameters.column) : void 0;
     viewState.state.mode = "source";
     await view.leaf.setViewState(viewState);
-    const line = Math.min(rawLine - 1, view.editor.lineCount() - 1);
+    let line, column;
+    if (parameters.offset != void 0) {
+      const pos = view.editor.offsetToPos(Number(parameters.offset));
+      line = pos.line;
+      column = pos.ch;
+    } else {
+      line = rawLine != void 0 ? Math.min(rawLine - 1, view.editor.lineCount() - 1) : view.editor.getCursor().line;
+      const maxColumn = view.editor.getLine(line).length - 1;
+      column = Math.min(rawColumn - 1, maxColumn);
+    }
     view.editor.focus();
     view.editor.setCursor({
       line,
-      ch: view.editor.getLine(line).length
+      ch: column
     });
+    view.editor.scrollIntoView(
+      {
+        from: { line, ch: column },
+        to: { line, ch: column }
+      },
+      true
+    );
     await new Promise((resolve) => setTimeout(resolve, 10));
     if (parameters.viewmode == "preview") {
       viewState.state.mode = "preview";

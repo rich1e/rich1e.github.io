@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "360",
+      "path": "buckets/work-experience/360/360.md"
+    },
+    {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
+    },
+    {
+      "basename": "2024-02-20_Tuesday",
+      "path": "buckets/daily/2024-02-20_Tuesday.md"
     },
     {
       "basename": "Electron：WebSwapCGLLayer warning",
@@ -19,10 +27,6 @@
     {
       "basename": "HomePage",
       "path": "HomePage.md"
-    },
-    {
-      "basename": "Mobile Development",
-      "path": "workspce/Mobile Development.md"
     },
     {
       "basename": "vscode-vim",
