@@ -118,6 +118,27 @@ VS Code 中的样子，
 
 ![image-20221114091501](@images\workspace\terminal-config\image-20221114091503.png)
 
+## Update 2024-08-28
+
+Windows for VSCode 配置，[^8] [^9] [^10] [^11] [^12]
+
+```json
+{
+  "terminal.integrated.profiles.windows": {
+    "my-pwsh": {
+      "source": "PowerShell",
+      "icon": "symbol-event",
+      "args": [
+        "-noexit",
+        "-file",
+        "${env:USERPROFILE}\\Documents\\WindowsPowerShell\\Microsoft.PowerShell_profile.ps1"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "my-pwsh",
+}
+```
+
 [^1]: [Getting Started - Spaceship](https://spaceship-prompt.sh/getting-started/)
 [^2]: [powerline/fonts: Patched fonts for Powerline users.](https://github.com/powerline/fonts)
 [^3]: [Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/font-downloads)
@@ -125,3 +146,9 @@ VS Code 中的样子，
 [^5]: [VSCode terminal.integrated.shell.osx 屬性失效 | 是 Ray 不是 Array](https://israynotarray.com/vscode/20210927/2674618084/)
 [^6]: [VSCode 设置终端字体 nerd font_Chris-2021 的博客-CSDN 博客](https://blog.csdn.net/m0_37169880/article/details/114262312)
 [^7]: [如何在 Mac 上安装和移除字体 - 官方 Apple 支持 (中国)](https://support.apple.com/zh-cn/HT201749)
+[^8]: [Terminal Profiles in Visual Studio Code](https://code.visualstudio.com/docs/terminal/profiles)
+[^9]: [Visual Studio Code Variables Reference](https://code.visualstudio.com/docs/editor/variables-reference#_predefined-variables)
+[^10]: [VSCode terminal.integrated.shell.osx 屬性失效 | 是 Ray 不是 Array](https://israynotarray.com/vscode/20210927/2674618084/)
+[^11]: [about Environment Variables - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_environment_variables?view=powershell-7.4)
+[^12]: [windows - Is There A System Defined Environment Variable For Documents Directory? - Stack Overflow](https://stackoverflow.com/questions/3492920/is-there-a-system-defined-environment-variable-for-documents-directory)
+
