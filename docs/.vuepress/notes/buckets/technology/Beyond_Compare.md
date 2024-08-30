@@ -62,7 +62,7 @@ git config --global difftool.prompt false
 
     [user]
         name = richie
-        email = GONGYUQI487@example.com.cn
+        email = your-name@example.com.cn
     [difftool "meld"]
         path = /usr/local/bin/meld
         trustExitCode = false

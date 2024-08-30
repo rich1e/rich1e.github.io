@@ -2,6 +2,7 @@
 title: macOS 支持 NTFS 文件系统的若干方案
 date: 2022-08-13
 permalinkPattern: :year/:month/:day/:slug.html
+permalink: /workspace/macos-supports-several-solutions-for-the-ntfs-file-system
 ---
 
 <!--

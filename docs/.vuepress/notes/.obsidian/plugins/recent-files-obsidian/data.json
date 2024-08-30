@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "360",
-      "path": "buckets/work-experience/360/360.md"
-    },
-    {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
     },
     {
+      "basename": "Beyond_Compare",
+      "path": "buckets/technology/Beyond_Compare.md"
+    },
+    {
+      "basename": "Beyond_Compare_Use",
+      "path": "buckets/technology/Beyond_Compare_Use.md"
+    },
+    {
+      "basename": "2024-08-30_Friday",
+      "path": "buckets/daily/2024-08-30_Friday.md"
+    },
+    {
+      "basename": "360",
+      "path": "buckets/work-experience/360/360.md"
+    },
+    {
       "basename": "2024-02-20_Tuesday",
       "path": "buckets/daily/2024-02-20_Tuesday.md"
+    },
+    {
+      "basename": "vscode-vim-surround",
+      "path": "work-records/vscode-vim-surround.md"
     },
     {
       "basename": "Electron：WebSwapCGLLayer warning",

@@ -42,3 +42,23 @@ uuid: <% tp.user.get_guid() %>
   [nrm 使用详解nrm（NPM registry manager）是 npm 的镜像源管理工具，使用它可以快速切换 np - 掘金](https://juejin.cn/post/6931597891182002183)
   [node.js - npm配置镜像、设置代理 - MockingBird 博客 - SegmentFault 思否](https://segmentfault.com/a/1190000002589144)
   #powershell #scoop  
+- 17:03 
+  提交代码的时候，不同系统（Linux/UNIX/Windows）的换行符不一样。建议关闭检查，统一在项目和IDE中处理。
+  
+  Ref
+  
+  [让你搞懂怎么解决LF、CRLF问题LF will be replaced by CRLF the next time Git touched it - 掘金](https://juejin.cn/post/7206749400171872315)
+  [Git中的“LF will be replaced by CRLF”警告详解_git lf will be replace by crlf-CSDN博客](https://blog.csdn.net/taiyangdao/article/details/78629107)
+  
+  #git  
+- 17:05 
+  [registry.nlark.com 域名异常问题早上刚到工位，企业微信炸锅了。前端反馈构建失败，于是我火急火燎的打开j - 掘金](https://juejin.cn/post/7368820207592325129)
+  [求助一个自定义引擎时，npm install无法拉下来的问题 - Creator 3.x - Cocos中文社区](https://forum.cocos.org/t/topic/158954)
+  
+  #npm-error 
+- 17:11 
+  [使用 npm 稽核增強項目安全性 - Azure Artifacts | Microsoft Learn](https://learn.microsoft.com/zh-tw/azure/devops/artifacts/npm/npm-audit?view=azure-devops&tabs=classic)
+  [深入了解npm audit与npm audit fix：安全漏洞的扫描与修复-百度开发者中心](https://developer.baidu.com/article/details/2750399)
+  [为什么 npm install 的时候会显示严重漏洞当我们在 npm install 安装项目依赖的时候，经常看到下图提 - 掘金](https://juejin.cn/post/6844903983266398221)
+  
+  #npm-command 

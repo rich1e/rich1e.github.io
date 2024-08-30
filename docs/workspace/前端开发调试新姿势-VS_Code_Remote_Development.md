@@ -1,18 +1,19 @@
 ---
-title: qdkftsxzs
+title: 前端开发调试新姿势 - VSCode Remote Development
 date: 2022-06-24
 permalinkPattern: :year/:month/:day/:slug.html
+permalink: /workspace/new-approach-to-front-end-development-and-debugging
 ---
 
 <!--
  * @Author: rich1e
- * @Title: qdkftsxzs
+ * @Title: 前端开发调试新姿势 - VSCode Remote Development
  * @Date: 2022-06-24 14:39:38
  * @LastEditors: rich1e
  * @LastEditTime: 2022-06-25 20:02:08
 -->
 
-# 前端开发调试新姿势 - VS Code Remote Development
+# 前端开发调试新姿势 - VSCode Remote Development
 
 [[TOC]]
 

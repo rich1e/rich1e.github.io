@@ -14,22 +14,8 @@
               "type": "thino_view",
               "state": {}
             }
-          },
-          {
-            "id": "64b5cf84fd47a2e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "buckets/work-experience/360/360.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git auto",
+                "query": "beyond com",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8607dfc46dce05dc",
@@ -113,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/work-experience/360/360.md"
+                "file": "workspce/Mobile Development.md"
               }
             }
           }
@@ -137,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buckets/work-experience/360/360.md",
+                "file": "workspce/Mobile Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buckets/work-experience/360/360.md",
+                "file": "workspce/Mobile Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buckets/work-experience/360/360.md"
+                "file": "workspce/Mobile Development.md"
               }
             }
           }
@@ -220,15 +205,22 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-memos:Thino": false,
-      "periodic-notes:Open today": false
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "64b5cf84fd47a2e9",
+  "active": "189babb110e8c5ec",
   "lastOpenFiles": [
+    "workspce/meta/Pasted image 20240830164838.png",
+    "workspce/meta/Pasted image 20240830164648.png",
     "workspce/Mobile Development.md",
+    "buckets/technology/Beyond_Compare.md",
+    "buckets/technology/Beyond_Compare_Use.md",
+    "buckets/daily/2024-08-30_Friday.md",
+    "buckets/daily/2024-08-29_Thursday.md",
+    "buckets/work-experience/360/360.md",
     "buckets/daily/2024-02-20_Tuesday.md",
     "buckets/daily/2024-08-28_Wednesday.md",
+    "buckets/daily/2024-08-29_Thursday.md",
     "buckets/daily/2024-07-27_Saturday.md",
     "buckets/daily/2024-07-25_Thursday.md",
     "buckets/daily/2024-07-22_Monday.md",
@@ -236,26 +228,15 @@
     "buckets/daily/2024-07-18_Thursday.md",
     "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
     "work-records/vscode-vim.md",
-    "2024/深入浅出 Greasemonkey.md",
-    "2024/2024 手机模拟器游戏火热🔥.md",
-    "软件安装对话框截图.md",
-    "警告.md",
     "buckets/daily/2024-07-17_Wednesday.md",
     "buckets/daily/2024-07-14_Sunday.md",
     "buckets/daily/2024-07-07_Sunday.md",
     "buckets/daily/2024-07-04_Thursday.md",
     "buckets/daily/2024-07-03_Wednesday.md",
     "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
-    "buckets/daily/2024-07-02_Tuesday.md",
-    "buckets/daily/2024-06-26_Wednesday.md",
-    "buckets/daily/2024-06-25_Tuesday.md",
-    "buckets/daily/2024-06-24_Monday.md",
-    "buckets/daily/2024-06-21_Friday.md",
-    "buckets/daily/2024-06-20_Thursday.md",
-    "buckets/daily/2024-06-16_Sunday.md",
-    "2024",
+    "buckets/daily/2024-06-15_Saturday.md",
+    "buckets/daily/2024-06-12_Wednesday.md",
     "buckets/daily/meta/Pasted Image 20240426183342.png",
-    "Untitled.canvas",
     "buckets/daily/meta/Pasted Image 20240331195207.png",
     "buckets/daily/meta/Pasted Image 20240304113334.png",
     "buckets/daily/meta/Pasted Image 20240304113334.jpg",

@@ -2,6 +2,7 @@
 title: Terminal 配置
 date: 2022-11-13
 permalinkPattern: :year/:month/:day/:slug.html
+permalink: /workspace/terminal-config
 ---
 
 <!--

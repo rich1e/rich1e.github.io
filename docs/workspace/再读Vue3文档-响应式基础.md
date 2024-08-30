@@ -2,6 +2,7 @@
 title: 再读Vue3开发文档-响应式基础
 date: 2022-09-02
 permalinkPattern: :year/:month/:day/:slug.html
+permalink: /workspace/read-the-vue3-development-documentation-again-reactivity-fundamentals
 ---
 
 <!--

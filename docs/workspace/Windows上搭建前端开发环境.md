@@ -2,6 +2,7 @@
 title: Windows上搭建前端开发环境
 date: 2021-12-16
 permalinkPattern: :year/:month/:day/:slug.html
+permalink: /workspace/Building-a-front-end-development-environment-on-windows
 ---
 
 # Windows 上搭建前端开发环境

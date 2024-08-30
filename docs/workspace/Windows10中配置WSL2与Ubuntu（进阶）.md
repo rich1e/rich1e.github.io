@@ -1,4 +1,9 @@
-# Windows 10 中配置 WSL2 与 Ubuntu（进阶）
+---
+title: Windows 10 中配置 WSL2 与 Ubuntu（进阶）
+date: 2022-06-23
+permalinkPattern: :year/:month/:day/:slug.html
+permalink: /workspace/configuring-wsl2-and-ubuntu-in-windows10-advanced
+---
 
 <!--
  * @Author: rich1e
@@ -6,6 +11,8 @@
  * @LastEditors: rich1e
  * @LastEditTime: 2022-06-25 19:54:26
 -->
+
+# Windows 10 中配置 WSL2 与 Ubuntu（进阶）
 
 [[toc]]
 
