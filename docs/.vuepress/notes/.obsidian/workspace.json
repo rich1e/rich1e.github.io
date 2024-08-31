@@ -70,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8607dfc46dce05dc",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Mobile Development.md"
+                "file": "work-records/vscode-vim.md"
               }
             }
           }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "work-records/vscode-vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Mobile Development.md"
+                "file": "work-records/vscode-vim.md"
               }
             }
           }
@@ -232,7 +233,6 @@
     "buckets/daily/2024-07-14_Sunday.md",
     "buckets/daily/2024-07-07_Sunday.md",
     "buckets/daily/2024-07-04_Thursday.md",
-    "buckets/daily/2024-07-03_Wednesday.md",
     "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
     "buckets/daily/2024-06-15_Saturday.md",
     "buckets/daily/2024-06-12_Wednesday.md",
