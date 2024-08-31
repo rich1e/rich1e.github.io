@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beyond com",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8607dfc46dce05dc",
@@ -98,16 +98,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "work-records/vscode-vim.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -123,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Mobile Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work-records/vscode-vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "work-records/vscode-vim.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -209,11 +204,11 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "189babb110e8c5ec",
+  "active": "7906763b87e2c80c",
   "lastOpenFiles": [
+    "workspce/Mobile Development.md",
     "workspce/meta/Pasted image 20240830164838.png",
     "workspce/meta/Pasted image 20240830164648.png",
-    "workspce/Mobile Development.md",
     "buckets/technology/Beyond_Compare.md",
     "buckets/technology/Beyond_Compare_Use.md",
     "buckets/daily/2024-08-30_Friday.md",
