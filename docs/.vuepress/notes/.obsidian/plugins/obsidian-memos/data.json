@@ -104,7 +104,7 @@
   "MinHeightForShare": "200px",
   "ThinoMaxHeight": 0,
   "ThinoCollapsedHeight": 100,
-  "OptimizeForCallout": true,
+  "OptimizeForCallout": false,
   "AppendOrPrependTextViaServer": false,
   "AppendViaServer": "",
   "PrependViaServer": "",

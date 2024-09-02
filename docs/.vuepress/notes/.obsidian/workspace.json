@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62651b71ae04b9e4",
+        "id": "aa35cde446117c7c",
         "type": "tabs",
         "children": [
           {
-            "id": "189babb110e8c5ec",
+            "id": "ca4d11fe2de661d8",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "duplicate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8607dfc46dce05dc",
@@ -98,14 +97,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HomePage.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
+    "width": 270.5,
     "collapsed": true
   },
   "right": {
@@ -115,6 +116,7 @@
       {
         "id": "0ce6debe408e99df",
         "type": "tabs",
+        "dimension": 51.79119754350051,
         "children": [
           {
             "id": "ad3946728bac7730",
@@ -122,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +167,7 @@
             }
           },
           {
-            "id": "1ccd80c5485a613f",
+            "id": "b834809cff119c21",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,17 +177,24 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "d3f5b3164cec6678",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "99022f2b9cdd4d81",
+        "type": "tabs",
+        "dimension": 48.20880245649949,
+        "children": [
+          {
+            "id": "993b8743a6a39edf",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,6 +203,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "obsidian-memos:Thino": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,14 +212,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-memos:Thino": false
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7906763b87e2c80c",
+  "active": "ca4d11fe2de661d8",
   "lastOpenFiles": [
+    "buckets/daily/2024-09-02_Monday.md",
     "workspce/Mobile Development.md",
+    "workspce/Daily Record.md",
+    "HomePage.md",
+    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
+    "workspce/Draft.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "workspce/Kanban.md",
+    "2024/深入浅出 Greasemonkey.md",
+    "buckets/learn/Git.md",
+    "buckets/daily/2023-11-24_Friday.md",
     "workspce/meta/Pasted image 20240830164838.png",
     "workspce/meta/Pasted image 20240830164648.png",
     "buckets/technology/Beyond_Compare.md",
@@ -224,13 +247,7 @@
     "buckets/daily/2024-07-18_Thursday.md",
     "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
     "work-records/vscode-vim.md",
-    "buckets/daily/2024-07-17_Wednesday.md",
-    "buckets/daily/2024-07-14_Sunday.md",
-    "buckets/daily/2024-07-07_Sunday.md",
-    "buckets/daily/2024-07-04_Thursday.md",
     "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
-    "buckets/daily/2024-06-15_Saturday.md",
-    "buckets/daily/2024-06-12_Wednesday.md",
     "buckets/daily/meta/Pasted Image 20240426183342.png",
     "buckets/daily/meta/Pasted Image 20240331195207.png",
     "buckets/daily/meta/Pasted Image 20240304113334.png",

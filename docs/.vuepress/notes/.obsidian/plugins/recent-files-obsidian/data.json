@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2021年度规划-help",
-      "path": "2021/2021年度规划-help.md"
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
     },
     {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "深入浅出 Greasemonkey",
+      "path": "2024/深入浅出 Greasemonkey.md"
+    },
+    {
+      "basename": "Git",
+      "path": "buckets/learn/Git.md"
+    },
+    {
+      "basename": "2023-11-24_Friday",
+      "path": "buckets/daily/2023-11-24_Friday.md"
+    },
+    {
+      "basename": "2021年度规划-help",
+      "path": "2021/2021年度规划-help.md"
+    },
+    {
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
     },
     {
       "basename": "Beyond_Compare",
@@ -61,24 +89,12 @@
       "path": "2023/Mac Update.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "vscode-vim",
       "path": "work-records/vscode-vim.md"
     },
     {
       "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
       "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
-    },
-    {
-      "basename": "深入浅出 Greasemonkey",
-      "path": "2024/深入浅出 Greasemonkey.md"
     },
     {
       "basename": "Homebrew",
@@ -119,14 +135,6 @@
     {
       "basename": "Buckets",
       "path": "workspce/Buckets.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
     },
     {
       "basename": "2023-03-22_Wednesday",
