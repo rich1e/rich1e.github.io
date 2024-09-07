@@ -7,6 +7,7 @@
  * @LastEditTime: 2022-11-14 09:19:07
 -->
 
+- [PowerShell 推荐插件](/workspace/PowerShell推荐插件.md)
 - [Beyond Compare 配置](/workspace/Beyond_Compare配置.md)
 - [BEM 命名规范](/workspace/BEM命名规范.md)
 - [Terminal 配置](/workspace/Terminal配置.md)

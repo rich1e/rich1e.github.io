@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
     },
@@ -13,16 +9,20 @@
       "path": "workspce/Daily Record.md"
     },
     {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "mind - Attr 动态表单组件关系图",
       "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
     },
     {
-      "basename": "Draft",
-      "path": "workspce/Draft.md"
-    },
-    {
       "basename": "Kanban",
       "path": "workspce/Kanban.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
     },
     {
       "basename": "深入浅出 Greasemonkey",
