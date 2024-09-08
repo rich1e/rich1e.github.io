@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Mobile Development.md"
+                "file": "workspce/Draft.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "workspce/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "workspce/Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +164,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "f623954f7ef79edd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -207,14 +219,15 @@
   },
   "active": "ca4d11fe2de661d8",
   "lastOpenFiles": [
+    "buckets/daily/2024-09-08_Sunday.md",
+    "workspce/Draft.md",
+    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
+    "workspce/Mobile Development.md",
     "workspce/Daily Record.md",
     "HomePage.md",
-    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
     "workspce/Kanban.md",
-    "workspce/Mobile Development.md",
     "buckets/daily/2024-09-04_Wednesday.md",
     "buckets/daily/2024-09-02_Monday.md",
-    "workspce/Draft.md",
     "Untitled.md",
     "Untitled.canvas",
     "2024/深入浅出 Greasemonkey.md",
@@ -235,7 +248,6 @@
     "buckets/daily/2024-07-22_Monday.md",
     "buckets/daily/2024-07-21_Sunday.md",
     "buckets/daily/2024-07-18_Thursday.md",
-    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
     "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
     "buckets/daily/meta/Pasted Image 20240426183342.png",
     "buckets/daily/meta/Pasted Image 20240331195207.png",
