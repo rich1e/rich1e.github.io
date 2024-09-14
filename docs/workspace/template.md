@@ -30,9 +30,9 @@ permalink: /workspace/your-blog-link
 
 > 引用文字
 
-| 表格   | 表格 |        表格        |
-| :---: | :--: | :--------------: |
-|  表格  |  表格  | 表格  |
+| text  | text | text |
+| :---: | :--: | :--: |
+| text  | text | text |
 
 ```js
 // javascript code

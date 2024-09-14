@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "vscode-vim-surround",
-      "path": "work-records/vscode-vim-surround.md"
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "vscode-vim-surround",
+      "path": "work-records/vscode-vim-surround.md"
     },
     {
       "basename": "Draft",
@@ -17,20 +25,8 @@
       "path": "buckets/daily/2023-03-16_Thursday.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "mind - Attr 动态表单组件关系图",
       "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Kanban",

@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "d23c4dbcf442cad3",
+            "id": "4e9184edb497ae66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "workspce/Daily Record.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duplicate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work-records/vscode-vim-surround.md"
+                "file": "HomePage.md"
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work-records/vscode-vim-surround.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work-records/vscode-vim-surround.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,11 +232,15 @@
   },
   "active": "ca4d11fe2de661d8",
   "lastOpenFiles": [
-    "buckets/daily/2024-09-06_Friday.md",
+    "buckets/daily/2024-09-13_Friday.md",
     "workspce/Daily Record.md",
-    "buckets/daily/2023-03-16_Thursday.md",
     "HomePage.md",
     "workspce/Mobile Development.md",
+    "buckets/daily/2024-09-11_Wednesday.md",
+    "buckets/daily/2024-09-10_Tuesday.md",
+    "buckets/daily/2024-09-09_Monday.md",
+    "buckets/daily/2024-09-06_Friday.md",
+    "buckets/daily/2023-03-16_Thursday.md",
     "buckets/daily/2024-09-03_Tuesday.md",
     "workspce/meta/Pasted image 20240903101913.png",
     "buckets/daily/2024-09-02_Monday.md",
@@ -258,9 +262,6 @@
     "buckets/daily/2024-08-28_Wednesday.md",
     "buckets/daily/2024-08-29_Thursday.md",
     "buckets/daily/2024-07-27_Saturday.md",
-    "buckets/daily/2024-07-25_Thursday.md",
-    "buckets/daily/2024-07-22_Monday.md",
-    "buckets/daily/2024-07-21_Sunday.md",
     "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
     "buckets/daily/meta/Pasted Image 20240426183342.png",
     "buckets/daily/meta/Pasted Image 20240331195207.png",
