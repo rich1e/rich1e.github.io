@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "2023-06-12_Monday",
+      "path": "buckets/daily/2023-06-12_Monday.md"
+    },
+    {
+      "basename": "2023-08-22_Tuesday",
+      "path": "buckets/daily/2023-08-22_Tuesday.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "vscode-vim-surround",

@@ -68,19 +68,13 @@ export default {
         "/web-development/caching-mechanism.md",
       ]
     }
-  ]
-  // "/workspace/": [
-  //   {
-  //     text: "Workspace",
-  //     children: [
-  //       "/workspace/搭建Blog.md",
-  //       "/workspace/特斯拉前端面试题.md",
-  //       "/workspace/Windows上搭建前端开发环境.md",
-  //       "/workspace/前端开发调试新姿势-VS_Code_Remote_Development.md",
-  //       "/workspace/Windows10中配置WSL2与Ubuntu（进阶）.md",
-  //       "/workspace/macOS_Catalina-支持NTFS文件系统的若干方案.md",
-  //       "/workspace/再读Vue3文档-响应式基础.md",
-  //     ],
-  //   },
-  // ],
+  ],
+  "/data-structures-and-algorithms/": [
+    {
+      text: "数据结构与算法",
+      children: [
+        "/data-structures-and-algorithms/树的深度优先搜索与广度优先搜索.md",
+      ],
+    },
+  ],
 };

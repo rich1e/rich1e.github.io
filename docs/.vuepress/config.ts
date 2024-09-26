@@ -132,6 +132,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
             link: "/note/",
           },
           {
+            text: "数据结构与算法",
+            link: "/data-structures-and-algorithms/",
+          },
+          {
             text: "javascript 笔记",
             link: "/javascript-note/",
           },
