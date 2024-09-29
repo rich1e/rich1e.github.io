@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Mobile Development.md"
+                "file": "HomePage.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,6 +219,7 @@
   },
   "active": "ca4d11fe2de661d8",
   "lastOpenFiles": [
+    "buckets/daily/2024-09-29_Sunday.md",
     "buckets/daily/2024-09-26_Thursday.md",
     "buckets/daily/2024-09-25_Wednesday.md",
     "workspce/Daily Record.md",
@@ -248,7 +249,6 @@
     "buckets/technology/Beyond_Compare_Use.md",
     "buckets/daily/2024-08-30_Friday.md",
     "buckets/daily/2024-08-29_Thursday.md",
-    "buckets/work-experience/360/360.md",
     "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
     "buckets/daily/meta/Pasted Image 20240426183342.png",
     "buckets/daily/meta/Pasted Image 20240331195207.png",
