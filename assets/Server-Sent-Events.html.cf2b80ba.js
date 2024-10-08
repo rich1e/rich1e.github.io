@@ -1,0 +1,2 @@
+import{d as e}from"./app.f39c3f0f.js";import{_ as r}from"./plugin-vue_export-helper.5a098b48.js";const n={},s=e(`<h1 id="server-sent-events" tabindex="-1"><a class="header-anchor" href="#server-sent-events" aria-hidden="true">#</a> Server-Sent Events</h1><div class="language-markdown ext-md line-numbers-mode"><pre class="language-markdown"><code>https://www.ruanyifeng.com/blog/2017/05/server-sent_events.html
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div>`,2);function a(t,c){return s}var i=r(n,[["render",a]]);export{i as default};

@@ -1,0 +1,5 @@
+import{d as e}from"./app.f39c3f0f.js";import{_ as a}from"./plugin-vue_export-helper.5a098b48.js";const s={},r=e(`<h1 id="zetero" tabindex="-1"><a class="header-anchor" href="#zetero" aria-hidden="true">#</a> Zetero</h1><h2 id="plugins" tabindex="-1"><a class="header-anchor" href="#plugins" aria-hidden="true">#</a> Plugins</h2><ul><li>Better BibTeX</li><li>ZotFile</li></ul><h2 id="vs-code" tabindex="-1"><a class="header-anchor" href="#vs-code" aria-hidden="true">#</a> VS Code</h2><ul><li>Zotero Cite</li><li>Citation Picker for Zotero</li></ul><div class="language-markdown ext-md line-numbers-mode"><pre class="language-markdown"><code>https://search.bilibili.com/all?keyword=goodnotes+%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA+%E9%97%AA%E5%8D%A1&amp;from_source=webtop_search&amp;spm_id_from=333.788
+https://sspai.com/post/74751
+https://sspai.com/post/75329
+https://sspai.com/post/75491
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div>`,6);function i(n,o){return r}var c=a(s,[["render",i]]);export{c as default};
