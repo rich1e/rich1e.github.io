@@ -103,7 +103,14 @@ git log --author=gongyuqi --oneline --since='10 hours ago' --grep="into 'testDev
 
 ```git
 git branch --merged | grep -v 'master\|dev\|testDev' | xargs git branch -D
+
+# PowerShell
+git branch -D @(git branch \| select-string -NotMatch "master" \| Foreach {$_.Line.Trim()})|
 ```
+
+Ref：
+[How to delete all merged local branches in Git with PowerShell - Stack Overflow](https://stackoverflow.com/questions/51171479/how-to-delete-all-merged-local-branches-in-git-with-powershell)
+[PowerShell command to delete all branches except master](https://gist.github.com/jseed/5d022570ea52ee09a8f43913214496f1)
 
 空提交
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa35cde446117c7c",
+        "id": "75d9bb8c5acd963c",
         "type": "tabs",
         "children": [
           {
-            "id": "ca4d11fe2de661d8",
+            "id": "9d97719888750838",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "workspce/Mobile Development.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Mobile Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "workspce/Mobile Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,17 +217,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca4d11fe2de661d8",
+  "active": "9d97719888750838",
   "lastOpenFiles": [
+    "workspce/Daily Record.md",
+    "workspce/Mobile Development.md",
+    "buckets/daily/2024-10-08_Tuesday.md",
+    "HomePage.md",
     "buckets/daily/2024-09-29_Sunday.md",
     "buckets/daily/2024-09-26_Thursday.md",
     "buckets/daily/2024-09-25_Wednesday.md",
-    "workspce/Daily Record.md",
     "buckets/daily/2023-06-12_Monday.md",
     "buckets/daily/2023-08-22_Tuesday.md",
-    "workspce/Mobile Development.md",
     "buckets/daily/2024-09-13_Friday.md",
-    "HomePage.md",
     "buckets/daily/2024-09-11_Wednesday.md",
     "buckets/daily/2024-09-10_Tuesday.md",
     "buckets/daily/2024-09-09_Monday.md",
@@ -248,7 +249,6 @@
     "buckets/technology/Beyond_Compare.md",
     "buckets/technology/Beyond_Compare_Use.md",
     "buckets/daily/2024-08-30_Friday.md",
-    "buckets/daily/2024-08-29_Thursday.md",
     "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
     "buckets/daily/meta/Pasted Image 20240426183342.png",
     "buckets/daily/meta/Pasted Image 20240331195207.png",
