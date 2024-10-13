@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
     },
@@ -9,8 +13,16 @@
       "path": "NodeJS 日志系统设计.md"
     },
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
+      "basename": "vscode-vim",
+      "path": "work-records/vscode-vim.md"
+    },
+    {
+      "basename": "Draft",
+      "path": "workspce/Draft.md"
+    },
+    {
+      "basename": "mind - Attr 动态表单组件关系图",
+      "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
     },
     {
       "basename": "HomePage",
@@ -61,10 +73,6 @@
       "path": "2021/2021年度规划-help.md"
     },
     {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
-    },
-    {
       "basename": "Beyond_Compare",
       "path": "buckets/technology/Beyond_Compare.md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "Mac Update",
       "path": "2023/Mac Update.md"
-    },
-    {
-      "basename": "vscode-vim",
-      "path": "work-records/vscode-vim.md"
     },
     {
       "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
