@@ -4,15 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "75d9bb8c5acd963c",
+        "id": "2a32a918680f2d36",
         "type": "tabs",
         "children": [
           {
-            "id": "9d97719888750838",
+            "id": "aa85905c20e68ae3",
             "type": "leaf",
             "state": {
               "type": "thino_view",
-              "state": {}
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "5ba14fcdc053e6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brew install.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "brew install"
+            }
+          },
+          {
+            "id": "e4a2b779b93d7212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workspce/Daily Record.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Record"
             }
           }
         ]
@@ -36,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -59,7 +95,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -67,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -82,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -97,9 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "workspce/Mobile Development.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -124,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "workspce/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +174,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kanban"
             }
           },
           {
@@ -141,10 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspce/Mobile Development.md",
+                "file": "workspce/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kanban"
             }
           },
           {
@@ -155,7 +201,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -175,7 +225,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -191,7 +243,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -203,8 +257,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "obsidian-memos:Thino": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,21 +264,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-memos:Thino": false,
+      "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d97719888750838",
+  "active": "aa85905c20e68ae3",
   "lastOpenFiles": [
+    "buckets/daily/2024-10-25_Friday.md",
+    "buckets/daily/2024-10-24_Thursday.md",
+    "workspce/Daily Record.md",
+    "HomePage.md",
+    "workspce/Kanban.md",
+    "brew install.md",
+    "buckets/daily/2024-10-21_Monday.md",
+    "meta/Pasted image 20241020211350.png",
+    "meta/Pasted image 20241020211217.png",
     "buckets/daily/2024-10-12_Saturday.md",
     "workspce/Mobile Development.md",
-    "Untitled.md",
     "NodeJS 日志系统设计.md",
     "buckets/daily/2024-10-11_Friday.md",
     "buckets/daily/2024-10-10_Thursday.md",
-    "workspce/Daily Record.md",
-    "HomePage.md",
     "buckets/daily/2024-10-08_Tuesday.md",
     "buckets/daily/2024-09-29_Sunday.md",
     "buckets/daily/2024-09-26_Thursday.md",
@@ -242,19 +302,13 @@
     "buckets/daily/2024-09-03_Tuesday.md",
     "workspce/meta/Pasted image 20240903101913.png",
     "buckets/daily/2024-09-02_Monday.md",
-    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
-    "workspce/Draft.md",
     "Untitled.canvas",
-    "2024/深入浅出 Greasemonkey.md",
-    "buckets/learn/Git.md",
     "workspce/meta/Pasted image 20240830164838.png",
     "workspce/meta/Pasted image 20240830164648.png",
     "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
     "buckets/daily/meta/Pasted Image 20240426183342.png",
     "buckets/daily/meta/Pasted Image 20240331195207.png",
     "buckets/daily/meta/Pasted Image 20240304113334.png",
-    "buckets/daily/meta/Pasted Image 20240304113334.jpg",
-    "buckets/daily/meta/Pasted Image 20240304114126.png",
-    "buckets/daily/meta/Pasted Image 20240304104009.png"
+    "buckets/daily/meta/Pasted Image 20240304113334.jpg"
   ]
 }
