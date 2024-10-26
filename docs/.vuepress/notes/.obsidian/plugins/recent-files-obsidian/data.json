@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
-    },
-    {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "NodeJS 日志系统设计",
