@@ -93,6 +93,19 @@ FOR /d /r . %d in (node_modules) DO @IF EXIST "%d" rm -rf "%d"
 [前端不会Shell？Shell 命令只会 cd 的小伙伴，这篇文章你真的得看了 - 掘金](https://juejin.cn/post/7274346507037081640)
 ## Git Flow
 
+修改 commit 信息
+
+```git
+# 显示指定提交者信息
+git commit -m 'your commit' --author='your-name <your-email>'
+# 修改上次提交的 author 信息
+git commit --amend --author='your-name <your-email>'
+# 修改历史提交
+git rebase -i your-branch
+# 修改所有的 comit
+git rebase -i --root
+```
+
 获取 log 中最近10小时的 commit
 
 ```git

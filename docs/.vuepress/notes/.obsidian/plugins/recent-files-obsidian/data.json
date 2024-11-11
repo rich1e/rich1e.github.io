@@ -25,6 +25,10 @@
       "path": "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md"
     },
     {
+      "basename": "NodeJS 日志系统设计",
+      "path": "NodeJS 日志系统设计.md"
+    },
+    {
       "basename": "HomePage",
       "path": "HomePage.md"
     },
@@ -202,6 +206,8 @@
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }
