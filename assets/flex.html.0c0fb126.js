@@ -1,0 +1,3 @@
+import{d as e}from"./app.f39c3f0f.js";import{_ as a}from"./plugin-vue_export-helper.5a098b48.js";const r={},n=e(`<h1 id="flex" tabindex="-1"><a class="header-anchor" href="#flex" aria-hidden="true">#</a> Flex</h1><div class="language-markdown ext-md line-numbers-mode"><pre class="language-markdown"><code>https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+https://www.ruanyifeng.com/blog/2015/07/flex-examples.html
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div>`,2);function s(l,t){return n}var d=a(r,[["render",s]]);export{d as default};
