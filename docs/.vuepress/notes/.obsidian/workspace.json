@@ -16,39 +16,8 @@
               "icon": "Memos",
               "title": "Thino"
             }
-          },
-          {
-            "id": "19142dc850bf0b3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workspce/Daily Record.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Record"
-            }
-          },
-          {
-            "id": "3768fed4dd6012ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "前端开发调试新姿势 - Windows + WSL + VSCode"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh-add",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +80,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8607dfc46dce05dc",
@@ -142,17 +110,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
+                "file": "workspce/Mobile Development.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 前端开发调试新姿势 - Windows + WSL + VSCode"
+              "title": "Outline of Mobile Development"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -274,16 +243,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3768fed4dd6012ef",
+  "active": "aa85905c20e68ae3",
   "lastOpenFiles": [
-    "buckets/daily/2024-04-08_Monday.md",
+    "workspce/Daily Record.md",
+    "workspce/Mobile Development.md",
+    "buckets/daily/2024-11-29_Friday.md",
+    "Message Center - App.md",
+    "Message Center - WEB.md",
+    "Untitled.md",
+    "meta/Pasted image 20241129130509.png",
+    "meta/Pasted image 20241129130322.png",
+    "meta/Pasted image 20241129130247.png",
+    "meta/Pasted image 20241129114107.png",
+    "meta/Pasted image 20241129114038.png",
+    "meta/Pasted image 20241129114002.png",
+    "meta/Pasted image 20241129113939.png",
+    "meta/Pasted image 20241129113839.png",
+    "meta/Pasted image 20241129113822.png",
+    "meta/Pasted image 20241129113730.png",
+    "buckets/daily/2024-11-27_Wednesday.md",
+    "buckets/daily/2024-11-25_Monday.md",
     "workspce/Kanban.md",
+    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
+    "buckets/daily/2024-04-08_Monday.md",
     "buckets/daily/2024-11-20_Wednesday.md",
     "buckets/daily/2024-11-19_Tuesday.md",
     "buckets/daily/2024-11-15_Friday.md",
-    "workspce/Daily Record.md",
     "workspce/Buckets.md",
-    "workspce/Mobile Development.md",
     "buckets/daily/2023-07-20_Thursday.md",
     "buckets/daily/2024-11-08_Friday.md",
     "buckets/daily/2024-11-06_Wednesday.md",
@@ -295,23 +281,6 @@
     "buckets/daily/2024-10-25_Friday.md",
     "buckets/daily/2024-10-24_Thursday.md",
     "buckets/daily/2024-10-21_Monday.md",
-    "meta/Pasted image 20241020211350.png",
-    "meta/Pasted image 20241020211217.png",
-    "buckets/daily/2024-10-12_Saturday.md",
-    "workspce/meta/Pasted image 20241005174909.png",
-    "buckets/daily/2024-10-05_Saturday.md",
-    "buckets/daily/2024-09-22_Sunday.md",
-    "buckets/daily/2024-09-08_Sunday.md",
-    "workspce/Draft.md",
-    "buckets/work-experience/max-optics/mind - Attr 动态表单组件关系图.md",
-    "workspce/Mobile Development.md",
-    "workspce/meta/Pasted image 20240903101913.png",
-    "Untitled.canvas",
-    "workspce/meta/Pasted image 20240830164838.png",
-    "workspce/meta/Pasted image 20240830164648.png",
-    "buckets/daily/meta/Pasted Image 20240702174129.jpeg",
-    "buckets/daily/meta/Pasted Image 20240426183342.png",
-    "buckets/daily/meta/Pasted Image 20240331195207.png",
-    "buckets/daily/meta/Pasted Image 20240304113334.png"
+    "Untitled.canvas"
   ]
 }
