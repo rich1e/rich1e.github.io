@@ -16,6 +16,21 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "e901ec863f0e7b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uniapp.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "uniapp"
+            }
           }
         ]
       }
@@ -245,8 +260,21 @@
   },
   "active": "aa85905c20e68ae3",
   "lastOpenFiles": [
-    "workspce/Daily Record.md",
+    "buckets/daily/2024-12-27_Friday.md",
+    "buckets/daily/2024-12-25_Wednesday.md",
+    "buckets/daily/2024-12-24_Tuesday.md",
+    "uniapp.md",
+    "meta/Pasted image 20241217163121.png",
+    "workspce/Kanban.md",
+    "buckets/daily/2024-12-12_Thursday.md",
+    "buckets/daily/2024-12-11_Wednesday.md",
+    "开发.md",
     "workspce/Mobile Development.md",
+    "buckets/daily/2024-12-05_Thursday.md",
+    "buckets/daily/2024-12-04_Wednesday.md",
+    "buckets/daily/2024-12-03_Tuesday.md",
+    "buckets/daily/2024-12-02_Monday.md",
+    "workspce/Daily Record.md",
     "buckets/daily/2024-11-29_Friday.md",
     "Message Center - App.md",
     "Message Center - WEB.md",
@@ -260,27 +288,14 @@
     "meta/Pasted image 20241129113939.png",
     "meta/Pasted image 20241129113839.png",
     "meta/Pasted image 20241129113822.png",
-    "meta/Pasted image 20241129113730.png",
     "buckets/daily/2024-11-27_Wednesday.md",
     "buckets/daily/2024-11-25_Monday.md",
-    "workspce/Kanban.md",
     "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
     "buckets/daily/2024-04-08_Monday.md",
     "buckets/daily/2024-11-20_Wednesday.md",
     "buckets/daily/2024-11-19_Tuesday.md",
     "buckets/daily/2024-11-15_Friday.md",
     "workspce/Buckets.md",
-    "buckets/daily/2023-07-20_Thursday.md",
-    "buckets/daily/2024-11-08_Friday.md",
-    "buckets/daily/2024-11-06_Wednesday.md",
-    "HomePage.md",
-    "buckets/daily/2024-11-05_Tuesday.md",
-    "buckets/daily/2024-10-30_Wednesday.md",
-    "brew install.md",
-    "buckets/daily/2024-10-28_Monday.md",
-    "buckets/daily/2024-10-25_Friday.md",
-    "buckets/daily/2024-10-24_Thursday.md",
-    "buckets/daily/2024-10-21_Monday.md",
     "Untitled.canvas"
   ]
 }
