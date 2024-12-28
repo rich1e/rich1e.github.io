@@ -125,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Mobile Development.md"
+                "file": "workspce/Kanban.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mobile Development"
+              "title": "Outline of Kanban"
             }
           }
         ]
@@ -254,8 +254,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-memos:Thino": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "aa85905c20e68ae3",
@@ -269,6 +268,16 @@
     "buckets/daily/2024-12-12_Thursday.md",
     "buckets/daily/2024-12-11_Wednesday.md",
     "开发.md",
+    "2024/2024 手机模拟器游戏火热🔥.md",
+    "2024/深入浅出 Greasemonkey.md",
+    "2024/IPATool 使用.md",
+    "Message Center - App.md",
+    "Message Center - WEB.md",
+    "NodeJS 日志系统设计.md",
+    "workspce/Kanban.md",
+    "Untitled.md",
+    "buckets/daily/2024-12-19_Thursday.md",
+    "workspce/Daily Record.md",
     "workspce/Mobile Development.md",
     "buckets/daily/2024-12-05_Thursday.md",
     "buckets/daily/2024-12-04_Wednesday.md",
@@ -276,9 +285,6 @@
     "buckets/daily/2024-12-02_Monday.md",
     "workspce/Daily Record.md",
     "buckets/daily/2024-11-29_Friday.md",
-    "Message Center - App.md",
-    "Message Center - WEB.md",
-    "Untitled.md",
     "meta/Pasted image 20241129130509.png",
     "meta/Pasted image 20241129130322.png",
     "meta/Pasted image 20241129130247.png",
@@ -296,6 +302,11 @@
     "buckets/daily/2024-11-19_Tuesday.md",
     "buckets/daily/2024-11-15_Friday.md",
     "workspce/Buckets.md",
-    "Untitled.canvas"
+    "buckets/daily/2023-07-20_Thursday.md",
+    "buckets/daily/2024-11-08_Friday.md",
+    "buckets/daily/2024-11-06_Wednesday.md",
+    "HomePage.md",
+    "buckets/daily/2024-11-05_Tuesday.md",
+    "buckets/daily/2024-10-30_Wednesday.md"
   ]
 }
