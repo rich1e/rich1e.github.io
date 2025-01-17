@@ -16,21 +16,6 @@
               "icon": "Memos",
               "title": "Thino"
             }
-          },
-          {
-            "id": "e901ec863f0e7b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uniapp.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "uniapp"
-            }
           }
         ]
       }
@@ -44,7 +29,7 @@
       {
         "id": "7ecb84c18b19b196",
         "type": "tabs",
-        "dimension": 28.410372040586243,
+        "dimension": 41.2303664921466,
         "children": [
           {
             "id": "d9995859cf1212a3",
@@ -100,7 +85,7 @@
       {
         "id": "8607dfc46dce05dc",
         "type": "tabs",
-        "dimension": 40.022547914317926,
+        "dimension": 27.225130890052355,
         "children": [
           {
             "id": "7d2705af45226db7",
@@ -117,7 +102,7 @@
       {
         "id": "2e722310acc52202",
         "type": "tabs",
-        "dimension": 31.567080045095828,
+        "dimension": 31.54450261780105,
         "children": [
           {
             "id": "47a0b26365126ab3",
@@ -125,17 +110,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Kanban.md"
+                "file": "workspce/Mobile Development.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kanban"
+              "title": "Outline of Mobile Development"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
+    "width": 458.5,
     "collapsed": true
   },
   "right": {
@@ -254,20 +239,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-memos:Thino": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "aa85905c20e68ae3",
   "lastOpenFiles": [
+    "2023/Book.md",
+    "workspce/Mobile Development.md",
+    "Uniapp develop.md",
+    "meta/Pasted image 20250117133142.png",
+    "meta/Pasted image 20250117133116.png",
+    "meta/Pasted image 20250117133033.png",
+    "meta/Pasted image 20250117132452.png",
+    "buckets/daily/2024-12-31_Tuesday.md",
+    "开发.md",
+    "2023/Blog.md",
+    "2022/Fiddler Everywhere Crack 尝试.md",
+    "2022/Book Sync.md",
+    "2022/Alienware.md",
+    "2022/2022 learn.md",
+    "uniapp.md",
     "buckets/daily/2024-12-27_Friday.md",
     "buckets/daily/2024-12-25_Wednesday.md",
     "buckets/daily/2024-12-24_Tuesday.md",
-    "uniapp.md",
     "meta/Pasted image 20241217163121.png",
     "workspce/Kanban.md",
     "buckets/daily/2024-12-12_Thursday.md",
     "buckets/daily/2024-12-11_Wednesday.md",
-    "开发.md",
     "2024/2024 手机模拟器游戏火热🔥.md",
     "2024/深入浅出 Greasemonkey.md",
     "2024/IPATool 使用.md",
@@ -275,38 +274,11 @@
     "Message Center - WEB.md",
     "NodeJS 日志系统设计.md",
     "workspce/Kanban.md",
-    "Untitled.md",
     "buckets/daily/2024-12-19_Thursday.md",
-    "workspce/Daily Record.md",
-    "workspce/Mobile Development.md",
-    "buckets/daily/2024-12-05_Thursday.md",
-    "buckets/daily/2024-12-04_Wednesday.md",
-    "buckets/daily/2024-12-03_Tuesday.md",
-    "buckets/daily/2024-12-02_Monday.md",
-    "workspce/Daily Record.md",
-    "buckets/daily/2024-11-29_Friday.md",
     "meta/Pasted image 20241129130509.png",
     "meta/Pasted image 20241129130322.png",
     "meta/Pasted image 20241129130247.png",
     "meta/Pasted image 20241129114107.png",
-    "meta/Pasted image 20241129114038.png",
-    "meta/Pasted image 20241129114002.png",
-    "meta/Pasted image 20241129113939.png",
-    "meta/Pasted image 20241129113839.png",
-    "meta/Pasted image 20241129113822.png",
-    "buckets/daily/2024-11-27_Wednesday.md",
-    "buckets/daily/2024-11-25_Monday.md",
-    "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md",
-    "buckets/daily/2024-04-08_Monday.md",
-    "buckets/daily/2024-11-20_Wednesday.md",
-    "buckets/daily/2024-11-19_Tuesday.md",
-    "buckets/daily/2024-11-15_Friday.md",
-    "workspce/Buckets.md",
-    "buckets/daily/2023-07-20_Thursday.md",
-    "buckets/daily/2024-11-08_Friday.md",
-    "buckets/daily/2024-11-06_Wednesday.md",
-    "HomePage.md",
-    "buckets/daily/2024-11-05_Tuesday.md",
-    "buckets/daily/2024-10-30_Wednesday.md"
+    "meta/Pasted image 20241129114038.png"
   ]
 }
