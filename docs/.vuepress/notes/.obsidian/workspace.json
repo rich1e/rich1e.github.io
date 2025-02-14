@@ -16,8 +16,33 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "2326251030ff2170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/如何抓取socket流量包？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何抓取socket流量包？"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8607dfc46dce05dc",
@@ -112,20 +136,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2025/如何抓取socket流量包？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 如何抓取socket流量包？"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 458.5,
-    "collapsed": true
+    "width": 458.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -247,16 +271,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aa85905c20e68ae3",
+  "active": "2326251030ff2170",
   "lastOpenFiles": [
+    "剧本1.md",
+    "2025/如何抓取socket流量包？.md",
     "buckets/daily/2025-02-14_Friday.md",
     "buckets/daily/2024-02-20_Tuesday.md",
     "workspce/Mobile Development.md",
     "workspce/meta/Pasted image 20250214105800.png",
-    "剧本1.md",
     "buckets/daily/2025-02-13_Thursday.md",
     "2025/ideviceinstaller 调试 IOS 应用软件.md",
-    "2025/如何抓取socket流量包？.md",
     "2025/meta/Pasted image 20250213152203.png",
     "2025/meta/Pasted image 20250213151534.png",
     "2025/meta/Pasted image 20250213150342.png",
