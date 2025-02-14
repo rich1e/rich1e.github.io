@@ -37,7 +37,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,7 +81,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8607dfc46dce05dc",
@@ -110,10 +112,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspce/Mobile Development.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mobile Development"
+              "title": "Outline"
             }
           }
         ]
@@ -245,40 +249,43 @@
   },
   "active": "aa85905c20e68ae3",
   "lastOpenFiles": [
-    "2023/Book.md",
+    "buckets/daily/2025-02-14_Friday.md",
+    "buckets/daily/2024-02-20_Tuesday.md",
     "workspce/Mobile Development.md",
-    "Uniapp develop.md",
-    "meta/Pasted image 20250117133142.png",
-    "meta/Pasted image 20250117133116.png",
-    "meta/Pasted image 20250117133033.png",
-    "meta/Pasted image 20250117132452.png",
-    "buckets/daily/2024-12-31_Tuesday.md",
+    "workspce/meta/Pasted image 20250214105800.png",
+    "剧本1.md",
+    "buckets/daily/2025-02-13_Thursday.md",
+    "2025/ideviceinstaller 调试 IOS 应用软件.md",
+    "2025/如何抓取socket流量包？.md",
+    "2025/meta/Pasted image 20250213152203.png",
+    "2025/meta/Pasted image 20250213151534.png",
+    "2025/meta/Pasted image 20250213150342.png",
+    "2025/meta/Pasted image 20250213150335.png",
+    "2025/meta/Pasted image 20250213145710.png",
+    "2025/meta/Pasted image 20250213145649.png",
+    "2025/meta/Pasted image 20250213145550.png",
+    "2025/meta/Pasted image 20250213145446.png",
+    "2025/meta/Pasted image 20250213145414.png",
+    "2025/meta",
+    "brew install.md",
     "开发.md",
+    "uniapp.md",
+    "buckets/daily/2025-02-08_Saturday.md",
+    "Uniapp develop.md",
+    "2025",
+    "buckets/daily/2025-02-07_Friday.md",
+    "buckets/daily/2025-02-05_Wednesday.md",
+    "frontend/混合开发.md",
+    "buckets/daily/2025-01-24_Friday.md",
+    "buckets/daily/2025-01-20_Monday.md",
+    "2023/Book.md",
+    "buckets/daily/2024-12-31_Tuesday.md",
     "2023/Blog.md",
     "2022/Fiddler Everywhere Crack 尝试.md",
     "2022/Book Sync.md",
     "2022/Alienware.md",
     "2022/2022 learn.md",
-    "uniapp.md",
     "buckets/daily/2024-12-27_Friday.md",
-    "buckets/daily/2024-12-25_Wednesday.md",
-    "buckets/daily/2024-12-24_Tuesday.md",
-    "meta/Pasted image 20241217163121.png",
-    "workspce/Kanban.md",
-    "buckets/daily/2024-12-12_Thursday.md",
-    "buckets/daily/2024-12-11_Wednesday.md",
-    "2024/2024 手机模拟器游戏火热🔥.md",
-    "2024/深入浅出 Greasemonkey.md",
-    "2024/IPATool 使用.md",
-    "Message Center - App.md",
-    "Message Center - WEB.md",
-    "NodeJS 日志系统设计.md",
-    "workspce/Kanban.md",
-    "buckets/daily/2024-12-19_Thursday.md",
-    "meta/Pasted image 20241129130509.png",
-    "meta/Pasted image 20241129130322.png",
-    "meta/Pasted image 20241129130247.png",
-    "meta/Pasted image 20241129114107.png",
-    "meta/Pasted image 20241129114038.png"
+    "buckets/daily/2024-12-25_Wednesday.md"
   ]
 }

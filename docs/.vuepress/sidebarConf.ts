@@ -2,7 +2,7 @@
  * @Author: rich1e
  * @Date: 2022-09-27 11:42:37
  * @LastEditors: rich1e
- * @LastEditTime : 2024-03-04 12:44:03
+ * @LastEditTime : 2025-02-14 14:38:00
  */
 
 // import { SidebarConfig } from "@vuepress/theme-default";
@@ -66,6 +66,15 @@ export default {
       children: [
         "/web-development/cookies-vs-sessions.md",
         "/web-development/caching-mechanism.md",
+      ]
+    }
+  ],
+  "/uniapp/": [
+    {
+      text: "Uniapp",
+      children: [
+        "/uniapp/uniapp-disable-pagescroll-and-bance.md",
+        "/uniapp/global-toast-components.md",
       ]
     }
   ],
