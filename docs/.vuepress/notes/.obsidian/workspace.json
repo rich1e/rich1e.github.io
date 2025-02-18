@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "2326251030ff2170",
+            "id": "bf75eac98167f3cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/如何抓取socket流量包？.md",
+                "file": "剧本2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +38,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "如何抓取socket流量包？"
+              "title": "剧本2"
+            }
+          },
+          {
+            "id": "1b7caeda04defe86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "剧本3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "剧本3"
+            }
+          },
+          {
+            "id": "ca9f2c0a30959d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "剧本4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "剧本4"
+            }
+          },
+          {
+            "id": "5752d76616e391ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uniapp.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "uniapp"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,20 +208,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/如何抓取socket流量包？.md",
+                "file": "uniapp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 如何抓取socket流量包？"
+              "title": "Outline of uniapp"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 458.5,
+    "collapsed": true
   },
   "right": {
     "id": "064593a9d8021565",
@@ -200,7 +273,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -212,8 +287,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -231,7 +306,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "99022f2b9cdd4d81",
@@ -252,8 +327,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,9 +345,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2326251030ff2170",
+  "active": "5752d76616e391ff",
   "lastOpenFiles": [
+    "how-to-use-socket-in-uniapp.md",
+    "uniapp.md",
+    "Uniapp develop.md",
+    "剧本4.md",
+    "剧本2.md",
+    "剧本3.md",
+    "buckets/daily/2025-02-17_Monday.md",
     "剧本1.md",
+    "buckets/daily/2025-02-15_Saturday.md",
     "2025/如何抓取socket流量包？.md",
     "buckets/daily/2025-02-14_Friday.md",
     "buckets/daily/2024-02-20_Tuesday.md",
@@ -293,9 +375,7 @@
     "2025/meta",
     "brew install.md",
     "开发.md",
-    "uniapp.md",
     "buckets/daily/2025-02-08_Saturday.md",
-    "Uniapp develop.md",
     "2025",
     "buckets/daily/2025-02-07_Friday.md",
     "buckets/daily/2025-02-05_Wednesday.md",
@@ -304,12 +384,6 @@
     "buckets/daily/2025-01-20_Monday.md",
     "2023/Book.md",
     "buckets/daily/2024-12-31_Tuesday.md",
-    "2023/Blog.md",
-    "2022/Fiddler Everywhere Crack 尝试.md",
-    "2022/Book Sync.md",
-    "2022/Alienware.md",
-    "2022/2022 learn.md",
-    "buckets/daily/2024-12-27_Friday.md",
-    "buckets/daily/2024-12-25_Wednesday.md"
+    "2023/Blog.md"
   ]
 }

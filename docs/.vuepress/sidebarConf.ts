@@ -2,7 +2,7 @@
  * @Author: rich1e
  * @Date: 2022-09-27 11:42:37
  * @LastEditors: rich1e
- * @LastEditTime : 2025-02-14 14:38:00
+ * @LastEditTime : 2025-02-17 16:56:30
  */
 
 // import { SidebarConfig } from "@vuepress/theme-default";
@@ -30,7 +30,7 @@ export default {
       text: "JavaScript 笔记",
       children: [
         "/javascript-note/Object.prototype.__proto__.md",
-        "/javascript-note/JavaScript继承.md",
+        "/javascript-note/JavaScript 继承.md",
         "/javascript-note/for-in-for-of.md"
       ],
     },
@@ -54,9 +54,9 @@ export default {
     {
       text: "LeetCode",
       children: [
-        "/leetcode/初级算法-删除排序数组中的重复项.md",
-        "/leetcode/初级算法-买卖股票的最佳时机.md",
-        "/leetcode/初级算法-旋转数组.md",
+        "/leetcode/初级算法 - 删除排序数组中的重复项.md",
+        "/leetcode/初级算法 - 买卖股票的最佳时机.md",
+        "/leetcode/初级算法 - 旋转数组.md",
       ],
     },
   ],
@@ -75,6 +75,7 @@ export default {
       children: [
         "/uniapp/uniapp-disable-pagescroll-and-bance.md",
         "/uniapp/global-toast-components.md",
+        "/uniapp/how-to-use-socket-in-uniapp.md"
       ]
     }
   ],
