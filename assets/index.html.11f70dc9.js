@@ -1,0 +1,1 @@
+const t={key:"v-7c909716",path:"/javascript-note/",title:"JavaScript \u7B14\u8BB0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"javascript-note/README.md",git:{updatedTime:1725009719e3}};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-8dd9c95c",path:"/data-structures-and-algorithms/",title:"\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"data-structures-and-algorithms/README.md",git:{updatedTime:1727331115e3}};export{t as data};
