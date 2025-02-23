@@ -102,8 +102,10 @@ git commit -m 'your commit' --author='your-name <your-email>'
 git commit --amend --author='your-name <your-email>'
 # 修改历史提交
 git rebase -i your-branch
-# 修改所有的 comit
+# 修改所有的 commit
 git rebase -i --root
+# 修改 commit 时间为当前时间
+git commit --amend --date=now --no-edit
 ```
 
 获取 log 中最近10小时的 commit

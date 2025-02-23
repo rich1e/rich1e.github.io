@@ -1,6 +1,9 @@
 ---
 banner: "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
 ---
+---
+banner: "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+---
 ## UnRead
 
 [# 每个前端同学都可以拥有自己的框架，然后去完善它——Strvejs@3.1.0正式发布 # - 掘金](https://juejin.cn/post/7088327754004987940#heading-6)

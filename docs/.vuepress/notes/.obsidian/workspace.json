@@ -112,9 +112,32 @@
               "icon": "lucide-file",
               "title": "uniapp"
             }
+          },
+          {
+            "id": "8c53f8b0727fed7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workspce/Daily Record.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily Record"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,13 +231,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uniapp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of uniapp"
+              "title": "Outline"
             }
           }
         ]
@@ -327,7 +349,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -345,14 +368,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5752d76616e391ff",
+  "active": "aa85905c20e68ae3",
   "lastOpenFiles": [
-    "how-to-use-socket-in-uniapp.md",
+    "buckets/daily/2025-02-21_Friday.md",
+    "workspce/Daily Record.md",
+    "HomePage.md",
+    "剧本3.md",
     "uniapp.md",
+    "workspce/Front-end Technology.md",
+    "buckets/daily/2025-02-18_Tuesday.md",
+    "how-to-use-socket-in-uniapp.md",
     "Uniapp develop.md",
     "剧本4.md",
     "剧本2.md",
-    "剧本3.md",
     "buckets/daily/2025-02-17_Monday.md",
     "剧本1.md",
     "buckets/daily/2025-02-15_Saturday.md",
@@ -379,11 +407,6 @@
     "2025",
     "buckets/daily/2025-02-07_Friday.md",
     "buckets/daily/2025-02-05_Wednesday.md",
-    "frontend/混合开发.md",
-    "buckets/daily/2025-01-24_Friday.md",
-    "buckets/daily/2025-01-20_Monday.md",
-    "2023/Book.md",
-    "buckets/daily/2024-12-31_Tuesday.md",
-    "2023/Blog.md"
+    "frontend/混合开发.md"
   ]
 }
