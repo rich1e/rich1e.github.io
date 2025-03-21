@@ -2,12 +2,13 @@
 
 `vim-surround` 插件可以快速编辑围绕在内容两端的字符（pairs of things surrounding things），比如成对出现的括号、引号，甚至HTML/XML标签等。
 
-| 命令                       | 描述                                      |
-| -------------------------- | ----------------------------------------- |
+| 命令                         | 描述                               |
+| -------------------------- | -------------------------------- |
 | `y s <motion> <desired>`   | 添加 `desired` 环绕文本在 `<motion>` 范围 |
-| `d s <existing>`           | 删除 `<existing>` 环绕                    |
-| `c s <existing> <desired>` | 改变 `<existing>` 环绕                    |
-| `S <desired>`              | 在 `visual modes` 中环绕选中内容          |
+| `d s <existing>`           | 删除 `<existing>` 环绕               |
+| `c s <existing> <desired>` | 改变 `<existing>` 环绕               |
+| `S <desired>`              | 在 `visual modes` 中环绕选中内容         |
+|                            |                                  |
 
 
 参考

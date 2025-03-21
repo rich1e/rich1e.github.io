@@ -10,6 +10,29 @@
 -   左右分屏： `:vsp` 或  `ctrl w` + `v`
 -   分屏切换： `ctrl w` + `h` , `j` , `k` , `l`  或  `ctrl w` + `w`
 
+### 映射导航快捷键
+
+```json
+[
+  {
+    "key": "ctrl+shift+h",
+    "command": "workbench.action.navigateLeft"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "workbench.action.navigateRight"
+  },
+  {
+    "key": "ctrl+shift+k",
+    "command": "workbench.action.navigateUp"
+  },
+  {
+    "key": "ctrl+shift+j",
+    "command": "workbench.action.navigateDown"
+  },
+]
+```
+
 ## Tab 切换
 
 同一个窗口下，多个 `Tab` 页面之间的切换使用 `gt/gT`
