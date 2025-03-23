@@ -4,89 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a32a918680f2d36",
+        "id": "8878d0768f3942ce",
         "type": "tabs",
         "children": [
           {
-            "id": "aa85905c20e68ae3",
+            "id": "4ce1f46886d0834f",
             "type": "leaf",
             "state": {
               "type": "thino_view",
               "state": {},
               "icon": "Memos",
               "title": "Thino"
-            }
-          },
-          {
-            "id": "5752d76616e391ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uniapp.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uniapp"
-            }
-          },
-          {
-            "id": "8c53f8b0727fed7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workspce/Daily Record.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily Record"
-            }
-          },
-          {
-            "id": "2ea983a9def9a3cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work-records/vscode-vim-text-object.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "vscode-vim-text-object"
             }
           }
         ]
@@ -195,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5,
+    "width": 270.5,
     "collapsed": true
   },
   "right": {
@@ -320,8 +248,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aa85905c20e68ae3",
+  "active": "4ce1f46886d0834f",
   "lastOpenFiles": [
+    "剧本5.md",
+    "2023/Homebrew.md",
     "buckets/daily/2025-03-21_Friday.md",
     "buckets/daily/2025-03-19_Wednesday.md",
     "meta/Pasted image 20250319113256.png",
@@ -339,7 +269,6 @@
     "work-records/vscode-vim.md",
     "work-records/vscode-markdown.md",
     "workspce/Daily Record.md",
-    "剧本5.md",
     "buckets/daily/2025-03-13_Thursday.md",
     "uniapp.md",
     "buckets/daily/2025-03-07_Friday.md",
@@ -348,7 +277,6 @@
     "剧本4.md",
     "剧本3.md",
     "剧本2.md",
-    "buckets/daily/2025-02-21_Friday.md",
     "workspce/meta/Pasted image 20250214105800.png",
     "2025/meta/Pasted image 20250213152203.png",
     "2025/meta/Pasted image 20250213151534.png",

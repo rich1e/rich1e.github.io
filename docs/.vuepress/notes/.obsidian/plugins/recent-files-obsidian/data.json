@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "剧本5",
+      "path": "剧本5.md"
+    },
+    {
       "basename": "Mobile Development",
       "path": "workspce/Mobile Development.md"
     },
@@ -195,18 +199,11 @@
     {
       "basename": "Mac & Vim",
       "path": "2023/Mac & Vim.md"
-    },
-    {
-      "basename": "Vue3 组件库",
-      "path": "2023/Vue3 组件库.md"
-    },
-    {
-      "basename": "Javascript 函数式编程指南",
-      "path": "2023/Javascript 函数式编程指南.md"
     }
   ],
   "omittedPaths": [],
   "omittedTags": [],
+  "updateOn": "file-open",
   "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
