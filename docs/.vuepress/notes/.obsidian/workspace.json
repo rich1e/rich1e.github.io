@@ -16,8 +16,81 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "8cd8ff6f35614f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workspce/Daily Record.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily Record"
+            }
+          },
+          {
+            "id": "7eca8a5be8d35041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uniapp develop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Uniapp develop"
+            }
+          },
+          {
+            "id": "ac4021c75d6c3ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work-records/vscode-vim-navigation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "vscode-vim-navigation"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,20 +184,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "work-records/vscode-vim-navigation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of vscode-vim-navigation"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "064593a9d8021565",
@@ -248,35 +321,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4ce1f46886d0834f",
+  "active": "ac4021c75d6c3ece",
   "lastOpenFiles": [
-    "剧本5.md",
-    "2023/Homebrew.md",
-    "buckets/daily/2025-03-21_Friday.md",
-    "buckets/daily/2025-03-19_Wednesday.md",
-    "meta/Pasted image 20250319113256.png",
-    "buckets/daily/2025-03-17_Monday.md",
-    "work-records/vscode-vim-text-object.md",
-    "work-records/vscode-vim-surround.md",
-    "work-records/vscode-vim-sneak.md",
-    "work-records/vscode-vim-search.md",
-    "work-records/vscode-vim-replace.md",
-    "work-records/vscode-vim-navigation.md",
-    "work-records/vscode-vim-multicursor.md",
     "work-records/vscode-vim-indent-object.md",
     "work-records/vscode-vim-fold.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim.md",
     "work-records/vscode-markdown.md",
-    "workspce/Daily Record.md",
-    "buckets/daily/2025-03-13_Thursday.md",
-    "uniapp.md",
-    "buckets/daily/2025-03-07_Friday.md",
-    "buckets/daily/2025-03-06_Thursday.md",
-    "buckets/daily/2025-02-25_Tuesday.md",
-    "剧本4.md",
+    "work-records/javascript-async-await.md",
+    "work-records/git-remote-host-identification-has-changed.md",
+    "work-records/git-open.md",
+    "work-records/git-blame.md",
+    "work-records/command-tree.md",
+    "work-records/command-tldr.md",
+    "work-records/command-fzf.md",
+    "work-records/command-exa.md",
     "剧本3.md",
-    "剧本2.md",
+    "Uniapp develop.md",
+    "workspce/Daily Record.md",
+    "buckets/daily/2025-04-15_Tuesday.md",
+    "buckets/daily/2025-04-11_Friday.md",
+    "buckets/daily/2025-04-02_Wednesday.md",
+    "剧本5.md",
+    "buckets/daily/2025-03-28_Friday.md",
+    "buckets/daily/2025-03-27_Thursday.md",
+    "buckets/daily/2025-03-26_Wednesday.md",
+    "buckets/daily/2023-04-18_Tuesday.md",
+    "buckets/learn/git-multiple-coexist.md",
+    "buckets/learn/git-workflow.md",
+    "meta/Pasted image 20250319113256.png",
     "workspce/meta/Pasted image 20250214105800.png",
     "2025/meta/Pasted image 20250213152203.png",
     "2025/meta/Pasted image 20250213151534.png",
