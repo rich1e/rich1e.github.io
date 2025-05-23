@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "剧本3",
+      "path": "剧本3.md"
+    },
+    {
+      "basename": "2023-04-10_Monday",
+      "path": "buckets/daily/2023-04-10_Monday.md"
+    },
+    {
+      "basename": "git-blame",
+      "path": "work-records/git-blame.md"
+    },
+    {
+      "basename": "剧本5",
+      "path": "剧本5.md"
+    },
+    {
       "basename": "vscode-vim-navigation",
       "path": "work-records/vscode-vim-navigation.md"
     },
@@ -37,10 +53,6 @@
       "path": "work-records/git-open.md"
     },
     {
-      "basename": "git-blame",
-      "path": "work-records/git-blame.md"
-    },
-    {
       "basename": "command-tree",
       "path": "work-records/command-tree.md"
     },
@@ -57,20 +69,12 @@
       "path": "work-records/command-exa.md"
     },
     {
-      "basename": "剧本3",
-      "path": "剧本3.md"
-    },
-    {
       "basename": "Uniapp develop",
       "path": "Uniapp develop.md"
     },
     {
       "basename": "Daily Record",
       "path": "workspce/Daily Record.md"
-    },
-    {
-      "basename": "剧本5",
-      "path": "剧本5.md"
     },
     {
       "basename": "2023-04-18_Tuesday",
@@ -195,10 +199,6 @@
     {
       "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
       "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
-    },
-    {
-      "basename": "Homebrew",
-      "path": "2023/Homebrew.md"
     }
   ],
   "omittedPaths": [],
