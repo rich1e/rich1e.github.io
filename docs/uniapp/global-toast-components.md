@@ -38,60 +38,213 @@ permalink: /uniapp/global-toast-components
 
 ```vue
 <template>
-  <u-toast ref="uToast"></u-toast>
+  <!-- 提示弹框页面 依赖 uview2.0 ui 组件进行封装  -->
+  <u-popup
+    id="popup-box"
+    :show="t_show"
+    :closeOnClickOverlay="t_closeOnClickOverlay"
+    :overlay="false"
+    :safeAreaInsetTop="true"
+    zIndex="15000"
+    bgColor="transparent"
+    mode="top"
+    overlayStyle="z-index: 14999;"
+    @close="close"
+  >
+    <template v-if="t_type === 'confirm'">
+      <view class="modal-box">
+        <view class="modal-top">
+          <view style="flex: 1; display: flex;">
+            <image
+              style="
+                width: 20px;
+                height: 20px;
+                background-size: 20px;
+                margin-right: 6px;
+              "
+              :src="t_icon"
+              mode=""
+            />
+            <text class="modal-title">{{ t_title }}</text>
+          </view>
+          <image
+            style="
+              width: 12px;
+              height: 12px;
+              background-size: 12px;
+            "
+            src="/static/side/toast-close.svg"
+            @click="close"
+            mode=""
+          />
+        </view>
+      </view>
+    </template>
+  </u-popup>
 </template>
 
 <script>
   export default {
-    name: 'mcToast',
+    name: 'mcToast', //为了与其他组件进行区分，
+    // 属性显示
+    props: {
+      show: Boolean,
+      title: String,
+      icon: {
+        type: String,
+        default: 'failed',
+      },
+    },
     data() {
       return {
-        toastOptions: {},
+        useType: 'js', //component 和 js 两种方式
         time: null,
-        show: false
+        t_show: false,
+        t_type: 'confirm',
+        t_closeOnClickOverlay: true,
+        t_showCancel: true,
+        t_title: '',
+        t_content: '',
+        t_cancelText: 'Cancel',
+        t_confirmText: 'Ok',
+        t_icon: '',
+        // #ifdef APP-PLUS
+        eventChannel: null,
+        // #endif
+        completeFun: null, //外部的监听的完成函数，兼容 H5
       }
+    },
+    watch: {
+      show: {
+        handler(newValue, oldValue) {
+          // 这种是组件方式调用
+          setTimeout(() => {
+            // this.t_show = newValue
+            if (newValue) {
+              this.useType = 'component'
+              const conf = {
+                show: newValue,
+                title: this.title,
+                title: this.icon,
+              }
+              this.setParams(conf)
+            }
+          }, 300)
+        },
+        immediate: true,
+      },
+    },
+    created() {
+      // #ifdef APP-PLUS
+      this.eventChannel = this.getOpenerEventChannel()
+      // #endif
     },
     onLoad(options) {
       // #ifdef APP-PLUS
-      console.log('onLoad')
       try {
         const conf = JSON.parse(options.conf)
-        console.log('conf 1', conf)
-        this.toastOptions = conf
+        this.setParams(conf)
       } catch (e) {
-        console.log(e)
+        //TODO handle the exception
       }
       // #endif
     },
-    onReady() {
-      // #ifdef APP-PLUS
-      console.log('onReady 1', this);
-      this.showToast()
-      console.log('onReady2', this);
-      this.time = setTimeout(() => {
-        this.hidetoast()
-        uni.navigateBack({
-          delta: 1,
-        })
-      }, 2000)
-      // #endif
-    },
     methods: {
-      showToast() {
-        this.$refs.uToast.show(this.toastOptions)
-        this.show = true
+      /**
+       * 设置配置参数
+       * @param conf
+       */
+      setParams(conf) {
+        this.t_title = conf.title
+        this.t_show = conf.show
+        this.t_icon = `/static/side/email_${this.icon}.svg`
+
+        if (this.time) clearTimeout(this.time)
+
+        this.time = setTimeout(() => {
+          this.close()
+        }, 5000)
+
+        if (conf.complete) {
+          this.completeFun = conf.complete
+        }
       },
-      hidetoast() {
-        this.$refs.uToast.hide()
-        this.show = false;
+      /**
+       * 弹出层收起
+       */
+      close() {
+        this.hide()
+
+        // #ifdef APP-PLUS
+        if (this.useType != 'component') {
+          let _this = this
+          uni.navigateBack({
+            delta: 1,
+            success() {
+              _this.eventChannel.emit('confirm')
+            },
+          })
+        }
+        // #endif
+
+        // #ifndef APP-PLUS
+        // 执行回调
+        this.completeFun && this.completeFun()
+        // #endif
+
+        // 如果是组件调用的方式，向上级触发一下
+        if (this.useType == 'component') {
+          this.$emit('confirm', true)
+        }
+      },
+      /**
+       * 重置初始化配置
+       */
+      hide() {
+        this.t_show = false
       },
     },
   }
 </script>
 
+
 <style>
+  /* 设置页面为透明 */
   page {
     background-color: transparent !important;
+  }
+</style>
+
+<style lang="scss">
+  .modal-box {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    align-items: center;
+    align-self: center;
+
+    width: 90%;
+    margin-top: 55px;
+
+    background: #fdecec;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.08),
+      0px 12px 32px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid rgba(239, 69, 69, 0.3);
+
+    .modal-top {
+      padding: 24rpx;
+      display: flex;
+      width: 100%;
+      align-items: center;
+      flex: 1;
+
+      .modal-title {
+        font-size: 24rpx;
+        font-weight: bold;
+        margin-top: 2px;
+      }
+    }
   }
 </style>
 ```
@@ -100,24 +253,78 @@ permalink: /uniapp/global-toast-components
 然后，编写导出组件的方法 `index.js`。
 
 ```js
-const showToast = (params) => {
-  // #ifdef APP-PLUS
-  console.log('showToast app端调用')
-  uni.navigateTo({
-    url: '/components/toast?conf=' + JSON.stringify(params)
-  })
-  // #endif
+import Vue from "vue";
+// #ifdef H5
+import toast from "./toast.vue";
+// #endif
+
+const defaultOptions = {
+	type: "confirm",
+	title: "",
+	content: "",
+	cancel: null,
+	confirm: null,
+	showCancel: true,
+	show: true
 }
+
+const showToast = (params) => {
+  const _params = Object.assign({}, defaultOptions, params);
+  _params["show"] = true;
+  // #ifdef APP-PLUS
+  uni.navigateTo({
+    url: "/components/message-center/toast?conf=" + JSON.stringify(_params),
+    events: {
+      confirm: function (data) {
+        if (params.confirm) {
+          params.confirm();
+        }
+        if (params.success) {
+          params.success();
+        }
+      },
+      cancel: function (data) {
+        params.cancel && params.cancel();
+      },
+      complete: function (data) {
+        params.complete && params.complete();
+      },
+    },
+  });
+  // #endif
+
+  // #ifdef H5
+  const componentConstructor = Vue.extend(toast);
+  const componentDom = new componentConstructor();
+  componentDom.vm = componentDom.$mount();
+  // 避免重复推入
+  const lastEl = document.body.lastElementChild;
+  if (lastEl.id === "popup-box") {
+    lastEl.remove();
+    setTimeout(() => {
+      document.body.appendChild(componentDom.vm.$el);
+    });
+  }
+  setTimeout(() => {
+    document.body.appendChild(componentDom.vm.$el);
+  });
+
+  setTimeout(() => {
+    componentDom.setParams(_params);
+  }, 20);
+  // #endif
+};
 
 export default {
   install(Vue) {
     Vue.prototype.$$Toast = (params) => {
       if (!params) {
-        console.log("参数必须填写 params")
-        return
+        return;
       }
-      showToast(params)
-    }
+      params["type"] = "confirm";
+      params["show"] = true;
+      showToast(params);
+    };
   },
 }
 
