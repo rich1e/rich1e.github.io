@@ -112,6 +112,30 @@
               "icon": "lucide-file",
               "title": "2023-04-10_Monday"
             }
+          },
+          {
+            "id": "81b1141d591bb252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ]
       }
@@ -347,9 +371,16 @@
   },
   "active": "4ce1f46886d0834f",
   "lastOpenFiles": [
+    "buckets/daily/2025-06-05_Thursday.md",
+    "buckets/daily/2025-06-04_Wednesday.md",
+    "buckets/daily/2025-06-03_Tuesday.md",
+    "Untitled.md",
+    "剧本3.md",
+    "buckets/daily/2025-05-30_Friday.md",
+    "buckets/daily/2025-05-29_Thursday.md",
+    "buckets/daily/2025-05-26_Monday.md",
     "buckets/daily/2023-04-10_Monday.md",
     "work-records/git-blame.md",
-    "剧本3.md",
     "buckets/daily/2025-05-22_Thursday.md",
     "buckets/daily/2025-05-16_Friday.md",
     "buckets/daily/2025-05-15_Thursday.md",
@@ -366,13 +397,6 @@
     "work-records/git-remote-host-identification-has-changed.md",
     "work-records/git-open.md",
     "work-records/command-tree.md",
-    "work-records/command-tldr.md",
-    "work-records/command-fzf.md",
-    "work-records/command-exa.md",
-    "Uniapp develop.md",
-    "workspce/Daily Record.md",
-    "buckets/daily/2025-04-15_Tuesday.md",
-    "buckets/daily/2025-04-11_Friday.md",
     "meta/Pasted image 20250319113256.png",
     "workspce/meta/Pasted image 20250214105800.png"
   ]

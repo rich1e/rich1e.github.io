@@ -5,6 +5,10 @@
       "path": "剧本3.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "2023-04-10_Monday",
       "path": "buckets/daily/2023-04-10_Monday.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mac Update",
       "path": "2023/Mac Update.md"
-    },
-    {
-      "basename": "前端开发调试新姿势 - Windows + WSL + VSCode",
-      "path": "frontend/前端开发调试新姿势 - Windows + WSL + VSCode.md"
     }
   ],
   "omittedPaths": [],
