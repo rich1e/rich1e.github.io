@@ -18,36 +18,12 @@
             }
           },
           {
-            "id": "8cd8ff6f35614f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workspce/Daily Record.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily Record"
-            }
-          },
-          {
             "id": "7eca8a5be8d35041",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniapp develop.md",
+                "file": "uniapp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,79 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Uniapp develop"
-            }
-          },
-          {
-            "id": "ac4021c75d6c3ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work-records/vscode-vim-navigation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "vscode-vim-navigation"
-            }
-          },
-          {
-            "id": "f50e8c45c3ca314d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "buckets/daily/2023-04-10_Monday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2023-04-10_Monday"
-            }
-          },
-          {
-            "id": "81b1141d591bb252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "uniapp"
             }
           }
         ]
@@ -201,8 +105,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8607dfc46dce05dc",
@@ -371,15 +274,21 @@
   },
   "active": "4ce1f46886d0834f",
   "lastOpenFiles": [
+    "uniapp.md",
+    "Uniapp develop.md",
+    "剧本5.md",
+    "workspce/Daily Record.md",
+    "flowchart.md",
+    "buckets/daily/2023-04-10_Monday.md",
+    "work-records/vscode-vim-navigation.md",
+    "buckets/daily/2025-06-09_Monday.md",
     "buckets/daily/2025-06-05_Thursday.md",
     "buckets/daily/2025-06-04_Wednesday.md",
     "buckets/daily/2025-06-03_Tuesday.md",
-    "Untitled.md",
     "剧本3.md",
     "buckets/daily/2025-05-30_Friday.md",
     "buckets/daily/2025-05-29_Thursday.md",
     "buckets/daily/2025-05-26_Monday.md",
-    "buckets/daily/2023-04-10_Monday.md",
     "work-records/git-blame.md",
     "buckets/daily/2025-05-22_Thursday.md",
     "buckets/daily/2025-05-16_Friday.md",
@@ -387,16 +296,10 @@
     "buckets/daily/2025-05-08_Thursday.md",
     "buckets/daily/2025-04-28_Monday.md",
     "buckets/daily/2025-04-25_Friday.md",
-    "work-records/vscode-vim-navigation.md",
     "work-records/vscode-vim-indent-object.md",
     "work-records/vscode-vim-fold.md",
     "work-records/vscode-vim-easymotion.md",
     "work-records/vscode-vim.md",
-    "work-records/vscode-markdown.md",
-    "work-records/javascript-async-await.md",
-    "work-records/git-remote-host-identification-has-changed.md",
-    "work-records/git-open.md",
-    "work-records/command-tree.md",
     "meta/Pasted image 20250319113256.png",
     "workspce/meta/Pasted image 20250214105800.png"
   ]

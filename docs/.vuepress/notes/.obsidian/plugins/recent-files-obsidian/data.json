@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "剧本3",
-      "path": "剧本3.md"
+      "basename": "剧本5",
+      "path": "剧本5.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "uniapp",
+      "path": "uniapp.md"
+    },
+    {
+      "basename": "Uniapp develop",
+      "path": "Uniapp develop.md"
+    },
+    {
+      "basename": "Daily Record",
+      "path": "workspce/Daily Record.md"
+    },
+    {
+      "basename": "flowchart",
+      "path": "flowchart.md"
     },
     {
       "basename": "2023-04-10_Monday",
       "path": "buckets/daily/2023-04-10_Monday.md"
     },
     {
-      "basename": "git-blame",
-      "path": "work-records/git-blame.md"
-    },
-    {
-      "basename": "剧本5",
-      "path": "剧本5.md"
-    },
-    {
       "basename": "vscode-vim-navigation",
       "path": "work-records/vscode-vim-navigation.md"
+    },
+    {
+      "basename": "剧本3",
+      "path": "剧本3.md"
+    },
+    {
+      "basename": "git-blame",
+      "path": "work-records/git-blame.md"
     },
     {
       "basename": "vscode-vim-indent-object",
@@ -71,14 +83,6 @@
     {
       "basename": "command-exa",
       "path": "work-records/command-exa.md"
-    },
-    {
-      "basename": "Uniapp develop",
-      "path": "Uniapp develop.md"
-    },
-    {
-      "basename": "Daily Record",
-      "path": "workspce/Daily Record.md"
     },
     {
       "basename": "2023-04-18_Tuesday",
@@ -195,10 +199,6 @@
     {
       "basename": "Electron：WebSwapCGLLayer warning",
       "path": "2023/Electron：WebSwapCGLLayer warning.md"
-    },
-    {
-      "basename": "Mac Update",
-      "path": "2023/Mac Update.md"
     }
   ],
   "omittedPaths": [],
