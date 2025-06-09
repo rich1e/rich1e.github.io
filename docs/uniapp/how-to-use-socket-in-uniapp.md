@@ -270,19 +270,16 @@ class WSocket {
     return params.substring(0, params.length - 1)
   }
 
+  getBackEndUrl() {
+    return getApp().globalData.ncsUrl && getApp().globalData.ncsUrl.replace(
+      /https:\/\/([^/]+)\/api\/ncs_msg/g,
+      'wss://$1'
+    )
+  }
 
-  /**
-   * 将对象转换成 URL 拼接参数
-   * @param {*} obj
-   * @param {*} requestStr
-   * @returns
-   */
-  initSocket(token) {
-    if (!token)
-      return console.error('Socket init failed, token is required !!!')
-
+  getSocketUrl(token) {
     const params = {
-      backendUrl: WS_HOST,
+      backEndUrl: this.getBackEndUrl(),
       path: '/socket.io/',
       query: {
         transport: 'websocket',
@@ -291,13 +288,23 @@ class WSocket {
         EIO: '4',
       },
     }
-
     const query = this.obj2Params(params.query)
-    const wsUrl = `${params.backendUrl}${params.path}${query}`
+    return `${params.backEndUrl}${params.path}${query}`
+  }
+
+  getSocketTask() {
+    return this.socketTask
+  }
+
+  initSocket(token) {
+    if (!token)
+      return console.error('Socket init failed, token is required !!!')
+
+    const socketUrl = this.getSocketUrl(token)
 
     // 创建 WebSocket 连接
     this.socketTask = uni.connectSocket({
-      url: wsUrl,
+      url: socketUrl,
       complete: () => {},
     })
 
@@ -322,29 +329,17 @@ class WSocket {
 
     // 监听 websocket 错误
     this.socketTask.onError((err) => {
-      console.error(
-        '🚀 ~ WSocket ~ this.socketTask.onError ~ websocket 错误：',
-        err
-      )
       // 关闭并重连
       this.socketTask.close()
     })
 
     // 监听 WebSocket 连接关闭事件
     this.socketTask.onClose((res) => {
-      console.warn(
-        '🚀 ~ WSocket ~ this.socketTask.onClose ~ 连接关闭事件，',
-        res
-      )
       // 连接错误，发起重连接
       if (!this.normalCloseFlag) {
         this.onDisconnected(res)
       }
     })
-  }
-
-  getSocketTask() {
-    return this.socketTask
   }
 
   // 监听消息
@@ -353,10 +348,9 @@ class WSocket {
     this.socketTask.onMessage((res) => {
       //收到消息
       if (res.data) {
-        console.log('🚀 ~ 收到服务器内容：', res.data)
         this.options.onMessage && this.options.onMessage(res)
       } else {
-        console.warn('🚀 ~ 未监听到消息，原因：', JSON.stringify(res))
+        console.warn('🚀 ~ Not listening to the message, reason:', JSON.stringify(res))
       }
     })
   }
@@ -364,11 +358,8 @@ class WSocket {
   // 断开连接
   onDisconnected(res) {
     this.status = 'notConnected'
-    console.warn('🚀 ~ websocket 断开连接，原因：', JSON.stringify(res))
     // 关闭心跳
     clearInterval(this.heartTimer)
-    // 全局 Toast 提示，防止用户继续发送
-    // uni.showLoading({ title: '消息收取中…' })
     // 尝试重新连接
     this.onReconnect()
   }
@@ -378,19 +369,19 @@ class WSocket {
     clearTimeout(this.reconnectTimer)
     if (this.reconnectTime < this.maxReconnectMaxTime) {
       this.reconnectTimer = setTimeout(() => {
-        console.warn(`🚀 ~ 第【${this.reconnectTime}】次重新连接中……`)
+        console.warn(`🚀 ~ Reconnect for the 【${this.reconnectTime} 】 time`)
         // 重新连接
         this.initSocket(getApp().globalData.token)
         this.reconnectTime++
       }, this.interval)
     } else {
       uni.showModal({
-        title: '提示',
-        content: 'socket 连接失败 ~',
+        title: 'tips',
+        content: 'socket Connection failed ~',
         showCancel: false,
-        confirmText: '我知道了',
+        confirmText: 'I got it.',
         success: () => {
-          // somothing
+          // something
         },
       })
     }
@@ -402,10 +393,10 @@ class WSocket {
       this.socketTask.send({
         data: '3',
         success() {
-          console.log('\n🚀 ~ 心跳发送成功！')
+          console.log('\n🚀 ~ Heartbeat Sent Successfully!')
         },
         fail: (err) => {
-          console.error('🚀 ~心跳发送失败', err)
+          console.error('🚀 ~ Heartbeat Send Failure', err)
         },
       })
     }, this.interval)
@@ -416,6 +407,24 @@ class WSocket {
 export const createSocket = (options) => new WSocket(options)
 ```
 :::
+
+调用方式
+
+```js
+const ws = createNCSocket({
+  token,
+  onMessage: (data) => {
+    // some thing
+  }
+})
+
+// 获取 ws 实例
+ws.getSocketTask()
+// 注册监听事件
+ws.onMessage()
+// 关闭 ws
+ws.close()
+```
 
 ## Ref
 
