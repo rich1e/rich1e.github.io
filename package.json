@@ -20,6 +20,5 @@
     "vuepress": "^2.0.0-beta.27",
     "vuepress-plugin-typescript": "^0.3.1"
   },
-  "dependencies": {},
-  "packageManager": "pnpm@8.6.1+sha1.435b3c83c7de5c455ad80fd63ee7ecf3b67b949b"
+  "dependencies": {}
 }
