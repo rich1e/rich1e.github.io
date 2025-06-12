@@ -155,6 +155,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
             text: "Uniapp",
             link: "/uniapp/",
           },
+          {
+            text: "Git",
+            link: "/git/",
+          },
           "/workspace/README.md",
         ],
       },

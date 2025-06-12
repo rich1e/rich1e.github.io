@@ -2,7 +2,7 @@
  * @Author: rich1e
  * @Date: 2022-09-27 11:42:37
  * @LastEditors: rich1e
- * @LastEditTime : 2025-02-17 16:56:30
+ * @LastEditTime : 2025-06-12 15:53:43
  */
 
 // import { SidebarConfig } from "@vuepress/theme-default";
@@ -75,7 +75,16 @@ export default {
       children: [
         "/uniapp/uniapp-disable-pagescroll-and-bance.md",
         "/uniapp/global-toast-components.md",
-        "/uniapp/how-to-use-socket-in-uniapp.md"
+        "/uniapp/how-to-use-socket-in-uniapp.md",
+        "/uniapp/uniapp-how-to-debug-a-web-project.md"
+      ]
+    }
+  ],
+  "/git/": [
+    {
+      text: "Git",
+      children: [
+        "/git/git-am-and-git-apply.md",
       ]
     }
   ],

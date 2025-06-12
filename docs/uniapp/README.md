@@ -10,3 +10,7 @@
 ## Socket
 
 - [Uniapp 中如何使用 Socket](how-to-use-socket-in-uniapp.md)
+
+## Tools
+
+- [Uniapp: Web 项目如何 debug？](uniapp-how-to-debug-a-web-project.md)
