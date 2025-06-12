@@ -9,6 +9,10 @@
       "path": "uniapp.md"
     },
     {
+      "basename": "Pasted image 20250612164237",
+      "path": "meta/Pasted image 20250612164237.png"
+    },
+    {
       "basename": "Uniapp develop",
       "path": "Uniapp develop.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "IPATool 使用",
       "path": "2024/IPATool 使用.md"
-    },
-    {
-      "basename": "Electron：WebSwapCGLLayer warning",
-      "path": "2023/Electron：WebSwapCGLLayer warning.md"
     }
   ],
   "omittedPaths": [],

@@ -16,30 +16,6 @@
               "icon": "Memos",
               "title": "Thino"
             }
-          },
-          {
-            "id": "7eca8a5be8d35041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uniapp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uniapp"
-            }
           }
         ]
       }
@@ -275,8 +251,14 @@
   "active": "4ce1f46886d0834f",
   "lastOpenFiles": [
     "uniapp.md",
-    "Uniapp develop.md",
+    "meta/Pasted image 20250612170713.png",
+    "meta/Pasted image 20250612170620.png",
+    "meta/Pasted image 20250612164825.png",
+    "meta/Pasted image 20250612164237.png",
+    "meta/Pasted image 20250612163450.png",
     "剧本5.md",
+    "Uniapp develop.md",
+    "buckets/daily/2025-06-10_Tuesday.md",
     "workspce/Daily Record.md",
     "flowchart.md",
     "buckets/daily/2023-04-10_Monday.md",
@@ -298,8 +280,6 @@
     "buckets/daily/2025-04-25_Friday.md",
     "work-records/vscode-vim-indent-object.md",
     "work-records/vscode-vim-fold.md",
-    "work-records/vscode-vim-easymotion.md",
-    "work-records/vscode-vim.md",
     "meta/Pasted image 20250319113256.png",
     "workspce/meta/Pasted image 20250214105800.png"
   ]
