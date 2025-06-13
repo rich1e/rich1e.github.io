@@ -24,7 +24,7 @@ permalink: /workspace/your-blog-link
 
 [link name](https://link-address)。
 
-![image-name](@images/workspace/image-20211209004545089.png)
+![image-name](@images/workspace/build-a-blog/image-20211209004545089.png)
 
 脚注 [^1] [^2]
 
