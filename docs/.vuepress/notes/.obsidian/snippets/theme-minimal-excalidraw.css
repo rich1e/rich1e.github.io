@@ -1,5 +1,0 @@
-// https://github.com/kepano/obsidian-minimal/issues/427
-// https://forum-zh.obsidian.md/t/topic/11047
-// 解决主题样式不兼容的情况
-body .excalidraw, body .excalidraw.theme--dark { --island-bg-color: #F5F5F5; }
-
