@@ -1,0 +1,1 @@
+const e={key:"v-0a8cf631",path:"/note/Server-Sent-Events.html",title:"Server-Sent Events",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"note/Server-Sent-Events.md",git:{updatedTime:1725009719e3}};export{e as data};

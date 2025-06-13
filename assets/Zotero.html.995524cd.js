@@ -1,0 +1,1 @@
+const e={key:"v-aabff05c",path:"/note/Zotero.html",title:"Zetero",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Plugins",slug:"plugins",children:[]},{level:2,title:"VS Code",slug:"vs-code",children:[]}],filePathRelative:"note/Zotero.md",git:{updatedTime:1725009719e3}};export{e as data};
