@@ -19,12 +19,18 @@ permalink: /workspace/your-blog-link
 [[toc]]
 
 ## Title Name
+
 ### Title Name
-### Title Name
+
+#### Title Name
+
+*Special text*
+
+**Important and prominent text**
 
 [link name](https://link-address)。
 
-![image-name](@images/workspace/build-a-blog/image-20211209004545089.png)
+![image-name](@images/workspace/blog-name/image.png)
 
 脚注 [^1] [^2]
 
