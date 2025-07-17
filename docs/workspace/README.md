@@ -7,7 +7,8 @@
  * @LastEditTime: 2022-11-14 09:19:07
 -->
 
-- [如何抓取socket流量包](/workspace/如何抓取socket流量包.md)
+- [Chrome：这些扩展程序不再受支持，因此已停用](/workspace/Chrome：这些扩展程序不再受支持，因此已停用.md)
+- [如何抓取 socket 流量包](/workspace/如何抓取socket流量包.md)
 - [Windows 中配置 Caps Lock](/workspace/Windows中配置CapsLock.md)
 - [PowerShell 推荐插件](/workspace/PowerShell推荐插件.md)
 - [Beyond Compare 配置](/workspace/Beyond_Compare配置.md)
