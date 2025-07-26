@@ -1,0 +1,1 @@
+const e={key:"v-5e08141a",path:"/workspace/",title:"Workspace",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"workspace/README.md",git:{updatedTime:1752733926e3}};export{e as data};

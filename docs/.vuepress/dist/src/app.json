@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "name": "SideStore",
+      "address": "https://ani.sidestore.io"
+    },
+    {
+      "name": "rich1e's App Store",
+      "address": "https://anisette-v3-server-f5zy.onrender.com"
+    }
+  ],
+  "cache": "https://servers.sidestore.io/servers.json.hash"
+}

@@ -1,2 +1,0 @@
-import{d as e}from"./app.32987bf9.js";import{_ as r}from"./plugin-vue_export-helper.5a098b48.js";const a={},n=e(`<h1 id="rollup" tabindex="-1"><a class="header-anchor" href="#rollup" aria-hidden="true">#</a> rollup</h1><div class="language-markdown ext-md line-numbers-mode"><pre class="language-markdown"><code>https://www.ruanyifeng.com/blog/2022/05/rollup.html
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div>`,2);function l(s,o){return n}var c=r(a,[["render",l]]);export{c as default};
