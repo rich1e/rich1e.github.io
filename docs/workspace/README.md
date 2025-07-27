@@ -7,6 +7,7 @@
  * @LastEditTime: 2022-11-14 09:19:07
 -->
 
+- [SideStore 配置指北](/workspace/SideStore配置指北.md)
 - [Chrome：这些扩展程序不再受支持，因此已停用](/workspace/Chrome：这些扩展程序不再受支持，因此已停用.md)
 - [如何抓取 socket 流量包](/workspace/如何抓取socket流量包.md)
 - [Windows 中配置 Caps Lock](/workspace/Windows中配置CapsLock.md)
