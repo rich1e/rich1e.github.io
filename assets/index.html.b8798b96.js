@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Rich1e Kung",lang:"en-US",frontmatter:{home:!0,heroText:null,tagline:null,title:"Rich1e Kung",date:"2021-11-30T00:00:00.000Z",footer:"MIT Licensed | Copyright \xA9 2023-present, Rich1e Kung"},excerpt:"",headers:[],filePathRelative:"README.md",git:{updatedTime:1725696787e3}};export{e as data};

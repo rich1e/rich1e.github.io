@@ -1,0 +1,1 @@
+const e={key:"v-9b7bee68",path:"/note/Book.html",title:"Book",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Github",slug:"github",children:[]},{level:2,title:"Calibre",slug:"calibre",children:[]},{level:2,title:"chm \u9605\u8BFB\u5668",slug:"chm-\u9605\u8BFB\u5668",children:[]}],filePathRelative:"note/Book.md",git:{updatedTime:1725009719e3}};export{e as data};

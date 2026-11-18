@@ -1,0 +1,1 @@
+const t={key:"v-672d6e16",path:"/javascript-note/Object.prototype.__proto__.html",title:"JS \u539F\u578B / \u539F\u578B\u94FE",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"javascript-note/Object.prototype.__proto__.md",git:{updatedTime:1725009719e3}};export{t as data};

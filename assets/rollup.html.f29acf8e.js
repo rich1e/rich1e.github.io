@@ -1,0 +1,1 @@
+const t={key:"v-757d165d",path:"/note/rollup.html",title:"rollup",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"note/rollup.md",git:{updatedTime:1725009719e3}};export{t as data};

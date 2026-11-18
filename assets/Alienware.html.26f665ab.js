@@ -1,0 +1,1 @@
+const e={key:"v-1ce199d9",path:"/note/Alienware.html",title:"Alienware",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"eGPU",slug:"egpu",children:[]}],filePathRelative:"note/Alienware.md",git:{updatedTime:1725009719e3}};export{e as data};

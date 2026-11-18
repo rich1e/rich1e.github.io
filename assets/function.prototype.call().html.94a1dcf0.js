@@ -1,0 +1,1 @@
+const t={key:"v-f354ea88",path:"/handwritten-code/function.prototype.call().html",title:"function.prototype.call()",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"handwritten-code/function.prototype.call().md",git:{updatedTime:1725009719e3}};export{t as data};
