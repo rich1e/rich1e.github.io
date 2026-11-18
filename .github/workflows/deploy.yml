@@ -52,8 +52,9 @@ jobs:
           target_branch: gh-pages
           # 部署目录为 VuePress 的默认输出目录
           build_dir: docs/.vuepress/dist
-          # 自定义域名
-          fqdn: rich1e.xyz
+          # 自定义域名 rich1e.xyz 已过期（2026-11-18），改用 GitHub Pages 默认域名 rich1e.github.io
+          # 若将来重新绑定域名，恢复下面这一行
+          # fqdn: rich1e.xyz
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
